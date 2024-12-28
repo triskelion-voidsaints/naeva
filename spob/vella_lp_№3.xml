@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Vella LP №3">
+ <pos x="0.000000" y="0.000000"/>
+ <marker>spobmarker_rhombus</marker>
+ <GFX>
+  <space>Auroran Listening Post side.webp</space>
+  <exterior>Auroran LP.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Vella</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>1</class>
+  <population>50</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>The warriors at this early-warning station do not see a great deal of action, except for the occasional Wild Geese scouting party. This posting is usually given to warriors who have served the Vella House long and honorably, as a rest between being given more demanding positions. Those who serve here spend large portions of their lives training with and against each other, forever honing their fighting skills.</description>
+ </general>
+</spob>

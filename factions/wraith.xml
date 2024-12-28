@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faction name="Wraith">
+ <ai>independent</ai>
+ <static />
+ <known />
+ <logo>polaris</logo>
+ <player>3</player>
+ <description>Wraith tribes</description>
+ <colour r="0.5647" g="0.5098" b="0.8078" />
+ <spawn>testers</spawn>
+ <standing>static</standing>
+ <allies>
+ </allies>
+ <enemies>
+ </enemies>
+</faction>

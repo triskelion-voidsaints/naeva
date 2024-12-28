@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<decorator>
+ <image>primus.webp</image>
+ <x>-166.667500</x>
+ <y>318.724895</y>
+ <detection_radius>10</detection_radius>
+</decorator>

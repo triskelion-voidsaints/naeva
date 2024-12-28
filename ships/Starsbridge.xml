@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ship name="Starsbridge">
+ <points>20</points>
+ <base_type>Starsbridge</base_type>
+ <gfx sx="9" sy="8">Starsbridge</gfx>
+ <sound>engine</sound>
+ <class>Yacht</class>
+ <price>120000</price>
+ <time_mod>1</time_mod>
+ <fabricator>Aerolith Manufactory</fabricator>
+ <description>A new design in a Federation where ancient designs are the rule.</description>
+ <characteristics>
+  <crew>2</crew>
+  <mass>98</mass>
+  <fuel_consumption>100</fuel_consumption>
+  <cargo>30</cargo>
+ </characteristics>
+ <health>
+  <armour>25</armour>
+  <armour_regen>0</armour_regen>
+ </health>
+ <slots>
+  <weapon size="small" x="7" y="0" h="1" />
+  <weapon size="small" x="-3" y="0" h="2" />
+  <utility size="small" />
+  <utility size="small" />
+  <structure size="small" />
+  <structure size="small" />
+ </slots>
+ <stats>
+  <speed>400</speed>
+  <accel>500</accel>
+  <turn>160</turn>
+  <armour>150</armour>
+  <shield>300</shield>
+  <energy>100</energy>
+  <energy_regen>10</energy_regen>
+  <speed_mod>-10</speed_mod>
+  <turn_mod>-10</turn_mod>
+  <armour_mod>10</armour_mod>
+  <cargo_inertia>-20</cargo_inertia>
+  <ew_hide>-10</ew_hide>
+  <fuel>10000</fuel>
+ </stats>
+</ship>

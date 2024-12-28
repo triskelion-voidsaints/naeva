@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Heraan Prime">
+ <pos x="-704.253054" y="489.375033"/>
+ <GFX>
+  <space>Class M Terraformed cities.webp</space>
+  <exterior>Heraan.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Heraan</faction>
+  <base>400.000000</base>
+  <bonus>200.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>V</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>Heraan is the most heavily populated world in Known Space, with some 220 billion inhabitants. This includes the largest concentration of warriors in Heraan space, because it is just one jump away from the border of Heraan space in four different directions. The warriors posted here are ready to hyper out at a moment's notice to help with any border conflicts as necessary, but they are also ready to defend their homeworld if the borders of Heraan space crumble. The leaders of the Heraan House make their homes here, and oversee not just the military action, but also the management of food resources for the enormous population of this world.</description>
+  <bar>Surprisingly in this bar, the Heraan House warriors, as they drink their non-alcoholic drinks, seem to give way to members of the working and merchant classes as a matter of course.</bar>
+ </general>
+</spob>

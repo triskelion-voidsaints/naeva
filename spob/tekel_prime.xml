@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Tekel Prime">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>Dark World cities.webp</space>
+  <exterior>Tekel.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Tekel</faction>
+  <base>400.000000</base>
+  <bonus>200.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>Q</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <commodities/>
+  <description>This planet has by far the highest population of all planets in Tekel space. With a population of slightly more than 136 billion, it is terribly overpopulated. Only through the careful management of the Tekel family can such a population be maintained. Even so, the amount of pollution is horrendous, and there is little that can be done about it after the last millennium of settlement. Also located on this planet is the head of Tekel House and his ruling council.</description>
+  <bar>This bar is filled with warriors lording it over the people 'lucky' enough to serve them. The workers here are treated poorly and are mocked, derided and sent on spurious errands by the warriors. The jeering and the barbs are accepted with a dejected impassivity.</bar>
+ </general>
+</spob>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Aether">
+ <general>
+  <radius>3000.000000</radius>
+  <spacedust>400</spacedust>
+  <interference>0.000000</interference>
+ </general>
+ <pos x="217.206790" y="-127.205505"/>
+ <spobs/>
+ <jumps>
+  <jump target="Centauri">
+   <autopos/>
+   <hidden/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Tau Ceti">
+   <autopos/>
+   <hidden/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Wolf">
+   <autopos/>
+   <hidden/>
+   <hide>1.000000</hide>
+  </jump>
+ </jumps>
+</ssys>

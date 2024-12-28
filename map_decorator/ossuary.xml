@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<decorator>
+ <image>ossuary.webp</image>
+ <x>507.209044</x>
+ <y>710.585519</y>
+ <detection_radius>10</detection_radius>
+</decorator>

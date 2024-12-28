@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faction name="Roughnecks">
+ <ai>independent</ai>
+ <static />
+ <known />
+ <player>3</player>
+ <description></description>
+ <colour r="0.2705" g="0.37647" b="0.6196" />
+ <spawn>testers</spawn>
+ <standing>static</standing>
+ <allies>
+ </allies>
+ <enemies>
+ </enemies>
+ <lane_length_per_presence>400</lane_length_per_presence>
+ <lane_base_cost>50</lane_base_cost>
+</faction>

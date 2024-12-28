@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Alertness">
+ <pos x="546.936717" y="211.550994"/>
+ <GFX>
+  <space>Auroran Station side.webp</space>
+  <exterior>Auroran Single.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Heraan</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>D</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <outfits/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</spob>

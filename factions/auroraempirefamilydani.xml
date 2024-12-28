@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faction name="Family Dani">
+ <ai>independent</ai>
+ <static />
+ <logo>dani</logo>
+ <known />
+ <player>3</player>
+ <description>House Dani</description>
+ <colour r="0.008" g="0.306" b="0.776" />
+ <spawn>testers</spawn>
+ <standing>static</standing>
+ <allies>
+ </allies>
+ <enemies>
+  <enemy>Federation</enemy>
+ </enemies>
+ <lane_length_per_presence>400</lane_length_per_presence>
+ <lane_base_cost>50</lane_base_cost>
+</faction>

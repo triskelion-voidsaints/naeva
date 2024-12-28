@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="McMurdo">
+ <general>
+  <radius>6000.000000</radius>
+  <spacedust>400</spacedust>
+  <interference>0.000000</interference>
+  <nolanes/>
+ </general>
+ <pos x="-382.394548" y="-195.491637"/>
+ <spobs>
+  <spob>Pan</spob>
+ </spobs>
+ <jumps>
+  <jump target="HJG-1034">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Hannaford">
+   <pos x="3034.240430" y="5123.153262"/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Iris">
+   <pos x="-3026.204924" y="-5063.313498"/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Obatta">
+   <pos x="5980.510039" y="46.685213"/>
+   <hide>1.000000</hide>
+  </jump>
+ </jumps>
+</ssys>

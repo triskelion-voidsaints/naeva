@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="P'ar Veraniso">
+ <pos x="-2760.598339" y="2487.518052"/>
+ <GFX>
+  <space>Class M Frosty 315.webp</space>
+  <exterior>P'ar Veraniso.webp</exterior>
+ </GFX>
+ <general>
+  <class>M</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+  </services>
+  <description>P'ar Veraniso is a chilly terrestrial planet that has been left untouched by the Polaris.</description>
+ </general>
+</spob>

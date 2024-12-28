@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faction name="Nil'kemorya">
+ <ai>independent</ai>
+ <static />
+ <known />
+ <player>3</player>
+ <description>Warrior caste</description>
+ <logo>nilkemorya</logo>
+ <colour r="0.5" g="0.5" b="0.5" />
+ <spawn>testers</spawn>
+ <standing>static</standing>
+ <allies>
+ </allies>
+ <enemies>
+ </enemies>
+ <lane_length_per_presence>400</lane_length_per_presence>
+ <lane_base_cost>50</lane_base_cost>
+</faction>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faction name="Polaris">
+ <ai>independent</ai>
+ <static />
+ <known />
+ <logo>polaris</logo>
+ <player>3</player>
+ <description>Polaris Cooperative</description>
+ <colour r="0.475" g="0.20" b="0.882" />
+ <spawn>testers</spawn>
+ <standing>static</standing>
+ <allies>
+ </allies>
+ <enemies>
+ </enemies>
+ <lane_length_per_presence>400</lane_length_per_presence>
+ <lane_base_cost>50</lane_base_cost>
+</faction>

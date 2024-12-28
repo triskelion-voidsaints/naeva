@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="UHP-0474">
+ <pos x="-1213.580339" y="916.376991"/>
+ <GFX>
+  <space>Biohazardous 315.webp</space>
+  <exterior>UHP-0474.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>50.000000</base>
+  <bonus>25.000000</bonus>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>O</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+ </general>
+</spob>

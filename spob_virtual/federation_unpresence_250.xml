@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Unpresence 250 (Federation)">
+ <presence>
+  <faction>Federation</faction>
+  <bonus>-250</bonus>
+  <range>0</range>
+ </presence>
+</spob>
