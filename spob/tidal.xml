@@ -27,7 +27,7 @@
   <bar>This bar is filled with armchair intellectuals debating Federation policy and the alleged actions of the so-called Rebellion. You listen with a little interest, but you soon realize that very few of the patrons have any real understanding of the Federation outside their own system.</bar>
  </general>
  <tech>
-  <item>FoodTech</item>
+  <item price_mod="2">FoodTech</item>
  </tech>
  <tags>
   <tag>manifestera</tag>
