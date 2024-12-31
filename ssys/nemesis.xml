@@ -8,6 +8,14 @@
  <pos x="6.260304" y="275.242435"/>
  <spobs/>
  <jumps>
+  <jump target="Codehaven">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Eeniar">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
   <jump target="Fomalhaut">
    <autopos/>
    <hide>1.000000</hide>

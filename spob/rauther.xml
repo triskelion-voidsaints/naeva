@@ -30,4 +30,9 @@
  <tags>
   <tag>manifestera</tag>
  </tags>
+ <tech>
+  <item price_mod="0.57">Equipment</item>
+  <item price_mod="1.5">Metals</item>
+  <item price_mod="1.5">Industrial</item>
+ </tech>
 </spob>

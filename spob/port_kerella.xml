@@ -31,4 +31,9 @@ This station was the former wartime headquarters of the Manifest navy as it pros
 This mercenary unit has been stationed on Port Kerella for many years now, acting in a border guard role that protects the heart of the Federation. They have even earned valour in the largest fleet engagement of recent history. An Auroran armada engaged a Federation task-force led by then-Commander Raczak, which was nearly wiped out but for the timely intervention of a small group of Wild Geese, who all but single-handedly neutralized the Auroran threat, but at massive cost to themselves; of the twelve ships committed to the battle, only two managed to limp back to Port Kerella. The commander of the Wild Geese was quoted as saying "Today, we saved Raczak's reputation, and truly does he owe all future glories to us." This has been a long-standing bone of contention between the group and the Admiral, which has almost led to open conflict.</description>
   <bar>This bar is filled with the lilting songs from far off Ireland, and the black gold flows freely. You quickly find yourself being caught up in a world of drink, song, and dance.</bar>
  </general>
+ <tech>
+  <item price_mod="0.5">Metals</item>
+  <item price_mod="1.5">Foodstuffs</item>
+  <item price_mod="1.38">Medical Supplies</item>
+ </tech>
 </spob>

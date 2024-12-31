@@ -30,4 +30,8 @@
  <tags>
   <tag>frontierera</tag>
  </tags>
+ <tech>
+  <item price_mod="0.5">Foodstuffs</item>
+  <item price_mod="1.38">Medical Supplies</item>
+ </tech>
 </spob>

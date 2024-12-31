@@ -10,10 +10,6 @@
   <spob>Helen</spob>
  </spobs>
  <jumps>
-  <jump target="Codehaven">
-   <pos x="-3595.662350" y="4746.044239"/>
-   <hide>1.000000</hide>
-  </jump>
   <jump target="Kania">
    <autopos/>
    <hide>0.000000</hide>
@@ -22,9 +18,9 @@
    <autopos/>
    <hide>0.000000</hide>
   </jump>
-  <jump target="Tichel">
+  <jump target="Nemesis">
    <autopos/>
-   <hide>0.000000</hide>
+   <hide>1.000000</hide>
   </jump>
  </jumps>
 </ssys>

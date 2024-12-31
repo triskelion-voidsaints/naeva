@@ -19,10 +19,6 @@
    <autopos/>
    <hide>1.000000</hide>
   </jump>
-  <jump target="OG-Primus">
-   <autopos/>
-   <hide>1.000000</hide>
-  </jump>
   <jump target="Quandary">
    <autopos/>
    <hide>1.000000</hide>

@@ -16,6 +16,14 @@
    <autopos/>
    <hide>1.000000</hide>
   </jump>
+  <jump target="OG-Primus">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Rautherion">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
   <jump target="Tenetria">
    <autopos/>
    <hide>1.000000</hide>

@@ -11,12 +11,12 @@
   <spob>HG-Codehaven</spob>
  </spobs>
  <jumps>
-  <jump target="Eeniar">
-   <pos x="-5644.955623" y="-1997.945157"/>
-   <hide>1.000000</hide>
-  </jump>
   <jump target="NGC-1317">
    <pos x="4383.498842" y="4042.122763"/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Nemesis">
+   <autopos/>
    <hide>1.000000</hide>
   </jump>
   <jump target="Scheros">
