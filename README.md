@@ -10,7 +10,7 @@
 Nova's map has been reworked to focus on trade loops to encourage more varied travel and profit opportunities resulting from exploration.
 1) Worlds will have a good they produce and a good they demand, this will be obvious
 1) There will be no in-system trades
-1) Systems will be at least two jumps from a profitable trade
+1) A profitable trade will be at least two systems away from your current world
 1) A system that recieves a profitable trade from a world will not have a profitable trade returning to that world
 
 ## Installing
