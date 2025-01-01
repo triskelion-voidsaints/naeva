@@ -11,6 +11,8 @@
   <hide>1.000000</hide>
   <services>
    <land/>
+   <nomissionspawn/>
+   <uninhabited/>
   </services>
   <description>From Chronos' watery surface you are afforded a fine view of the rising planet of Greenwich, and Chronos' sister moon Hourglass. Chronos is, as yet, uninhabited due to its thin atmosphere (which requires a breathmask for comfort). More than a few traders come here to refresh their tired spirits.</description>
  </general>
