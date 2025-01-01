@@ -18,6 +18,7 @@
   <services>
    <land/>
    <refuel/>
+   <commodity/>
    <bar/>
   </services>
   <commodities/>

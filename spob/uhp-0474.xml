@@ -12,13 +12,15 @@
   <range>0</range>
  </presence>
  <general>
-  <class>O</class>
+  <class>Z</class>
   <population>0</population>
   <hide>1.000000</hide>
   <services>
    <land/>
+   <nomissionspawn/>
+   <uninhabited/>
   </services>
   <commodities/>
-  <description>(null)</description>
+  <description>UHP-0474 was used to test the first generation of biogenic weapons that the Federation produced. The planet was then sterilized by the use of super-high-yield protonic weapons. The background radiation will make this planet uninhabitable for tens of thousands of years.</description>
  </general>
 </spob>

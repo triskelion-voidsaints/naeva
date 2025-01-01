@@ -18,6 +18,8 @@
   <hide>0.250000</hide>
   <services>
    <land/>
+   <nomissionspawn/>
+   <uninhabited/>
   </services>
   <commodities/>
   <description>Tichel's hypergate was a survivor of the Alien War due to fierce protection by Viking's defence forces. However, it lay dormant for half a millennia after the Polaris destroyed the Manifest's half of the Overgate hub. At the dawn of the 12th century, it was reactivated by the Sigma Shipyards corporation and jury-rigged to link to the nearby Archenar, Codehaven, Kania and Nesre Primus systems. Access remains restricted to trusted Sigma employees.</description>

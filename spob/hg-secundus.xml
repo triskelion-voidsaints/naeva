@@ -18,6 +18,8 @@
   <hide>0.250000</hide>
   <services>
    <land/>
+   <nomissionspawn/>
+   <uninhabited/>
   </services>
   <commodities/>
   <description>While the Manifest built a gas mining outpost in this system, it was not Pyrogenesis One.

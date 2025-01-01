@@ -11,11 +11,9 @@
   <hide>1.000000</hide>
   <services>
    <land/>
+   <nomissionspawn/>
+   <uninhabited/>
   </services>
   <description>Chlorine gas whips past the visor of your biosuit as you clamber over rocks made of silicates and metals. You seriously hope you don't accidentally puncture your suit.</description>
  </general>
- <tech>
-  <item price_mod="0.5">Foodstuffs</item>
-  <item price_mod="1.5">Industrial</item>
- </tech>
 </spob>

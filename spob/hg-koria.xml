@@ -18,6 +18,8 @@
   <hide>0.250000</hide>
   <services>
    <land/>
+   <nomissionspawn/>
+   <uninhabited/>
   </services>
   <commodities/>
   <description>The Manifest never built a gate here. It must have been moved here.</description>
