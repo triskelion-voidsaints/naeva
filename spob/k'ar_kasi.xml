@@ -27,7 +27,8 @@
   <bar>You walk in to see a number of older-looking, brown-cloaked Polarans eating the midday meal. You are somewhat startled to realize that the youngest person in the room is over 150 years old, and the oldest is some 270 years in age. They explain that the life-expectancy of a member of the Kel'ariy is some 247 years, and that it is not that unusual for people to live to see their fourth century.</bar>
  </general>
  <tech>
-  <item price_mod="0.33">Data Crystals</item>
+  <item price_mod="0.5">Data Crystals</item>
   <item price_mod="1.5">Foodstuffs</item>
+  <item price_mod="1.33">Luxury Goods</item>
  </tech>
 </spob>
