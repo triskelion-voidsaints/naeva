@@ -10,7 +10,11 @@
   <spob>Kont</spob>
  </spobs>
  <jumps>
-  <jump target="Smada">
+  <jump target="Drogrer">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Midfrax">
    <autopos/>
    <hide>1.000000</hide>
   </jump>

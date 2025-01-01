@@ -20,11 +20,11 @@
    <autopos/>
    <hide>1.000000</hide>
   </jump>
-  <jump target="Kipa">
+  <jump target="Kilik">
    <autopos/>
    <hide>1.000000</hide>
   </jump>
-  <jump target="Tural">
+  <jump target="Kipa">
    <autopos/>
    <hide>1.000000</hide>
   </jump>

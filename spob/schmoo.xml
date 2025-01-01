@@ -27,4 +27,9 @@
   This system is actually run by the Auroran central government, and is therefore policed by warriors from all houses. All young Auroran warriors must spend at least a year in service to the central Auroran seat in an attempt to reduce hostilities between the Five Families. Many of them end up here even though they are not really needed.</description>
   <bar>This cozy young bar is filled with small intimate alcoves filled with young couples enjoying each others company. The romantic atmosphere makes you feel uncomfortable and you resolve not to stay too long.</bar>
  </general>
+ <tech>
+  <item price_mod="0.5">Foodstuffs</item>
+  <item price_mod="1.5">Metals</item>
+  <item price_mod="1.33">Luxury Goods</item>
+ </tech>
 </spob>

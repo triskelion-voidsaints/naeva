@@ -32,7 +32,6 @@
  <tech>
   <item price_mod="0.5">Metals</item>
   <item price_mod="1.5">Industrial</item>
-  <item price_mod="1.33">Luxury Goods</item>
  </tech>
  <tags>
   <tag>federationera</tag>

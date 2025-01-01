@@ -8,11 +8,11 @@
  <pos x="282.103460" y="-464.907594"/>
  <spobs/>
  <jumps>
-  <jump target="Himear">
+  <jump target="Dani">
    <autopos/>
    <hide>1.000000</hide>
   </jump>
-  <jump target="Kilik">
+  <jump target="Ivar">
    <autopos/>
    <hide>1.000000</hide>
   </jump>

@@ -35,5 +35,6 @@ This mercenary unit has been stationed on Port Kerella for many years now, actin
   <item price_mod="0.5">Metals</item>
   <item price_mod="1.5">Foodstuffs</item>
   <item price_mod="1.38">Medical Supplies</item>
+  <item price_mod="1.67">Local Alcohols</item>
  </tech>
 </spob>

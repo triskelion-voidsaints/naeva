@@ -22,11 +22,11 @@
    <autopos/>
    <hide>0.000000</hide>
   </jump>
-  <jump target="Himear">
+  <jump target="Pren">
    <autopos/>
    <hide>1.000000</hide>
   </jump>
-  <jump target="Pren">
+  <jump target="Tural">
    <autopos/>
    <hide>1.000000</hide>
   </jump>

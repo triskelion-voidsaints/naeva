@@ -27,4 +27,8 @@
   Due to the immense overpopulation of the Empire, Family Dani has been under pressure to sponsor arcology construction on this world as part of the End colony project. They have obliged financially, but the task of guarding the construction workers from the Cunjo has often fallen to apprentice warriors serving the Central Government.</description>
   <bar>This bar has a scene of Empire bureaucrats pleading with Dani elders to expand colonization on Valoria. Their pleas seem to be falling on deaf ears.</bar>
  </general>
+ <tech>
+  <item price_mod="0.5">Metals</item>
+  <item price_mod="1.38">Medical Supplies</item>
+ </tech>
 </spob>

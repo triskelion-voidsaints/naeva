@@ -12,6 +12,10 @@
    <autopos/>
    <hide>1.000000</hide>
   </jump>
+  <jump target="Kilik">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
   <jump target="Kymon">
    <autopos/>
    <hide>1.000000</hide>
@@ -21,10 +25,6 @@
    <hide>1.000000</hide>
   </jump>
   <jump target="Reeva">
-   <autopos/>
-   <hide>1.000000</hide>
-  </jump>
-  <jump target="Tural">
    <autopos/>
    <hide>1.000000</hide>
   </jump>

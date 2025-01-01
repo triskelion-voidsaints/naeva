@@ -5,28 +5,20 @@
   <spacedust>400</spacedust>
   <interference>0.000000</interference>
  </general>
- <pos x="277.280929" y="-507.828119"/>
+ <pos x="369.508230" y="-565.860078"/>
  <spobs>
   <spob>Steadfast</spob>
  </spobs>
  <jumps>
-  <jump target="Dani">
-   <autopos/>
-   <hide>1.000000</hide>
-  </jump>
-  <jump target="Fort">
-   <autopos/>
-   <hide>1.000000</hide>
-  </jump>
-  <jump target="Himear">
-   <autopos/>
-   <hide>1.000000</hide>
-  </jump>
-  <jump target="OG-Dani">
+  <jump target="Aradne">
    <autopos/>
    <hide>1.000000</hide>
   </jump>
   <jump target="Tural">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Zipa">
    <autopos/>
    <hide>1.000000</hide>
   </jump>

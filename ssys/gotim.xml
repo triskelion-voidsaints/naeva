@@ -5,18 +5,22 @@
   <spacedust>400</spacedust>
   <interference>0.000000</interference>
  </general>
- <pos x="239.182935" y="-348.202347"/>
+ <pos x="242.076454" y="-446.581977"/>
  <spobs/>
  <jumps>
+  <jump target="Dani">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Evera">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
   <jump target="Himear">
    <autopos/>
    <hide>1.000000</hide>
   </jump>
-  <jump target="Hope">
-   <autopos/>
-   <hide>1.000000</hide>
-  </jump>
-  <jump target="Iplik">
+  <jump target="Tural">
    <autopos/>
    <hide>1.000000</hide>
   </jump>

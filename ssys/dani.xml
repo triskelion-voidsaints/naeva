@@ -10,17 +10,21 @@
   <spob>Dani Prime</spob>
  </spobs>
  <jumps>
-  <jump target="Himear">
+  <jump target="Gotim">
    <autopos/>
    <hide>1.000000</hide>
   </jump>
-  <jump target="Kilik">
+  <jump target="OG-Dani">
    <autopos/>
    <hide>1.000000</hide>
   </jump>
   <jump target="Renan">
    <autopos/>
    <hide>0.000000</hide>
+  </jump>
+  <jump target="Tural">
+   <autopos/>
+   <hide>1.000000</hide>
   </jump>
  </jumps>
 </ssys>

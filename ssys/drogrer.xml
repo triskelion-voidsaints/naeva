@@ -8,6 +8,10 @@
  <pos x="703.368960" y="-812.970560"/>
  <spobs/>
  <jumps>
+  <jump target="Kontik">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
   <jump target="Makarga">
    <autopos/>
    <hide>1.000000</hide>

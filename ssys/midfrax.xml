@@ -12,6 +12,10 @@
    <autopos/>
    <hide>1.000000</hide>
   </jump>
+  <jump target="Kontik">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
   <jump target="Leslen">
    <autopos/>
    <hide>1.000000</hide>
