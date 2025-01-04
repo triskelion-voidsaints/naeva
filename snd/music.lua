@@ -206,8 +206,10 @@ function choose_table.land ()
    end
 
    -- Standard to do it based on type of planet
-   if class == "M" then
-      music_list = { "agriculture.ogg" }
+   if class == "M" and pnt:services()["inhabited"] then
+      music_list = { "macanu.ogg" }
+   elseif class == "M" then
+      music_list = { "theswallow.ogg" }
    elseif class == "O" then
       music_list = { "ocean.ogg" }
    elseif class == "P" then
@@ -221,10 +223,8 @@ function choose_table.land ()
    else
       if pnt:services()["inhabited"] then
          music_list = { "cosmostation.ogg", "upbeat.ogg" }
-      elseif class == "Z" then
-         music_list = { "intrigue.ogg" }
       else
-         music_list = { "agriculture.ogg" }
+         music_list = { "theswallow.ogg" }
       end
    end
 
