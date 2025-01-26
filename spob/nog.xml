@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Nog">
+ <pos x="2015.238422" y="1053.840276"/>
+ <GFX>
+  <space>Europa 0.webp</space>
+  <exterior>Unknown.webp</exterior>
+ </GFX>
+ <general>
+  <class>Construct</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+</spob>

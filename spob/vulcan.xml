@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Vulcan">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>4-M 0.webp</space>
+  <exterior>Vulcan.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>500.000000</base>
+  <bonus>200.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>4-M</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</spob>

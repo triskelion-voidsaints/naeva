@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faction name="Rebellion">
+ <ai>independent</ai>
+ <static />
+ <logo>rebellion</logo>
+ <known />
+ <player>3</player>
+ <description>Rebellion</description>
+ <colour r="0.012" g="0.62" b="0.118" />
+ <spawn>testers</spawn>
+ <standing>static</standing>
+ <allies>
+ </allies>
+ <enemies>
+ <enemy>Federation</enemy>
+ </enemies>
+</faction>

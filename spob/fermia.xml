@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Fermia">
+ <pos x="2356.824270" y="1859.708715"/>
+ <GFX>
+  <space>N 45.webp</space>
+  <exterior>Fermia.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <base>50.000000</base>
+  <bonus>25.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>N</class>
+  <population>56</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <nomissionspawn/>
+   <uninhabited/>
+  </services>
+  <commodities/>
+  <description>Fermia has never been colonized. Although its atmosphere is rich in argon and other noble gases, its turbulence means that harvesting requires a great deal of time and money. Only Boral, a relatively small independent mining company, operates here, and even then it only employs small-time prospectors who are foolish enough to brave Fermia's hostile atmosphere in order to make a few easy credits, 'no-questions-asked'.</description>
+ </general>
+ <tags>
+  <tag>federationera</tag>
+ </tags>
+</spob>

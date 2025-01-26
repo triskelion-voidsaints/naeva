@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Tre'ar Vilarn">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>MO 0.webp</space>
+  <exterior>Tre'ar Vilarn.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Tre'pira</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>MO</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>This mostly water world is home to an indigenous kelp-like plant that grows many thousands of feet high, and can be used to synthesize many different types of food. The Tre'pira introduced a type of plankton-like life form that nests in the reproductive buds of the kelp. As the plankton move on and reproduce, they spill the nearly microscopic seeds contained in the buds, therefore increasing the rate of reproduction of the kelp. The worker caste then harvest both the kelp and the plankton, which is also edible.</description>
+  <bar>If you did not know that every dish served in this bar for dinner is entirely derived from the kelp and plankton harvested from this worlds ocean you would swear that you had eaten foods imported from a vast variety of planets. You leave a little awed at the culinary capabilities of the people on this planet.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Foodstuffs</item>
+  <item price_mod="1.5">Metals</item>
+ </tech>
+</spob>

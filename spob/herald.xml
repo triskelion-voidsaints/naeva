@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Herald">
+ <pos x="-3306.346830" y="1414.364580"/>
+ <GFX>
+  <space>C 315.webp</space>
+  <exterior>Herald.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>C</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>Mining has never been a glamorous occupation, but it is one of the more essential activities that humans engage in. Herald has large stocks of many common minerals, and the metals and semi-metals common here are always in demand. Herald also has high concentrations of the material used to make duranium, which is much sought-after for use in space.</description>
+  <bar>This bar is filled with a large group of off-duty miners. You quickly decide to leave when the biggest of their number starts hassling you looking for trouble.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Metals</item>
+  <item price_mod="1.5">Industrial</item>
+ </tech>
+ <tags>
+  <tag>federationera</tag>
+ </tags>
+</spob>

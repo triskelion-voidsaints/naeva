@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="P'ar Karo">
+ <pos x="2998.245662" y="3073.142667"/>
+ <GFX>
+  <space>Q 45.webp</space>
+  <exterior>Unknown.webp</exterior>
+ </GFX>
+ <general>
+  <class>Q</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+</spob>

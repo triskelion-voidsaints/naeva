@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Tre'a Ca">
+ <pos x="-9.424010" y="1987.298145"/>
+ <GFX>
+  <space>0-P.webp</space>
+  <exterior>Polaris Station.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Tre'pira</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>0-P</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>Tre'a Ca is a trading post set up to support the enormous hydrogen sky-mining operation on the gas giant below. It is here that the hydrogen is processed for transport to the various parts of Polaris space that require it. The Tre'pira on the station run a smooth operation that ensures that all necessary hydrogen supplies are delivered ahead of time.</description>
+  <bar>This bar is filled with workers having a quiet drink after a long day working. This sea of white clothing is only broken by the occasional green jersey of one of the station's Ver'ash engineers quietly enjoying a meal.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Industrial</item>
+  <item price_mod="1.5">Foodstuffs</item>
+ </tech>
+</spob>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Futurend">
+ <general>
+  <radius>4500.000000</radius>
+  <spacedust>400</spacedust>
+  <interference>0.000000</interference>
+ </general>
+ <pos x="-440.311663" y="-1015.158366"/>
+ <spobs>
+  <spob>Habilis</spob>
+ </spobs>
+ <jumps>
+  <jump target="Hepen">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Odnan">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Sonete">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+ </jumps>
+</ssys>

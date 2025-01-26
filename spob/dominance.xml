@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Dominance">
+ <pos x="0.000000" y="0.000000"/>
+ <marker>spobmarker_rhombus</marker>
+ <GFX>
+  <space>7-1.webp</space>
+  <exterior>Deimos Double.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Heraan</faction>
+  <base>300.000000</base>
+  <bonus>150.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>7-1</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <commodities/>
+  <description>Dominance is the major military base of the Herran House. Because of its relative closeness to the Empire's border with the Federation, the tens of thousands of warriors here are assisted by many young 'Dechtakars', as the warriors who are loyal to Aurora rather than the Five Families call themselves. Because of this post, there are very tight ties between the Dechtakars and the Heraan House, and Heraan warriors who serve here carry the title 'Avarach' with pride. 'Avarach' translates into Basic as 'he who would die for his brothers from across space'.</description>
+  <bar>Here the Heraan warriors and the Rimertan Dechtakars cement the ties of brotherhood forged between them in battle with a few quiet drinks and many loud stories.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.57">Equipment</item>
+  <item price_mod="1.5">Metals</item>
+  <item price_mod="1.33">Luxury Goods</item>
+ </tech>
+</spob>

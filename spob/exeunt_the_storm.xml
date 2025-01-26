@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Exeunt The Storm">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="2400.214241" y="23.181861"/>
+ <GFX>
+  <space>7.webp</space>
+  <exterior>Deimos Colony Ship.webp</exterior>
+ </GFX>
+ <general>
+  <class>7</class>
+  <population>0</population>
+  <hide>0.500000</hide>
+  <services/>
+ </general>
+ <tags>
+  <tag>frontierera</tag>
+ </tags>
+</spob>

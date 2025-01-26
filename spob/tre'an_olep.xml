@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Tre'an Olep">
+ <pos x="1.728000" y="13.824000"/>
+ <GFX>
+  <space>Neutron Star.webp</space>
+  <exterior>Unknown.webp</exterior>
+ </GFX>
+ <general>
+  <class>Neutron Star</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+</spob>

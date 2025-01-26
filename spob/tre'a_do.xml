@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Tre'a Do">
+ <pos x="400.896000" y="210.816000"/>
+ <GFX>
+  <space>0-P.webp</space>
+  <exterior>Polaris Station.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Tre'pira</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>0-P</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>This Tre'pira-run station is used to absorb and funnel the unique radiations emanating from the neutron star named Tre'an Olep. These radiations are then used to alter the crystalline structure of pre-fabricated metal ship frames. The end result is a much stronger and more flexible material.</description>
+  <bar>This bar is actually located in the outer areas of the station up against the outer walls. Part of the charm of this place are the occasional low, almost inaudible groans of the bio-organic outer shell of the station slightly shifting position to better shield the occupants from the high levels of radiation outside.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Metals</item>
+  <item price_mod="1.38">Medical Supplies</item>
+ </tech>
+</spob>

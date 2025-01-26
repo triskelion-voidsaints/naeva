@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Dani LP">
+ <pos x="0.000000" y="0.000000"/>
+ <marker>spobmarker_rhombus</marker>
+ <GFX>
+  <space>5-A.webp</space>
+  <exterior>Auroran LP.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Dani</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>5-A</class>
+  <population>50</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>The Dani House maintains a listening post here, manned by a group of extremely dedicated warriors. It is their duty to warn the Dani fleets of any incoming hostile attackers and then hold them off for as long as possible, to give their fellow warriors time to prepare. It is an arduous position, but the honor earned is immense, and those who survive can wear their many battle tattoos with pride and are treated with respect by all.</description>
+ </general>
+</spob>

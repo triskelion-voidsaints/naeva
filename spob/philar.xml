@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Philar">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="1992.707172" y="1623.266899"/>
+ <GFX>
+  <space>7-0 2.webp</space>
+  <exterior>Deimos 2.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Dechtakars</faction>
+  <base>300.000000</base>
+  <bonus>150.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>1-A</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>Pholar' means 'the last wall'. It is filled with warriors that carry an air of finality around with them. They know that they are the last defense for the capital of the Empire, and they have all spent long periods on the border fighting the Federation, and know how strong they are. The warriors all believe that the infighting between the Five Houses only serves the purposes of the Federation and weakens the Empire, making their job that much harder. Still, they are proud of their posting, and would fight beyond death to fulfill their duty if they could.</description>
+ </general>
+</spob>

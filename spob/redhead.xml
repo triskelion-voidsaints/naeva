@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Redhead">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>7-1.webp</space>
+  <exterior>Deimos Double.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Vella</faction>
+  <base>300.000000</base>
+  <bonus>150.000000</bonus>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>7-1</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <commodities/>
+  <description>This enormous battle-station stands across the main route into Vella space from the South. It is named for the most common hair color of the members of Vella House, which has been an odd characteristic of the inhabitants of the Vella sector of Manifest space since it was settled nearly a millennium ago.
+  The warriors stationed here spend their lives fending off the countless small incursions by Moash warriors. To keep the ledger even, these warriors also launch themselves across the intervening gap to harass the Moash forces inside their own borders.
+  It is an interesting reflection on Auroran life that a major house can engage in openly hostile activity against the First Family and still be acknowledged as a legitimate authority.</description>
+  <bar>This bar is filled with warriors who, like their colleagues from all corners of the Empire, are covered in little tattoos showing their prowess and history. The only thing that sets them apart is that three quarters of them are redheads. You find it a little disconcerting.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.57">Equipment</item>
+  <item price_mod="1.5">Metals</item>
+  <item price_mod="1.38">Medical Supplies</item>
+ </tech>
+</spob>

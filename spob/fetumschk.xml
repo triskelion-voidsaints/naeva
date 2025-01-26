@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Fetumschk">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>Y cities 0.webp</space>
+  <exterior>Fetumschk.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Heraan</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>Y</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>This world is very heavily populated, and therefore extremely polluted. The main role for this planet is to be an enormous stores dump for the Heraan House military. So along with the four hundred immense arcologies, this planet has fifty huge, squat buildings that house missiles, food, parts, and everything else warriors dedicated to the Heraan family might need. Many of this world's 156 billion inhabitants spend their lives growing hydroponic food to add to the supply.</description>
+  <bar>This bar is filled with tired Heraan workers all being bought drinks by warriors who seem to be toasting their efforts. Strangely, the Heraan House warriors do not seem to be drinking anything alcoholic.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.57">Equipment</item>
+  <item price_mod="1.5">Metals</item>
+  <item price_mod="1.5">Industrial</item>
+ </tech>
+</spob>

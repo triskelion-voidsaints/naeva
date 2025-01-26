@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Gungungun">
+ <pos x="-2030.889547" y="-1944.205237"/>
+ <GFX>
+  <space>MO 225.webp</space>
+  <exterior>Gungungun.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Aurora Empire</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>MO</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>Although most Aurorans have little time for religion, this planet is the religious center for the Empire. This religion consists of a belief in an ethos of impeccability, and a cycle of rebirth depending on a person's actions in the previous life. Even the warriors, who live by this same ethos, only pay lip service to the priests on Gungungun, and most Aurorans have even less tolerance of the idea, and live out their lives ignoring it.</description>
+ </general>
+ <tech>
+  <item price_mod="0.500000">Foodstuffs</item>
+  <item price_mod="1.500000">Metals</item>
+ </tech>
+</spob>

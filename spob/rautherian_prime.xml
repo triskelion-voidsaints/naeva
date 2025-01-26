@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Rautherian Prime">
+ <pos x="-196.500772" y="1412.523117"/>
+ <GFX>
+  <space>J 0.webp</space>
+  <exterior>Unknown.webp</exterior>
+ </GFX>
+ <general>
+  <class>J</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+ <tags>
+  <tag>manifestera</tag>
+ </tags>
+</spob>

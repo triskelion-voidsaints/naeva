@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Empire LP II">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>1-A big.webp</space>
+  <exterior>Auroran Triple.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Dechtakars</faction>
+  <base>300.000000</base>
+  <bonus>150.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>1-A</class>
+  <population>50</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>This station is not really a 'listening' post; it is really a forward staging area for the Empire's forces. It is also from here that the juvenile potential warriors from Rimerta in the Pimen system begin their initiation as warriors. From here they must travel to the border and survive two weeks in Federation space. It is because of this that no warrior from any of the Five Houses will show any disrespect towards the Rimertan warriors, as their initiation trial is one that even the most experienced warriors elsewhere would find difficult to complete.</description>
+ </general>
+</spob>

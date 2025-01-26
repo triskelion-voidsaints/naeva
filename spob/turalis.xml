@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Turalis">
+ <pos x="-1679.793324" y="-1808.185171"/>
+ <GFX>
+  <space>DP 225.webp</space>
+  <exterior>Turalis.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Dani</faction>
+  <base>1.000000</base>
+  <bonus>0.000000</bonus>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>DP</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <nomissionspawn/>
+   <uninhabited/>
+  </services>
+  <commodities/>
+  <description>Turalis is a frozen wasteland of a world. Temperatures on the surface never even rise close to freezing, but otherwise the world is habitable with a near perfect atmosphere. Thus far it has escaped the notice of the vastly overpopulated Empire because of the resistance by Dani House warriors. These warriors come to this untouched planet for silent contemplation and to fight the ritual duels that often spring up between them.</description>
+ </general>
+</spob>

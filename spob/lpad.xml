@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="LPAD">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="-556.649749" y="146.317981"/>
+ <GFX>
+  <space>0-C-Z.webp</space>
+  <exterior>Civilian Station Small Destroyed.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Derelict</faction>
+  <base>0.000000</base>
+  <bonus>0.000000</bonus>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>0-C-Z</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <nomissionspawn/>
+   <uninhabited/>
+  </services>
+  <commodities/>
+  <description>LPAD was a propulsion research lab in the days before ion drives were perfected for sublight travel. According to rumor, researchers on this station actually came up with a remarkable new design for sublight travel that would reduce fuel requirements to a twentieth of the contemporary value. However, Pyrogenesis swiftly executed a hostile takeover of Tidbinbilla Inc and quietly terminated the project, for fear of having their revenues for raw gas mining slashed. LPAD still has backup power, but anything of any great worth has long since been removed by Pyrogenesis Corp.</description>
+ </general>
+</spob>

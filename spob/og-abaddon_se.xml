@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="OG-Abaddon SE">
+ <marker>spobmarker_triangle</marker>
+ <pos x="1720.372183" y="-2475.341073"/>
+ <GFX>
+  <space>10-9 150.webp</space>
+  <exterior>Overgate.webp</exterior>
+ </GFX>
+ <general>
+  <class>10-9</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+</spob>

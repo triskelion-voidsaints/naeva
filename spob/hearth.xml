@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Hearth">
+ <pos x="-958.480798" y="988.201133"/>
+ <GFX>
+  <space>M cities 315.webp</space>
+  <exterior>Hearth.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>100.000000</base>
+  <bonus>25.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>M</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>You'll often hear seasoned space pilots speak of "Hearth and Home" in spaceport bars across the galaxy. Far from being just a simple expression, it is, in fact, a reference to this unassuming planet in the Homeland system. Ex-spacers make a up a large percentage of the populace, and many houses follow the naming patterns of 'Dunroamin' and the like. Hearth is a mild M-class planet of rolling hills and gentle dales, which exports a moderate amount of agricultural produce to the outside universe.</description>
+  <bar>This homey little bar has a large fireplace in which blazes a pleasantly warming fire. The bartender greets you with a casual familiarity and pours you the drink you want. He waves away your payment saying that the first drink is always on the house.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Foodstuffs</item>
+  <item price_mod="1.43">Equipment</item>
+ </tech>
+ <tags>
+  <tag>federationera</tag>
+ </tags>
+</spob>

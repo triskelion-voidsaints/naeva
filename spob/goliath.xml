@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Goliath">
+ <pos x="17.832201" y="-1979.374300"/>
+ <GFX>
+  <space>O cities 180.webp</space>
+  <exterior>Goliath.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>O</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>People who live here have nowhere else to go. They could not get further away from anywhere and everywhere if they tried. If there is a bright center to the Federation (or anywhere else for that matter), you are in the system that is farthest from it. Goliath used to be a thriving artistic community where peoples from throughout the Known Galaxy came to work with the many Vell-os artisans to create countless wondrous pieces of art. After the Alien Wars, with all the Vell-os killed or worse, Goliath slowly wasted away. Now the populace live in habitation domes, as they fear to go into the ruins of this once wondrous planet, which stand side-by-side with the now desolate ghosts of that bygone era.</description>
+  <bar>This bar has pictures all over its walls of Goliath at its height some seven centuries ago. You sense the almost palpable sadness of this place which was amongst the most beautiful of planets in the galaxy.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Foodstuffs</item>
+  <item price_mod="0.67">Luxury Goods</item>
+  <item price_mod="1.5">Metals</item>
+ </tech>
+ <tags>
+  <tag>manifestera</tag>
+ </tags>
+</spob>

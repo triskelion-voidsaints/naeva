@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Palein">
+ <pos x="21.398641" y="2963.711789"/>
+ <GFX>
+  <space>M 0.webp</space>
+  <exterior>Palein.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Dani</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>M</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>Palein is a center of learning, and is the main hospital world for all of Dani space. If a son or daughter of a well-off member of the Dani House shows little aptitude to become a warrior, he or she comes here to learn a trade as a scientist, merchant, diplomat, physician or engineer. It is only through the last two professions that this planet is given even a grudging amount of respect by the warriors, for while many young warriors see little need for the other professions, they cannot keep their ships running without engineers, and many would die without the physicians. None would dare insult the physicians who have graduated and then spend their lives healing the countless warriors who are seriously injured in battle.</description>
+  <bar>You can see three levels of Dani society in this bar. There are the students, who are treated with disdain by everybody, then you have the teachers and administrators who are in turn looked down upon by the small clumps of warriors.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.630000">Medical Supplies</item>
+  <item price_mod="1.430000">Equipment</item>
+ </tech>
+</spob>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Anario">
+ <pos x="-2975.057687" y="37.580400"/>
+ <GFX>
+  <space>JZ 270.webp</space>
+  <exterior>Unknown.webp</exterior>
+ </GFX>
+ <general>
+  <class>JZ</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+</spob>

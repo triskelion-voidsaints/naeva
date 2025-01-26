@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Atar">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>L cities 0.webp</space>
+  <exterior>Atar.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Aurora Empire</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>L</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>Atar has been settled for only a little more than a century, but it is so iron-rich that what started as a small mining community is now the largest mining operation in the Known Galaxy. Some thirty billion people are involved in the process, and the ore is shipped throughout the Empire to all the shipyards for the major houses. This planet is the biggest income earner for the central seat of the Empire, and is jealously guarded by warriors loyal to the First Family. No ship goes through this system without being thoroughly scanned.</description>
+  <bar>This lower floor of this two-level bar is filled with hundreds of miners all having a few drinks after coming off their shifts. The second, better appointed level is filled with many ferociously tattooed warriors wearing the white and gold colors of the First Family.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Metals</item>
+  <item price_mod="1.38">Medical Supplies</item>
+ </tech>
+</spob>

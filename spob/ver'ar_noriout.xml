@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Ver'ar Noriout">
+ <pos x="-1117.009064" y="590.602494"/>
+ <GFX>
+  <space>F cities 0.webp</space>
+  <exterior>Ver'ar Noriout.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Ver'ash</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>F</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <commodities/>
+  <description>This is a highly technical world where nearly all of the useful biological agents cultivated on Ver'ar Pised in the Ver'avo system end up. They are used in the creation of medicines, and to help grow and repair the biological components of Polaris ships. Despite the numerous Ver'ash laboratories, Ver'ar Noriout remains an extremely beautiful planet.</description>
+  <bar>The green-cloaked doctors and engineers sitting in this bar are all eating their dinner and having a few drinks in small groups. Unlike similar Ver'ash bars elsewhere, they are not discussing aspects of their work while they unwind.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.63">Medical Supplies</item>
+  <item price_mod="1.5">Industrial</item>
+ </tech>
+</spob>

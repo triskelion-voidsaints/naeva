@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="GH_End">
+ <general>
+  <radius>4500.000000</radius>
+  <spacedust>400</spacedust>
+  <interference>0.000000</interference>
+ </general>
+ <pos x="-392.568608" y="-852.156823"/>
+ <spobs>
+  <spob>GH_End Reciever</spob>
+  <spob>OG-End E</spob>
+  <spob>OG-End NE</spob>
+  <spob>OG-End NW</spob>
+ </spobs>
+ <jumps>
+  <jump target="Firmantar">
+   <pos x="4397.286523" y="-988.617218"/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Odnan">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Schev">
+   <pos x="-972.310046" y="3947.970460"/>
+   <hide>1.000000</hide>
+  </jump>
+ </jumps>
+</ssys>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<decorator>
+ <image>kane.webp</image>
+ <x>57.291667</x>
+ <y>-73.061343</y>
+ <detection_radius>10</detection_radius>
+</decorator>

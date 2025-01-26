@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Port Kerella">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="-952.239528" y="759.651758"/>
+ <GFX>
+  <space>3.webp</space>
+  <exterior>Manifest Station.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Wild Geese</faction>
+  <base>300.000000</base>
+  <bonus>0.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>3</class>
+  <population>100000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <commodities/>
+  <description>Port Kerella is the home-away-from-home of New Ireland's most successful export: the Wild Geese.
+
+This station was the former wartime headquarters of the Manifest navy as it prosecuted the Alien War against the Vell-os. Given the conclusion of that war and the resulting deaths of billions of humans, Port Kerella has a reputation among Federation soldiers as being cursed, with hushed whispers exchanged in the barracks about the “Ghosts of Kerella”. This naturally has a deleterious effect on morale, yet leaving the station unguarded is not an option as it stares down the Great House of Vella and the Auroran Empire. This is where the Frontier-descended Geese come in, as it appears they lack the proper cultural context to fear this posting.
+
+This mercenary unit has been stationed on Port Kerella for many years now, acting in a border guard role that protects the heart of the Federation. They have even earned valour in the largest fleet engagement of recent history. An Auroran armada engaged a Federation task-force led by then-Commander Raczak, which was nearly wiped out but for the timely intervention of a small group of Wild Geese, who all but single-handedly neutralized the Auroran threat, but at massive cost to themselves; of the twelve ships committed to the battle, only two managed to limp back to Port Kerella. The commander of the Wild Geese was quoted as saying "Today, we saved Raczak's reputation, and truly does he owe all future glories to us." This has been a long-standing bone of contention between the group and the Admiral, which has almost led to open conflict.</description>
+  <bar>This bar is filled with the lilting songs from far off Ireland, and the black gold flows freely. You quickly find yourself being caught up in a world of drink, song, and dance.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.500000">Metals</item>
+  <item price_mod="1.500000">Foodstuffs</item>
+  <item price_mod="1.380000">Medical Supplies</item>
+  <item price_mod="1.670000">Local Alcohols</item>
+ </tech>
+</spob>

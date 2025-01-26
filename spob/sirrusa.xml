@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Sirrusa">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="-3334.960966" y="-350.657718"/>
+ <GFX>
+  <space>0-C.webp</space>
+  <exterior>Civilian Station Small.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>0-C</class>
+  <population>1</population>
+  <hide>0.500000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <outfits/>
+  </services>
+  <commodities/>
+  <description>Once a thriving ore-refining station, the decline of Sirrusa has mirrored that of Trusa, the planet it orbits. As the mineral deposits dried up, the need for an ore-refining station disappeared as well, and the inhabitants left for more economically viable climes. In an effort to turn this station into something vaguely profitable, the few remaining 'old salts' have opened the old outfits area and will take anything off your hands. They do not actually have anything to sell, but they flog off some of the scrap they get their hands on to various scrap dealers, and have even managed to make a bit of money by selling interesting bits of equipment to large weapons corporations so they can pull them apart to see how they work. If you have anything that you just want to get rid of, feel free to try and sell it to them.</description>
+  <bar>This bar has been kept alive by a couple of old retired miners who refuse to let the station die. It saddens you to think that when these people die, this station may well die with them.</bar>
+ </general>
+ <tags>
+  <tag>manifestera</tag>
+ </tags>
+</spob>

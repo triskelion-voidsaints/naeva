@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Eguit Prime">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>F 0.webp</space>
+  <exterior>Eguit.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Tekel</faction>
+  <base>150.000000</base>
+  <bonus>75.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>F</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>The atmosphere on Eguit is breathable, but only just. That, along with the horrific conditions in the many ore mines, make this planet one of the most miserable in the Empire. Because the ore is extremely useful, and because nobody in their right mind would make their home here, all criminals and dishonored warriors from Tekel House serve their punishment on this planet. Given its remoteness and hostility, escape is virtually impossible, especially given the fact that the warriors tasked to provide security are told that if they fail, they will become prisoners.</description>
+  <bar>The warriors in this bar are a quiet bunch. They all look too miserable and tired to raise much of a laugh. Most of them wait for their six month posting here to finish so that they might go on to a more glorious and less demanding position.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Metals</item>
+  <item price_mod="1.38">Medical Supplies</item>
+ </tech>
+</spob>

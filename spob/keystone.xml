@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Keystone">
+ <pos x="-658.284777" y="1276.598456"/>
+ <GFX>
+  <space>DK 315.webp</space>
+  <exterior>Unknown.webp</exterior>
+ </GFX>
+ <general>
+  <class>DK</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+ <tags>
+  <tag>overwatchera</tag>
+ </tags>
+</spob>

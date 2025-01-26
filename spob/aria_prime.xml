@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Aria Prime">
+ <pos x="-1889.511565" y="-2210.037120"/>
+ <GFX>
+  <space>O cities 225.webp</space>
+  <exterior>Aria.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Aurora Empire</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>O</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>Aria is the only planet in the Empire that has no land. As a result, only about three billion Aurorans live here, and most of them are involved in the largest aquaculture project in the Known Galaxy. The foods grown in the oceans of Aria push the Empire's food stocks into surplus. This is an absolute necessity, for every few years the food crops of one of the major houses fail. If not for the surplus stocks grown here, literally hundreds of billions of Aurorans would starve.</description>
+  <bar>This huge bar is filled with literally thousands of noisy off-duty aquaculture workers spending some of their hard earned money on a few (10 or 11) drinks.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.500000">Foodstuffs</item>
+  <item price_mod="1.500000">Metals</item>
+ </tech>
+</spob>

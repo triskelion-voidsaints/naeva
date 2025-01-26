@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="UHP-1002">
+ <pos x="-1251.820503" y="1027.134772"/>
+ <GFX>
+  <space>Y 315.webp</space>
+  <exterior>UHP 1002.webp</exterior>
+ </GFX>
+ <general>
+  <class>Y</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <nomissionspawn/>
+   <uninhabited/>
+  </services>
+  <description>Chlorine gas whips past the visor of your biosuit as you clamber over rocks made of silicates and metals. You seriously hope you don't accidentally puncture your suit.</description>
+ </general>
+</spob>

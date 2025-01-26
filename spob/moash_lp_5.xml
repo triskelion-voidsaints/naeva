@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Moash LP 5">
+ <pos x="0.000000" y="0.000000"/>
+ <marker>spobmarker_rhombus</marker>
+ <GFX>
+  <space>5-A.webp</space>
+  <exterior>Auroran LP.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Moash</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>5-A</class>
+  <population>50</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>This early warning post is on the shortest route between Vella and Moash spaces. Consequently, the warriors stationed here spend most of their lives fighting against the many probing task-forces sent by the Vella House, giving the warriors in the Reap system time to prepare for any invasion. This posting has the lowest survival rate of any Moash posting, but survival guarantees respect by members of the Moash House and from warriors from other houses.</description>
+ </general>
+</spob>

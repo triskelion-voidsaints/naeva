@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Tre'ar Aeberl">
+ <pos x="3574.629420" y="2860.361440"/>
+ <GFX>
+  <space>MH 45.webp</space>
+  <exterior>Tre'ar Aeberl.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Tre'pira</faction>
+  <base>100.000000</base>
+  <bonus>100.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>MH</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>The worker caste, called the "Tre'pira", harvest and cultivate wood and other useful plant products on this mountainous world. Unlike other planets in other parts of the Known Galaxy that have similar resources, the Polaris with their highly advanced technology seem to be able to manage their resources at a sustainable level. Many members of the Tre'pira look down on their counterparts elsewhere in the galaxy for precisely this reason.</description>
+  <bar>This bar is cleverly hidden in the foliage of one of the enormous trees covering large portions of the surface of this planet. You cannot help admiring the ingenuity of the Tre'pira in building this absolutely ecologically friendly establishment.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Industrial</item>
+  <item price_mod="1.33">Luxury Goods</item>
+ </tech>
+</spob>

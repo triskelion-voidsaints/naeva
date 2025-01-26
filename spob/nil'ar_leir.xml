@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Nil'ar Leir">
+ <pos x="2025.936158" y="2070.764329"/>
+ <GFX>
+  <space>N 45.webp</space>
+  <exterior>Fermia.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Nil'kemorya</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>N</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+   <outfits/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>This planet is used as a supply depot for the battle station in orbit. It is also an alternative venue for a forward training base for young warriors from the Nil'nesa system in their final stages of training. This depends on the number of students in the final stages of learning, and on the current levels of Wraith activity in this system and around Nil'nesa.</description>
+ </general>
+ <tech>
+  <item price_mod="0.5">Metals</item>
+  <item price_mod="1.38">Medical Supplies</item>
+ </tech>
+</spob>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faction name="Dechtakars">
+ <ai>independent</ai>
+ <static />
+ <logo>dechtakars</logo>
+ <known />
+ <player>3</player>
+ <description>Rimertans</description>
+ <colour r="0.447" g="0.184" b="0.216" />
+ <spawn>testers</spawn>
+ <standing>static</standing>
+ <allies>
+ </allies>
+ <enemies>
+  <enemy>Federation</enemy>
+ </enemies>
+ <lane_length_per_presence>400</lane_length_per_presence>
+ <lane_base_cost>50</lane_base_cost>
+</faction>

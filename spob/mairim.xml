@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Mairim">
+ <pos x="1016.863424" y="-942.909720"/>
+ <GFX>
+  <space>DP 0.webp</space>
+  <exterior>Mairim.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <base>50.000000</base>
+  <bonus>25.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>DP</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>A sparsely populated planet, Mairim is a breathtakingly beautiful world. Cold, and often dangerous, Mairim is home to a brave few who eke out a living hunting the sleek ice-cats that live on the steppes. Few ships land here, and those that do are welcomed indifferently by the aloof hunters and their families. There is no official government, and taxes have not been collected here since before the last census.</description>
+ </general>
+ <tech>
+  <item price_mod="0.67">Luxury Goods</item>
+  <item price_mod="1.43">Equipment</item>
+ </tech>
+</spob>

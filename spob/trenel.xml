@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Trenel">
+ <pos x="3413.083252" y="0.000000"/>
+ <GFX>
+  <space>X cities 90.webp</space>
+  <exterior>Trenel.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Aurora Empire</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>X</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>This world was originally a part of Heraan space before the Great Moash Invasion. In the two centuries since, the Heraan House has sponsored its management but has not claimed it as its own. However, like Lobos in the Sonete system, young potential warriors from this planet, if they succeed, all swear fealty to the Heraan House. For now, the leaders of this world wait, with a secret loyalty, for the Heraan Family to expand again and place this world under its protection.</description>
+  <bar>As you walk into this dimly lit room you notice what looks like a small group of Heraan warriors talking with some of the senior administrators of Trenel. Every time someone comes close to their table, they all stop talking and the warriors tense up as one.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.570000">Equipment</item>
+  <item price_mod="1.500000">Metals</item>
+ </tech>
+</spob>

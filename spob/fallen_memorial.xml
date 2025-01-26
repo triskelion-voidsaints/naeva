@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Fallen Memorial">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>0-A big.webp</space>
+  <exterior>Auroran Single.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Aurora Empire</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>0-A</class>
+  <population>50</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>This system is the location of one of the few major battles between the Empire and the Polaris. The Auroran fleet had been using Fallen as a staging post for a major incursion into Polaris space. The Polaris hypered into the system and made a pre-emptive strike against the building Auroran forces. It was only due to the glorious actions of the Tekel warriors that any part of the main body of the fleet escaped. It is the only battle with the Polaris that has earned a special battle tattoo, the purple leaf, and there are only two old grizzled warriors remaining who still carry this tattoo. Although the battle occurred over half a century ago, its repercussions linger today, in that no incursions of that size are planned into Polaris space. Even the Aurorans, with their near-suicidal bravery, see no point in sending countless young warriors off to their deaths needlessly.</description>
+  <bar>This bar is filled with Tekel warriors who have made the pilgrimage to this station in order to learn more about the battle which was fought against the Polaris here over five decades ago. There is an air of quiet reverence about this place.</bar>
+ </general>
+</spob>

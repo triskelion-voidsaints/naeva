@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Sentinel">
+ <pos x="-2413.910362" y="2238.030649"/>
+ <GFX>
+  <space>Europa cities 315.webp</space>
+  <exterior>Polaris Admin Relay.webp</exterior>
+ </GFX>
+ <general>
+  <class>11-P</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+  </services>
+  <description>(null)</description>
+ </general>
+</spob>

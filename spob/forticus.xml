@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Forticus">
+ <pos x="2319.493261" y="-1702.796313"/>
+ <GFX>
+  <space>S cities 135.webp</space>
+  <exterior>Forticus.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Dani</faction>
+  <base>150.000000</base>
+  <bonus>75.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>S</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>It is here that nearly all of the parts used to build and repair the thousands of Dani House warships and merchant-craft are manufactured. It is a huge enterprise that employs over two-thirds of this planet's fifteen billion inhabitants. The many millions of parts produced on the surface are then shipped up to the enormous shipyards that orbit this world. The gargantuan manufacturing processes on this planet have made a huge impact on the environment, and this world is more polluted than any other in Dani space.</description>
+  <bar>This bar is basically a huge room with one long bar that stretches the entire length of one entire wall. The number of people drinking here looks to run into the tens of thousands.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.570000">Equipment</item>
+  <item price_mod="1.500000">Metals</item>
+ </tech>
+</spob>

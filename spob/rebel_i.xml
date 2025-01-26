@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Rebel I">
+ <pos x="-5.159780" y="-1000.997388"/>
+ <GFX>
+  <space>DM cities 180.webp</space>
+  <exterior>Rebel I.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Rebellion</faction>
+  <base>350.000000</base>
+  <bonus>50.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>DM</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>This planet is the headquarters of the Rebellion. The people here are all very friendly, but a little reserved and very busy. They are without fail willing to sit and chat about their beliefs concerning the role of the Bureau of Internal Investigation within the Federation. They have lists as long as your arm of crimes committed by the Bureau, and they have statements of witnesses and huge files of evidence to support their accusations. However, they quickly clam up when they are asked for specifics about their operation against the agents of the Bureau, which is understandable considering the intelligence-gathering capabilities of their enemy. Most of these people seem to be young, energetic and far too serious for their age. They have all obviously seen something that matured them long before they were ready.</description>
+  <bar>A number of what appears to be high-ranking rebel officials seem to be making themselves at home here. They give you a warm if somewhat reserved greeting and allow you plenty of room at the bar.</bar>
+ </general>
+ <tech>
+  <item price_mod="1.5">Foodstuffs</item>
+  <item price_mod="1.5">Industrial</item>
+  <item price_mod="1.33">Luxury Goods</item>
+ </tech>
+</spob>

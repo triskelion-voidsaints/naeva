@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="HG-Kon">
+ <marker>spobmarker_triangle</marker>
+ <pos x="-92.079541" y="-1008.751369"/>
+ <GFX>
+  <space>9-Z.webp</space>
+  <exterior>Hypergate Deactivated.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Derelict</faction>
+  <base>0.000000</base>
+  <bonus>0.000000</bonus>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>9-Z</class>
+  <population>0</population>
+  <hide>0.500000</hide>
+  <services>
+   <land/>
+   <nomissionspawn/>
+   <uninhabited/>
+  </services>
+  <commodities/>
+  <description>This hypergate was destroyed more than half a millennia ago at the conclusion of the Alien War. A shipment of hydrogen on a Pegasus-class freighter bound for Forge was the shipment on record passing through the ring when it was destroyed. This began a century and half period of isolation for the people of the Kon system, who found it difficult to expand on a cut-off water-world. Most new material was strenuously sourced from asteroid mining. When contact was re-established with the Overwatch, they joyously joined.</description>
+ </general>
+ <tags>
+  <tag>hypergate</tag>
+  <tag>ruined</tag>
+  <tag>nonews</tag>
+  <tag>nonpc</tag>
+  <tag>manifestera</tag>
+ </tags>
+</spob>

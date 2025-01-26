@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Empire LP V">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>0-A big.webp</space>
+  <exterior>Auroran Single.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Aurora Empire</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>0-A</class>
+  <population>1500</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>This is another forward observation and staging post on the border of the Federation and the Empire. Because of the fearsome and suspicious natures of the aggressively tattooed Auroran warriors, very few merchants from either side wish to cross the border and be under the constant scrutiny thereafter of these dangerous men. So while trade between the two nations is allowed, it is sporadic and is so heavily policed that most merchants are unwilling to take the risk or go to the trouble.</description>
+ </general>
+</spob>

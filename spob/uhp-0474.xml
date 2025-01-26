@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="UHP-0474">
+ <pos x="-1213.580339" y="916.376991"/>
+ <GFX>
+  <space>W 315.webp</space>
+  <exterior>UHP-0474.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>50.000000</base>
+  <bonus>25.000000</bonus>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>W</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <nomissionspawn/>
+   <uninhabited/>
+  </services>
+  <commodities/>
+  <description>UHP-0474 was used to test the first generation of biogenic weapons that the Federation produced. The planet was then sterilized by the use of super-high-yield protonic weapons. The background radiation will make this planet uninhabitable for tens of thousands of years.</description>
+ </general>
+</spob>

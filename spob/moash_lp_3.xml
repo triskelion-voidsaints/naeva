@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Moash LP 3">
+ <pos x="0.000000" y="0.000000"/>
+ <marker>spobmarker_rhombus</marker>
+ <GFX>
+  <space>5-A.webp</space>
+  <exterior>Auroran LP.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Moash</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>5-A</class>
+  <population>50</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>This early warning post is placed along one of the routes into Moash space. It is not the most common route taken, but it does allow the warriors on the Endurance station in the Neck system a little preparation time. The warriors here, while not overworked, still get enough action to keep them from becoming bored or complacent, and they have saved those stationed in Moash space from being surprised by more than one sneaky attack.</description>
+ </general>
+</spob>

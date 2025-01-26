@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Fist of Providence">
+ <pos x="4354.623459" y="3273.992085"/>
+ <marker>spobmarker_rhombus</marker>
+ <GFX>
+  <space>7.webp</space>
+  <exterior>Deimos Colony Ship.webp</exterior>
+ </GFX>
+ <general>
+  <class>7</class>
+  <population>0</population>
+  <hide>0.500000</hide>
+  <services/>
+ </general>
+ <tags>
+  <tag>frontierera</tag>
+ </tags>
+</spob>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Ginka">
+ <pos x="-2664.130814" y="-1840.283133"/>
+ <GFX>
+  <space>IF 0.webp</space>
+  <exterior>Ginka.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Aurora Empire</faction>
+  <base>150.000000</base>
+  <bonus>75.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>IF</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>The first arcology on Ginka was only recently completed, and work on the second and the third is being undertaken by the enormous influx of settlers. In the last two years the population has skyrocketed from just over one billion to just short of fifty. When the work on the second and third arcologies is completed in two decades, the population should double again, which will significantly relieve the pressures of overpopulation in other parts of the Empire.</description>
+  <bar>This bar is filled with off-duty workers from the construction sites of the unbuilt arcologies. They all seem to be drinking to colleagues who died during their last work period that and complaining about the inadequate safety precautions being used by their overseers to save money.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Metals</item>
+  <item price_mod="1.38">Medical Supplies</item>
+ </tech>
+</spob>

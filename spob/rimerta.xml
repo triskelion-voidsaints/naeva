@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Rimerta">
+ <pos x="12.839185" y="-25.678369"/>
+ <GFX>
+  <space>MW cities 0.webp</space>
+  <exterior>Rimerta.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Dechtakars</faction>
+  <base>400.000000</base>
+  <bonus>200.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>MW</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <commodities/>
+  <description>This planet was colonized by members of the vast underclass of Aurorans who are poor and have no aptitude towards becoming warriors. No house claims these people, and, for the 160 billion inhabitants of this planet, the management of the First Family is all that stands between them and starvation. Because of this, young men and women from this planet who become warriors are absolutely loyal to the Empire, not to any house. They call themselves 'Dechtakars', which means 'we who sacrifice ourselves for the highest cause'. They are the only warriors who have an image of themselves on their chests as their death tattoos, for they believe that by dying in service to the Empire they will finally have lived up to their own expectations.</description>
+  <bar>This bar is filled with quite a few young Rimertan warriors all drinking non-alcoholic drinks, a habit they picked up from their Heraan colleagues, with whom the normally aloof Dechtakars share a mutual respect.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.67">Luxury Goods</item>
+  <item price_mod="1.5">Foodstuffs</item>
+  <item price_mod="1.38">Medical Supplies</item>
+ </tech>
+</spob>

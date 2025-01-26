@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Resolution">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="-1960.303752" y="2930.870819"/>
+ <GFX>
+  <space>7-0.webp</space>
+  <exterior>Deimos.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Heraan</faction>
+  <base>300.000000</base>
+  <bonus>150.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>7-0</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <outfits/>
+  </services>
+  <commodities/>
+  <description>This station is the headquarters for the Heraan Mundokiir, as the general of the Heraan forces is called, and is the anchoring point for one of the largest battle fleets in the Empire. The warriors stationed here stay at a high level of readiness because of the proximity to the border of Heraan space, and the closeness of the Moash Family. For they are located both to the East, where Moash have their own space, and to the West, where the space they hold as the First Family is located.</description>
+  <bar>Despite the fact that all the warriors stationed here are off-duty and appear relaxed, you notice that they all keep their communicators handy, and none are getting drunk.</bar>
+ </general>
+</spob>

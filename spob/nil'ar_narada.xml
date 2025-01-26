@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Nil'ar Narada">
+ <pos x="2237.941213" y="-2157.696308"/>
+ <GFX>
+  <space>MO 135.webp</space>
+  <exterior>Nil'ar Narada.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Nil'kemorya</faction>
+  <base>300.000000</base>
+  <bonus>0.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>MO</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+   <outfits/>
+   <commodity/>
+  </services>
+  <description>This is the third of the three warrior caste training worlds. This is where the last two years of training are carried out. In those two years, the potential Nil'kemorya will take part in military roles that increase in danger and severity, to get them used to the danger and violence inherent in the existence of a warrior. The location of Nil'ar Narada, on the Polaris border with the Wraith, gives the students plenty of opportunity to prove their worth, and quite a number do not survive through this final part of their training.</description>
+ </general>
+ <tech>
+  <item price_mod="0.5">Foodstuffs</item>
+  <item price_mod="1.38">Medical Supplies</item>
+ </tech>
+</spob>

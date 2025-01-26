@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Ares">
+ <pos x="-1052.099853" y="-1988.290400"/>
+ <GFX>
+  <space>K cities 225.webp</space>
+  <exterior>Hypergate.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>K</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+ </general>
+</spob>

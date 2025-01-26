@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Airfor">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>Q cities 0.webp</space>
+  <exterior>Airfor.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Moash</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>Q</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>The Moash House maintains a massive supply depot here, where most of the supplies required by the entire military are kept in readiness for their use. The three hundred dumps controlled by the depot dot the surface of the world like grotesque pimples. The Mundokiir of the House has decreed that there will also be a garrison of warriors here to protect this vital installation against outside attack.</description>
+  <bar>The warriors stationed here all seem to have a few grumbles about their current posting. They would rather be on the borders of Moash space defending against the depredations of warriors from the other houses than being posted to guard this planet.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Industrial</item>
+  <item price_mod="0.57">Equipment</item>
+  <item price_mod="1.5">Metals</item>
+ </tech>
+</spob>

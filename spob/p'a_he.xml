@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="P'a He">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="2605.460237" y="2966.420015"/>
+ <GFX>
+  <space>0-P.webp</space>
+  <exterior>Polaris Station.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>P'aedt</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>0-P</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>The scientist caste, known as the "P'aedt", have established a station in orbit around P'ar Karo in order to study the unique electromagnetic bursts radiating from it. Their first challenge will be to work with the "Ver'ash", the name given to the engineer/healer caste, to produce a new way of modulating current Polaris shield technology so that they can take a ship down to the planet's surface without the radiation frying all its instruments and killing everyone on board.</description>
+ </general>
+ <tech>
+  <item price_mod="0.57">Equipment</item>
+  <item price_mod="1.38">Medical Supplies</item>
+ </tech>
+</spob>

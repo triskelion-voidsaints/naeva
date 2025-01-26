@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Dauntless">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>7-0.webp</space>
+  <exterior>Deimos.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Heraan</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>7-0</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <outfits/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>This station has the dubious honor of being the closest large Heraan outpost to Moash space in a direct line, and so the Heraan House maintains a battle fleet here so as to leave no cracks in their defense against any incursions, be they Moash or otherwise. The warriors stationed here always remember in the backs of their minds that this is one of the two entry points into Heraan space used by the Moash forces during the Great Moash Invasion two centuries ago.</description>
+  <bar>Like all establishments in Heraan space, you see Heraan House warriors sitting quietly drinking non-alcoholic beverages. Somehow these frighteningly tattooed men and women seem that much fiercer because of their silence.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Metals</item>
+  <item price_mod="1.38">Medical Supplies</item>
+ </tech>
+</spob>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="K'ar Kasi">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>P 0.webp</space>
+  <exterior>K'ar Kasi.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Kel'ariy</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>P</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>The Polaris government maintains an administrative outpost on this planet. The western sector of Polaris space is basically governed from here. The most amazing part is that some 380 Polarans seem to be all that is required to perform all the necessary administrative tasks that come with governing an entire sector of space. The fact that all of the inhabitants are over a century old seems relatively innocuous by comparison, especially when the average life expectancy for the Polaris is 205.9 years.</description>
+  <bar>You walk in to see a number of older-looking, brown-cloaked Polarans eating the midday meal. You are somewhat startled to realize that the youngest person in the room is over 150 years old, and the oldest is some 270 years in age. They explain that the life-expectancy of a member of the Kel'ariy is some 247 years, and that it is not that unusual for people to live to see their fourth century.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Data Crystals</item>
+  <item price_mod="1.5">Foodstuffs</item>
+  <item price_mod="1.33">Luxury Goods</item>
+ </tech>
+</spob>

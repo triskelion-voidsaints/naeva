@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="HG-Koria">
+ <pos x="0.000000" y="0.000000"/>
+ <marker>spobmarker_triangle</marker>
+ <GFX>
+  <space>9.webp</space>
+  <exterior>Hypergate.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Rebellion</faction>
+  <base>50.000000</base>
+  <bonus>0.000000</bonus>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>9</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <nomissionspawn/>
+   <uninhabited/>
+  </services>
+  <commodities/>
+  <description>The Manifest never built a gate here. It must have been moved here.</description>
+ </general>
+ <tags>
+  <tag>hypergate</tag>
+  <tag>nonews</tag>
+  <tag>nonpc</tag>
+  <tag>manifestera</tag>
+ </tags>
+</spob>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Ryll">
+ <pos x="3172.348540" y="2435.878643"/>
+ <GFX>
+  <space>MO cities 45.webp</space>
+  <exterior>Ryll.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>100.000000</base>
+  <bonus>25.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>MO</class>
+  <population>1e+09</population>
+  <hide>2.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>With three hundred separate spaceports at last count, and many more in the pipeline, Ryll is the ultimate port world. Ryll's bountiful oceans are home to a variety of genetically engineered giant kelp that fits well into the natural ecosystem. This kelp is harvested for biotech, food, and medical purposes. Ryll's shallow seas and sweeping plains are dotted with bulk carriers, and the occasional Pegasus or Leviathan comes to collect a cargo of herd animals or kelp. Ryll is a very prosperous world, and its wide open spaces are often used in government films promoting tourism and colonization.</description>
+  <bar>This bar reflects the cosmopolitan nature of Ryll. The patrons seem to come from all over the Federation, and with so many different backrounds, the bar caters to almost all tastes.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.57">Equipment</item>
+  <item price_mod="1.5">Industrial</item>
+ </tech>
+ <tags>
+  <tag>manifestera</tag>
+ </tags>
+</spob>
