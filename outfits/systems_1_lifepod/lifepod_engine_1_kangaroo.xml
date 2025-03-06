@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Kangaroo Lifepod Engine">
+ <general>
+  <typename>Systems (Engine)</typename>
+  <slot prop="lifepod_engines">structure</slot>
+  <size>small</size>
+  <mass>2</mass>
+  <price>1000</price>
+  <description>Kangaroo Lifepod Engine.</description>
+  <gfx_store>engine9.webp</gfx_store>
+  <priority>1</priority>
+ </general>
+ <specific type="modification">
+  <energy_regen_malus>1</energy_regen_malus>
+  <engine_limit>42</engine_limit>
+  <fuel>200</fuel>
+  <speed>506</speed>
+  <accel>1084</accel>
+  <turn>525</turn>
+ </specific>
+</outfit>

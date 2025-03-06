@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Rounded Titan Engine">
+ <general>
+  <typename>Systems (Engine)</typename>
+  <slot prop="titan_engines">structure</slot>
+  <size>large</size>
+  <mass>115</mass>
+  <price>9000</price>
+  <priority>9</priority>
+  <description>Rounded Titan Engine.</description>
+  <gfx_store>unicorp_engine_l.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <energy_regen_malus>9</energy_regen_malus>
+  <engine_limit>2246</engine_limit>
+  <fuel>1000</fuel>
+  <speed>130</speed>
+  <accel>125</accel>
+  <turn>45</turn>
+ </specific>
+</outfit>

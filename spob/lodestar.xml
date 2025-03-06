@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Lodestar">
+ <pos x="-998.603250" y="1016.435451"/>
+ <GFX>
+  <space>H 315.webp</space>
+  <exterior>0Sandy.webp</exterior>
+ </GFX>
+ <general>
+  <class>H</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+  </services>
+  <description>(null)</description>
+ </general>
+</spob>

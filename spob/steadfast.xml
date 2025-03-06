@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Steadfast">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="1224.673331" y="585.713332"/>
+ <GFX>
+  <space>1-A big.webp</space>
+  <exterior>Auroran Triple.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Dani</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>1-A</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <commodities/>
+  <description>The Kilik system straddles one of the entrances into Dani space. This system is the route of choice used by the Ronin raiders of the Rochak Dust Field and by the warriors of House Tekel. This station was built after Tekel warriors travelled around the southern tip of Dani space to get behind their lines ninety-six years ago. This relatively small expeditionary force managed to inflict enormous damage on many Dani facilities and destroy a large number of Dani warships before being forced to retreat. Dani House now maintains a well-equipped and well-trained force here to ensure that they are never again taken by surprise.</description>
+  <bar>This bar is filled with Dani warriors all enjoying a quiet drink after coming off duty in this very active system. Even the youngest of them seems to be covered in battle tattoos and more than a few scars.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.670000">Luxury Goods</item>
+  <item price_mod="1.5">Metals</item>
+ </tech>
+</spob>

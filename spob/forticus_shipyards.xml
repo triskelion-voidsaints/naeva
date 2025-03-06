@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Forticus Shipyards">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="1313.324796" y="-1386.224719"/>
+ <GFX>
+  <space>7-1.webp</space>
+  <exterior>Deimos Double.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Dani</faction>
+  <base>300.000000</base>
+  <bonus>150.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>7-1</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>These enormous shipyards are a haven for all those whose ships have received damage during the many space battles that punctuate the life of the Dani warriors. Veterans all seem to have a tale or two about how they were uncertain of their survival until they reached these facilities. It is here that the assembly of new ships, and the repair of those that are damaged, occurs. All of the parts are manufactured on the surface of the planet below, and are then brought up to the shipyards to be used.</description>
+  <bar>This room is filled with warriors all boasting about how close they came to death as they nursed what was left of their ships back to these facilities. The noise is almost deafening.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.570000">Equipment</item>
+  <item price_mod="1.500000">Metals</item>
+ </tech>
+</spob>

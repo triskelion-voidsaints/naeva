@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Ver'ar Pised">
+ <pos x="66.247373" y="-198.742118"/>
+ <GFX>
+  <space>X 0.webp</space>
+  <exterior>Ver'ar Pised.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Ver'ash</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>X</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <commodities/>
+  <description>Ver'ar Pised as a world is a bacteriological swamp that is in its early stages of evolution. Life on this planet has not yet reached the multicellular stage. The Ver'ash, the healer/engineer caste, take the bacteriological sludge and convert it into biological agents that are useful in many ways. The products created from the primordial soup on Ver'ar Pised are used in the growing of the biological components of Polaris technology, and in the healing of the sick and wounded.</description>
+  <bar>The Ver'ash in this room seem to be desperately trying to drink themselves into unconsciousness. From a somewhat glassy-eyed young man you hear that they have been working in a factory which separates the wanted biological agents from the biological sludge that covers the surface of this planet for the last three months. Tomorrow they will be returning for another three month tour.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Industrial</item>
+  <item price_mod="1.5">Foodstuffs</item>
+ </tech>
+</spob>

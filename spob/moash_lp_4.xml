@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Moash LP 4">
+ <pos x="0.000000" y="0.000000"/>
+ <marker>spobmarker_rhombus</marker>
+ <GFX>
+  <space>5-A.webp</space>
+  <exterior>Auroran LP.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Moash</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>5-A</class>
+  <population>50</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>The warriors manning this listening post know that they have the perilous duty of providing early warning for the warriors protecting Stlap in the Reap system. If Stlap were to fall to the rivals of the Moash House, then one of its main sources of income would be lost. Many times, the warriors here have spotted Vella House forces hypering in, and have engaged them in order to give the forces in orbit around Stlap time to prepare. Warriors who survive their posting here end up wearing a great number of the small orange battle tattoos signifying successful engagements fought against warriors from the Vella House.</description>
+ </general>
+</spob>

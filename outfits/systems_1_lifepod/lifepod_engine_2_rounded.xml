@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Rounded Lifepod Engine">
+ <general>
+  <typename>Systems (Engine)</typename>
+  <slot prop="lifepod_engines">structure</slot>
+  <size>small</size>
+  <mass>2</mass>
+  <price>1000</price>
+  <description>Rounded Lifepod Engine.</description>
+  <gfx_store>nexus_engine_s.webp</gfx_store>
+  <priority>1</priority>
+ </general>
+ <specific type="modification">
+  <energy_regen_malus>1</energy_regen_malus>
+  <engine_limit>42</engine_limit>
+  <fuel>200</fuel>
+  <speed>686</speed>
+  <accel>542</accel>
+  <turn>525</turn>
+ </specific>
+</outfit>

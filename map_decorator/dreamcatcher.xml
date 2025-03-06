@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<decorator>
+ <image>dreamcatcher.webp</image>
+ <x>731.306176</x>
+ <y>319.543644</y>
+ <detection_radius>10</detection_radius>
+</decorator>

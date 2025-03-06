@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Holpa Station">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>5-A.webp</space>
+  <exterior>Auroran LP.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Aurora Empire</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>5-A</class>
+  <population>50</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>The scientists of the Auroran Empire have managed to construct a research station, despite the lack of funding and respect given to scientists by Aurorans. They are trying to investigate the cause for the unique radiation signature coming from the Holpa Nebula. Most young Aurorans are completely unaware of the station's existence, because the scientists fund it themselves, and it is of absolutely no military importance whatsoever.</description>
+ </general>
+ <tech>
+  <item price_mod="0.5">Industrial</item>
+  <item price_mod="1.43">Equipment</item>
+ </tech>
+</spob>

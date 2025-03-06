@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="HG-P777">
+ <pos x="942.112828" y="-1082.120602"/>
+ <GFX>
+  <space>9.webp</space>
+  <exterior>Federation Station.webp</exterior>
+ </GFX>
+ <general>
+  <class>9</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+</spob>

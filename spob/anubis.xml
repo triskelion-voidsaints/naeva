@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Anubis">
+ <pos x="1353.343740" y="-1366.007931"/>
+ <GFX>
+  <space>Z 135.webp</space>
+  <exterior>Thror.webp</exterior>
+ </GFX>
+ <general>
+  <class>Z</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <nomissionspawn/>
+   <uninhabited/>
+  </services>
+  <description>Anubis is the world that, along with Kont, straddles the region of null-space called the Black Divide, which bars much of the southeastern region of suspected space from exploration. These two worlds hold a level of mystique and terror for most Aurorans, feeding their fears of the unknown. They believe this world stands in silent sentinel to all warriors who give their life to the Empire.
+
+A handful of brave warriors come here every year from across the Empire for just over a week to survive the psychotropic storms which rage across this world, rendering all but the most hardened of warriors insane from the dark terror that permeates this world. In this way, they have the weight of their soul judged. The warrior who survives this is granted the much-coveted black pentagonal tattoo, which symbolizes the wearer's titanic psychological stamina and bravery to face their darkest fears and torments.
+</description>
+ </general>
+</spob>

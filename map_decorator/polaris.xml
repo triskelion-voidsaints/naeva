@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<decorator>
+ <image>polaris.webp</image>
+ <x>507.110322</x>
+ <y>-72.185600</y>
+ <detection_radius>10</detection_radius>
+</decorator>

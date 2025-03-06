@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Balanced Frigate Core">
+ <general>
+  <typename>Systems (Core)</typename>
+  <slot prop="frigate_core">utility</slot>
+  <size>medium</size>
+  <mass>39</mass>
+  <price>5000</price>
+  <priority>5</priority>
+  <description>Balanced Frigate Core.</description>
+  <gfx_store>core_system_shield_m1.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <cpu_max>75</cpu_max>
+  <cargo>75</cargo>
+  <energy>600</energy>
+  <energy_regen>52</energy_regen>
+ </specific>
+</outfit>

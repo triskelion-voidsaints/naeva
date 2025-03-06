@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faction name="Pirate">
+ <ai>independent</ai>
+ <static />
+ <known />
+ <player>3</player>
+ <logo>pirate</logo>
+ <description>Pirates</description>
+ <colour r="0.474" g="0.3647" b="0.18" />
+ <spawn>testers</spawn>
+ <standing>static</standing>
+ <allies>
+ </allies>
+ <enemies>
+ <enemy>Federation</enemy>
+ </enemies>
+</faction>

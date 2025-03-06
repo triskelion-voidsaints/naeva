@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Olos">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>X cities 0.webp</space>
+  <exterior>Olos.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Aurora Empire</faction>
+  <base>150.000000</base>
+  <bonus>75.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>X</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>Olos manufactures all technical items required by the fleets under the command of the First Family. The list of items produced here includes ship parts, building materials, and computer components. Very few warriors have a great deal of respect for the manufacturers on Olos, and most will avoid stopping in this system if they can. However, there is still a fair-sized detachment of warriors to protect this vital support system, for without it, the fleets protecting Aurora would grind to a halt.</description>
+  <bar>This bar is dominated by the few warriors who demand the most space, the best seats and all the attention. The many workers all give way to them with the kind of mindless servility only exhibited by those who know no other way.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Industrial</item>
+  <item price_mod="1.5">Metals</item>
+ </tech>
+</spob>

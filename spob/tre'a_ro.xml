@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Tre'a Ro">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="2469.403180" y="1718.310878"/>
+ <GFX>
+  <space>0-P.webp</space>
+  <exterior>Polaris Station.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Tre'pira</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>0-P</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>The Tre'pira built this station originally as a trade center for Tre'ar Pira but as Polaris society expanded, the worker caste expanded also. It has since been moved to a more central location. Now its primary function is to act as a logistical headquarters for the movement of the many thousands of Tre'pira shipments throughout Polaris space. The leaders of the Tre'pira all reside here.</description>
+  <bar>This is perhaps the most luxuriously appointed bar you have seen anywhere in the galaxy. Only a few white-cloaked Tre'pira seem to drink here, but the drinks are the best you have had anywhere.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Foodstuffs</item>
+  <item price_mod="0.5">Metals</item>
+  <item price_mod="0.5">Industrial</item>
+  <item price_mod="0.57">Equipment</item>
+  <item price_mod="0.63">Medical Supplies</item>
+  <item price_mod="0.67">Luxury Goods</item>
+ </tech>
+</spob>

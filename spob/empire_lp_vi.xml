@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Empire LP VI">
+ <pos x="0.000000" y="0.000000"/>
+ <marker>spobmarker_rhombus</marker>
+ <GFX>
+  <space>5-A.webp</space>
+  <exterior>Auroran LP.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Aurora Empire</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>5-A</class>
+  <population>50</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>This small station is perhaps the only Auroran listening post that is not actually a staging point for a large battle-fleet ready for action. This station is only manned by a total of fifty, warriors who see very little action. Now and then they have to escort a particularly devious Federation merchant out of Auroran space, but the last major skirmish against the Federation in this area of space occurred nearly two decades ago. However, if history is any indication, the Federation is nearly due for another attempt to invade through this area of space rather than trying to overwhelm the Aurorans at the normal battle fronts.</description>
+ </general>
+</spob>

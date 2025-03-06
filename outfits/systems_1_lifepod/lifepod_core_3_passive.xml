@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Passive Lifepod Core">
+ <general>
+  <typename>Systems (Core)</typename>
+  <slot prop="lifepod_core">utility</slot>
+  <size>small</size>
+  <mass>4</mass>
+  <price>1000</price>
+  <priority>1</priority>
+  <description>Passive Lifepod Core.</description>
+  <gfx_store>core_system_basic_s1.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <cpu_max>6</cpu_max>
+  <cargo>14</cargo>
+  <energy>260</energy>
+  <energy_regen>7</energy_regen>
+  <ammo_capacity>50</ammo_capacity>
+  <launch_range>-30</launch_range>
+ </specific>
+</outfit>

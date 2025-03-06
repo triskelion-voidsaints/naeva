@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="P'a Se">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="-2440.576106" y="2538.611933"/>
+ <GFX>
+  <space>8-P.webp</space>
+  <exterior>Polaris Skystation.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>P'aedt</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>8-P</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+   <outfits/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>The P'aedt, as the scientist caste is known, had this sky-station built to show that it was possible to levitate a city-sized construction within a planet's atmosphere, and to make it practically feasible without enormous wastage of power and energy. The planet below, called P'ar Veraniso, is left completely untouched. The P'aedt now use the station, named P'a Se, as a home for many experiments into new theories in propulsion technology.</description>
+ </general>
+ <tech>
+  <item price_mod="0.57">Equipment</item>
+  <item price_mod="1.5">Industrial</item>
+ </tech>
+</spob>

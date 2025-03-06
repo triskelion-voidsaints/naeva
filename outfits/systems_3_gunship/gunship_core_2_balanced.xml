@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Balanced Gunship Core">
+ <general>
+  <typename>Systems (Core)</typename>
+  <slot prop="gunship_core">utility</slot>
+  <size>small</size>
+  <mass>16</mass>
+  <price>3000</price>
+  <priority>3</priority>
+  <description>Balanced Gunship Core.</description>
+  <gfx_store>core_system_shield_s2.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <cpu_max>30</cpu_max>
+  <cargo>30</cargo>
+  <energy>400</energy>
+  <energy_regen>31</energy_regen>
+ </specific>
+</outfit>

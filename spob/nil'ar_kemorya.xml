@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Nil'ar Kemorya">
+ <pos x="2050.703103" y="-943.620631"/>
+ <GFX>
+  <space>H cities 135.webp</space>
+  <exterior>Nil'ar Kemorya.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Nil'kemorya</faction>
+  <base>400.000000</base>
+  <bonus>0.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>H</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>Nil'kemorya, the name given to the warrior caste, is a difficult word to translate into Basic. When used while referring to weather or season, it conveys a sense of autumn, of a slight chill in the air, of gloriously blazing trees, and of falling leaves. When talking of members of the warrior caste, Nil'kemorya symbolizes those beautifully colored autumn leaves that have left the tree but have yet to reach the ground. The Nil'kemorya are considered to have already lost their lives, as their lives are given to the protection of the Polaris people. They are waiting for this reality of death, much like the way the autumn leaves fall, riding the chill autumn breeze, so that the tree might survive the coming winter. Because of this, the Nil'kemorya have no fear of falling in battle, and sortie out again and again, knowing that by doing so, they are giving their loss of life increasing value. This is their homeworld.</description>
+ </general>
+ <tech>
+  <item price_mod="0.570000">Equipment</item>
+  <item price_mod="1.500000">Foodstuffs</item>
+ </tech>
+</spob>

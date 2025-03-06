@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="HG-Rimshot">
+ <pos x="1968.674979" y="1444.408273"/>
+ <marker>spobmarker_triangle</marker>
+ <GFX>
+  <space>9.webp</space>
+  <exterior>Hypergate.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Sigma Shipyards</faction>
+  <base>50.000000</base>
+  <bonus>0.000000</bonus>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>9</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <nomissionspawn/>
+   <uninhabited/>
+  </services>
+  <commodities/>
+  <description>Rimshot's hypergate was a lucky survivor of the third dark age. However, it lay dormant for half a millennia due to the near-complete annihilation of the Overgate hubs. At the dawn of the 12th century, it was reactivated by the Sigma Shipyards corporation and jury-rigged to link to the nearby Athena, Fyre, Manchester, Nesre Secundus and Vella systems. A fierce legal battle followed between Sigma and GLi-Tech, with Sigma winning ownership over the Gate on the basis of salvage rights. It is now their primary transit hub for the Forge sector, much to GLi-Tech's chagrin. Access is restricted to trusted Sigma employees, particularly those captaining bulk freighters to the distant Aurora Empire.</description>
+ </general>
+ <tags>
+  <tag>hypergate</tag>
+  <tag>nonews</tag>
+  <tag>nonpc</tag>
+  <tag>manifestera</tag>
+ </tags>
+</spob>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Bionic Titan Hull">
+ <general>
+  <typename>Systems (Hull)</typename>
+  <slot prop="titan_hull">structure</slot>
+  <size>large</size>
+  <priority>9</priority>
+  <mass>344</mass>
+  <price>9000</price>
+  <description>Bionic Titan Hull.</description>
+  <gfx_store>organic_hull_x.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <armour>18500</armour>
+  <shield>18500</shield>
+  <shield_regen>121</shield_regen>
+  <armour_regen>121</armour_regen>
+ </specific>
+</outfit>

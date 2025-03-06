@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Rounded Carrier Engine">
+ <general>
+  <typename>Systems (Engine)</typename>
+  <slot prop="carrier_engines">structure</slot>
+  <size>large</size>
+  <mass>86</mass>
+  <price>8000</price>
+  <priority>8</priority>
+  <description>Rounded Carrier Engine.</description>
+  <gfx_store>unicorp_engine_m.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <energy_regen_malus>8</energy_regen_malus>
+  <engine_limit>1455</engine_limit>
+  <fuel>900</fuel>
+  <speed>197</speed>
+  <accel>221</accel>
+  <turn>75</turn>
+ </specific>
+</outfit>

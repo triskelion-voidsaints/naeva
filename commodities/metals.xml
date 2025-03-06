@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commodity>
+ <name>Metals</name>
+ <description>Material for building</description>
+ <price_constant/>
+ <price>400</price>
+ <gfx_store>metals.webp</gfx_store>
+</commodity>

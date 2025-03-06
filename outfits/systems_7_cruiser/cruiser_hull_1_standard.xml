@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Standard Cruiser Hull">
+ <general>
+  <typename>Systems (Hull)</typename>
+  <slot prop="cruiser_hull">structure</slot>
+  <size>large</size>
+  <priority>7</priority>
+  <mass>178</mass>
+  <price>7000</price>
+  <description>Standard Cruiser Hull.</description>
+  <gfx_store>refined_hull_l.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <armour>12100</armour>
+  <shield>12100</shield>
+  <shield_regen>110</shield_regen>
+ </specific>
+</outfit>

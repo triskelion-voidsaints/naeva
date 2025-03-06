@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Fallen">
+ <general>
+  <radius>9000.000000</radius>
+  <spacedust>400</spacedust>
+  <interference>0.000000</interference>
+ </general>
+ <pos x="584.541213" y="-262.699867"/>
+ <spobs>
+  <spob>Fallen Memorial</spob>
+ </spobs>
+ <jumps>
+  <jump target="Boro">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="J'narr">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Over">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Pilot">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Tiria">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+ </jumps>
+ <tags>
+  <tag>Polaris</tag>
+ </tags>
+</ssys>

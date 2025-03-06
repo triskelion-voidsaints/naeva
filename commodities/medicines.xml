@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commodity>
+ <name>Medical Supplies</name>
+ <description>For the treatment of illnesses and wounds</description>
+ <price_constant/>
+ <price>1200</price>
+ <gfx_store>medicalsupplies.webp</gfx_store>
+</commodity>

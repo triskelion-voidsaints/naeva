@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Drogrer">
+ <general>
+  <radius>4500.000000</radius>
+  <spacedust>400</spacedust>
+  <interference>0.000000</interference>
+ </general>
+ <pos x="703.368960" y="-812.970560"/>
+ <spobs/>
+ <jumps>
+  <jump target="Kontik">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Makarga">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Midfrax">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Smada">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+ </jumps>
+ <tags>
+  <tag>Rochak</tag>
+ </tags>
+</ssys>

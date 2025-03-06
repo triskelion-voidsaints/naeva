@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Standard Corvette Hull">
+ <general>
+  <typename>Systems (Hull)</typename>
+  <slot prop="corvette_hull">structure</slot>
+  <size>medium</size>
+  <priority>4</priority>
+  <mass>36</mass>
+  <price>4000</price>
+  <description>Standard Corvette Hull.</description>
+  <gfx_store>refined_hull_h.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <armour>3850</armour>
+  <shield>3850</shield>
+  <shield_regen>70</shield_regen>
+ </specific>
+</outfit>

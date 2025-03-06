@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Adventure Prime">
+ <pos x="-847.814159" y="-715.998530"/>
+ <GFX>
+  <space>MO 225.webp</space>
+  <exterior>Tau Prime.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>MO</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <blackmarket/>
+  </services>
+  <commodities/>
+  <description>Adventure Prime is probably best known for its sentient marine mammals. Called 'knup-knups' in their own tongue, they have never progressed beyond simple tool use, but they will continue to be allowed to progress at their own rate under the watchful eye of the Federation Scientific Corps. The primary task of the corps is to observe, not intervene. The knup-knup life cycle, coupled with their mating for life, has kept the knup-knup population relatively small. While not usually aggressive, during mating season they can be territorial. Base personnel are advised to swim between the flags during these periods.</description>
+  <bar>The Stuffed Knup-Knup', as this bar is named, is a place for the scientists who live and work here to sit and relax between field trips. Rumor has it that these people know about the black market in stuffed knup-knups, which are very valuable amongst the rich as trophies.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Foodstuffs</item>
+  <item price_mod="1.38">Medical Supplies</item>
+ </tech>
+</spob>

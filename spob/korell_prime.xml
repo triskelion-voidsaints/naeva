@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Korell Prime">
+ <pos x="-14.860167" y="2028.412852"/>
+ <GFX>
+  <space>V 0.webp</space>
+  <exterior>Korell.webp</exterior>
+ </GFX>
+ <general>
+  <class>V</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <nomissionspawn/>
+   <uninhabited/>
+  </services>
+  <description>There is something very odd about this planet. In every other system in what used to be Vell-os space, there is only rubble and radiation. It appears that the Manifest must not have brought their destructive nuclear weapons here, but considering the fact that at the end of the Alien War the Manifest was hell-bent on destroying all traces of the Vell-os civilization, you find it a little strange that they left an entire system untouched. Even more odd is the fact that this system also happens to have a habitable planet in it, which you suppose would have made it a prime target for their weapons of mass destruction.</description>
+ </general>
+</spob>

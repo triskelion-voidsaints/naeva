@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Tre'ar Varia">
+ <pos x="-2768.420906" y="3932.069133"/>
+ <GFX>
+  <space>J 315.webp</space>
+  <exterior>Polaris Listening Post.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Tre'pira</faction>
+  <base>150.000000</base>
+  <bonus>75.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>J</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>This is an enormous gas giant which has in its atmosphere has the largest hydrogen sky-mining operation in the Known Galaxy. The Tre'pira siphon off the hydrogen and then store it in magnetically sealed containers for transport to the station in orbit around Tre'ar Varia. The hydrogen is put to a multitude of uses as a fuel and a reactant in some of the processes by which the Ver'ash create useful biological agents.</description>
+  <bar>This homey little bar has only a few white-cloaked Tre'pira who are obviously regulars. The bartender smiles when he sees you and introduces you to all the people present. Soon you are trading stories and having a great time.</bar>
+ </general>
+</spob>

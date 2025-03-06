@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Salszude">
+ <general>
+  <radius>6000.000000</radius>
+  <spacedust>400</spacedust>
+  <interference>0.000000</interference>
+ </general>
+ <pos x="298.539200" y="1443.772000"/>
+ <spobs/>
+ <jumps>
+  <jump target="Alyel">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Kylante">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Undalyn">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+ </jumps>
+</ssys>

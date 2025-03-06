@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Viking">
+ <pos x="-4682.333097" y="474.513376"/>
+ <GFX>
+  <space>MW cities 270.webp</space>
+  <exterior>Viking.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Association</faction>
+  <base>300.000000</base>
+  <bonus>40.000000</bonus>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>MW</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+   <blackmarket/>
+  </services>
+  <commodities/>
+  <description>Viking is a mineral- and ore-rich world, and has been mined heavily, leaving a once picturesque planet polluted and overcast. Many of the ores and minerals mined here are shipped up to SD2 in orbit, and taken to various parts of the Federation to be used in the production of the numerous parts and equipment required by the Federation Navy. The contract was given to Hal Corp, a Federation-owned company, but the mining operation is highly successful, and any questions of nepotism have been answered by their productivity levels.</description>
+  <bar>This bar is geared to be a quick stopover for freighter crews while their ships are being loaded. The food is ordinary, the drinks are ordinary and the service could best be described as casual, but you can get everything in next to no time.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Metals</item>
+  <item price_mod="1.38">Medical Supplies</item>
+ </tech>
+ <tags>
+  <tag>federationera</tag>
+ </tags>
+</spob>

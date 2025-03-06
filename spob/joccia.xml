@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Joccia">
+ <pos x="0.000000" y="0.000000"/>
+ <marker>spobmarker_rhombus</marker>
+ <GFX>
+  <space>1-A.webp</space>
+  <exterior>Auroran Triple.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Vella</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>1-A</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>This is a massive space hospital, and nearly all Vella warrior casualties are brought here. The nurses and physicians who live here all spend many hours a day attempting to save the many critically injured warriors brought to them, and although the conditions are still a little primitive, they do amazingly well. This station has only been in operation for less than a decade, but given the advanced nature of Vella medicine, it should soon be amongst the most advanced hospitals in the Empire.</description>
+  <bar>A number of recovering, heavily tattooed warriors have come here and they seem to be spending their time toasting the efforts of every hospital staff-member they see.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.63">Medical Supplies</item>
+  <item price_mod="1.5">Industrial</item>
+ </tech>
+</spob>

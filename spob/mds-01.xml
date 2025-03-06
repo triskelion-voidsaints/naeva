@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="MDS-01">
+ <pos x="1234.879912" y="1595.981980"/>
+ <GFX>
+  <space>3 small.webp</space>
+  <exterior>Manifest Station.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Derelict</faction>
+  <base>0.000000</base>
+  <bonus>0.000000</bonus>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>3</class>
+  <population>20</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <uninhabited/>
+  </services>
+  <commodities/>
+  <description>This is an old Manifest 'drifting space station', designed to provide a self-sustaining platform for deep-space exploration. The project was deprioritized by the council due to the outbreak of the Alien War, and was completely phased out shortly afterwards. Nevertheless, the self-sufficient stations continue to operate, occasionally coming close enough to a hyperspace path to cause explorers to stumble upon them.</description>
+  <bar>There is a simple bar on this station, completely empty except for a few glasses left on tables, as if the crew of this station left in a hurry. A drinks-bot in the corner appears to still be functional, but the wisdom of ordering a beer that has sat on a space station for hundreds of years is questionable, to say the least.</bar>
+ </general>
+</spob>

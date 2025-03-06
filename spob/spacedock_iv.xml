@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Spacedock IV">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="185.589846" y="-890.109033"/>
+ <GFX>
+  <space>0-F.webp</space>
+  <exterior>Federation Station.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>0-F</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <commodities/>
+  <description>Spacedock IV is the gateway to New Babylon. Most passenger ferries destined for the Nesre Primus system dock here instead of the blue-green planet below. Inter-orbital shuttles and cargo drones account for 90% of the traffic to and from Spacedock IV and New Babylon, and merchants usually have their head offices here rather than groundside. The spaceport itself is very well maintained, but it is obviously an old station, one of the first of the Federation style to be built. Regularly upgraded, it performs a vital role in housing the military barracks for this sector, supplying patrols for the outlying systems in an attempt to weed out pirates and rebel insurgents.</description>
+  <bar>This bar is dedicated to a little-known action-star in the twentieth century, which was nearly two millennia ago. The mere act of ordering a beer elicits a series of bizarre squawks and somersaults from any of the bar staff, and a multitude of bottles which are switched at brain-numbing speeds before being poured into your glass. Welcome to Jackie's.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.57">Equipment</item>
+  <item price_mod="1.5">Industrial</item>
+ </tech>
+ <tags>
+  <tag>federationera</tag>
+ </tags>
+</spob>

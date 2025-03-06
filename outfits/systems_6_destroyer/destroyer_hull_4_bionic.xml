@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Bionic Destroyer Hull">
+ <general>
+  <typename>Systems (Hull)</typename>
+  <slot prop="destroyer_hull">structure</slot>
+  <size>medium</size>
+  <priority>6</priority>
+  <mass>96</mass>
+  <price>6000</price>
+  <description>Bionic Destroyer Hull.</description>
+  <gfx_store>organic_hull_m.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <armour>8000</armour>
+  <shield>8000</shield>
+  <shield_regen>52</shield_regen>
+  <armour_regen>52</armour_regen>
+ </specific>
+</outfit>

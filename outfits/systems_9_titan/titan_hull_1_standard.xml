@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Standard Titan Hull">
+ <general>
+  <typename>Systems (Hull)</typename>
+  <slot prop="titan_hull">structure</slot>
+  <size>large</size>
+  <priority>9</priority>
+  <mass>344</mass>
+  <price>9000</price>
+  <description>Standard Titan Hull.</description>
+  <gfx_store>refined_hull_x.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <armour>20350</armour>
+  <shield>20350</shield>
+  <shield_regen>186</shield_regen>
+ </specific>
+</outfit>

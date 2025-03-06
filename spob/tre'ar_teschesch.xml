@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Tre'ar Teschesch">
+ <pos x="331.236863" y="0.000000"/>
+ <GFX>
+  <space>L cities 0.webp</space>
+  <exterior>Tre'ar Teschesch.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Tre'pira</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>L</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>Tre'ar Teschesch is a small planet without an atmosphere to speak of. If it were not for its huge deposits of minerals and ores, it would remain completely undisturbed. The Tre'pira work on this planet to mine and refine these resources. The low gravity of this planet enables the Tre'pira to sling the refined ore into orbit with relative ease, where it is picked up by Polaris freighters to be taken to various parts of Polaris space.</description>
+  <bar>This bar is filled with miners who have just come off their shifts. While they are all a little dirty, none of them are as filthy as you would expect them to be after six hours digging far beneath the surface. Obviously the technology they are using is very advanced.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Metals</item>
+  <item price_mod="1.5">Foodstuffs</item>
+  <item price_mod="1.38">Medical Supplies</item>
+ </tech>
+</spob>

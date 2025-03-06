@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Arado">
+ <pos x="-639.600000" y="176.400000"/>
+ <GFX>
+  <space>M 0.webp</space>
+  <exterior>Arado.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Vella</faction>
+  <base>0.000000</base>
+  <bonus>0.000000</bonus>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>M</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <nomissionspawn/>
+   <uninhabited/>
+  </services>
+  <commodities/>
+  <description>This world has had the fearsome Cunjo introduced to make this tropical paradise a little more deadly. The Cunjo, with its enormous survival capabilities, has conquered nearly the entire surface of this green planet. Young potential warriors from the Vella House are sent here to survive for one month as their final initiation. As a result, the death tattoos of many Vella warriors take the form of green leafy foliage with a pair of watchful eyes hidden amongst it.</description>
+ </general>
+</spob>

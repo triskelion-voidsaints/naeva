@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Pholar">
+ <pos x="-2503.244735" y="677.078761"/>
+ <marker>spobmarker_rhombus</marker>
+ <GFX>
+  <space>7-0.webp</space>
+  <exterior>Deimos.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Aurora Empire</faction>
+  <base>300.000000</base>
+  <bonus>150.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>7-0</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>'Philar' translates as 'the last step', and the warriors stationed here, like those at its sister-station Pholar, have a grim outlook on life. They stand ready to put themselves between the center of the Auroran Empire and its absolute destruction. Only the most wily and battle-hardened of the houseless warriors from Rimerta in the Pimen system serve here. Of all Auroran warriors, the 'Dechtakars', as the Rimertan warriors call themselves, know the Federation as well as any, and hate them the most.</description>
+ </general>
+</spob>

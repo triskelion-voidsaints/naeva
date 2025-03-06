@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="New Babylon">
+ <pos x="570.845076" y="-1746.878725"/>
+ <GFX>
+  <space>M cities 180.webp</space>
+  <exterior>New Babylon.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>M</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>According to myth, when President Nesre retired from public life, he settled on the first planet colonized under his administration, New Babylon. Located in the Nesre Primus system, New Babylon has always been the home of the Federation elite. Nesre himself was the exception to the New Babylonian rule, living in modest surroundings after his term of office, and people today still take pride in living on the same planet where the greatest hero of the Manifest ended his days. There are any number of hawkers and street guides who will tell you their theories about his assassination, or show you the "location" of his grave, but most are obviously implausible. The real location of his final resting place has been lost in the growth of seven hundred years of civilization...</description>
+  <bar>This bar claims to have been the final drinking place of former Manifest President Nesre. His portrait hangs with sartorial elegance over the bar and, if you are prepared to listen long enough, the barman will tell you at length his theory on how he died which involves Auroran spies, poison and a pint of Nibos beer.</bar>
+ </general>
+ <tech>
+  <item price_mod="1.33">Luxury Goods</item>
+ </tech>
+ <tags>
+  <tag>manifestera</tag>
+ </tags>
+</spob>

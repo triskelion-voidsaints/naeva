@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Exit (Oban)">
+ <pos x="-1032.270445" y="-924.421294"/>
+ <GFX>
+  <space>12-Q.png</space>
+  <exterior>Overgate.webp</exterior>
+ </GFX>
+ <general>
+  <class>12-Q</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+</spob>

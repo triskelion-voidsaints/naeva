@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Syracuse">
+ <pos x="1949.416202" y="2244.717449"/>
+ <GFX>
+  <space>MW cities 45.webp</space>
+  <exterior>Syracuse.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>MW</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <commodities/>
+  <description>The world of Syracuse is a snapshot of the state of the Federation. It's a bustling progressive world hovering on the brink of overpopulation. Heavy industrialization has caused many environmental disasters, but the agencies charged with cleaning up do a fairly good job of hiding the mess. Not exactly a refuge of the rich and famous. Syracuse is a high-tech world on the surface, and low-tech when you start to get into the slums. Don't wander too far, or look like you have money. Some of these people are desperate.</description>
+  <bar>This bar has two sections, one for those who have a little money, and one for those who do not. You decide to drink in the better half, as you are not too sure of surviving if you enter the poorer half.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Industrial</item>
+  <item price_mod="1.5">Foodstuffs</item>
+ </tech>
+</spob>

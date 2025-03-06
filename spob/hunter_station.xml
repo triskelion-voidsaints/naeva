@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Hunter Station">
+ <pos x="-1286.840302" y="-1738.133483"/>
+ <GFX>
+  <space>2-C.webp</space>
+  <exterior>Overgate.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>0-C</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+ </general>
+</spob>

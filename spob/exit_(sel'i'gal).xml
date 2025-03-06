@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Exit (Sel'I'Gal)">
+ <pos x="-1011.316949" y="1006.157169"/>
+ <GFX>
+  <space>12-Q.png</space>
+  <exterior>Polaris Skystation.webp</exterior>
+ </GFX>
+ <general>
+  <class>12-Q</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+</spob>

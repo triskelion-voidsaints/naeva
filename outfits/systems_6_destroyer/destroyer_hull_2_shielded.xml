@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Shielded Destroyer Hull">
+ <general>
+  <typename>Systems (Hull)</typename>
+  <slot prop="destroyer_hull">structure</slot>
+  <size>medium</size>
+  <priority>6</priority>
+  <mass>96</mass>
+  <price>6000</price>
+  <description>Shielded Destroyer Hull.</description>
+  <gfx_store>base_hull_m.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <armour>4800</armour>
+  <shield>11200</shield>
+  <shield_regen>80</shield_regen>
+ </specific>
+</outfit>

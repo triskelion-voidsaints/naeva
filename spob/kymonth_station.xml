@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Kymonth Station">
+ <pos x="0.000000" y="0.000000"/>
+ <marker>spobmarker_rhombus</marker>
+ <GFX>
+  <space>0-A.webp</space>
+  <exterior>Auroran Single.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Tekel</faction>
+  <base>150.000000</base>
+  <bonus>75.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>0-A</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>This is where most critical patients and battle-injured warriors are bought. Many recovered warriors speak highly of the physicians and scientists in this place. Their existence has given at least a little credence, in the eyes of the warriors, for the necessity of the institution on Romule in the Rome system. The commanders of Kymonth Station ensure that only the hardest-working and most intelligent of the graduates are allowed to serve here.</description>
+  <bar>This lounge is filled with tired doctors and nurses, most of which are trying to catch up on some sleep. As you talk to a few of them, you begin to realize how hard these people work. Most have not slept for days, some for weeks.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.63">Medical Supplies</item>
+  <item price_mod="1.5">Foodstuffs</item>
+  <item price_mod="1.5">Industrial</item>
+ </tech>
+</spob>

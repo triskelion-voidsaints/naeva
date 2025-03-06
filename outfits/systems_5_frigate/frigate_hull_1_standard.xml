@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Standard Frigate Hull">
+ <general>
+  <typename>Systems (Hull)</typename>
+  <slot prop="frigate_hull">structure</slot>
+  <size>medium</size>
+  <priority>5</priority>
+  <mass>59</mass>
+  <price>5000</price>
+  <description>Standard Frigate Hull.</description>
+  <gfx_store>refined_hull_m.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <armour>6050</armour>
+  <shield>6050</shield>
+  <shield_regen>56</shield_regen>
+ </specific>
+</outfit>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Notas">
+ <pos x="-2912.592813" y="720.718120"/>
+ <GFX>
+  <space>G cities 270.webp</space>
+  <exterior>Notas.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>50.000000</base>
+  <bonus>25.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>G</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <commodities/>
+  <description>Inhabited by the descendants of the first Polynesian spacefarers, Notas is a young world that is still somewhat volcanic. The rich soil and long growing season provide the people of Notas with a bounty of food and other produce throughout the year. As quakes are still common on this planet, tremor-proof buildings have appeared, in most places echoing the designs of the peoples of Peru with their seemingly random interlocking blocks. Many young men and women here become members of the Federation Defense Forces, and are renowned for being fierce warriors.</description>
+  <bar>This bar is filled with beautiful willowy Polynesian-looking women and their scowlingly protective large and heavily muscled men.</bar>
+ </general>
+ <tags>
+  <tag>frontierera</tag>
+ </tags>
+ <tech>
+  <item price_mod="0.5">Foodstuffs</item>
+  <item price_mod="1.38">Medical Supplies</item>
+ </tech>
+</spob>

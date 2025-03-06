@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Olympus">
+ <pos x="2188.244945" y="-1942.019178"/>
+ <GFX>
+  <space>C cities 135.webp</space>
+  <exterior>Misfire.webp</exterior>
+ </GFX>
+ <general>
+  <class>MD</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+  </services>
+  <description>(null)</description>
+ </general>
+</spob>

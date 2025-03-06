@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Lupus">
+ <pos x="-1694.818535" y="1659.657553"/>
+ <GFX>
+  <space>Z 315.webp</space>
+  <exterior>Lupus.webp</exterior>
+ </GFX>
+ <general>
+  <class>Z</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <nomissionspawn/>
+   <uninhabited/>
+  </services>
+  <description>Lupus is a formerly habitable world pocketed with uncountable craters from railgun slug impacts. The levels of cadmium and lead in the soil have reached industrial levels from the non-stop bombardment caused by the Federation navy using this world as cover and as a waypoint for their expeditions into the Aurora Empire.</description>
+ </general>
+ <tags>
+  <tag>frontierera</tag>
+  <tag>nonews</tag>
+  <tag>nonpc</tag>
+  <tag>ruined</tag>
+ </tags>
+</spob>

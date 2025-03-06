@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Armoured Corvette Hull">
+ <general>
+  <typename>Systems (Hull)</typename>
+  <slot prop="corvette_hull">structure</slot>
+  <size>medium</size>
+  <priority>4</priority>
+  <mass>36</mass>
+  <price>4000</price>
+  <description>Armoured Corvette Hull.</description>
+  <gfx_store>combat_hull_h.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <armour>4900</armour>
+  <shield>2100</shield>
+  <shield_regen>49</shield_regen>
+  <armour_regen>21</armour_regen>
+ </specific>
+</outfit>

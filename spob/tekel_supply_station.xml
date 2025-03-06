@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Tekel Supply Station">
+ <pos x="0.000000" y="0.000000"/>
+ <marker>spobmarker_rhombus</marker>
+ <GFX>
+  <space>1-A.webp</space>
+  <exterior>Auroran Triple.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Tekel</faction>
+  <base>150.000000</base>
+  <bonus>75.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>1-A</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <commodities/>
+  <description>This station orbits the planet Nickas to handle the flow of supplies in and out of the system. The huge amounts of supplies used by the Tekel military ensure that this station is busy even during periods of relative inactivity. Merchants always find that they are kept at the bottom of all the priority lists because of the lack of respect for their work in the eyes of the many fearsomely tattooed retired warriors that run the station.</description>
+  <bar>This bar is filled with merchants complaining about the wait for their goods to be processed, and a large group of Tekel House warriors who seem to spend their time mocking their efforts.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Foodstuffs</item>
+  <item price_mod="0.57">Equipment</item>
+  <item price_mod="1.5">Metals</item>
+ </tech>
+</spob>

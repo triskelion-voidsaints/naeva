@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Standard Fighter Hull">
+ <general>
+  <typename>Systems (Hull)</typename>
+  <slot prop="fighter_hull">structure</slot>
+  <size>small</size>
+  <priority>2</priority>
+  <mass>12</mass>
+  <price>2000</price>
+  <description>Standard Fighter Hull.</description>
+  <gfx_store>refined_hull_s.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <armour>1100</armour>
+  <shield>1100</shield>
+  <shield_regen>150</shield_regen>
+ </specific>
+</outfit>

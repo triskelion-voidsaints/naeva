@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Moash LP 2">
+ <pos x="0.000000" y="0.000000"/>
+ <marker>spobmarker_rhombus</marker>
+ <GFX>
+  <space>5-A.webp</space>
+  <exterior>Auroran LP.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Moash</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>5-A</class>
+  <population>50</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>Some fifty Moash warriors make their home here on this tiny early warning post. They are all waiting for the day when the Heraan battle fleets hyper in to exact revenge for their humiliation during the Great Moash Invasion two hundred years ago. Never before in the entire history of the Empire has a House managed to so completely vanquish another. It was only due to the overconfidence of the Moash leaders at the time that the Heraan forces were able to attack behind their lines, forcing them relinquish their new conquests. The warriors here know that even though two centuries have passed, the Heraan warriors have not forgotten those events, and will one day seek to even the ledger.</description>
+ </general>
+</spob>

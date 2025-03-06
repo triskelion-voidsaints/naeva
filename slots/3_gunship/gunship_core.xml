@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot name="gunship_core">
+ <display>Core Systems</display>
+ <description>This is the ship's basic, built-in interior systems.</description>
+ <exclusive/>
+ <required/>
+ <locked/>
+ <icon>systems.png</icon>
+</slot>

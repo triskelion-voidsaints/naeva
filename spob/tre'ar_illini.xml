@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Tre'ar Illini">
+ <pos x="12.383473" y="3033.950847"/>
+ <GFX>
+  <space>MH cities 0.webp</space>
+  <exterior>Tre'ar Illini.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Tre'pira</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>MH</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>Tre'ar Illini is a beautiful, forest-covered world with extremely rich deposits of rare earths, and it is for these minerals that the Tre'pira, the Polaris worker caste, are present on this planet. Because of careful management and advanced technology, the beauty of Tre'ar Illini remains virtually undisturbed by their operations.</description>
+  <bar>The white clothes of the workers in this bar are all soiled to some degree or other. You can tell the miners from the processors from the foremen just by the amount of dirt and grime on their clothing.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Metals</item>
+  <item price_mod="1.43">Equipment</item>
+ </tech>
+</spob>

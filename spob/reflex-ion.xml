@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Reflex-ion">
+ <pos x="-1081.572915" y="-2488.747552"/>
+ <GFX>
+  <space>E 225.webp</space>
+  <exterior>Reflex-ion.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <base>50.000000</base>
+  <bonus>25.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>E</class>
+  <population>173</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+  </services>
+  <commodities/>
+  <description>Reflex-ion is a planetologist's dream, a world that looks destined to become an M-class planet which is in its early stages of formation. Of course this world is still uninhabitable, but the University of Misfire maintains a small research station here to study of the processes that go into the creation of an M-class planet.</description>
+ </general>
+</spob>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Exit (Xell)">
+ <pos x="1273.219144" y="813.148361"/>
+ <GFX>
+  <space>12-Q.png</space>
+  <exterior>Hypergate.webp</exterior>
+ </GFX>
+ <general>
+  <class>12-Q</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+</spob>

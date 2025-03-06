@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin name="Neava">
+ <author>RavelinW</author>
+ <version>0.1</version>
+ <compatibility>^0\.13..*</compatibility>
+ <priority>1</priority>
+ <total_conversion/>
+ <description>A total conversion for Naev that adds a reimagined Novaverse. </description>
+ <source>https://github.com/triskelion-voidsaints/naeva</source>
+</plugin>

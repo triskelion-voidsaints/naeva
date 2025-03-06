@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faction name="Ronin Warriors">
+ <ai>independent</ai>
+ <static />
+ <logo>ronin</logo>
+ <known />
+ <player>3</player>
+ <description>Ronin Warriors</description>
+ <colour r="0.68627" g="0.25098" b="0.20784" />
+ <spawn>testers</spawn>
+ <standing>static</standing>
+ <allies>
+ </allies>
+ <enemies>
+ </enemies>
+</faction>

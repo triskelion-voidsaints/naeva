@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Cornwall">
+ <pos x="-1001.456402" y="-2015.751989"/>
+ <GFX>
+  <space>MW cities 225.webp</space>
+  <exterior>Cornwall.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>200.000000</base>
+  <bonus>50.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>MW</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <commodities/>
+  <description> Cornwall was originally settled by the Overwatch to provide an industrial base for further human colonization into Vell-os space. However, it soon became clear that the wastes of former Alien space were scoured beyond reason. Now Cornwall supports the reasonably-sized Federation task force in this system by providing all the goods and materials they need. This task-force is perhaps the least active of any in the Federation, but remains an integral part of its defense. More than once, Auroran forces have launched surprise attacks through this system, and there have been encounters with unknown vessels from the ruined areas of what was formerly Vell-os space.</description>
+  <bar>This bar is filled with a mix of tired workers and rowdy soldiers. You decide that staying here for too long might be a bad idea because you sense that some of the soldiers are itching to start something.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.57">Equipment</item>
+  <item price_mod="1.5">Foodstuffs</item>
+  <item price_mod="1.5">Metals</item>
+ </tech>
+ <tags>
+  <tag>overwatchera</tag>
+ </tags>
+</spob>

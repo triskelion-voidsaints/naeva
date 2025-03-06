@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Kangaroo Titan Engine">
+ <general>
+  <typename>Systems (Engine)</typename>
+  <slot prop="titan_engines">structure</slot>
+  <size>large</size>
+  <mass>115</mass>
+  <price>9000</price>
+  <priority>9</priority>
+  <description>Kangaroo Titan Engine.</description>
+  <gfx_store>engine5.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <energy_regen_malus>9</energy_regen_malus>
+  <engine_limit>2246</engine_limit>
+  <fuel>1000</fuel>
+  <speed>61</speed>
+  <accel>250</accel>
+  <turn>45</turn>
+ </specific>
+</outfit>

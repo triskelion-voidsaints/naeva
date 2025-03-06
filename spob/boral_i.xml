@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Boral I">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="2730.379528" y="1799.771423"/>
+ <GFX>
+  <space>6-C.webp</space>
+  <exterior>Skymining Independent.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>6-C</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <commodities/>
+  <description>Boral I is the headquarters of Boral Mining Corp. It is here that all the noble gases harvested from Fermia's atmosphere by the small army of prospectors employed by the company are processed and refined. So far Boral has survived in the fiercely competitive universe of commerce by staying small enough that they remain beneath the notice of any of the larger, more professional mining companies.</description>
+  <bar>This bar is filled with the rowdy crews of some of the small trading concerns that deal with Boral. This establishment is a spacer's dream; good beer, good service, jokes, laughs and the occasional rousing fight. What more could you want?</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Industrial</item>
+  <item price_mod="1.38">Medical Supplies</item>
+ </tech>
+ <tags>
+  <tag>federationera</tag>
+ </tags>
+</spob>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Hydden">
+ <general>
+  <radius>7500.000000</radius>
+  <spacedust>400</spacedust>
+  <interference>0.000000</interference>
+ </general>
+ <pos x="-790.294034" y="119.705090"/>
+ <spobs>
+  <spob>Vella LP №3</spob>
+ </spobs>
+ <jumps>
+  <jump target="Inkira">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Kanto">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Kerella">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Oban">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Olaralo">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+ </jumps>
+ <tags>
+  <tag>Vella</tag>
+ </tags>
+</ssys>

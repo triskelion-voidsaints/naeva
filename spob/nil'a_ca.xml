@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Nil'a Ca">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>1-P.webp</space>
+  <exterior>Polaris Defence Station.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Nil'kemorya</faction>
+  <base>300.000000</base>
+  <bonus>0.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>1-P</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <outfits/>
+  </services>
+  <commodities/>
+  <description>The Nil'kemorya maintain their war headquarters here. The warriors on this station hold themselves ready to deal with any large-scale threat to the sovereignty of the Polaris. The only time this base has been put to its maximum use was during the first and only Polaris Civil War, when Iusia, the leader of the Nil'kemorya at the time, led the warrior caste in a seven-day campaign which crippled the capacity of the warring castes to make war on each other. The battle leader of the warrior caste, titled Iuso, meaning 'disciple of Iusia', resides here.</description>
+  <bar>When you walk into this establishment you see several young warriors sitting around various tables in serious discussions about various problems. None of them appear to be drunk, and every single one glances at you when you walk in and gives you a practiced once over before you take two steps into the room. You cannot help but feel slightly overawed.</bar>
+ </general>
+</spob>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Bionic Carrier Hull">
+ <general>
+  <typename>Systems (Hull)</typename>
+  <slot prop="carrier_hull">structure</slot>
+  <size>large</size>
+  <priority>8</priority>
+  <mass>260</mass>
+  <price>8000</price>
+  <description>Bionic Carrier Hull.</description>
+  <gfx_store>organic_hull_l.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <armour>14500</armour>
+  <shield>14500</shield>
+  <shield_regen>95</shield_regen>
+  <armour_regen>95</armour_regen>
+ </specific>
+</outfit>

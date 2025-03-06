@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="OG-Hexaporya E">
+ <marker>spobmarker_triangle</marker>
+ <pos x="2972.738301" y="-106.033591"/>
+ <GFX>
+  <space>10 90.webp</space>
+  <exterior>Overgate.webp</exterior>
+ </GFX>
+ <general>
+  <class>10</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+</spob>

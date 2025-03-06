@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Vrenna">
+ <pos x="-3664.517284" y="-2585.669130"/>
+ <GFX>
+  <space>DP 225.webp</space>
+  <exterior>Vrenna.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>DP</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>Bordering on Polaris space, Vrenna is an icy planet uninhabited except for a few hardy souls who hunt the vicious Vrenna ice-lizards. Called lizards for their looks more than their biology, these creatures resemble thirty foot long, eight foot high, three-eyed, six-legged, slightly more than one-ton, fur-covered lizards, and it is for their fur that they are hunted. One pelt of the silkily soft, rippling gray-white fur is viewed as extremely valuable by both the Federation and the Polaris, and could be traded for enough food to feed a decent family for many years. Despite this, very few seek to hunt the ice-lizards, as the lizards tend to kill more hunters than the hunters kill lizards.</description>
+ </general>
+ <tech>
+  <item price_mod="0.670000">Luxury Goods</item>
+  <item price_mod="1.500000">Foodstuffs</item>
+  <item price_mod="1.430000">Equipment</item>
+ </tech>
+</spob>

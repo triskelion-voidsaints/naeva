@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Armoured Lifepod Hull">
+ <general>
+  <typename>Systems (Hull)</typename>
+  <slot prop="lifepod_hull">structure</slot>
+  <size>small</size>
+  <priority>1</priority>
+  <mass>6</mass>
+  <price>1000</price>
+  <description>Armoured Lifepod Hull.</description>
+  <gfx_store>combat_hull_t.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <armour>700</armour>
+  <shield>300</shield>
+  <shield_regen>105</shield_regen>
+  <armour_regen>45</armour_regen>
+ </specific>
+</outfit>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Retsim">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>X cities 0.webp</space>
+  <exterior>Retsim.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Vella</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>X</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>All of the Five Houses maintain an institution for learning, where those who choose not to become warriors may learn a useful profession. This is the Vella world where young Vellans come to receive their education in such fields. Vella warriors, much like their compatriots from other houses, view these people, and the worlds where they are taught their trades, with open disdain and disrespect. However, the value of these people to their houses is immense, for without doctors, engineers, merchants, nurses, or scientists, none of the Five Houses would survive for very long.</description>
+  <bar>This bar is filled with both students and members of the teaching staff for the huge university on this planet. However, despite being outnumbered, all the best seats, and the largest amount of room is still given to the few warriors who have deigned to drink here.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.63">Medical Supplies</item>
+  <item price_mod="1.5">Foodstuffs</item>
+  <item price_mod="1">Local Alcohols</item>
+ </tech>
+</spob>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Passive Fighter Core">
+ <general>
+  <typename>Systems (Core)</typename>
+  <slot prop="fighter_core">utility</slot>
+  <size>small</size>
+  <mass>8</mass>
+  <price>2000</price>
+  <priority>2</priority>
+  <description>Passive Fighter Core.</description>
+  <gfx_store>core_system_basic_s1.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <cpu_max>12</cpu_max>
+  <cargo>28</cargo>
+  <energy>390</energy>
+  <energy_regen>17</energy_regen>
+  <ammo_capacity>50</ammo_capacity>
+  <launch_range>-30</launch_range>
+ </specific>
+</outfit>

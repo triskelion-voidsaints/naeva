@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Vella LP №4">
+ <pos x="1308.856320" y="843.540480"/>
+ <marker>spobmarker_rhombus</marker>
+ <GFX>
+  <space>5-A.webp</space>
+  <exterior>Auroran LP.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Vella</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>5-A</class>
+  <population>50</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>Although officially this listening post is here to watch for Federation soldiers, the real reason for its existence is to keep an eye on the forces loyal to the First Family some three systems away. Suspicious of the Auroran Central Government's decade-long buildup of forces in the Grak system, the leaders of the Vella House ordered this small early-warning station built here. The warriors on this station stay on edge, for they know that if the enormous Auroran fleet does decide to move against the Vella, they will be very difficult to stop.</description>
+ </general>
+</spob>

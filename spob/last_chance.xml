@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Last Chance">
+ <pos x="10.699321" y="4483.015305"/>
+ <GFX>
+  <space>L 0.webp</space>
+  <exterior>Last Chance.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Derelict</faction>
+  <base>0.000000</base>
+  <bonus>0.000000</bonus>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>L</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+  </services>
+  <commodities/>
+  <description>Abandonded Manifest-era forced matrix Iridium Cuprite mine, a metal that was used in old hyperdrive reactors before a more stable reactant was found.</description>
+ </general>
+</spob>

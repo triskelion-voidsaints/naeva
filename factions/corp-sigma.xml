@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faction name="Sigma Shipyards">
+ <ai>independent</ai>
+ <static />
+ <known />
+ <player>3</player>
+ <logo>Sigma</logo>
+ <description>Sigma Shipyards is the major Federation shipwright. They also fabricate venerable Manifest-era bulk-freighter designs, which they use to trade through Hypergates (of which they are the sole modern user) for great profit. Sigma is the logistical backbone of the universe.</description>
+ <colour r="0.6980392157" g="0.6980392157" b="0.6980392157" />
+ <spawn>testers</spawn>
+ <standing>static</standing>
+ <allies>
+ </allies>
+ <enemies>
+ </enemies>
+ <lane_length_per_presence>300</lane_length_per_presence>
+ <lane_base_cost>50</lane_base_cost>
+</faction>

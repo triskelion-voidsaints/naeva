@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Bionic Corvette Hull">
+ <general>
+  <typename>Systems (Hull)</typename>
+  <slot prop="corvette_hull">structure</slot>
+  <size>medium</size>
+  <priority>4</priority>
+  <mass>36</mass>
+  <price>4000</price>
+  <description>Bionic Corvette Hull.</description>
+  <gfx_store>organic_hull_h.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <armour>3500</armour>
+  <shield>3500</shield>
+  <shield_regen>46</shield_regen>
+  <armour_regen>46</armour_regen>
+ </specific>
+</outfit>

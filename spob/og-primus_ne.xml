@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="OG-Primus NE">
+ <marker>spobmarker_triangle</marker>
+ <pos x="1661.180651" y="2387.989005"/>
+ <GFX>
+  <space>10-Y 30.webp</space>
+  <exterior>Overgate.webp</exterior>
+ </GFX>
+ <general>
+  <class>10-Y</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+</spob>

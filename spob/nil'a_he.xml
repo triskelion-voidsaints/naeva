@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Nil'a He">
+ <pos x="0.000000" y="0.000000"/>
+ <marker>spobmarker_rhombus</marker>
+ <GFX>
+  <space>1-P.webp</space>
+  <exterior>Polaris Defence Station.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Nil'kemorya</faction>
+  <base>300.000000</base>
+  <bonus>0.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>1-P</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+   <outfits/>
+  </services>
+  <commodities/>
+  <description>He, meaning "one" in the Polaris language, signifies this as an important station. Standing on the border of Polaris space, facing hostilities from both the Federation and the Wraith, the members of the warrior caste, which is named "Nil'kemorya" in the Polaris tongue, who are housed here seem to have an almost preternatural stillness about them. Although they treat you with absolute respect, you cannot help feeling more than a little frightened.</description>
+ </general>
+</spob>

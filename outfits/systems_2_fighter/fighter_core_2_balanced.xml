@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Balanced Fighter Core">
+ <general>
+  <typename>Systems (Core)</typename>
+  <slot prop="fighter_core">utility</slot>
+  <size>small</size>
+  <mass>8</mass>
+  <price>2000</price>
+  <priority>2</priority>
+  <description>Balanced Fighter Core.</description>
+  <gfx_store>core_system_shield_s1.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <cpu_max>20</cpu_max>
+  <cargo>20</cargo>
+  <energy>300</energy>
+  <energy_regen>24</energy_regen>
+ </specific>
+</outfit>

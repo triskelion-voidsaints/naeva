@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Brass">
+ <pos x="-2650.063189" y="1492.208478"/>
+ <GFX>
+  <space>RH cities 45.webp</space>
+  <exterior>Brass.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>RH</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>Despite their best efforts to the contrary, not even the enlightened leadership of the Federation can help everybody. Brass is one of the places where, despite the best efforts of the Federation Council, the living conditions are still substandard. Perhaps this is due to the fact that the inhabitants are yet to organize a way of choosing a person to represent their planet on the Council. To this day the seat for the representative of Brass remains empty. So even though Brass is one of the most populated planets in Federation Space, its plight continues.</description>
+  <bar>This dirty, foul-smelling establishment is filled with the outcasts of a civilization that has forgotten them. After the tenth beggar has asked you piteously for money, you resolve not to return here for a while.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Industrial</item>
+  <item price_mod="1.5">Foodstuffs</item>
+ </tech>
+ <tags>
+  <tag>frontierera</tag>
+  <tag>federationera</tag>
+ </tags>
+</spob>

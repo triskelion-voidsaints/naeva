@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Drifter Fighter Engine">
+ <general>
+  <typename>Systems (Engine)</typename>
+  <slot prop="fighter_engines">structure</slot>
+  <size>small</size>
+  <mass>4</mass>
+  <price>2000</price>
+  <description>Drifter Fighter Engine.</description>
+  <gfx_store>engine7.webp</gfx_store>
+  <priority>2</priority>
+ </general>
+ <specific type="modification">
+  <energy_regen_malus>2</energy_regen_malus>
+  <engine_limit>83</engine_limit>
+  <fuel>300</fuel>
+  <speed>689</speed>
+  <accel>333</accel>
+  <turn>480</turn>
+ </specific>
+</outfit>

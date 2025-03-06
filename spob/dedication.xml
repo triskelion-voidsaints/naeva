@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Dedication">
+ <pos x="0.000000" y="0.000000"/>
+ <marker>spobmarker_rhombus</marker>
+ <GFX>
+  <space>7-0.webp</space>
+  <exterior>Deimos.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Dani</faction>
+  <base>300.000000</base>
+  <bonus>150.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>7-0</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <commodities/>
+  <description>This system is the most heavily defended of all Dani House outposts. Of the routes into Dani space, this is the main one. There are many incursions by warriors from the Heraan House and even the occasional raid by Federation scoutships snooping around well outside their borders. Many young warriors that are stationed here journey North to show their skills by defeating the Federation soldiers. Nearly all veterans of duty in this system have quite a few of the little blue battle tattoos that signify a successful engagement against the Federation.</description>
+  <bar>This bar is filled with Dani warriors all enjoying a quiet drink after coming off duty in this very active system. Even the youngest of them seems to be covered in battle tattoos and more than a few scars.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.67">Luxury Goods</item>
+  <item price_mod="1.67">Local Alcohols</item>
+ </tech>
+</spob>

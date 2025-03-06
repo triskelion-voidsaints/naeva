@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Resilience">
+ <pos x="0.000000" y="0.000000"/>
+ <marker>spobmarker_rhombus</marker>
+ <GFX>
+  <space>0-A.webp</space>
+  <exterior>Auroran Single.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Heraan</faction>
+  <base>150.000000</base>
+  <bonus>75.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>0-A</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <outfits/>
+  </services>
+  <commodities/>
+  <description>This battle-station was built to protect the hospitals on the surface of the planet it orbits. The warriors stationed here go out to battle gladly, because they owe huge debts of gratitude to the people below for their efforts in healing their colleagues' battle wounds. They also know that by protecting these miracle workers they are helping their fellow warriors survive. So those stationed here are called 'Korasch' which means 'they who fight with a bright soul' for they go to battle with joy in their hearts and a smile upon their faces.</description>
+  <bar>This bar only serves a small number of very common drinks because the warriors stationed here, like most other Heraan warriors, never drink alcohol if there is any chance of them having to be ready to go into action.</bar>
+ </general>
+</spob>

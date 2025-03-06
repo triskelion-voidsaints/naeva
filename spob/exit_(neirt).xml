@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Exit (Neirt)">
+ <pos x="-1005.736131" y="-2000.772941"/>
+ <GFX>
+  <space>12-Q.png</space>
+  <exterior>Auroran Single.webp</exterior>
+ </GFX>
+ <general>
+  <class>12-Q</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+</spob>

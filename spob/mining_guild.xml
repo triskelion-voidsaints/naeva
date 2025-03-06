@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Mining Guild">
+ <pos x="2068.535304" y="2202.276811"/>
+ <GFX>
+  <space>1-C.webp</space>
+  <exterior>Civilian Station.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <base>150.000000</base>
+  <bonus>75.000000</bonus>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>MW</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+ </general>
+</spob>

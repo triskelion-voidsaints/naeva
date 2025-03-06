@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Exit (Confluence)">
+ <pos x="-1136.802807" y="1367.135402"/>
+ <GFX>
+  <space>12-Q.png</space>
+  <exterior>Polaris Station.webp</exterior>
+ </GFX>
+ <general>
+  <class>12-Q</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+</spob>

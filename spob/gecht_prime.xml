@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Gecht Prime">
+ <pos x="-6008.738414" y="-36.976852"/>
+ <GFX>
+  <space>E 270.webp</space>
+  <exterior>Gecht.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Aurora Empire</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>E</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>Gecht is still incredibly tectonically active, and will probably require about another billion years to settle down and become an M-class planet. This world would be little other than a scientific curiosity if it were not for the fact that the Gecht-worms live here. These creatures are usually thirty feet tall, and can be up to two hundred feet long. Though they have skin as tough as armor plate to protect them from the hostile conditions on the surface, the inner layer of flesh is soft and tender. Gecht-worm flesh is prized as a delicacy throughout the Empire, and so many young warriors come here to hunt the worms.</description>
+ </general>
+ <tech>
+  <item price_mod="0.670000">Luxury Goods</item>
+  <item price_mod="1.380000">Medical Supplies</item>
+ </tech>
+</spob>

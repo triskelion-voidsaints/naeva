@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Serenity">
+ <pos x="1437.671663" y="-511.150132"/>
+ <GFX>
+  <space>MP cities 135.webp</space>
+  <exterior>Serenity.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>100.000000</base>
+  <bonus>25.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>MP</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>Founded more than a millenia ago by a frontier Deimos, Serenity survived isolation until its rediscovery by the Overwatch during the period of strife. It is now the center for the Japanese peoples of the Federation (as most later Japan expatriates went to the then-southern-Manifest, now Aurora Empire). Serenity's cities are formed around the precepts of building contemplation gardens and Shinto temples, although the effect is different when modern building technology is thrown in as well. The overall effect is quite pleasing, if a little overdone. Many financial institutions have their main offices here, and Serenity is a rich planet because of them.</description>
+  <bar>You leave your shoes at the door when you enter this bar, and you have to sit on the small cushions on the floor. Despite this, the service is courteous and elegant, and the food and drink is exquisite.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.63">Medical Supplies</item>
+  <item price_mod="1.33">Luxury Goods</item>
+ </tech>
+ <tags>
+  <tag>frontierera</tag>
+  <tag>overwatchera</tag>
+ </tags>
+</spob>

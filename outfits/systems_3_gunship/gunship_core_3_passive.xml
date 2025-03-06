@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Passive Gunship Core">
+ <general>
+  <typename>Systems (Core)</typename>
+  <slot prop="gunship_core">utility</slot>
+  <size>small</size>
+  <mass>16</mass>
+  <price>3000</price>
+  <priority>3</priority>
+  <description>Passive Gunship Core.</description>
+  <gfx_store>core_system_basic_s2.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <cpu_max>18</cpu_max>
+  <cargo>42</cargo>
+  <energy>520</energy>
+  <energy_regen>22</energy_regen>
+  <ammo_capacity>50</ammo_capacity>
+  <launch_range>-30</launch_range>
+ </specific>
+</outfit>

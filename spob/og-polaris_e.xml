@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="OG-Polaris E">
+ <pos x="2959.899116" y="-16.159298"/>
+ <marker>spobmarker_triangle</marker>
+ <GFX>
+  <space>10-9 90.webp</space>
+  <exterior>Overgate.webp</exterior>
+ </GFX>
+ <general>
+  <class>10-9</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+</spob>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Shielded Carrier Hull">
+ <general>
+  <typename>Systems (Hull)</typename>
+  <slot prop="carrier_hull">structure</slot>
+  <size>large</size>
+  <priority>8</priority>
+  <mass>260</mass>
+  <price>8000</price>
+  <description>Shielded Carrier Hull.</description>
+  <gfx_store>base_hull_l.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <armour>8700</armour>
+  <shield>20300</shield>
+  <shield_regen>146</shield_regen>
+ </specific>
+</outfit>

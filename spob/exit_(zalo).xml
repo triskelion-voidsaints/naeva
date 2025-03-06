@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Exit (Zalo)">
+ <pos x="989.687150" y="-17.832201"/>
+ <GFX>
+  <space>12-Q.png</space>
+  <exterior>Kinike.webp</exterior>
+ </GFX>
+ <general>
+  <class>12-Q</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+</spob>

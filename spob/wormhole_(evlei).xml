@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Wormhole (Evlei)">
+ <pos x="2195.143930" y="2031.087682"/>
+ <marker>spobmarker_wormhole</marker>
+ <GFX>
+  <space>12.png</space>
+  <exterior>Unknown.webp</exterior>
+ </GFX>
+ <general>
+  <class>12</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+</spob>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Drifter Frigate Engine">
+ <general>
+  <typename>Systems (Engine)</typename>
+  <slot prop="frigate_engines">structure</slot>
+  <size>medium</size>
+  <mass>19</mass>
+  <price>5000</price>
+  <priority>5</priority>
+  <description>Rounded Frigate Engine.</description>
+  <gfx_store>engine11.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <energy_regen_malus>5</energy_regen_malus>
+  <engine_limit>347</engine_limit>
+  <fuel>600</fuel>
+  <speed>402</speed>
+  <accel>195</accel>
+  <turn>225</turn>
+ </specific>
+</outfit>

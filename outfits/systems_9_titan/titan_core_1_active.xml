@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Active Titan Core">
+ <general>
+  <typename>Systems (Core)</typename>
+  <slot prop="titan_core">utility</slot>
+  <size>large</size>
+  <mass>229</mass>
+  <price>9000</price>
+  <priority>9</priority>
+  <description>Active Titan Core.</description>
+  <gfx_store>core_system_cpu_l2.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <cpu_max>728</cpu_max>
+  <cargo>312</cargo>
+  <energy>700</energy>
+  <energy_regen>122</energy_regen>
+  <ammo_capacity>-30</ammo_capacity>
+  <launch_range>50</launch_range>
+ </specific>
+</outfit>

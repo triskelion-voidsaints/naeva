@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Kyractus">
+ <pos x="-2972.033483" y="14.860167"/>
+ <GFX>
+  <space>E 270.webp</space>
+  <exterior>Hargen.webp</exterior>
+ </GFX>
+ <general>
+  <class>E</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <nomissionspawn/>
+   <uninhabited/>
+  </services>
+  <description>This is a broken world that registers as Kyractus on your radar due to one of several ancient nav-buoys in this system still transmitting information.
+
+Judging by the high levels of residual background radiation and the geological state of this world, this molten lump of sterile rock must have suffered a cataclysm of horrifying proportions, as the solid crust had reformed only several millions of years ago.
+
+Wreckage of a titanic battle still lingers in this system, with several battered hulks of ancient worldships and the bare bones of an ancient dyson sphere. Whatever happened to these people happened on a scale and madness inconceivable to you. Any technology worth salvaging in this system is long dead or beyond repair.</description>
+ </general>
+</spob>

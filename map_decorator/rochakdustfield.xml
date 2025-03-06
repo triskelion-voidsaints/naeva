@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<decorator>
+ <image>rochakdustfield.webp</image>
+ <x>522</x>
+ <y>-666</y>
+ <detection_radius>100</detection_radius>
+</decorator>

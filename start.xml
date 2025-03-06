@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Start>
+ <name>T:VS: Naeva</name>
+ <player>
+  <gui>legacy</gui>
+  <ship name="Starter" acquired="Your first space-worthy ship!">Starsbridge</ship>
+  <credits>30000</credits>
+  <system>
+   <name>Kon</name>
+   <x>-150</x>
+   <y>1700</y>
+  </system>
+  <event>start_event</event>
+  <chapter>0</chapter>
+ </player>
+ <date scu="100" stp="1000" stu="1000" />
+ <spob_lua_default>spob/lua/default.lua</spob_lua_default>
+ <local_map_default>Local Map</local_map_default>
+</Start>

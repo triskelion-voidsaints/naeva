@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Balanced Titan Core">
+ <general>
+  <typename>Systems (Core)</typename>
+  <slot prop="titan_core">utility</slot>
+  <size>large</size>
+  <mass>229</mass>
+  <price>9000</price>
+  <priority>9</priority>
+  <description>Balanced Titan Core.</description>
+  <gfx_store>core_system_shield_l2.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <cpu_max>520</cpu_max>
+  <cargo>520</cargo>
+  <energy>1000</energy>
+  <energy_regen>94</energy_regen>
+ </specific>
+</outfit>

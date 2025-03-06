@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Pan">
+ <pos x="2988.962185" y="1956.691740"/>
+ <GFX>
+  <space>MH 45.webp</space>
+  <exterior>Pan.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Pirate</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>MH</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>While Pan looks beautiful from the air, anyone who's been unfortunate enough to spend a night here unprotected will tell you that it's the Devil's own ball of rock. Pan plays home to a vigorously competitive ecosystem, and the carnivores here are fast, silent and extremely strong. Did we mention sharp teeth? Lots of teeth. Suffice to say, be well armed when landing here, and leave your deflectors up.</description>
+ </general>
+ <tech>
+  <item price_mod="1">Foodstuffs</item>
+  <item price_mod="1">Metals</item>
+  <item price_mod="1">Industrial</item>
+  <item price_mod="1">Equipment</item>
+  <item price_mod="1">Medical Supplies</item>
+  <item price_mod="1">Luxury Goods</item>
+ </tech>
+</spob>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Drifter Cruiser Engine">
+ <general>
+  <typename>Systems (Engine)</typename>
+  <slot prop="cruiser_engines">structure</slot>
+  <size>large</size>
+  <mass>59</mass>
+  <price>7000</price>
+  <priority>7</priority>
+  <description>Rounded Cruiser Engine.</description>
+  <gfx_store>engine13.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <energy_regen_malus>7</energy_regen_malus>
+  <engine_limit>852</engine_limit>
+  <fuel>800</fuel>
+  <speed>288</speed>
+  <accel>139</accel>
+  <turn>105</turn>
+ </specific>
+</outfit>

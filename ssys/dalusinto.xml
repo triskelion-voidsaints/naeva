@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Dal'U'Sinto">
+ <general>
+  <radius>7500.000000</radius>
+  <spacedust>400</spacedust>
+  <interference>0.000000</interference>
+ </general>
+ <pos x="376.060928" y="792.273301"/>
+ <spobs/>
+ <jumps>
+  <jump target="Hot'A'Tanius">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Sel'I'Gal">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Vyl'E'Tinti">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Xym'E'Caros">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+ </jumps>
+ <tags>
+  <tag>Ossuary</tag>
+ </tags>
+</ssys>

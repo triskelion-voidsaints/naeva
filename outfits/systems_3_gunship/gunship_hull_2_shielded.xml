@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Shielded Gunship Hull">
+ <general>
+  <typename>Systems (Hull)</typename>
+  <slot prop="gunship_hull">structure</slot>
+  <size>small</size>
+  <priority>3</priority>
+  <mass>24</mass>
+  <price>3000</price>
+  <description>Shielded Gunship Hull.</description>
+  <gfx_store>base_hull_s.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <armour>1200</armour>
+  <shield>2800</shield>
+  <shield_regen>100</shield_regen>
+ </specific>
+</outfit>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Bluyo">
+ <general>
+  <radius>4500.000000</radius>
+  <spacedust>400</spacedust>
+  <interference>0.000000</interference>
+ </general>
+ <pos x="-331.215984" y="-755.083674"/>
+ <spobs/>
+ <jumps>
+  <jump target="Mackle">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Terval">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+ </jumps>
+ <tags>
+  <tag>Moash</tag>
+ </tags>
+</ssys>

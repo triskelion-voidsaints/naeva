@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Ver'roqi">
+ <general>
+  <radius>3000.000000</radius>
+  <spacedust>400</spacedust>
+  <interference>0.000000</interference>
+ </general>
+ <pos x="1085.608343" y="2.320195"/>
+ <spobs>
+  <spob>Ver'a He</spob>
+  <spob>Ver'a Se</spob>
+  <spob>Ver'ar Roqu</spob>
+ </spobs>
+ <jumps>
+  <jump target="Ki'manora">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Ver'korla">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+ </jumps>
+ <tags>
+  <tag>Holpa</tag>
+ </tags>
+</ssys>

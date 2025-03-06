@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Tre'a Vi">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="-495.411233" y="-319.906382"/>
+ <GFX>
+  <space>0-P.webp</space>
+  <exterior>Polaris Station.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Tre'pira</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>0-P</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>This station, in orbit around Tre'ar Erma, uses the methane gathered on the planet's surface to create organic compounds which are then used to outfit the interior of Polaris ships. Many of the objects created here in the most recent of Polaris stations have started to decorate the interiors of ships throughout Polaris space.</description>
+  <bar>The Tre'pira in this homely bar are all quietly relaxing having a few drinks in small groups. In the background you hear some sort of quiet, yet lively music.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.67">Luxury Goods</item>
+ </tech>
+</spob>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Alertness">
+ <pos x="546.936717" y="211.550994"/>
+ <GFX>
+  <space>0-A.webp</space>
+  <exterior>Auroran Single.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Heraan</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>0-A</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <commodities/>
+  <description>This system and the Heraan Astra system were the two entry points used by Moash forces during the Great Moash Invasion of two centuries ago. When the Heraan forces finally returned to Heraan space, the station here was rebuilt and given the name 'Alertness'. The warriors who live and work out of this station remember the events during the invasion and take the station's name to heart, remaining ever vigilant.</description>
+  <bar>All of the warriors here have a very serious air about them, and none of them seem to be getting drunk. As you enter nearly every eye glances in your direction, but no comments are made and you are given a decent amount of space at the bar.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Industrial</item>
+  <item price_mod="1.38">Medical Supplies</item>
+ </tech>
+</spob>

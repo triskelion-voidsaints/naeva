@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot name="destroyer_engines">
+ <display>Engines</display>
+ <description>This is the ship's basic, built-in engine system.</description>
+ <exclusive/>
+ <required/>
+ <icon>engines.png</icon>
+</slot>

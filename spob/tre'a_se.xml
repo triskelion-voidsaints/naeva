@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Tre'a Se">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>0-P.webp</space>
+  <exterior>Polaris Station.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Tre'pira</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>0-P</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>The Tre'pira, the worker caste, working with the Ver'ash, the healer/engineer caste, build and grow many ship parts on this station in order to repair the more common types of damage to Nil'kemorya ships. This then takes the pressure off Ver'ar Sho in the Ver'ashan system, so that they only have to deal with the more seriously damaged warrior caste ships.</description>
+  <bar>This bar has a more even mix of castes of any bar you have come across in Polaris space. You see Tre'pira, Ver'ash, Nil'kemorya, a few occasional Mu'Hari and even one or two P'aedt. They all seem to circulate amongst one another with no trouble whatsoever.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.57">Equipment</item>
+  <item price_mod="1.5">Metals</item>
+ </tech>
+</spob>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Ventus">
+ <pos x="3035.183250" y="1972.098762"/>
+ <GFX>
+  <space>MH cities 45.webp</space>
+  <exterior>Ventus.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Wraith</faction>
+  <base>500.000000</base>
+  <bonus>0.000000</bonus>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>MH</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <nomissionspawn/>
+   <uninhabited/>
+  </services>
+  <commodities/>
+  <description>This world is stunning.  Huge jungles cover the landscape, and every so often a giant crystal spire towers over the landscape. Most notably, a massive wreckage of an ancient worldship covers almost half of the main southern continent. 
+
+A large number of Wraith actually make landings around this wreckage, signifying it as holding great meaning to those aliens. The wreckage is ancient, as a cursory survey indicates an age of approximately 44 million years, making it far older than any archaeological site of the Manifest or Vell-os.
+
+This world must have played host to an ancient civilization which once held this now barren region of the galaxy, though it may not have been so devoid of planets and constructs that time.  That aside, the grand and diverse biomass on this gorgeous planet is amazing to behold.</description>
+ </general>
+</spob>

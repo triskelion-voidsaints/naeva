@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Lixos">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>C cities 0.webp</space>
+  <exterior>Lixos.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Aurora Empire</faction>
+  <base>150.000000</base>
+  <bonus>75.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>C</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>Lixos is the second biggest money earner for the First Family, and is the second-largest mining operation in the Known Galaxy, both behind Atar in the Pilot system. On Atar, the operation concentrates on iron ore with a sprinkling of other metals, while Lixos has enormous veins of rare minerals and precious stones. Because of its value, the First Family guards this system fairly heavily to ensure its security against the depredations of the other houses.</description>
+  <bar>This is a bar of two halves. The warriors take the larger brighter half, and the workers take the smaller, dirtier half. If any of the workers stray into the area housing the warriors, he is quickly and forcefully rebuffed.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.67">Luxury Goods</item>
+  <item price_mod="1.5">Industrial</item>
+ </tech>
+</spob>

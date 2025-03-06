@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Active Frigate Core">
+ <general>
+  <typename>Systems (Core)</typename>
+  <slot prop="frigate_core">utility</slot>
+  <size>medium</size>
+  <mass>39</mass>
+  <price>5000</price>
+  <priority>5</priority>
+  <description>Active Frigate Core.</description>
+  <gfx_store>core_system_cpu_m1.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <cpu_max>105</cpu_max>
+  <cargo>45</cargo>
+  <energy>420</energy>
+  <energy_regen>68</energy_regen>
+  <ammo_capacity>-30</ammo_capacity>
+  <launch_range>50</launch_range>
+ </specific>
+</outfit>

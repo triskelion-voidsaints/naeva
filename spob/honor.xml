@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Honor">
+ <pos x="1326.486913" y="2701.504652"/>
+ <GFX>
+  <space>MH 45.webp</space>
+  <exterior>Honor.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>MH</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>The first thing you notice about Honor is the weather. While extremely changeable, the rains are never extreme (more like sun-showers), and the hot days never too bright or too hot. Honor is seen by the Taoists as the perfect example of balance, and there are many temples of that philosophy here, as well as Shaolin Buddhists. Honor puts one in mind of a picture perfect day in the ancient Middle Kingdom on Earth, and certainly many of the population are oriental in background. By general unspoken agreement, Honor is fairly low tech, with any areas that must be modern discreetly hidden from casual view. The spaceport is often missed by tourists from the air.</description>
+  <bar>On entering this bar you see a number of young Shaolin monks drinking heavily. You are about to question why when the bartender tells you that they are attempting to train in some style of drunken martial arts. You find this idea amusing, but you decide not to push the issue just in case.</bar>
+ </general>
+ <tech>
+  <item price_mod="1">Foodstuffs</item>
+  <item price_mod="1">Metals</item>
+  <item price_mod="1">Industrial</item>
+  <item price_mod="1">Equipment</item>
+  <item price_mod="1">Medical Supplies</item>
+  <item price_mod="1">Luxury Goods</item>
+ </tech>
+</spob>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Khyste">
+ <general>
+  <radius>3000.000000</radius>
+  <spacedust>400</spacedust>
+  <interference>0.000000</interference>
+ </general>
+ <pos x="-398.837898" y="-509.757131"/>
+ <spobs>
+  <spob>Wormhole (Khyste)</spob>
+ </spobs>
+ <jumps>
+  <jump target="Derlic">
+   <pos x="2933.112290" y="-618.323782"/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Vantra">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+ </jumps>
+ <tags>
+  <tag>Moash</tag>
+ </tags>
+</ssys>

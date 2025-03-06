@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Spacedock II">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="-692.631465" y="-911.794908"/>
+ <GFX>
+  <space>0-F.webp</space>
+  <exterior>Federation Station.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>0-F</class>
+  <population>37000</population>
+  <hide>0.100000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>Spacedock II is the headquarters for the Federation Navy's logistics department. The base is also utilized as a secondary repair and outfitting facility with the shipyards on the Kane Band around Earth being primary. Materials and parts produced on nearby Kiniké are shipped up and assembled on base. However, the primary purpose of this base is to provide a home for the people who have to keep track of the Federation military on a day-to-day basis. An occasional Auroran skirmish keeps the pilots and gunners of Spacedock II on their toes, as the Auroran commanders see Spacedock II as a important link in the Federation's logistics chain.</description>
+  <bar>Welcome to Remf's. The officer in charge of the mess, Lt. Col. Reynold M. French, ensures that this bar is open at all times, except for when the soldiers are off-duty.</bar>
+ </general>
+ <tech>
+  <item price_mod="1.500000">Metals</item>
+ </tech>
+ <tags>
+  <tag>federationera</tag>
+ </tags>
+</spob>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Neilha Memorial">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>5-A.webp</space>
+  <exterior>Auroran LP.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Tekel</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>5-A</class>
+  <population>50</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>Named after the former Obsidian Heart, Arbiter of Reckoning of the Tekel House, this system was the scene of a great victory by the Tekel over the Dani. Neilha lured the Dani battle fleet into the system before single-handedly engaging the entire fleet, thus holding them in place until the Tekel fleet was able to get into position. His action enabled the Tekel House warriors to help themselves to a near-complete annihilation of the Dani fleet. Unfortunately, Neilha was killed in the engagement. Those Tekel warriors who survived wear a small dark crystal tattoo to show that they were involved in the battle, and to honor the passing of their Obsidian Heart, and his superhuman deeds.</description>
+  <bar>The only decoration in this stark bar is a projection of Neilha, the man for whom this station is named. Underneath this scrolling text tells of his life and of the deed for which he was remembered.</bar>
+ </general>
+</spob>

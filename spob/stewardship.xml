@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Stewardship">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>7-0.webp</space>
+  <exterior>Deimos.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Tekel</faction>
+  <base>300.000000</base>
+  <bonus>150.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>7-0</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <outfits/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>This is the second of the two major bases for the Tekel battle fleets. It is here that many of the young potential warriors find the tutors that will instruct them on the finer points of the warriors' code. Many of the old and infirm warriors remain here to help raise young warriors to bring honor to Tekel House. From here, the young aspirants journey to Agrippa in the Grip system to undergo their initiation as warriors. This station also stands across the main path for any hostile fleets coming from the rest of the Empire, especially Dani space, and so is kept fairly active maintaining the security of the Tekel Family.</description>
+  <bar>This room is filled with small groups of young would-be warriors sitting listening to warriors too old to serve in any more active role. It seems that these ancient warriors are trying to teach these young hotheads some of the ideas behind what they as warriors should be trying to achieve.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Metals</item>
+  <item price_mod="1.38">Medical Supplies</item>
+ </tech>
+</spob>

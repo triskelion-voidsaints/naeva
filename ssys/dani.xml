@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Dani">
+ <general>
+  <radius>4500.000000</radius>
+  <spacedust>400</spacedust>
+  <interference>0.000000</interference>
+ </general>
+ <pos x="121.030929" y="-474.070403"/>
+ <spobs>
+  <spob>Dani Prime</spob>
+  <spob>HG-Dani</spob>
+ </spobs>
+ <jumps>
+  <jump target="GH_Dani">
+   <pos x="4075.463026" y="2031.662051"/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Gotim">
+   <pos x="65.744029" y="4495.217111"/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Renan">
+   <pos x="-3287.912531" y="-2992.175188"/>
+   <hide>0.000000</hide>
+  </jump>
+  <jump target="Tural">
+   <pos x="3082.498840" y="-3154.356538"/>
+   <hide>1.000000</hide>
+  </jump>
+ </jumps>
+ <tags>
+  <tag>Dani</tag>
+ </tags>
+</ssys>

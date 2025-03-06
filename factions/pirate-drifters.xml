@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faction name="Drifters">
+ <ai>independent</ai>
+ <static />
+ <known />
+ <logo>drifters</logo>
+ <player>3</player>
+ <description>The Drifter pirate clan.</description>
+ <colour r="0.349" g="0.1137" b="0.2078" />
+ <spawn>testers</spawn>
+ <standing>static</standing>
+ <allies>
+ </allies>
+ <enemies>
+ </enemies>
+</faction>

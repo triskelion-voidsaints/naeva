@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="OG-Kane NE">
+ <pos x="1875.167062" y="2238.198517"/>
+ <marker>spobmarker_triangle</marker>
+ <GFX>
+  <space>10-Q 30.webp</space>
+  <exterior>Overgate.webp</exterior>
+ </GFX>
+ <general>
+  <class>10-Q</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+</spob>

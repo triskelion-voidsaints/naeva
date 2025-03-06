@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Armoured Cruiser Hull">
+ <general>
+  <typename>Systems (Hull)</typename>
+  <slot prop="cruiser_hull">structure</slot>
+  <size>large</size>
+  <priority>7</priority>
+  <mass>178</mass>
+  <price>7000</price>
+  <description>Armoured Cruiser Hull.</description>
+  <gfx_store>combat_hull_m.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <armour>15400</armour>
+  <shield>6600</shield>
+  <shield_regen>77</shield_regen>
+  <armour_regen>33</armour_regen>
+ </specific>
+</outfit>
