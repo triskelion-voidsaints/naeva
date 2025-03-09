@@ -17,5 +17,7 @@
   <speed>317</speed>
   <accel>250</accel>
   <turn>180</turn>
+  <cargo>10</cargo>
+  <ammo_capacity>10</ammo_capacity>
  </specific>
 </outfit>

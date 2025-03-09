@@ -15,7 +15,5 @@
   <cargo>180</cargo>
   <energy>630</energy>
   <energy_regen>113</energy_regen>
-  <ammo_capacity>-30</ammo_capacity>
-  <launch_range>50</launch_range>
  </specific>
 </outfit>

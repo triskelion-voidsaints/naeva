@@ -16,6 +16,8 @@
   <fuel>800</fuel>
   <speed>264</speed>
   <accel>209</accel>
-  <turn>105</turn>
+  <turn>145</turn>
+  <cargo>10</cargo>
+  <ammo_capacity>10</ammo_capacity>
  </specific>
 </outfit>

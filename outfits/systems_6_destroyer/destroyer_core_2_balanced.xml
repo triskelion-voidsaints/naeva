@@ -15,5 +15,6 @@
   <cargo>100</cargo>
   <energy>700</energy>
   <energy_regen>66</energy_regen>
+  <ammo_capacity>20</ammo_capacity>
  </specific>
 </outfit>
