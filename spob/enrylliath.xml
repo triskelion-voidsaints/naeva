@@ -3,7 +3,7 @@
  <pos x="1975.163919" y="2012.314337"/>
  <GFX>
   <space>MP cities 45 grayscale.png</space>
-  <exterior>Wyll.webp</exterior>
+  <exterior>Enrylliath.webp</exterior>
  </GFX>
  <general>
   <class>R</class>
@@ -12,6 +12,6 @@
   <services>
    <land/>
   </services>
-  <description>This world is surrounded by a bubble of null-time. A staggering number of missiles with contrails frozen in the sky hang in the atmosphere. They narrowly escaped destruction, but at what cost?</description>
+  <description>This world is surrounded by a bubble of null-time. A staggering number of missiles with frozen contrails hang in the sky. They narrowly escaped destruction, but at what cost?</description>
  </general>
 </spob>
