@@ -6,7 +6,9 @@
   <interference>0.000000</interference>
  </general>
  <pos x="-958.203413" y="421.666453"/>
- <spobs/>
+ <spobs>
+  <spob>Enrylliath</spob>
+ </spobs>
  <jumps>
   <jump target="Onllot">
    <autopos/>
