@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<spob name="Enrylliath">
+<spob name="Wyll">
  <pos x="1975.163919" y="2012.314337"/>
  <GFX>
   <space>MP cities 45 grayscale.png</space>
-  <exterior>Enrylliath.webp</exterior>
+  <exterior>Wyll.webp</exterior>
  </GFX>
  <general>
   <class>R</class>
