@@ -8,6 +8,10 @@
  <pos x="-1188.403413" y="434.466453"/>
  <spobs/>
  <jumps>
+  <jump target="Enrylliath">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
   <jump target="Fyllaren">
    <autopos/>
    <hide>1.000000</hide>
