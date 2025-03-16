@@ -61,6 +61,12 @@ return {
 	  ["UHP-0474"] = { "intrigue.ogg" },
 	  ["Lupus"] = { "tension.ogg" },
 	  ["Irradiated Deimos"] = { "intrigue.ogg" },
+	  ["Llyrithra"] = { "tension.ogg" },
+	  ["Vellos Prime"] = { "tension.ogg" },
+	  ["Korell Prime"] = { "intrigue.ogg" },
+	  ["Harbor"] = { "pirate1_theme1.ogg" },
+	  ["Hrunyir's Exchange"] = { "pirate1_theme1.ogg" },
+	  ["Houseless"] = { "pirate1_theme1.ogg" },
    },
    -- System-specific songs. Replace songs for certain systems
    system_ambient_songs = {

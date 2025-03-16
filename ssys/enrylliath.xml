@@ -5,14 +5,14 @@
   <spacedust>400</spacedust>
   <interference>0.000000</interference>
  </general>
- <pos x="-1288.697636" y="422.425382"/>
+ <pos x="-1272.697636" y="470.425382"/>
  <spobs/>
  <jumps>
   <jump target="Fyllaren">
    <autopos/>
    <hide>1.000000</hide>
   </jump>
-  <jump target="Sondurll">
+  <jump target="Uriall">
    <autopos/>
    <hide>1.000000</hide>
   </jump>

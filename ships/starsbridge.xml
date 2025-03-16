@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <ship name="Starsbridge">
- <points>20</points>
+ <points>1</points>
  <base_type>starsbridge</base_type>
  <gfx sx="9" sy="8">starsbridge</gfx>
  <sound>engine</sound>
- <class>Yacht</class>
+ <class>Courier</class>
  <price>600000</price>
  <time_mod>1</time_mod>
  <faction>Independent</faction>
@@ -23,5 +23,7 @@
   <structure size="medium" prop="corvette_engines">Rounded Corvette Engine</structure>
   <structure size="medium" prop="corvette_hull">Standard Corvette Hull</structure>
  </slots>
- <stats/>
+ <stats>
+  <armour>1</armour>
+ </stats>
 </ship>

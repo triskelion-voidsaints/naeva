@@ -9,6 +9,7 @@
  <pos x="-596.064815" y="648.900463"/>
  <spobs>
   <spob>Exit (K3)</spob>
+  <spob>Psionic Disruptor (K3)</spob>
  </spobs>
  <jumps>
   <jump target="Capella">

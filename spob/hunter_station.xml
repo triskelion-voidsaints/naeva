@@ -2,8 +2,8 @@
 <spob name="Hunter Station">
  <pos x="-1286.840302" y="-1738.133483"/>
  <GFX>
-  <space>2-C.webp</space>
-  <exterior>Overgate.webp</exterior>
+  <space>0-C.webp</space>
+  <exterior>Civilian Station Small.webp</exterior>
  </GFX>
  <presence>
   <faction>Independent</faction>

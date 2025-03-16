@@ -6,7 +6,9 @@
   <interference>0.000000</interference>
  </general>
  <pos x="-1063.626543" y="662.320602"/>
- <spobs/>
+ <spobs>
+  <spob>Psionic Disruptor (K8)</spob>
+ </spobs>
  <jumps>
   <jump target="K16">
    <pos x="-2956.011335" y="36.200872"/>
