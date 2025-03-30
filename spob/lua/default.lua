@@ -99,7 +99,7 @@ local SPOB_CLASSES = {
 	["Q"] = _("Variable (Q class)"),
 	["R"] = _("Rogue (R class)"),
 	["RH"] = _("Dry Rogue (RH class)"),
-	["S"] = _("Ultragiant (S class)"),
+	["S"] = _("Methane Atmosphere (S class)"),
 --[[Add more as necessary
 	["T"] = _(" (T class)"),
 	["U"] = _(" (U class)"),
