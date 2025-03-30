@@ -20,3 +20,6 @@ Nova's map has been reworked to focus on trade loops to encourage more varied tr
 	- Linux `~/.local/share/naev/plugins`
 	- Mac OS X `~/Library/Application Support/org.naev.Naev/plugins`
 	- Windows `%APPDATA%\naev\plugins`
+
+## TODO
+1) Change Tre'an Olep into a system background

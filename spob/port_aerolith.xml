@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="Port Aerolith">
+ <marker>spobmarker_rhombus</marker>
  <pos x="0.000000" y="0.000000"/>
  <GFX>
   <space>3.webp</space>
