@@ -11,13 +11,12 @@ local SPOB_CLASSES = {
 	["7-1"] = _("Double Deimos Station (7-1 type)"),
 -- Civilian stations
 	["0-C"] = _("Civilian Station (0-C type)"),
-	["0-C-P"] = _("Pirate-controlled Civilian Station (0-C-P type)"),
 	["0-C-Z"] = _("Decommisioned Station (0-C-Z type)"),
 	["1-C"] = _("Milita Station (1-C type)"),
+-- Pirate stations
+	["2"] = _("Pirate Station (2 type)"),
+	["0-C-P"] = _("Pirate-controlled Civilian Station (0-C-P type)"),
 	["1-C-P"] = _("Pirate-controlled Militia Station (1-C-P type)"),
---[[Add more as necessary
-	["2"] = _(" (2 type)"),
-]]
 -- Federation stations
 	["3"] = _("Manifest Station (3 type)"),
 	["0-F"] = _("Federation Logistics Station (0-F type)"),
