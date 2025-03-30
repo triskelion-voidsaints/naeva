@@ -4,7 +4,7 @@
  <pos x="2027.307256" y="-1967.819033"/>
  <GFX>
   <space>1-F.webp</space>
-  <exterior>Federation Station.webp</exterior>
+  <exterior>Federation Battle.webp</exterior>
  </GFX>
  <presence>
   <faction>Federation</faction>
@@ -13,7 +13,7 @@
   <range>4</range>
  </presence>
  <general>
-  <class>0-F</class>
+  <class>1-F</class>
   <population>1</population>
   <hide>1.000000</hide>
   <services>

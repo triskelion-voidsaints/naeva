@@ -3,7 +3,7 @@
  <marker>spobmarker_rhombus</marker>
  <pos x="0.000000" y="0.000000"/>
  <GFX>
-  <space>2-C big.webp</space>
+  <space>0-C-P big.webp</space>
   <exterior>Civilian Station Small Shadowed.webp</exterior>
  </GFX>
  <presence>
