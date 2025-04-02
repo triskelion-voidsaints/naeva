@@ -2,6 +2,7 @@
 <spob name="OG-Holpa W">
  <pos x="-2950.742753" y="-22.962217"/>
  <marker>spobmarker_triangle</marker>
+ <lua>active_overgate_holpa_w.lua</lua>
  <GFX>
   <space>10-9 270.webp</space>
   <exterior>Overgate.webp</exterior>

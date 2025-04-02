@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="OG-Forge SW">
  <marker>spobmarker_triangle</marker>
+ <lua>overgate_vella.lua</lua>
  <pos x="-1457.969277" y="-2580.278041"/>
  <GFX>
   <space>10-Y 210.webp</space>

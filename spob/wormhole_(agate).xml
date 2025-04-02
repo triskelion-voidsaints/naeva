@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="Wormhole (Agate)">
+ <lua>wormhole.lua</lua>
  <pos x="5509.550915" y="4917.921287"/>
  <marker>spobmarker_wormhole</marker>
  <GFX>
@@ -12,4 +13,7 @@
   <hide>1.000000</hide>
   <services/>
  </general>
+ <tags>
+  <tag>wormhole</tag>
+ </tags>
 </spob>

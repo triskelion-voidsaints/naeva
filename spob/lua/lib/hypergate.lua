@@ -155,14 +155,12 @@ function hypergate_window ()
    local csys = system.cur()
    local cpos = csys:pos()
    local destinations = {}
-   for i,s in ipairs(system.getAll()) do
-      if s ~= csys then
-         for j,sp in ipairs(s:spobs()) do
-            local t = sp:tags()
-            if t.hypergate and t.active then
-               table.insert( destinations, sp )
-            end
-         end
+   local spb = player.pilot():navSpob()
+   local t = spb:tags()
+   if spb then
+      for _,v in ipairs(t) do
+         print ( v )
+         table.insert( destinations, v )
       end
    end
    table.sort( destinations, function( a, b ) return a:nameRaw() < b:nameRaw() end )

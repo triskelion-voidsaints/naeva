@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="OG-Polaris NW">
  <marker>spobmarker_triangle</marker>
+ <lua>active_overgate_polaris_nw.lua</lua>
  <pos x="-1777.147126" y="2333.348023"/>
  <GFX>
   <space>10-9 330.webp</space>

@@ -2,6 +2,7 @@
 <spob name="OG-Vella NE">
  <pos x="1875.167062" y="2238.198517"/>
  <marker>spobmarker_triangle</marker>
+ <lua>overgate_forge.lua</lua>
  <GFX>
   <space>10-Y 30.webp</space>
   <exterior>Overgate.webp</exterior>

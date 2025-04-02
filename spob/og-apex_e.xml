@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="OG-Apex E">
  <marker>spobmarker_triangle</marker>
+ <lua>active_overgate_apex_e.lua</lua>
  <pos x="2959.899116" y="-16.159298"/>
  <GFX>
   <space>10-9 90.webp</space>

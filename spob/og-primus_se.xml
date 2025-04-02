@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="OG-Primus SE">
  <marker>spobmarker_triangle</marker>
+ <lua>overgate_kane.lua</lua>
  <pos x="1761.980651" y="-2535.078946"/>
  <GFX>
   <space>10-Y 150.webp</space>

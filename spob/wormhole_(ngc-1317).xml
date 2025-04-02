@@ -2,6 +2,7 @@
 <spob name="Wormhole (NGC-1317)">
  <pos x="6945.998893" y="-7973.133665"/>
  <marker>spobmarker_wormhole</marker>
+ <lua>wormhole.lua</lua>
  <GFX>
   <space>12-Z.png</space>
   <exterior>Unknown.webp</exterior>
@@ -12,4 +13,7 @@
   <hide>1.000000</hide>
   <services/>
  </general>
+ <tags>
+  <tag>wormhole</tag>
+ </tags>
 </spob>

@@ -2,6 +2,7 @@
 <spob name="OG-Secundus E">
  <pos x="2959.899116" y="-16.159298"/>
  <marker>spobmarker_triangle</marker>
+ <lua>overgate_kane.lua</lua>
  <GFX>
   <space>10-Y 90.webp</space>
   <exterior>Overgate.webp</exterior>

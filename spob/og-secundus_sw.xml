@@ -2,6 +2,7 @@
 <spob name="OG-Secundus SW">
  <marker>spobmarker_triangle</marker>
  <pos x="-1716.536190" y="-2366.291631"/>
+ <lua>overgate_moash.lua</lua>
  <GFX>
   <space>10-Y 210.webp</space>
   <exterior>Overgate.webp</exterior>

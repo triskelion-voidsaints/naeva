@@ -1,7 +1,7 @@
 local wormhole = require "spob.lua.lib.wormhole"
 
 function init( p )
-   return wormhole.init( p, "Wormhole Rei" )
+   return wormhole.init( p, "Wormhole (Forge)" )
 end
 
 function load ()

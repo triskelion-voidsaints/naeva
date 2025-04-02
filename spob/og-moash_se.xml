@@ -2,6 +2,7 @@
 <spob name="OG-Moash SE">
  <pos x="1815.477254" y="-2363.889817"/>
  <marker>spobmarker_triangle</marker>
+ <lua>active_overgate_moash_se.lua</lua>
  <GFX>
   <space>10-9 150.webp</space>
   <exterior>Overgate.webp</exterior>

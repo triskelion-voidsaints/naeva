@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="OG-Cradle SW">
  <marker>spobmarker_triangle</marker>
+ <lua>overgate_forge.lua</lua>
  <pos x="-1624.650821" y="-2491.117037"/>
  <GFX>
   <space>10-X 210.webp</space>

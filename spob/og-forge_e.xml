@@ -2,6 +2,7 @@
 <spob name="OG-Forge E">
  <pos x="2959.899116" y="-16.159298"/>
  <marker>spobmarker_triangle</marker>
+ <lua>overgate_primus.lua</lua>
  <GFX>
   <space>10-Y 90.webp</space>
   <exterior>Overgate.webp</exterior>

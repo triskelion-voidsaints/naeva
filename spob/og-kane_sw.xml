@@ -2,6 +2,7 @@
 <spob name="OG-Kane SW">
  <pos x="-1618.459085" y="-2491.117037"/>
  <marker>spobmarker_triangle</marker>
+ <lua>overgate_heraan.lua</lua>
  <GFX>
   <space>10-Y 210.webp</space>
   <exterior>Overgate.webp</exterior>

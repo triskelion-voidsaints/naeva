@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="OG-Abaddon SE">
  <marker>spobmarker_triangle</marker>
+ <lua>active_overgate_abaddon_se.lua</lua>
  <pos x="1720.372183" y="-2475.341073"/>
  <GFX>
   <space>10-9 150.webp</space>

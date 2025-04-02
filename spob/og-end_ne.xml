@@ -2,6 +2,7 @@
 <spob name="OG-End NE">
  <pos x="1875.167062" y="2238.198517"/>
  <marker>spobmarker_triangle</marker>
+ <lua>active_overgate_end_ne.lua</lua>
  <GFX>
   <space>10-9 30.webp</space>
   <exterior>Overgate.webp</exterior>
