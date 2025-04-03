@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="HG-Primus">
  <pos x="-1255.684146" y="1040.211719"/>
- <lua>hypergate.lua</lua>
+ <lua>hypergate_primus.lua</lua>
  <marker>spobmarker_triangle</marker>
  <GFX>
   <space>9.webp</space>
@@ -21,10 +21,5 @@
   <commodities/>
   <description>Nesre Primus's hypergate survived the end of the Alien War due to the limited wartime exports from New Babylon. However, it still lay dormant for half a millennia due to the near-complete annihilation of the Overgate hubs. At the beginning of the 12th century, it was reactivated by the Sigma Shipyards corporation and jury-rigged to link to the nearby Athena, Gefjon and Tichel systems. Access is restricted to trusted Sigma employees, particularly those on important missions to the galactic north.</description>
  </general>
- <tags>
-  <tag>HG-Albion</tag>
-  <tag>HG-Baltar</tag>
-  <tag>HG-Gefjon</tag>
-  <tag>HG-Tichel</tag>
- </tags>
+ <tags/>
 </spob>

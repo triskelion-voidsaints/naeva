@@ -36,10 +36,10 @@ local SPOB_CLASSES = {
 	["6-C"] = _("Independent Skymining (6-C type)"),
 	["6-F"] = _("Pyrogenesis Skymining (6-F type)"),
 	["6-P"] = _("Polaris Skymining (6-P type)"),
--- Frontier colony ships		
+-- Frontier colony ships
 	["7"] = _("Deimos Colony Ship (7 type)"),
 	["7-Z"] = _("Irradiated Deimos (7-Z type)"),
--- Orbital facilities		
+-- Orbital facilities
 	["8-F"] = _("Carousel Station (8-F type)"),
 	["8-P"] = _("Polaris Skystation (8-P type)"),
 -- Inhabited asteroids
@@ -56,6 +56,8 @@ local SPOB_CLASSES = {
 	["9-P"] = _("Polaris Hypergate (9-P type)"),
 	["10-V"] = _("Vell-os Overgate (10-V type)"),
 	["9-Z"] = _("Destroyed Hypergate (9-Z type)"),
+-- Space tools
+	["13"] = _("Psionic Disrupter (13 type)"),
 --[[Add more as necessary
 	[""] = _(" ( type)"),
 ]]

@@ -2,6 +2,7 @@
 <spob name="HG-Tekel">
  <pos x="-3181.977928" y="1816.744627"/>
  <marker>spobmarker_triangle</marker>
+ <lua>hypergate_tekel.lua</lua>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>
@@ -16,16 +17,9 @@
   <class>9</class>
   <population>0</population>
   <hide>0.250000</hide>
-  <services>
-   <land/>
-  </services>
+  <services/>
   <commodities/>
   <description>No Auroran hypergate was destroyed by the calamity at the end of the Alien War.</description>
  </general>
- <tags>
-  <tag>hypergate</tag>
-  <tag>nonews</tag>
-  <tag>nonpc</tag>
-  <tag>manifestera</tag>
- </tags>
+ <tags/>
 </spob>

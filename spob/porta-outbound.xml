@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<spob name="HG-Outbound">
+<spob name="Porta-outbound">
  <marker>spobmarker_triangle</marker>
  <pos x="-7007.817190" y="-4004.755678"/>
+ <lua>hypergate_outbound.lua</lua>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>
@@ -16,16 +17,9 @@
   <class>9</class>
   <population>0</population>
   <hide>0.250000</hide>
-  <services>
-   <land/>
-  </services>
+  <services/>
   <commodities/>
   <description>This hypergate was built and is maintained by the Polaris.</description>
  </general>
- <tags>
-  <tag>hypergate</tag>
-  <tag>nonews</tag>
-  <tag>nonpc</tag>
-  <tag>manifestera</tag>
- </tags>
+ <tags/>
 </spob>

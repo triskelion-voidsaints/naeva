@@ -1,7 +1,7 @@
 local wormhole = require "spob.lua.lib.wormhole"
 
 function init( spb )
-   return wormhole.init( spb, "OG-Rochak W )
+   return wormhole.init( spb, "OG-Rochak W" )
 end
 
 load     = wormhole.load

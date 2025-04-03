@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="GH_Cradle Reciever">
  <marker>spobmarker_triangle</marker>
+ <lua>hypergate_gh_cradle.lua</lua>
  <pos x="-599.128928" y="1242.227439"/>
  <GFX>
   <space>9.webp</space>
@@ -16,11 +17,7 @@
   <class>9</class>
   <population>0</population>
   <hide>1.000000</hide>
-  <services>
-   <land/>
-   <nomissionspawn/>
-   <uninhabited/>
-  </services>
+  <services/>
   <commodities/>
   <description>This Hypergate links this Gate Hub to the Cradle sector's Hypergates as needed.</description>
  </general>

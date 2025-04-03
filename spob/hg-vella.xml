@@ -2,6 +2,7 @@
 <spob name="HG-Vella">
  <pos x="-2863.138176" y="-359.497170"/>
  <marker>spobmarker_triangle</marker>
+ <lua>hypergate_vella.lua</lua>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>
@@ -16,16 +17,9 @@
   <class>9</class>
   <population>0</population>
   <hide>0.250000</hide>
-  <services>
-   <land/>
-  </services>
+  <services/>
   <commodities/>
   <description>No Auroran hypergate was destroyed by the calamity at the end of the Alien War.</description>
  </general>
- <tags>
-  <tag>hypergate</tag>
-  <tag>nonews</tag>
-  <tag>nonpc</tag>
-  <tag>manifestera</tag>
- </tags>
+ <tags/>
 </spob>

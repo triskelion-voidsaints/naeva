@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="HG-Drifter">
  <marker>spobmarker_triangle</marker>
+ <lua>hypergate_drifter.lua</lua>
  <pos x="2160.366781" y="2083.119137"/>
  <GFX>
   <space>9.webp</space>
@@ -16,16 +17,9 @@
   <class>9</class>
   <population>0</population>
   <hide>0.250000</hide>
-  <services>
-   <land/>
-  </services>
+  <services/>
   <commodities/>
   <description>This hypergate was unaffected by the cataclysm at the end of the Alien War as its Gate Hub survived.</description>
  </general>
- <tags>
-  <tag>hypergate</tag>
-  <tag>nonews</tag>
-  <tag>nonpc</tag>
-  <tag>manifestera</tag>
- </tags>
+ <tags/>
 </spob>

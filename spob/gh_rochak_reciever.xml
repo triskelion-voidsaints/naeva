@@ -2,6 +2,7 @@
 <spob name="GH_Rochak Reciever">
  <marker>spobmarker_triangle</marker>
  <pos x="1799.004889" y="-2264.177664"/>
+ <lua>hypergate_gh_rochak.lua</lua>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>
@@ -16,11 +17,7 @@
   <class>9</class>
   <population>0</population>
   <hide>1.000000</hide>
-  <services>
-   <land/>
-   <nomissionspawn/>
-   <uninhabited/>
-  </services>
+  <services/>
   <commodities/>
   <description>This Hypergate links this Gate Hub to the Rochak sector's Hypergates as needed.</description>
  </general>

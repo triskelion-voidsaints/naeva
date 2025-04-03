@@ -2,6 +2,7 @@
 <spob name="GH_Aurora Reciever">
  <marker>spobmarker_triangle</marker>
  <pos x="27.197408" y="-2505.982308"/>
+ <lua>hypergate_gh_aurora.lua</lua>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>
@@ -16,11 +17,7 @@
   <class>9</class>
   <population>0</population>
   <hide>1.000000</hide>
-  <services>
-   <land/>
-   <nomissionspawn/>
-   <uninhabited/>
-  </services>
+  <services/>
   <commodities/>
   <description>This Hypergate links this Gate Hub to the Aurora sector's Hypergates as needed.</description>
  </general>

@@ -2,6 +2,7 @@
 <spob name="HG-Galvan">
  <pos x="-1480.072674" y="-1266.086264"/>
  <marker>spobmarker_triangle</marker>
+ <lua>hypergate_galvan.lua</lua>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>
@@ -16,16 +17,9 @@
   <class>9</class>
   <population>0</population>
   <hide>0.250000</hide>
-  <services>
-   <land/>
-  </services>
+  <services/>
   <commodities/>
   <description>Galvan's hypergate was a lucky survivor of the Third Dark Age. However, it lay dormant for half a millennia due to the near-complete annihilation of the Overgate hubs. At the dawn of the 12th century, it was reactivated by the Sigma Shipyards corporation and jury-rigged to link to the nearby  and  systems. Access is restricted to trusted Sigma employees, particularly those running important bulk deliveries to the Auroran Empire.</description>
  </general>
- <tags>
-  <tag>hypergate</tag>
-  <tag>nonews</tag>
-  <tag>nonpc</tag>
-  <tag>manifestera</tag>
- </tags>
+ <tags/>
 </spob>

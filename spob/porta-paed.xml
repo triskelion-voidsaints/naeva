@@ -2,6 +2,7 @@
 <spob name="Porta-paed">
  <pos x="-1273.219144" y="-1809.968391"/>
  <marker>spobmarker_triangle</marker>
+ <lua>hypergate_paedt.lua</lua>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>
@@ -16,16 +17,9 @@
   <class>9</class>
   <population>0</population>
   <hide>0.250000</hide>
-  <services>
-   <land/>
-  </services>
+  <services/>
   <commodities/>
   <description>This hypergate was built and is maintained by the Polaris.</description>
  </general>
- <tags>
-  <tag>hypergate</tag>
-  <tag>nonews</tag>
-  <tag>nonpc</tag>
-  <tag>manifestera</tag>
- </tags>
+ <tags/>
 </spob>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="GH_End Reciever">
  <marker>spobmarker_triangle</marker>
+ <lua>hypergate_gh_end.lua</lua>
  <pos x="-1496.385837" y="-1515.225226"/>
  <GFX>
   <space>9.webp</space>
@@ -16,11 +17,7 @@
   <class>9</class>
   <population>0</population>
   <hide>1.000000</hide>
-  <services>
-   <land/>
-   <nomissionspawn/>
-   <uninhabited/>
-  </services>
+  <services/>
   <commodities/>
   <description>This Hypergate links this Gate Hub to the End sector's Hypergates as needed.</description>
  </general>

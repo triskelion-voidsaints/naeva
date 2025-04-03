@@ -2,6 +2,7 @@
 <spob name="Porta-abba">
  <marker>spobmarker_triangle</marker>
  <pos x="3147.119276" y="-1964.596689"/>
+ <lua>hypergate_gh_abbadon.lua</lua>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>
@@ -16,11 +17,7 @@
   <class>9</class>
   <population>0</population>
   <hide>1.000000</hide>
-  <services>
-   <land/>
-   <nomissionspawn/>
-   <uninhabited/>
-  </services>
+  <services/>
   <commodities/>
   <description>This Hypergate links this Gate Hub to the Abaddon sector's Hypergates as needed.</description>
  </general>

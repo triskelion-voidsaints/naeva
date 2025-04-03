@@ -2,6 +2,7 @@
 <spob name="HG-Rigel">
  <pos x="-4514.257321" y="15.407022"/>
  <marker>spobmarker_triangle</marker>
+ <lua>hypergate_rigel.lua</lua>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>
@@ -16,18 +17,9 @@
   <class>9</class>
   <population>0</population>
   <hide>0.250000</hide>
-  <services>
-   <land/>
-   <nomissionspawn/>
-   <uninhabited/>
-  </services>
+  <services/>
   <commodities/>
   <description>Rigel's hypergate was unaffected by the end of the Alien War as its Overgate hub survived. Nevertheless, the people of the planet Neo New York were limited to only travel to other surviving hubs in the Galactic North. During the third Dark Age, Rigel was quarantined by its neighbours due to the appearance of the Crettic Plague and the hypergate's security codes were scrambled. At the dawn of the 12th century, the new keys were cracked by Sigma Shipyards engineers and the gate was jury-rigged to link directly to the nearby Codehaven and Gefjon systems. Access remains restricted to trusted Sigma employees.</description>
  </general>
- <tags>
-  <tag>hypergate</tag>
-  <tag>nonews</tag>
-  <tag>nonpc</tag>
-  <tag>manifestera</tag>
- </tags>
+ <tags/>
 </spob>

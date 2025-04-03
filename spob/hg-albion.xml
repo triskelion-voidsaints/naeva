@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="HG-Albion">
  <marker>spobmarker_triangle</marker>
- <lua>hypergate.lua</lua>
+ <lua>hypergate_albion.lua</lua>
  <pos x="-2701.578436" y="561.714328"/>
  <GFX>
   <space>9.webp</space>
@@ -20,9 +20,5 @@
   <services/>
   <description>New England was one of the few Frontier worlds embraced by the Manifest, and Albion's hypergate survives to this day. This was primarily due to the high security afforded to New England as a centre of wartime intelligence, which limited the number of outbound flights at the time of the Alien War's terminating cataclysm. However, the gate still lay dormant for half a millennia due to the annihilation of its Overgate hub. At the commencement of the 12th century, it was reactivated by the Sigma Shipyards corporation and jury-rigged to link to the nearby Enlightenment, Nesre Primus and Rimshot systems. Access is restricted to trusted Sigma employees, and this system is a key link allowing their system to reach the northern reaches of the Federation.</description>
  </general>
- <tags>
-  <tag>HG-Primus</tag>
-  <tag>HG-Light</tag>
-  <tag>HG-Rimshot</tag>
- </tags>
+ <tags/>
 </spob>

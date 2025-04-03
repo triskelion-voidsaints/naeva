@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="GH_Ossuary Reciever">
  <marker>spobmarker_triangle</marker>
+ <lua>hypergate_gh_ossuary.lua</lua>
  <pos x="789.306048" y="304.550875"/>
  <GFX>
   <space>9.webp</space>
@@ -16,11 +17,7 @@
   <class>9</class>
   <population>0</population>
   <hide>1.000000</hide>
-  <services>
-   <land/>
-   <nomissionspawn/>
-   <uninhabited/>
-  </services>
+  <services/>
   <commodities/>
   <description>This Hypergate links this Gate Hub to the Ossuary sector's Hypergates as needed.</description>
  </general>
