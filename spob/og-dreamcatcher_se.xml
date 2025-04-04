@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="OG-Dreamcatcher SE">
  <pos x="1815.477254" y="-2363.889817"/>
+ <lua>active_overgate_dreamcatcher_se.lua</lua>
  <marker>spobmarker_triangle</marker>
  <GFX>
   <space>10-9 150.webp</space>

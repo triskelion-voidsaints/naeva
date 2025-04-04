@@ -18,7 +18,7 @@ hypergate.setup{
       return {
          spob.get("HG-Ivar"),
          spob.get("HG-Nibos"),
-         spob.get("GH_Tekel Reciever"),
+         spob.get("GH_Rochak Reciever"),
       }
    end,
 }

@@ -17,6 +17,7 @@ hypergate.setup{
    destfunc = function ()
       return {
          spob.get("GH_End Reciever"),
+         spob.get("HG-Sonete"),
       }
    end,
 }

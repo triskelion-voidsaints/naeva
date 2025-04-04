@@ -12,19 +12,19 @@
  </spobs>
  <jumps>
   <jump target="Odnan">
-   <autopos/>
+   <pos x="2028.520517" y="-2024.185159"/>
    <hide>1.000000</hide>
   </jump>
   <jump target="Sale">
-   <autopos/>
+   <pos x="6075.651556" y="77.665436"/>
    <hide>1.000000</hide>
   </jump>
   <jump target="Samet">
-   <autopos/>
+   <pos x="6011.428921" y="2978.139066"/>
    <hide>1.000000</hide>
   </jump>
   <jump target="Schev">
-   <autopos/>
+   <pos x="74.038143" y="5994.636798"/>
    <hide>1.000000</hide>
   </jump>
  </jumps>

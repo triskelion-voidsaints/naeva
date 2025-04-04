@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="HG-Rend">
- <pos x="-2079.947913" y="-3954.468871"/>
- <marker>spobmarker_triangle</marker>
  <lua>hypergate_rend.lua</lua>
+ <marker>spobmarker_triangle</marker>
+ <pos x="-1972.098762" y="-950.099664"/>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>
@@ -18,8 +18,5 @@
   <population>0</population>
   <hide>0.250000</hide>
   <services/>
-  <commodities/>
-  <description>No Auroran hypergate was destroyed by the calamity at the end of the Alien War.</description>
  </general>
- <tags/>
 </spob>

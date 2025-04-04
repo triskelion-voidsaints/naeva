@@ -16,10 +16,9 @@ hypergate.setup{
 hypergate.setup{
    destfunc = function ()
       return {
-         spob.get("HG-Galvan"),
+         spob.get("HG-Fyre"),
          spob.get("HG-Archenar"),
-         spob.get("HG-Secundus"),
-         spob.get("HG-Rimshot"),
+         spob.get("HG-Heraan"),
       }
    end,
 }

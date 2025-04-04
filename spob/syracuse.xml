@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="Syracuse">
- <pos x="1949.416202" y="2244.717449"/>
+ <pos x="2113.965037" y="2294.230701"/>
  <GFX>
   <space>MW cities 45.webp</space>
   <exterior>Syracuse.webp</exterior>
@@ -28,7 +28,7 @@
   <bar>This bar has two sections, one for those who have a little money, and one for those who do not. You decide to drink in the better half, as you are not too sure of surviving if you enter the poorer half.</bar>
  </general>
  <tech>
-  <item price_mod="0.5">Industrial</item>
-  <item price_mod="1.5">Foodstuffs</item>
+  <item price_mod="0.500000">Industrial</item>
+  <item price_mod="1.500000">Foodstuffs</item>
  </tech>
 </spob>

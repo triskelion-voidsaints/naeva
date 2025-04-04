@@ -12,7 +12,7 @@
  </spobs>
  <jumps>
   <jump target="Jenner">
-   <autopos/>
+   <pos x="3959.250124" y="3955.954949"/>
    <hide>1.000000</hide>
   </jump>
   <jump target="Tirna">
