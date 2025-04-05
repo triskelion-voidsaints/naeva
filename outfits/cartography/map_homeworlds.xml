@@ -5,7 +5,7 @@
   <mass>0</mass>
   <price>25000</price>
   <description>This map lists the locations of the homeworlds of the Empire, Federation and Polaris.</description>
-  <gfx_store>map_sector_03.webp</gfx_store>
+  <gfx_store>map_homeworlds.webp</gfx_store>
  </general>
  <specific type="map">
   <sys name="Forge">
