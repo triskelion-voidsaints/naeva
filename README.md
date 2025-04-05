@@ -3,7 +3,7 @@
 **Naeva** is a TC for Naev that recreates the Novaverse.
 
 <p align="center">
-  <img src="https://github.com/triskelion-voidsaints/naeva/blob/main/LOGO.png" alt="TVS:EN Badge"/>
+  <img src="https://github.com/triskelion-voidsaints/naeva/blob/main/LOGO.png" alt="TVS:EN Badge" width="200"/>
 </p>
 
 ## Trade loops
