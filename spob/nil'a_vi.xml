@@ -25,4 +25,7 @@
   <commodities/>
   <description>This station, which is in orbit around Nil'ar Riai, is used in the continual training of the potential young warriors housed there. It is also where the young prospective members of the Nil'kemorya spend six months working with the Ver'ash, helping to repair any damaged ships, and healing the wounded.</description>
  </general>
+ <tech>
+  <item>Maps</item>
+ </tech>
 </spob>

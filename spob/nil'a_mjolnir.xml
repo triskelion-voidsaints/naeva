@@ -25,4 +25,7 @@
   <commodities/>
   <description>During the brief war with the Manifest, the Polaris were saved by the timely intervention of the Vell-os, and also through the actions of one of the Manifest's cyborg-soldiers. Little is known about that man, other than part of his unit designation - Mjolnir. Apparently, he destroyed a piece of new technology that would have ensured victory over the Polaris. It is worthy of note that he is the only non-Polaris soldier to be remembered by the Polaris warrior-caste with respect, although none of them seem to be prepared to tell you exactly why.</description>
  </general>
+ <tech>
+  <item>Maps</item>
+ </tech>
 </spob>

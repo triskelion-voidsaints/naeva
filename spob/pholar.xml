@@ -26,4 +26,7 @@
   <commodities/>
   <description>'Philar' translates as 'the last step', and the warriors stationed here, like those at its sister-station Pholar, have a grim outlook on life. They stand ready to put themselves between the center of the Auroran Empire and its absolute destruction. Only the most wily and battle-hardened of the houseless warriors from Rimerta in the Pimen system serve here. Of all Auroran warriors, the 'Dechtakars', as the Rimertan warriors call themselves, know the Federation as well as any, and hate them the most.</description>
  </general>
+ <tech>
+  <item>Maps</item>
+ </tech>
 </spob>

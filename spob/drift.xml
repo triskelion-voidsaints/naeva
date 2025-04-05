@@ -27,4 +27,7 @@
   <description>At the height of its power, the scientists working for the Manifest had aspirations of exploring deep space in the Galactic North. To this end, they created a series of 'drifting stations' that were not intended to be permanent, but instead to drift through interstellar space while the crew performed observations and experiments. This station has fallen into orbit around the Gan’U’Tornes wormhole, and has been taken over by an odd group of pirates and ex-Mu'hari extremists called the "Drifters".</description>
   <bar>This is an old cafeteria from when Drift was a research station, since converted into a small bar and restaurant. Sitting down at a rather uncomfortable metal stool, you order a drink. The selection here is limited, due to the infrequency of supply runs, but the service is almost uncannily friendly, probably owing to the number of ex-Mu'hari staffing the establishment.</bar>
  </general>
+ <tech>
+  <item>Maps</item>
+ </tech>
 </spob>

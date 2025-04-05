@@ -27,4 +27,7 @@
   <description>This battle-station was built to protect the hospitals on the surface of the planet it orbits. The warriors stationed here go out to battle gladly, because they owe huge debts of gratitude to the people below for their efforts in healing their colleagues' battle wounds. They also know that by protecting these miracle workers they are helping their fellow warriors survive. So those stationed here are called 'Korasch' which means 'they who fight with a bright soul' for they go to battle with joy in their hearts and a smile upon their faces.</description>
   <bar>This bar only serves a small number of very common drinks because the warriors stationed here, like most other Heraan warriors, never drink alcohol if there is any chance of them having to be ready to go into action.</bar>
  </general>
+ <tech>
+  <item>Maps</item>
+ </tech>
 </spob>

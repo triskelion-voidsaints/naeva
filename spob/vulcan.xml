@@ -34,4 +34,7 @@ Millions of colonists were processed here and sent to their final destination vi
 During the Second Dark Age, the remnants of the Manifest navy chose Vulcan as their final destination. It is perhaps no surprise that hundreds of years later, this planet would rise to protect the surrounding sectors, a duty that continues to this day.</description>
   <bar>A well-known haven to spacers, Kane's Lubritorium is known throughout the Federation for its warm flat beer from rusty taps. An acquired taste for sure.</bar>
  </general>
+ <tech>
+  <item>Maps</item>
+ </tech>
 </spob>

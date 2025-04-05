@@ -28,6 +28,9 @@
   <description>null</description>
   <bar>null</bar>
  </general>
+ <tech>
+  <item>Maps</item>
+ </tech>
  <tags>
   <tag>federationera</tag>
  </tags>

@@ -25,4 +25,7 @@
   <commodities/>
   <description>The Nil'kemorya, as the warrior caste is named, have built a station here as a bulwark against any incursions from the Auroran Empire. The Nil'kemorya have gained a great deal of respect for the warrior ethic of the Aurorans, and more than once they have been surprised by the level of skill achieved by a civilization as low in technology as the Aurorans.</description>
  </general>
+ <tech>
+  <item>Maps</item>
+ </tech>
 </spob>

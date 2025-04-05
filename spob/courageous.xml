@@ -27,4 +27,7 @@
   <description>This station was built to protect the pastoral jewel of a planet below. The fleets here know that if Stlap were to fall to any of their rivals, the main source of income for the Moash House would be gone. They also know that the Vella battle-fleets are aware of this, and that more than once they have probed this system to see how strong its defenses are. Consequently, only the most desperate and deadly defenders are posted here.</description>
   <bar>While most Houses do not allow the consumption of alcohol on active bases, the House of Moash seems to have little problem with it. The warriors stationed here obviously agree wholeheartedly with this policy.</bar>
  </general>
+ <tech>
+  <item>Maps</item>
+ </tech>
 </spob>

@@ -3,11 +3,17 @@
  <pos x="0.000000" y="0.000000"/>
  <GFX>
   <space>3.webp</space>
-  <exterior>Moonview.webp</exterior>
+  <exterior>Manifest Station.webp</exterior>
  </GFX>
+ <presence>
+  <faction>Derelict</faction>
+  <base>0.000000</base>
+  <bonus>0.000000</bonus>
+  <range>0</range>
+ </presence>
  <general>
-  <class>M3</class>
-  <population>0</population>
+  <class>3</class>
+  <population>1</population>
   <hide>1.000000</hide>
   <services>
    <land/>
@@ -17,7 +23,11 @@
    <outfits/>
    <shipyard/>
   </services>
+  <commodities/>
   <description>(null)</description>
   <bar>(null)</bar>
  </general>
+ <tech>
+  <item>Maps</item>
+ </tech>
 </spob>
