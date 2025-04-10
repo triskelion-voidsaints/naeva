@@ -3,6 +3,8 @@
  <pos x="570.630429" y="-775.700739"/>
  <marker>spobmarker_triangle</marker>
  <lua>hypergate_nilkemorya.lua</lua>
+ <display>#oPorta-kemorya#0</display>
+ <feature>#oHypergate#0</feature>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>

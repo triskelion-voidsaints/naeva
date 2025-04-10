@@ -2,6 +2,8 @@
 <spob name="Porta-kolecto">
  <marker>spobmarker_triangle</marker>
  <lua>hypergate_tilkolecto.lua</lua>
+ <display>#oPorta-kolecto#0</display>
+ <feature>#oHypergate#0</feature>
  <pos x="3629.922815" y="2561.239015"/>
  <GFX>
   <space>9.webp</space>

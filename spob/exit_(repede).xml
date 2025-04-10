@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="Exit (Repede)">
  <pos x="2023.455500" y="2.567837"/>
+ <display>#rDestabilized Portal Exit#0</display>
+ <feature>#rExit#0</feature>
  <GFX>
   <space>12-Q.png</space>
   <exterior>Lobos.webp</exterior>

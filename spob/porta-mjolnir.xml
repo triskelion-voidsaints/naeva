@@ -3,6 +3,8 @@
  <pos x="-2264.689514" y="-1275.002364"/>
  <marker>spobmarker_triangle</marker>
  <lua>hypergate_mjolnir.lua</lua>
+ <display>#oPorta-mjolnir#0</display>
+ <feature>#oHypergate#0</feature>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>

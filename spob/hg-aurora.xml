@@ -3,6 +3,8 @@
  <pos x="-1257.170163" y="3718.013887"/>
  <marker>spobmarker_triangle</marker>
  <lua>hypergate_aurora.lua</lua>
+ <display>#oHG-Aurora#0</display>
+ <feature>#oHypergate#0</feature>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>

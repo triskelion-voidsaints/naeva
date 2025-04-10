@@ -3,6 +3,8 @@
  <pos x="-1768.359922" y="1939.251847"/>
  <marker>spobmarker_triangle</marker>
  <lua>hypergate_kelariy.lua</lua>
+ <display>#oPorta-lariy#0</display>
+ <feature>#oHypergate#0</feature>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>

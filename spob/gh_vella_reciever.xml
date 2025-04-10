@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="GH_Vella Reciever">
  <marker>spobmarker_triangle</marker>
+ <display>Gate Hub Reciever#0</display>
  <pos x="-1975.715397" y="23.337067"/>
  <GFX>
   <space>9-Z.webp</space>

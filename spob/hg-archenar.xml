@@ -2,6 +2,8 @@
 <spob name="HG-Archenar">
  <marker>spobmarker_triangle</marker>
  <lua>hypergate_archenar.lua</lua>
+ <display>#oHG-Archenar#0</display>
+ <feature>#oHypergate#0</feature>
  <pos x="1604.898081" y="208.042344"/>
  <GFX>
   <space>9.webp</space>

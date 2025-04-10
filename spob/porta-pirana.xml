@@ -3,6 +3,8 @@
  <pos x="2995.809751" y="-1166.225939"/>
  <marker>spobmarker_triangle</marker>
  <lua>hypergate_trepirana.lua</lua>
+ <display>#oPorta-pirana#0</display>
+ <feature>#oHypergate#0</feature>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="OG-Heraan E">
  <marker>spobmarker_triangle</marker>
+ <display>Destroyed Overgate#0</display>
  <pos x="2756.612026" y="-26.858619"/>
  <GFX>
   <space>10-Z 90.webp</space>

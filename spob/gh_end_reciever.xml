@@ -2,6 +2,8 @@
 <spob name="GH_End Reciever">
  <marker>spobmarker_triangle</marker>
  <lua>hypergate_gh_end.lua</lua>
+ <display>#oGate Hub Reciever#0</display>
+ <feature>#oHypergate#0</feature>
  <pos x="-1496.385837" y="-1515.225226"/>
  <GFX>
   <space>9.webp</space>

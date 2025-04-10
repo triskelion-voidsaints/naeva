@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="OG-Forge W">
  <marker>spobmarker_triangle</marker>
+ <display>Overheated Overgate#0</display>
  <pos x="-2950.742753" y="-22.962217"/>
  <GFX>
   <space>10-Q 270.webp</space>

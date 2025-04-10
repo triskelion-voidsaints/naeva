@@ -2,6 +2,8 @@
 <spob name="HG-Albion">
  <marker>spobmarker_triangle</marker>
  <lua>hypergate_albion.lua</lua>
+ <display>#oHG-Albion#0</display>
+ <feature>#oHypergate#0</feature>
  <pos x="-2701.578436" y="561.714328"/>
  <GFX>
   <space>9.webp</space>

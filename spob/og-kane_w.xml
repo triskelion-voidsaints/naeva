@@ -3,6 +3,8 @@
  <pos x="-2950.742753" y="-22.962217"/>
  <marker>spobmarker_triangle</marker>
  <lua>overgate_secundus.lua</lua>
+ <display>#rWestern Overgate#0</display>
+ <feature>#rDestabilized Overgate#0</feature>
  <GFX>
   <space>10-Y 270.webp</space>
   <exterior>Overgate.webp</exterior>

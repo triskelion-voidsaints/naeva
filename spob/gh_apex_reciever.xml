@@ -2,6 +2,8 @@
 <spob name="GH_Apex Reciever">
  <marker>spobmarker_triangle</marker>
  <lua>hypergate_gh_apex.lua</lua>
+ <display>#oGate Hub Reciever#0</display>
+ <feature>#oHypergate#0</feature>
  <pos x="-4.226892" y="2096.687065"/>
  <GFX>
   <space>9.webp</space>

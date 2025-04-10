@@ -2,6 +2,8 @@
 <spob name="HG-Residio">
  <pos x="3173.846444" y="2110.761956"/>
  <marker>spobmarker_triangle</marker>
+ <display>#oHG-Residio#0</display>
+ <feature>#oHypergate#0</feature>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>

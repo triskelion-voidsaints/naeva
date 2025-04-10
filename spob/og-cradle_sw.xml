@@ -2,6 +2,8 @@
 <spob name="OG-Cradle SW">
  <marker>spobmarker_triangle</marker>
  <lua>overgate_forge.lua</lua>
+ <display>#rSouth-west Overgate#0</display>
+ <feature>#rDestabilized Overgate#0</feature>
  <pos x="-1624.650821" y="-2491.117037"/>
  <GFX>
   <space>10-X 210.webp</space>

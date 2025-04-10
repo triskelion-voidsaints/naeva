@@ -2,6 +2,8 @@
 <spob name="OG-Primus NW">
  <marker>spobmarker_triangle</marker>
  <lua>overgate_cradle.lua</lua>
+ <display>#rNorth-west Overgate#0</display>
+ <feature>#rDestabilized Overgate#0</feature>
  <pos x="-1584.559356" y="2311.949382"/>
  <GFX>
   <space>10-Y 330.webp</space>

@@ -3,12 +3,14 @@
  <pos x="-2950.742753" y="-22.962217"/>
  <marker>spobmarker_triangle</marker>
  <lua>active_overgate_ossuary_w.lua</lua>
+ <display>#bWestern Overgate#0</display>
+ <feature>#bOvergate#0</feature>
  <GFX>
   <space>10-9 270.webp</space>
   <exterior>Overgate.webp</exterior>
  </GFX>
  <general>
-  <class>10</class>
+  <class>10-9</class>
   <population>0</population>
   <hide>1.000000</hide>
   <services/>

@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="Wormhole (P-777)">
- <pos x="-1040.211719" y="1047.641803"/>
+ <lua>wormhole_p777.lua</lua>
  <marker>spobmarker_wormhole</marker>
- <lua>wormhole.lua</lua>
+ <display>#rIrradiated Wormhole#0</display>
+ <feature>#rIrradiated Wormhole#0</feature>
+ <pos x="-1040.211719" y="1047.641803"/>
  <GFX>
   <space>12-Z.png</space>
   <exterior>Unknown.webp</exterior>
@@ -13,7 +15,4 @@
   <hide>1.000000</hide>
   <services/>
  </general>
- <tags>
-  <tag>wormhole</tag>
- </tags>
 </spob>

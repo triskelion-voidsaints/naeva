@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="Exit (Venture)">
  <pos x="1069.932054" y="-2032.870902"/>
+ <display>#rDestabilized Portal Exit#0</display>
+ <feature>#rExit#0</feature>
  <GFX>
   <space>12-Q.png</space>
   <exterior>Overgate.webp</exterior>

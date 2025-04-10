@@ -3,6 +3,8 @@
  <lua>wormhole.lua</lua>
  <pos x="10.699321" y="3027.907712"/>
  <marker>spobmarker_wormhole</marker>
+ <display>#bWormhole#0</display>
+ <feature>#bWormhole#0</feature>
  <GFX>
   <space>12.png</space>
   <exterior>Unknown.webp</exterior>

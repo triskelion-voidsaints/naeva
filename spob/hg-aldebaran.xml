@@ -2,6 +2,8 @@
 <spob name="HG-Aldebaran">
  <marker>spobmarker_triangle</marker>
  <lua>hypergate_aldebaran.lua</lua>
+ <display>#oHG-Aldebaran#0</display>
+ <feature>#oHypergate#0</feature>
  <pos x="406.431522" y="706.982570"/>
  <GFX>
   <space>9.webp</space>

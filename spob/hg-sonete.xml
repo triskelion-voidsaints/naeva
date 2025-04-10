@@ -3,6 +3,8 @@
  <pos x="21.398641" y="-2022.171582"/>
  <marker>spobmarker_triangle</marker>
  <lua>hypergate_sonete.lua</lua>
+ <display>#oHG-Sonete#0</display>
+ <feature>#oHypergate#0</feature>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>

@@ -6,7 +6,10 @@ local exits = { "Exit (Shaar)", "Exit (Jukul)", "Exit (Neirt)" }
 local randomtarget = exits[ rnd.rnd(1,#exits) ]
 --What is passed into wormhole init here doesn't really matter
 function init( p )
-   return wormhole.init( p, "Wormhole (Forge)" )
+   return wormhole.init( p, "Wormhole (Forge)", {
+      col_inner   = {1, 0.196, 0.423},
+      col_outter  = {0.819, 0, 0.235},
+   } )
 end
 
 unload   = wormhole.unload
@@ -17,5 +20,4 @@ land     = wormhole.land
 -- Reroll the random
 load = function (...)
    mem.target = exits[ rnd.rnd(1,#exits) ]
-   wormhole.load( ... )
 end

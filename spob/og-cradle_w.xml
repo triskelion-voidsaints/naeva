@@ -2,6 +2,7 @@
 <spob name="OG-Cradle W">
  <pos x="-2950.742753" y="-22.962217"/>
  <marker>spobmarker_triangle</marker>
+ <display>Inactive Overgate#0</display>
  <GFX>
   <space>10 270.webp</space>
   <exterior>Overgate.webp</exterior>

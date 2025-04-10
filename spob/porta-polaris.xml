@@ -2,6 +2,8 @@
 <spob name="Porta-polaris">
  <marker>spobmarker_triangle</marker>
  <lua>hypergate_gh_polaris.lua</lua>
+ <display>#oPorta-polaris#0</display>
+ <feature>#oHypergate#0</feature>
  <pos x="-383.656501" y="-734.174827"/>
  <GFX>
   <space>9.webp</space>

@@ -3,6 +3,8 @@
  <pos x="0.000000" y="0.000000"/>
  <marker>spobmarker_triangle</marker>
  <lua>hypergate_koria.lua</lua>
+ <display>#oHG-Koria#0</display>
+ <feature>#oHypergate#0</feature>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>

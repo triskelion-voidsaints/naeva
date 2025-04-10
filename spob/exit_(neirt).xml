@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="Exit (Neirt)">
  <pos x="-1005.736131" y="-2000.772941"/>
+ <display>#rDestabilized Portal Exit#0</display>
+ <feature>#rExit#0</feature>
  <GFX>
   <space>12-Q.png</space>
   <exterior>Auroran Single.webp</exterior>

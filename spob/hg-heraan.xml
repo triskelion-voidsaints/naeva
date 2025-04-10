@@ -2,6 +2,8 @@
 <spob name="HG-Heraan">
  <marker>spobmarker_triangle</marker>
  <lua>hypergate_heraan.lua</lua>
+ <display>#oHG-Heraan#0</display>
+ <feature>#oHypergate#0</feature>
  <pos x="1210.806441" y="-1519.303516"/>
  <GFX>
   <space>9.webp</space>

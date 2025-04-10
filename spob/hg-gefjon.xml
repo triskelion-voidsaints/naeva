@@ -3,6 +3,8 @@
  <pos x="-2212.619487" y="-6.419592"/>
  <marker>spobmarker_triangle</marker>
  <lua>hypergate_gefjon.lua</lua>
+ <display>#oHG-Gefjon#0</display>
+ <feature>#oHypergate#0</feature>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>

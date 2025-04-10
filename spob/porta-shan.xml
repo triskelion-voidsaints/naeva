@@ -3,6 +3,8 @@
  <pos x="977.561253" y="-1031.771144"/>
  <marker>spobmarker_triangle</marker>
  <lua>hypergate_verashan.lua</lua>
+ <display>#oPorta-shan#0</display>
+ <feature>#oHypergate#0</feature>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>

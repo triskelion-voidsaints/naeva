@@ -3,6 +3,8 @@
  <pos x="-1255.684146" y="1040.211719"/>
  <lua>hypergate_primus.lua</lua>
  <marker>spobmarker_triangle</marker>
+ <display>#oHG-Primus#0</display>
+ <feature>#oHypergate#0</feature>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>

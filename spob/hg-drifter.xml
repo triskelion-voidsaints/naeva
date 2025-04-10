@@ -2,6 +2,8 @@
 <spob name="HG-Drifter">
  <marker>spobmarker_triangle</marker>
  <lua>hypergate_drifter.lua</lua>
+ <display>#oHG-Drifter#0</display>
+ <feature>#oHypergate#0</feature>
  <pos x="2160.366781" y="2083.119137"/>
  <GFX>
   <space>9.webp</space>

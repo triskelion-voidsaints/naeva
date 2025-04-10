@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="OG-Abaddon NW">
  <marker>spobmarker_triangle</marker>
+ <display>Destroyed Overgate#0</display>
  <pos x="-1777.147126" y="2333.348023"/>
  <GFX>
   <space>10-Z 330.webp</space>

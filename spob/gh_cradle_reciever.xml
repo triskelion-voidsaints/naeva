@@ -2,6 +2,8 @@
 <spob name="GH_Cradle Reciever">
  <marker>spobmarker_triangle</marker>
  <lua>hypergate_gh_cradle.lua</lua>
+ <display>#oGate Hub Reciever#0</display>
+ <feature>#oHypergate#0</feature>
  <pos x="-599.128928" y="1242.227439"/>
  <GFX>
   <space>9.webp</space>

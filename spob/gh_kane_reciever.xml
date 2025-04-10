@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="GH_Kane Reciever">
  <marker>spobmarker_triangle</marker>
+ <display>Gate Hub Reciever#0</display>
  <pos x="-3588.316989" y="-1812.666337"/>
  <GFX>
   <space>9-Z.webp</space>

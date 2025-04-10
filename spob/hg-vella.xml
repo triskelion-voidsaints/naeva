@@ -3,6 +3,8 @@
  <pos x="-2863.138176" y="-359.497170"/>
  <marker>spobmarker_triangle</marker>
  <lua>hypergate_vella.lua</lua>
+ <display>#oHG-Vella#0</display>
+ <feature>#oHypergate#0</feature>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>

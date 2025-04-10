@@ -2,6 +2,7 @@
 <spob name="OG-Heraan W">
  <pos x="-2950.742753" y="-22.962217"/>
  <marker>spobmarker_triangle</marker>
+ <display>Destroyed Overgate#0</display>
  <GFX>
   <space>10-Z 270.webp</space>
   <exterior>Overgate.webp</exterior>

@@ -2,6 +2,8 @@
 <spob name="Porta-holpa">
  <marker>spobmarker_triangle</marker>
  <lua>hypergate_gh_holpa.lua</lua>
+ <display>#oPorta-holpa#0</display>
+ <feature>#oHypergate#0</feature>
  <pos x="1938.096056" y="-1001.657840"/>
  <GFX>
   <space>9.webp</space>

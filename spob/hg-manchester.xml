@@ -3,6 +3,8 @@
  <pos x="1968.674979" y="1444.408273"/>
  <marker>spobmarker_triangle</marker>
  <lua>hypergate_manchester.lua</lua>
+ <display>#oHG-Manchester#0</display>
+ <feature>#oHypergate#0</feature>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>

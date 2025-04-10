@@ -2,6 +2,8 @@
 <spob name="Wormhole (Ver'ikar)">
  <pos x="10.699321" y="-4493.714626"/>
  <marker>spobmarker_wormhole</marker>
+ <display>#bWormhole#0</display>
+ <feature>#bWormhole#0</feature>
  <lua>wormhole.lua</lua>
  <GFX>
   <space>12.png</space>

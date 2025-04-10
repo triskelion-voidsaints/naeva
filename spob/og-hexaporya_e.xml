@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="OG-Hexaporya E">
  <marker>spobmarker_triangle</marker>
+ <display>Inactive Overgate#0</display>
  <pos x="2972.738301" y="-106.033591"/>
  <GFX>
   <space>10 90.webp</space>

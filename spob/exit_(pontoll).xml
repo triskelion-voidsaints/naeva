@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="Exit (Pontoll)">
  <pos x="1987.505783" y="-2064.540891"/>
+ <display>#rDestabilized Portal Exit#0</display>
+ <feature>#rExit#0</feature>
  <GFX>
   <space>12-Q.png</space>
   <exterior>Unknown.webp</exterior>

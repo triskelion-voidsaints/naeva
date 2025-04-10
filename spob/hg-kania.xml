@@ -2,6 +2,8 @@
 <spob name="HG-Kania">
  <marker>spobmarker_triangle</marker>
  <lua>hypergate_kania.lua</lua>
+ <display>#oHG-Kania#0</display>
+ <feature>#oHypergate#0</feature>
  <pos x="1493.677983" y="536.369487"/>
  <GFX>
   <space>9.webp</space>

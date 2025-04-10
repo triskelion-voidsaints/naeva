@@ -3,6 +3,8 @@
  <pos x="-1480.072674" y="-1266.086264"/>
  <marker>spobmarker_triangle</marker>
  <lua>hypergate_galvan.lua</lua>
+ <display>#oHG-Galvan#0</display>
+ <feature>#oHypergate#0</feature>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>

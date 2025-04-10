@@ -2,6 +2,8 @@
 <spob name="HG-Secundus">
  <marker>spobmarker_triangle</marker>
  <lua>hypergate_secundus.lua</lua>
+ <display>#oHG-Secundus#0</display>
+ <feature>#oHypergate#0</feature>
  <pos x="2535.738967" y="-2589.235570"/>
  <GFX>
   <space>9.webp</space>

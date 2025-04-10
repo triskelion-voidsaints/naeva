@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="Exit (Confluence)">
  <pos x="-1136.802807" y="1367.135402"/>
+ <display>#rDestabilized Portal Exit#0</display>
+ <feature>#rExit#0</feature>
  <GFX>
   <space>12-Q.png</space>
   <exterior>Polaris Station.webp</exterior>

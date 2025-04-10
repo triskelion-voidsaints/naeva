@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="GH_Hexaporya Reciever">
  <marker>spobmarker_triangle</marker>
+ <display>#oGate Hub Reciever#0</display>
+ <feature>#oHypergate#0</feature>
  <pos x="-383.656501" y="-734.174827"/>
  <GFX>
   <space>9.webp</space>

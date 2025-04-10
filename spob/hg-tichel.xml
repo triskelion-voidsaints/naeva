@@ -2,6 +2,8 @@
 <spob name="HG-Tichel">
  <marker>spobmarker_triangle</marker>
  <lua>hypergate_tichel.lua</lua>
+ <display>#oHG-Tichel#0</display>
+ <feature>#oHypergate#0</feature>
  <pos x="-5732.891100" y="3150.427771"/>
  <GFX>
   <space>9.webp</space>

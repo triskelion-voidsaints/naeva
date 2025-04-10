@@ -3,6 +3,8 @@
  <pos x="2959.899116" y="-16.159298"/>
  <marker>spobmarker_triangle</marker>
  <lua>active_overgate_aurora_e.lua</lua>
+ <display>#bEastern Overgate#0</display>
+ <feature>#bOvergate#0</feature>
  <GFX>
   <space>10-9 90.webp</space>
   <exterior>Overgate.webp</exterior>

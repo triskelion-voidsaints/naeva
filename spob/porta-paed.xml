@@ -3,6 +3,8 @@
  <pos x="-1273.219144" y="-1809.968391"/>
  <marker>spobmarker_triangle</marker>
  <lua>hypergate_paedt.lua</lua>
+ <display>#oPorta-paed#0</display>
+ <feature>#oHypergate#0</feature>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>

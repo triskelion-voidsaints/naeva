@@ -2,6 +2,8 @@
 <spob name="HG-Fyre">
  <marker>spobmarker_triangle</marker>
  <lua>hypergate_fyre.lua</lua>
+ <display>#oHG-Fyre#0</display>
+ <feature>#oHypergate#0</feature>
  <pos x="-258.566913" y="921.330380"/>
  <GFX>
   <space>9.webp</space>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="GH_Primus Reciever">
  <marker>spobmarker_triangle</marker>
+ <display>Gate Hub Reciever#0</display>
  <pos x="1.519038" y="-4909.477674"/>
  <GFX>
   <space>9-Z.webp</space>

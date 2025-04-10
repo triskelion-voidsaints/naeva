@@ -3,6 +3,8 @@
  <pos x="-2182.661390" y="-845.246322"/>
  <marker>spobmarker_triangle</marker>
  <lua>hypergate_kaow.lua</lua>
+ <display>#oHG-Kaow#0</display>
+ <feature>#oHypergate#0</feature>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>

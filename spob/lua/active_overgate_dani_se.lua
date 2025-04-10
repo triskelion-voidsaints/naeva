@@ -1,4 +1,4 @@
-local wormhole = require "spob.lua.lib.wormhole"
+local wormhole = require "spob.lua.lib.overgate_active"
 
 function init( spb )
    return wormhole.init( spb, "OG-Rochak NW" )
