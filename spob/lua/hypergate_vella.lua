@@ -1,6 +1,6 @@
 local hypergate = require "spob.lua.lib.hypergate"
 hypergate.setup{
-   basecol = { 0.8, 0.2, 0.2 }, -- Za'lek
+   basecol = { 0.8, 0.2, 0.2 },
    cost_mod = {
       [100] = 0,
       [90]  = 0.1,

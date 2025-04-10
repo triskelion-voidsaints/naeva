@@ -63,12 +63,12 @@ function hypergate.setup( params )
    -- Set up parameters
    params = params or {}
    mem.destfunc   = params.destfunc or hypergate.destinations_default
-   mem.basecol    = params.basecol or { 0.2, 0.8, 0.8 }
+   mem.basecol    = params.basecol or { 0.172, 0.458, 1 }
    mem.cost_flat  = params.cost_flat or 10e3
    mem.cost_mass  = params.cost_mass or 50
    mem.cost_mod   = params.cost_mod or 1
-   mem.tex_path   = params.tex or "hypergate_neutral_activated.webp"
-   mem.tex_mask_path = params.tex_mask or "hypergate_mask.webp"
+   mem.tex_path   = params.tex or "9.webp"
+   mem.tex_mask_path = params.tex_mask or "9 mask.webp"
 end
 
 function hypergate.init( spb )
