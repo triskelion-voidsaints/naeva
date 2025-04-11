@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<spob name="HG-Residio">
- <pos x="3173.846444" y="2110.761956"/>
- <marker>spobmarker_triangle</marker>
- <lua>hypergate_residio.lua</lua>
- <display>#oHG-Residio#0</display>
+<spob name="HG-Korell">
+ <display>#oHG-Korell#0</display>
  <feature>#oHypergate#0</feature>
+ <lua>hypergate_korell.lua</lua>
+ <marker>spobmarker_triangle</marker>
+ <pos x="28.212532" y="5003.117954"/>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>
@@ -20,8 +20,5 @@
   <population>0</population>
   <hide>0.250000</hide>
   <services/>
-  <commodities/>
-  <description>This hypergate is nestled safely inside the last remaining Hexaporyan system.</description>
  </general>
- <tags/>
 </spob>

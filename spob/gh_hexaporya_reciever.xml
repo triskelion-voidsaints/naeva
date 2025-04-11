@@ -3,6 +3,7 @@
  <marker>spobmarker_triangle</marker>
  <display>#oGate Hub Reciever#0</display>
  <feature>#oHypergate#0</feature>
+ <lua>hypergate_gh_hexaporya.lua</lua>
  <pos x="-383.656501" y="-734.174827"/>
  <GFX>
   <space>9.webp</space>
@@ -18,11 +19,7 @@
   <class>9</class>
   <population>0</population>
   <hide>1.000000</hide>
-  <services>
-   <land/>
-   <nomissionspawn/>
-   <uninhabited/>
-  </services>
+  <services/>
   <commodities/>
   <description>This Hypergate links this Gate Hub to the Hexaporya sector's Hypergates as needed.</description>
  </general>
