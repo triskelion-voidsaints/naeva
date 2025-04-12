@@ -2,7 +2,7 @@
 <spob name="Hunter Station">
  <pos x="-1286.840302" y="-1738.133483"/>
  <GFX>
-  <space>0-C.webp</space>
+  <space>0-C-P.webp</space>
   <exterior>Civilian Station Small.webp</exterior>
  </GFX>
  <presence>
@@ -20,6 +20,6 @@
    <refuel/>
   </services>
   <commodities/>
-  <description>(null)</description>
+  <description>If you're looking for someone or something, there's a good chance it can be found on Hunter Station. As the headquarters of the Guild of Bounty Hunters, wanted people from all over the galaxy tend to be brought here, either as a guest or as a prisoner.</description>
  </general>
 </spob>
