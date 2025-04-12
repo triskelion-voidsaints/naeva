@@ -10,7 +10,8 @@ hypergate.setup{
       [30]  = 0.8,
       [10]  = 0.9,
    },
-   tex = "hypergate_zalek_activated.webp",
+   tex = "9.webp",
+   tex_mask = "9 mask.webp",
 }
 
 hypergate.setup{
