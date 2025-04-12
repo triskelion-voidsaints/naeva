@@ -19,9 +19,15 @@
    <land/>
    <bar/>
    <refuel/>
+   <commodity/>
   </services>
   <commodities/>
   <description>Ares was the first attempt by mankind to terraform a planet. Scientists sent by the Overwatch (the predecessor to the Federation) tried to make Ares more habitable. They failed. In the past 400 years there have been countless attempts to rectify the damage caused by the toxin-producing algae introduced by those original scientists, but even now Ares is only mildly habitable, and breathmasks are still required in most areas as most of the planet is still covered by this organism.</description>
   <bar>The walls of this bar are covered by pictures of Ares in the various stages of ecological transformation, along with the explanations for why it was done and the effects it had.</bar>
  </general>
+ <tech>
+  <item>Maps</item>
+  <item price_mod="0.5">Industrial</item>
+  <item price_mod="1.5">Foodstuffs</item>
+ </tech>
 </spob>

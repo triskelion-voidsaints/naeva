@@ -36,5 +36,7 @@ During the Second Dark Age, the remnants of the Manifest navy chose Vulcan as th
  </general>
  <tech>
   <item>Maps</item>
+  <item price_mod="0.63">Medical Supplies</item>
+  <item price_mod="1.43">Equipment</item>
  </tech>
 </spob>
