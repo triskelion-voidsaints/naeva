@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="Undalyn">
+<ssys name="Valdyn">
  <general>
-  <radius>3000.000000</radius>
+  <radius>6000.000000</radius>
   <spacedust>400</spacedust>
   <interference>0.000000</interference>
  </general>
- <pos x="458.539200" y="1397.772000"/>
- <spobs>
-  <spob>Wormhole (Undalyn)</spob>
- </spobs>
+ <pos x="576.539200" y="1056.772000"/>
+ <spobs/>
  <jumps>
-  <jump target="Salszude">
+  <jump target="Dalbyn">
    <autopos/>
    <hide>1.000000</hide>
   </jump>
-  <jump target="Shenteya">
+  <jump target="Vel'I'Non">
    <autopos/>
    <hide>1.000000</hide>
   </jump>
-  <jump target="Vyndarae">
+  <jump target="Ventyy">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Veyla">
    <autopos/>
    <hide>1.000000</hide>
   </jump>
  </jumps>
+ <tags>
+  <tag>Broken Worlds</tag>
+ </tags>
 </ssys>
