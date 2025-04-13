@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="OG-Forge E">
+ <pos x="2959.899116" y="-16.159298"/>
+ <marker>spobmarker_triangle</marker>
+ <lua>overgate_primus.lua</lua>
+ <display>#rEastern Overgate#0</display>
+ <feature>#rDestabilized Overgate#0</feature>
+ <GFX>
+  <space>10-Y 90.webp</space>
+  <exterior>Overgate.webp</exterior>
+ </GFX>
+ <general>
+  <class>10-Y</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+</spob>

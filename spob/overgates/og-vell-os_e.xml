@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="OG-Vell-os E">
+ <marker>spobmarker_triangle</marker>
+ <display>Destroyed Overgate#0</display>
+ <pos x="1878.821937" y="-39.687896"/>
+ <GFX>
+  <space>10-Z 90.webp</space>
+  <exterior>Overgate.webp</exterior>
+ </GFX>
+ <general>
+  <class>10-Z</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+</spob>

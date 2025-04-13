@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Porta-dream">
+ <marker>spobmarker_triangle</marker>
+ <lua>hypergate_gh_dreamcatcher.lua</lua>
+ <pos x="1301.486484" y="1762.333299"/>
+ <display>#oPorta-dream#0</display>
+ <feature>#oHypergate#0</feature>
+ <GFX>
+  <space>9.webp</space>
+  <exterior>Hypergate.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Tre'pira</faction>
+  <base>50.000000</base>
+  <bonus>0.000000</bonus>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>9</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+  <commodities/>
+  <description>This Hypergate links this Gate Hub to the Dreamcatcher sector's Hypergates as needed.</description>
+ </general>
+</spob>

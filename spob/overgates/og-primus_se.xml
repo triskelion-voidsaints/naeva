@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="OG-Primus SE">
+ <marker>spobmarker_triangle</marker>
+ <lua>overgate_kane.lua</lua>
+ <display>#rSouth-east Overgate#0</display>
+ <feature>#rDestabilized Overgate#0</feature>
+ <pos x="1761.980651" y="-2535.078946"/>
+ <GFX>
+  <space>10-Y 150.webp</space>
+  <exterior>Overgate.webp</exterior>
+ </GFX>
+ <general>
+  <class>10-Y</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+</spob>

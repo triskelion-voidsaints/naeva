@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="GH_Hexaporya Reciever">
+ <marker>spobmarker_triangle</marker>
+ <display>#oGate Hub Reciever#0</display>
+ <feature>#oHypergate#0</feature>
+ <lua>hypergate_gh_hexaporya.lua</lua>
+ <pos x="-383.656501" y="-734.174827"/>
+ <GFX>
+  <space>9.webp</space>
+  <exterior>Hypergate.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Sigma Shipyards</faction>
+  <base>50.000000</base>
+  <bonus>0.000000</bonus>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>9</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+  <commodities/>
+  <description>This Hypergate links this Gate Hub to the Hexaporya sector's Hypergates as needed.</description>
+ </general>
+</spob>

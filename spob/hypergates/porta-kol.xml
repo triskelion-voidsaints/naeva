@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Porta-kol">
+ <pos x="-838.618767" y="-1308.085955"/>
+ <marker>spobmarker_triangle</marker>
+ <lua>hypergate_nilkol.lua</lua>
+ <display>#oPorta-kol#0</display>
+ <feature>#oHypergate#0</feature>
+ <GFX>
+  <space>9.webp</space>
+  <exterior>Hypergate.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Tre'pira</faction>
+  <base>50.000000</base>
+  <bonus>0.000000</bonus>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>9</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+  <commodities/>
+  <description>This hypergate was built and is maintained by the Polaris.</description>
+ </general>
+ <tags/>
+</spob>

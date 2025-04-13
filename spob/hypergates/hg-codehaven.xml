@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="HG-Codehaven">
+ <marker>spobmarker_triangle</marker>
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>9-Z.webp</space>
+  <exterior>Hypergate Deactivated.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Derelict</faction>
+  <base>0.000000</base>
+  <bonus>0.000000</bonus>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>9-Z</class>
+  <population>0</population>
+  <hide>0.500000</hide>
+  <services>
+   <land/>
+   <nomissionspawn/>
+   <uninhabited/>
+  </services>
+  <commodities/>
+  <description>Codehaven's hypergate is an anomaly among its contemporaries as a gate destroyed by Polaris saboteurs before the end of the Alien War. After the attack, the colony was evacuated by the Manifest military to the Tichel system as logistical upkeep became inviable, and no human presence on the planet survived the Third Dark Age.</description>
+ </general>
+ <tags>
+  <tag>hypergate</tag>
+  <tag>ruined</tag>
+  <tag>nonews</tag>
+  <tag>nonpc</tag>
+  <tag>manifestera</tag>
+ </tags>
+</spob>

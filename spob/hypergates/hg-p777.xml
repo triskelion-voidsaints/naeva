@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="HG-P777">
+ <pos x="942.112828" y="-1082.120602"/>
+ <marker>spobmarker_triangle</marker>
+ <lua>hypergate_p777.lua</lua>
+ <display>#oHG-P777#0</display>
+ <feature>#oHypergate#0</feature>
+ <GFX>
+  <space>9.webp</space>
+  <exterior>Hypergate.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Sigma Shipyards</faction>
+  <base>50.000000</base>
+  <bonus>0.000000</bonus>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>9</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+  <commodities/>
+  <description>This hypergate was secretly used by the Hexaporyans to infiltrate Manifest space.</description>
+ </general>
+ <tags/>
+</spob>

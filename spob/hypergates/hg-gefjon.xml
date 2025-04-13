@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="HG-Gefjon">
+ <pos x="-2212.619487" y="-6.419592"/>
+ <marker>spobmarker_triangle</marker>
+ <lua>hypergate_gefjon.lua</lua>
+ <display>#oHG-Gefjon#0</display>
+ <feature>#oHypergate#0</feature>
+ <GFX>
+  <space>9.webp</space>
+  <exterior>Hypergate.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Sigma Shipyards</faction>
+  <base>50.000000</base>
+  <bonus>0.000000</bonus>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>9</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+  <commodities/>
+  <description>Gefjon's hypergate was unaffected by the end of the Alien War as its Overgate hub survived. Nevertheless, the people of the Gefjon system were limited to only travel to other surviving hubs in the Galactic North. Most did not due to fear of further mutations caused by the now unmaintained system. Eventually, rights to the gate were sold by the planetary government to the Sigma Shipyards corporation and the gate was jury-rigged to link directly to the nearby Rigel and Nesre Secundus systems. Access is now restricted to trusted Sigma employees.</description>
+ </general>
+ <tags/>
+</spob>

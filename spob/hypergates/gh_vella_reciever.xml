@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="GH_Vella Reciever">
+ <marker>spobmarker_triangle</marker>
+ <display>Gate Hub Reciever#0</display>
+ <pos x="-1975.715397" y="23.337067"/>
+ <GFX>
+  <space>9-Z.webp</space>
+  <exterior>Hypergate Deactivated.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Derelict</faction>
+  <base>0.000000</base>
+  <bonus>0.000000</bonus>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>9-Z</class>
+  <population>0</population>
+  <hide>0.500000</hide>
+  <services>
+   <land/>
+   <nomissionspawn/>
+   <uninhabited/>
+  </services>
+  <commodities/>
+  <description>This Hypergate once linked this Gate Hub to the Tekel sector's Hypergates as needed, before it was destroyed by the Aurorans.</description>
+ </general>
+ <tags>
+  <tag>hypergate</tag>
+  <tag>ruined</tag>
+  <tag>nonews</tag>
+  <tag>nonpc</tag>
+  <tag>manifestera</tag>
+ </tags>
+</spob>

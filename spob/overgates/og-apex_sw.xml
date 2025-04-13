@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="OG-Apex SW">
+ <marker>spobmarker_triangle</marker>
+ <pos x="-1624.650821" y="-2491.117037"/>
+ <lua>overgate_primus.lua</lua>
+ <display>#rSouth-west Overgate#0</display>
+ <feature>#rDestabilized Overgate#0</feature>
+ <GFX>
+  <space>10-X 210.webp</space>
+  <exterior>Overgate.webp</exterior>
+ </GFX>
+ <general>
+  <class>10-X</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+</spob>
