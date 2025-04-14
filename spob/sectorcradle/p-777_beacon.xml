@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="P-777 Beacon">
+ <pos x="10000" y="10000"/>
+ <display>#0</display>
+ <GFX>
+  <space>pixel.webp</space>
+  <exterior>Unknown.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Derelict</faction>
+ </presence>
+ <general>
+  <class>9</class>
+  <population>1</population>
+  <hide>0.000001</hide>
+  <services>
+   <land/>
+   <refuel/>
+  </services>
+  <description>Null</description>
+ </general>
+</spob>
