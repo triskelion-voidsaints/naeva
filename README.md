@@ -21,7 +21,7 @@ Naeva features an extensive array of fast travel options based around an altered
 1) Wormholes yet remain as a natural option, their destination ever unpredictable.
 
 ## Galactic Calamity
-1) Earth floundered after a great wave of colony ships were launched into deep space. This was the Second Dark Age. The colony ships founded many worlds that are collectively referred to as the Frontier. When the remnants of humanity on Earth were rescued by the Vell-os, they founded a superior civilization that leapfrogged the Frontier and generally left them isolated and ignored.
+1) Earth floundered after a great wave of colony ships were launched into deep space. This was the Second Dark Age. The colony ships founded many worlds that are collectively referred to as the Frontier. When the remnants of humanity on Earth were rescued by the Vell-os, they founded a superior civilization that leapfrogged the Frontier and generally left them isolated and ignored. Earth itself was eventually forgotten.
 1) The deactivation of the Hypergate system was now caused by artificially induced supernovas at the gate hub systems, which puts the nova in Nova. This caused the Third Dark Age.
 
 ## Installing
