@@ -2,6 +2,7 @@
 **Naeva** is a TC for Naev that recreates the Novaverse.
 <p align="center"><img src="https://github.com/triskelion-voidsaints/naeva/blob/main/LOGO.png" alt="TVS:EN Badge" width="200"/></p>
 
+![enbyware](https://pride-badges.pony.workers.dev/static/v1?label=enbyware&labelColor=%23555&stripeWidth=8&stripeColors=FCF434%2CFFFFFF%2C9C59D1%2C2C2C2C)
 ## Installing
 1) Install Naev from Steam.
 1) Opt-in to the Naev nightly via navigating to the Properties window for Naev in your Steam library, then choosing 'Nightly' from the Betas tab.
