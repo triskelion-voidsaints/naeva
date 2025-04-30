@@ -1,26 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="Scheall">
+<ssys name="Haven">
  <general>
-  <radius>3000.000000</radius>
+  <radius>15000.000000</radius>
   <spacedust>400</spacedust>
   <interference>0.000000</interference>
-  <nolanes/>
  </general>
- <pos x="128.833333" y="749.798611"/>
- <spobs>
-  <spob>Harbor</spob>
- </spobs>
+ <pos x="69.000000" y="652.000000"/>
+ <spobs/>
  <jumps>
   <jump target="GH_Apex">
    <autopos/>
    <hide>1.000000</hide>
   </jump>
-  <jump target="Ukari">
+  <jump target="Petra">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Sedina">
    <autopos/>
    <hide>1.000000</hide>
   </jump>
  </jumps>
- <tags>
-  <tag>Apex</tag>
- </tags>
 </ssys>

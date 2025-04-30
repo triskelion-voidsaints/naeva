@@ -11,6 +11,10 @@
   <spob_virtual>Unpresence 250 (Federation)</spob_virtual>
  </spobs>
  <jumps>
+  <jump target="Haven">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
   <jump target="NGC-1317">
    <autopos/>
    <hide>1.000000</hide>
