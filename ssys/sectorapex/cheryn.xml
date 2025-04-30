@@ -10,11 +10,6 @@
   <spob>Exit (Cheryn)</spob>
  </spobs>
  <jumps>
-  <jump target="DESTINY">
-   <autopos/>
-   <hidden/>
-   <hide>1.000000</hide>
-  </jump>
   <jump target="Gavley">
    <autopos/>
    <hide>1.000000</hide>

@@ -8,11 +8,6 @@
  <pos x="59.085005" y="1085.753601"/>
  <spobs/>
  <jumps>
-  <jump target="Cheryn">
-   <autopos/>
-   <hidden/>
-   <hide>1.000000</hide>
-  </jump>
   <jump target="FATE">
    <autopos/>
    <hide>1.000000</hide>

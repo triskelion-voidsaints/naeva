@@ -8,11 +8,6 @@
  <pos x="402.347933" y="882.807741"/>
  <spobs/>
  <jumps>
-  <jump target="CLASH">
-   <autopos/>
-   <hidden/>
-   <hide>1.000000</hide>
-  </jump>
   <jump target="Iwo'U'Sentar">
    <autopos/>
    <hide>1.000000</hide>

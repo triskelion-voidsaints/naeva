@@ -11,15 +11,6 @@
  <jumps>
   <jump target="CHALLENGE">
    <autopos/>
-   <hidden/>
-   <hide>1.000000</hide>
-  </jump>
-  <jump target="Corvus">
-   <autopos/>
-   <hide>1.000000</hide>
-  </jump>
-  <jump target="Mallereth">
-   <autopos/>
    <hide>1.000000</hide>
   </jump>
  </jumps>

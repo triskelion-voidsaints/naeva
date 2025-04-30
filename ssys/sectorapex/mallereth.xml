@@ -17,10 +17,6 @@
    <autopos/>
    <hide>1.000000</hide>
   </jump>
-  <jump target="MAW">
-   <autopos/>
-   <hide>1.000000</hide>
-  </jump>
   <jump target="Nestin">
    <autopos/>
    <hide>1.000000</hide>
