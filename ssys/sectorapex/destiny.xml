@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="DESTINY">
+<ssys name="CHALLENGE">
  <general>
   <radius>4500.000000</radius>
   <spacedust>400</spacedust>
@@ -14,9 +14,10 @@
   </jump>
   <jump target="GATE">
    <autopos/>
+   <hidden/>
    <hide>1.000000</hide>
   </jump>
-  <jump target="POTENTIAL">
+  <jump target="TERMINUS">
    <autopos/>
    <hide>1.000000</hide>
   </jump>

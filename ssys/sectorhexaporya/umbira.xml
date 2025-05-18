@@ -10,12 +10,10 @@
  <jumps>
   <jump target="Higiron">
    <autopos/>
-   <hidden/>
    <hide>1.000000</hide>
   </jump>
   <jump target="Numamba">
    <autopos/>
-   <hidden/>
    <hide>1.000000</hide>
   </jump>
   <jump target="Residio">

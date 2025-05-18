@@ -16,7 +16,6 @@
   </jump>
   <jump target="Hogun">
    <autopos/>
-   <hidden/>
    <hide>1.000000</hide>
   </jump>
   <jump target="Umbira">

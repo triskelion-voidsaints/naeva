@@ -13,12 +13,10 @@
  <jumps>
   <jump target="Dnun Har">
    <autopos/>
-   <hidden/>
    <hide>1.000000</hide>
   </jump>
   <jump target="Higiron">
    <autopos/>
-   <hidden/>
    <hide>1.000000</hide>
   </jump>
   <jump target="K9">
@@ -27,12 +25,10 @@
   </jump>
   <jump target="Umbira">
    <autopos/>
-   <hidden/>
    <hide>1.000000</hide>
   </jump>
   <jump target="Zillon">
    <autopos/>
-   <hidden/>
    <hide>1.000000</hide>
   </jump>
  </jumps>

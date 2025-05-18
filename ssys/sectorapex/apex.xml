@@ -10,7 +10,7 @@
   <spob>Chimaera Facility</spob>
  </spobs>
  <jumps>
-  <jump target="REUNION">
+  <jump target="DESTRUCTION">
    <autopos/>
    <hide>1.000000</hide>
   </jump>

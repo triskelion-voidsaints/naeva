@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="CLASH">
+<ssys name="REUNION">
  <general>
   <radius>6000.000000</radius>
   <spacedust>400</spacedust>
@@ -8,15 +8,16 @@
  <pos x="265.971579" y="828.230453"/>
  <spobs/>
  <jumps>
+  <jump target="CLASH">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
   <jump target="DESTRUCTION">
    <autopos/>
+   <hidden/>
    <hide>1.000000</hide>
   </jump>
-  <jump target="FATE">
-   <autopos/>
-   <hide>1.000000</hide>
-  </jump>
-  <jump target="REUNION">
+  <jump target="GATE">
    <autopos/>
    <hide>1.000000</hide>
   </jump>

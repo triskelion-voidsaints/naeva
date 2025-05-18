@@ -9,7 +9,17 @@
  <pos x="-92.013889" y="751.909722"/>
  <spobs/>
  <jumps>
-  <jump target="CHALLENGE">
+  <jump target="Corvus">
+   <autopos/>
+   <hidden/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Mallereth">
+   <autopos/>
+   <hidden/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="POTENTIAL">
    <autopos/>
    <hide>1.000000</hide>
   </jump>

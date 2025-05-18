@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="TERMINUS">
+<ssys name="DESTINY">
  <general>
   <radius>3000.000000</radius>
   <spacedust>400</spacedust>
@@ -8,11 +8,11 @@
  <pos x="182.059542" y="780.969650"/>
  <spobs/>
  <jumps>
-  <jump target="CHALLENGE">
+  <jump target="FATE">
    <autopos/>
    <hide>1.000000</hide>
   </jump>
-  <jump target="GATE">
+  <jump target="POTENTIAL">
    <autopos/>
    <hide>1.000000</hide>
   </jump>

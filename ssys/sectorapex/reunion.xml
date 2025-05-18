@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="REUNION">
+<ssys name="DESTRUCTION">
  <general>
   <radius>4500.000000</radius>
   <spacedust>400</spacedust>
@@ -16,8 +16,9 @@
    <autopos/>
    <hide>1.000000</hide>
   </jump>
-  <jump target="DESTRUCTION">
+  <jump target="REUNION">
    <autopos/>
+   <hidden/>
    <hide>1.000000</hide>
   </jump>
  </jumps>

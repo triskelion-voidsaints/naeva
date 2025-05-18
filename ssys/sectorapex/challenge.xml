@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="CHALLENGE">
+<ssys name="POTENTIAL">
  <general>
   <radius>4500.000000</radius>
   <spacedust>400</spacedust>
@@ -8,15 +8,16 @@
  <pos x="-62.442773" y="782.416409"/>
  <spobs/>
  <jumps>
-  <jump target="GATE">
+  <jump target="DESTINY">
    <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="FATE">
+   <autopos/>
+   <hidden/>
    <hide>1.000000</hide>
   </jump>
   <jump target="MAW">
-   <autopos/>
-   <hide>1.000000</hide>
-  </jump>
-  <jump target="TERMINUS">
    <autopos/>
    <hide>1.000000</hide>
   </jump>
