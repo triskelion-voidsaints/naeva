@@ -23,7 +23,6 @@
    <missions/>
    <commodity/>
   </services>
-  <commodities/>
   <description>One of many gas-mining centers in the Federation, Kismet stands apart in its great harvest of Chrotite gas, a rare heavy noble gas. Chrotite gas is used as a coolant in modern starship engines, where it is supercooled to a liquid state. Chrotite is more stable than most other gases under radioactive bombardment, and has the bonus of being totally non-toxic (although it's still dangerous as a super-cooled liquid). Kismet makes a small fortune as the only known planet to have large raw supplies of this gas, and Fate (Kismet) Pty Ltd is one of the more heavily traded stocks in the Nikkei index.</description>
   <bar>This bar is filled with merchants and traders from all over the galaxy. They have all come here looking to buy some of the Chrotite gas harvested here to sell at an enormous profit elsewhere in Federation space.</bar>
  </general>
