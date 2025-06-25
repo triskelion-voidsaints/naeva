@@ -24,7 +24,10 @@
   <description>Outcast is one of many Federation prison worlds. No stockade fences are present and there are few guards, as the entire planet is a tectonic nightmare. Tours of duty are brief here, and guard personnel are rotated regularly. The prisoners are all hardened criminals or terrorists, and many sophisticated escapes have been attempted. All relied on outside help via a waiting ship, but none have ever made it through the blockade.</description>
  </general>
  <tech>
-  <item price_mod="0.5">Metals</item>
-  <item price_mod="1.5">Foodstuffs</item>
+  <item price_mod="0.500000">Metals</item>
+  <item price_mod="1.500000">Foodstuffs</item>
  </tech>
+ <tags>
+  <tag>prison</tag>
+ </tags>
 </spob>

@@ -13,7 +13,7 @@
  </presence>
  <general>
   <class>P</class>
-  <population>113000000000</population>
+  <population>1.13e+11</population>
   <hide>1.000000</hide>
   <services>
    <land/>
@@ -26,7 +26,10 @@
   <bar>The Heraan warriors who are posted here all seem to be discussing how to best rotate their manpower to allow the greatest number of them to actually be posted to a more honorable posting. You sense that many have a deep abiding anger at having to guard the criminals here.</bar>
  </general>
  <tech>
-  <item price_mod="0.5">Metals</item>
-  <item price_mod="1.5">Foodstuffs</item>
+  <item price_mod="0.500000">Metals</item>
+  <item price_mod="1.500000">Foodstuffs</item>
  </tech>
+ <tags>
+  <tag>prison</tag>
+ </tags>
 </spob>

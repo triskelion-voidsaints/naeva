@@ -28,11 +28,14 @@
   <bar>This richly appointed establishment is overlooked by a balcony which has but one table. A shadowy figure sits there watching the movements of everyone in the bar.</bar>
  </general>
  <tech>
-  <item price_mod="1.5">Foodstuffs</item>
-  <item price_mod="1.5">Metals</item>
-  <item price_mod="1.5">Industrial</item>
-  <item price_mod="1.43">Equipment</item>
-  <item price_mod="1.38">Medical Supplies</item>
-  <item price_mod="1.33">Luxury Goods</item>
+  <item price_mod="1.500000">Foodstuffs</item>
+  <item price_mod="1.500000">Metals</item>
+  <item price_mod="1.500000">Industrial</item>
+  <item price_mod="1.430000">Equipment</item>
+  <item price_mod="1.380000">Medical Supplies</item>
+  <item price_mod="1.330000">Luxury Goods</item>
  </tech>
+ <tags>
+  <tag>pirate</tag>
+ </tags>
 </spob>

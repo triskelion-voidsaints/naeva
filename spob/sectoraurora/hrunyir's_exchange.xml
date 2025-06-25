@@ -2,7 +2,7 @@
 <spob name="Hrunyir's Exchange">
  <pos x="0.000000" y="0.000000"/>
  <GFX>
-  <space>1-C-P.webp</space>
+  <space>1-C.webp</space>
   <exterior>Civilian Station.webp</exterior>
  </GFX>
  <presence>
@@ -29,11 +29,14 @@
   <bar>(null)</bar>
  </general>
  <tech>
-  <item price_mod="1">Foodstuffs</item>
-  <item price_mod="1">Metals</item>
-  <item price_mod="1">Industrial</item>
-  <item price_mod="1">Equipment</item>
-  <item price_mod="1">Medical Supplies</item>
-  <item price_mod="1">Luxury Goods</item>
+  <item>Foodstuffs</item>
+  <item>Metals</item>
+  <item>Industrial</item>
+  <item>Equipment</item>
+  <item>Medical Supplies</item>
+  <item>Luxury Goods</item>
  </tech>
+ <tags>
+  <tag>pirate</tag>
+ </tags>
 </spob>

@@ -26,11 +26,12 @@
   <bar>This bar has pictures all over its walls of Goliath at its height some seven centuries ago. You sense the almost palpable sadness of this place which was amongst the most beautiful of planets in the galaxy.</bar>
  </general>
  <tech>
-  <item price_mod="0.5">Foodstuffs</item>
-  <item price_mod="0.67">Luxury Goods</item>
-  <item price_mod="1.5">Metals</item>
+  <item price_mod="0.500000">Foodstuffs</item>
+  <item price_mod="0.670000">Luxury Goods</item>
+  <item price_mod="1.500000">Metals</item>
  </tech>
  <tags>
   <tag>manifestera</tag>
+  <tag>abandoned</tag>
  </tags>
 </spob>

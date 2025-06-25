@@ -16,4 +16,7 @@
   </services>
   <description>Hax, as it is called by the nav-buoys, is the sole survivor of the destruction of its solar system.  Wandering aimlessly throughout the cosmos, Hax is a broken heap of a world that outlasted its sun, a dyson sphere, and every other stellar body formerly present in this system.  Faint energy readings and a world-spanning metallic lattice suggest that this world was once a fortress against an unknown menace, and was heavily shielded in case of an attack. Evidently, it didn't help as much as they had hoped.</description>
  </general>
+ <tags>
+  <tag>ruined</tag>
+ </tags>
 </spob>

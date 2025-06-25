@@ -13,7 +13,7 @@
  </presence>
  <general>
   <class>G</class>
-  <population>28000000000</population>
+  <population>2.8e+10</population>
   <hide>1.000000</hide>
   <services>
    <land/>
@@ -24,7 +24,10 @@
   <description>One of the first decrees by the Moash House, upon becoming the first family, was that the Heraan Family were to look after the housing of all Auroran criminals, but they were not stupid enough to let them have any Moash law-breakers. They knew that the Heraan House still remembers the Great Moash Invasion of two centuries ago, and that they would probably have treated any Moash criminals, and warriors who have broken their code, fairly roughly. Consequently, Ekran is a prison world only for members of the Moash House sentenced to time in prison under Auroran Law.</description>
  </general>
  <tech>
-  <item price_mod="0.5">Metals</item>
-  <item price_mod="1.38">Medical Supplies</item>
+  <item price_mod="0.500000">Metals</item>
+  <item price_mod="1.380000">Medical Supplies</item>
  </tech>
+ <tags>
+  <tag>prison</tag>
+ </tags>
 </spob>

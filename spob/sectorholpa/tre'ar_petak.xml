@@ -26,7 +26,10 @@
   <bar>The Tre'pira who live here all seem to be a little more serious than their colleagues elsewhere. Perhaps their duties as jailors weigh heavily on their minds. In here, most of them seem to be content to drink alone.</bar>
  </general>
  <tech>
-  <item price_mod="0.5">Metals</item>
-  <item price_mod="1.38">Medical Supplies</item>
+  <item price_mod="0.500000">Metals</item>
+  <item price_mod="1.380000">Medical Supplies</item>
  </tech>
+ <tags>
+  <tag>prison</tag>
+ </tags>
 </spob>

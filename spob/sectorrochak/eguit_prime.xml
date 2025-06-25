@@ -13,7 +13,7 @@
  </presence>
  <general>
   <class>F</class>
-  <population>28000000000</population>
+  <population>2.8e+10</population>
   <hide>1.000000</hide>
   <services>
    <land/>
@@ -26,7 +26,10 @@
   <bar>The warriors in this bar are a quiet bunch. They all look too miserable and tired to raise much of a laugh. Most of them wait for their six month posting here to finish so that they might go on to a more glorious and less demanding position.</bar>
  </general>
  <tech>
-  <item price_mod="0.5">Metals</item>
-  <item price_mod="1.38">Medical Supplies</item>
+  <item price_mod="0.500000">Metals</item>
+  <item price_mod="1.380000">Medical Supplies</item>
  </tech>
+ <tags>
+  <tag>prison</tag>
+ </tags>
 </spob>

@@ -13,7 +13,7 @@
  </presence>
  <general>
   <class>L</class>
-  <population>1400000000</population>
+  <population>1.4e+09</population>
   <hide>1.000000</hide>
   <services>
    <land/>
@@ -26,7 +26,10 @@
   <bar>As you walk into the bar you see a number of slightly sullen-looking warriors who all look like they are waiting for an excuse to challenge you.</bar>
  </general>
  <tech>
-  <item price_mod="0.5">Metals</item>
-  <item price_mod="1.5">Foodstuffs</item>
+  <item price_mod="0.500000">Metals</item>
+  <item price_mod="1.500000">Foodstuffs</item>
  </tech>
+ <tags>
+  <tag>prison</tag>
+ </tags>
 </spob>
