@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<spob name="Wormhole (Destruction)">
+<spob name="Wormhole (Rulaja)">
  <pos x="-2072.993354" y="2169.584442"/>
  <marker>spobmarker_wormhole</marker>
  <lua>wormhole.lua</lua>

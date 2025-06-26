@@ -8,6 +8,10 @@
  <pos x="512.539200" y="1100.772000"/>
  <spobs/>
  <jumps>
+  <jump target="Dalbyn">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
   <jump target="Sornas">
    <autopos/>
    <hide>1.000000</hide>
@@ -17,10 +21,6 @@
    <hide>1.000000</hide>
   </jump>
   <jump target="Vel'I'Non">
-   <autopos/>
-   <hide>1.000000</hide>
-  </jump>
-  <jump target="Ventyy">
    <autopos/>
    <hide>1.000000</hide>
   </jump>

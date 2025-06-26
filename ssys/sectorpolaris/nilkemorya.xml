@@ -7,8 +7,8 @@
  </general>
  <pos x="651.574392" y="-143.101101"/>
  <spobs>
+  <spob>HG-Nil'kemorya</spob>
   <spob>Nil'ar Kemorya</spob>
-  <spob>Porta-kemorya</spob>
  </spobs>
  <jumps>
   <jump target="Ferris">

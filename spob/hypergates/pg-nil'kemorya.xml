@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<spob name="Porta-shan">
- <pos x="977.561253" y="-1031.771144"/>
- <marker>spobmarker_triangle</marker>
- <lua>hypergate_verashan.lua</lua>
- <display>#oPorta-shan#0</display>
+<spob name="HG-Nil'kemorya">
+ <display>#oHG-Nil'kemorya#0</display>
  <feature>#oHypergate#0</feature>
+ <lua>hypergate_nilkemorya.lua</lua>
+ <marker>spobmarker_triangle</marker>
+ <pos x="570.630429" y="-775.700739"/>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>
@@ -22,5 +22,9 @@
   <services/>
   <description>This hypergate was built and is maintained by the Polaris.</description>
  </general>
- <tags/>
+ <tags>
+  <tag>hypergate</tag>
+  <tag>manifestera</tag>
+  <tag>active</tag>
+ </tags>
 </spob>

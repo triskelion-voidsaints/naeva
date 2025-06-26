@@ -23,4 +23,10 @@
   </services>
   <description>Although officially this listening post is here to watch for Federation soldiers, the real reason for its existence is to keep an eye on the forces loyal to the First Family some three systems away. Suspicious of the Auroran Central Government's decade-long buildup of forces in the Grak system, the leaders of the Vella House ordered this small early-warning station built here. The warriors on this station stay on edge, for they know that if the enormous Auroran fleet does decide to move against the Vella, they will be very difficult to stop.</description>
  </general>
+ <tags>
+  <tag>federationera</tag>
+  <tag>station</tag>
+  <tag>military</tag>
+  <tag>spying</tag>
+ </tags>
 </spob>

@@ -16,6 +16,11 @@
    <autopos/>
    <hide>1.000000</hide>
   </jump>
+  <jump target="MAW">
+   <autopos/>
+   <hidden/>
+   <hide>1.000000</hide>
+  </jump>
   <jump target="Tin'E'Tivel">
    <autopos/>
    <hide>1.000000</hide>

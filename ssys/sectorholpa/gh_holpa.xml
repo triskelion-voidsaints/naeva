@@ -7,9 +7,9 @@
  </general>
  <pos x="957.322849" y="-72.209898"/>
  <spobs>
+  <spob>HG-Holpa</spob>
   <spob>OG-Holpa NW</spob>
   <spob>OG-Holpa W</spob>
-  <spob>Porta-holpa</spob>
  </spobs>
  <jumps>
   <jump target="Bis'usoca">

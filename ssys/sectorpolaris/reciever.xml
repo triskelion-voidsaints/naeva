@@ -7,9 +7,9 @@
  </general>
  <pos x="507.110322" y="-72.185600"/>
  <spobs>
+  <spob>HG-Polaris</spob>
   <spob>OG-Polaris E</spob>
   <spob>OG-Polaris NW</spob>
-  <spob>Porta-polaris</spob>
  </spobs>
  <jumps>
   <jump target="K'marak">

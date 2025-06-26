@@ -7,8 +7,8 @@
  </general>
  <pos x="1038.420529" y="558.858155"/>
  <spobs>
+  <spob>HG-P'aedt</spob>
   <spob>P'ar Aed</spob>
-  <spob>Porta-paed</spob>
  </spobs>
  <jumps>
   <jump target="J'ambol">

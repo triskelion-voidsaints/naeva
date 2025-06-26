@@ -23,4 +23,10 @@
   </services>
   <description>This is one of the many Auroran 'Listening' Posts. Here the forward battle-fleets of the Empire hold themselves ready to invade the Federation, or to be invaded. Many young warriors crave a posting to these border stations as a chance to earn some honor and meet the Empire's oldest enemy. No warrior leaves one of these posts without earning a great number of the small blue battle tattoos that signify successful engagements fought against the Federation.</description>
  </general>
+ <tags>
+  <tag>federationera</tag>
+  <tag>station</tag>
+  <tag>military</tag>
+  <tag>spying</tag>
+ </tags>
 </spob>

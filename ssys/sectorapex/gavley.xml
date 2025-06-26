@@ -16,6 +16,10 @@
    <autopos/>
    <hide>1.000000</hide>
   </jump>
+  <jump target="Salya">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
  </jumps>
  <tags>
   <tag>Apex</tag>

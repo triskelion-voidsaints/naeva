@@ -22,5 +22,9 @@
   <services/>
   <description>This hypergate is nestled safely inside the last remaining Hexaporyan system.</description>
  </general>
- <tags/>
+ <tags>
+  <tag>hypergate</tag>
+  <tag>manifestera</tag>
+  <tag>active</tag>
+ </tags>
 </spob>

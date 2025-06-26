@@ -21,4 +21,9 @@
   <hide>0.250000</hide>
   <services/>
  </general>
+ <tags>
+  <tag>hypergate</tag>
+  <tag>manifestera</tag>
+  <tag>active</tag>
+ </tags>
 </spob>

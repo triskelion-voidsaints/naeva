@@ -22,5 +22,9 @@
   <services/>
   <description>This hypergate was secretly used by the Hexaporyans to infiltrate Manifest space.</description>
  </general>
- <tags/>
+ <tags>
+  <tag>hypergate</tag>
+  <tag>manifestera</tag>
+  <tag>active</tag>
+ </tags>
 </spob>

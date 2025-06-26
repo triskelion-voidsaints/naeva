@@ -2,9 +2,9 @@ local hypergate = require "spob.lua.lib.hypergate2"
 hypergate.setup{
    destfunc = function ()
       return {
-         spob.get("Porta-paed"),
-         spob.get("Porta-shan"),
-         spob.get("Porta-lariy"),
+         spob.get("HG-P'aedt"),
+         spob.get("HG-Ver'shan"),
+         spob.get("HG-Kel'ariy"),
       }
    end,
 }

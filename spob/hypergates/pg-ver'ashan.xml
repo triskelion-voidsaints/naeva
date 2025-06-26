@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<spob name="Porta-pirana">
- <pos x="2995.809751" y="-1166.225939"/>
- <marker>spobmarker_triangle</marker>
- <lua>hypergate_trepirana.lua</lua>
- <display>#oPorta-pirana#0</display>
+<spob name="HG-Ver'ashan">
+ <display>#oHG-Ver'ashan#0</display>
  <feature>#oHypergate#0</feature>
+ <lua>hypergate_verashan.lua</lua>
+ <marker>spobmarker_triangle</marker>
+ <pos x="977.561253" y="-1031.771144"/>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>
@@ -22,5 +22,9 @@
   <services/>
   <description>This hypergate was built and is maintained by the Polaris.</description>
  </general>
- <tags/>
+ <tags>
+  <tag>hypergate</tag>
+  <tag>manifestera</tag>
+  <tag>active</tag>
+ </tags>
 </spob>

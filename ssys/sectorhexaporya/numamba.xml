@@ -6,9 +6,7 @@
   <interference>0.000000</interference>
  </general>
  <pos x="-1009.657692" y="1014.754150"/>
- <spobs>
-  <spob>Wormhole (Numamba)</spob>
- </spobs>
+ <spobs/>
  <jumps>
   <jump target="Higiron">
    <autopos/>
@@ -16,6 +14,7 @@
   </jump>
   <jump target="Hogun">
    <autopos/>
+   <hidden/>
    <hide>1.000000</hide>
   </jump>
   <jump target="Umbira">

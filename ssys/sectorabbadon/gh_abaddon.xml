@@ -7,13 +7,13 @@
  </general>
  <pos x="282.060656" y="318.669594"/>
  <spobs>
+  <spob>HG-Abbadon</spob>
   <spob>OG-Abaddon E</spob>
   <spob>OG-Abaddon NE</spob>
   <spob>OG-Abaddon NW</spob>
   <spob>OG-Abaddon SE</spob>
   <spob>OG-Abaddon SW</spob>
   <spob>OG-Abaddon W</spob>
-  <spob>Porta-abba</spob>
  </spobs>
  <jumps>
   <jump target="Tri'lipra">

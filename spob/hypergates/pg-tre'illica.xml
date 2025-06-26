@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<spob name="Porta-hari">
- <pos x="-2043.570223" y="-1080.631374"/>
- <marker>spobmarker_triangle</marker>
- <lua>hypergate_muhari.lua</lua>
- <display>#oPorta-hari#0</display>
+<spob name="HG-Tre'illica">
+ <display>#oHG-Tre'illica#0</display>
  <feature>#oHypergate#0</feature>
+ <lua>hypergate_treillica.lua</lua>
+ <marker>spobmarker_triangle</marker>
+ <pos x="3126.826893" y="1929.757852"/>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>
@@ -22,5 +22,9 @@
   <services/>
   <description>This hypergate was built and is maintained by the Polaris.</description>
  </general>
- <tags/>
+ <tags>
+  <tag>hypergate</tag>
+  <tag>manifestera</tag>
+  <tag>active</tag>
+ </tags>
 </spob>

@@ -23,4 +23,10 @@
   </services>
   <description>This listening post is named for the Heraan House in remembrance of the deaths of the many thousands of warriors who died ensuring the escape of the House leaders through this system during the Great Moash Invasion two centuries ago. Because of their sacrifice, the leadership of the Heraan Family survived and was able to travel through Federation space to lead a counterstrike against the Moash homeworld. The result of this attack caused the Moash warriors to be recalled, allowing the Heraan House to resettle its own space.</description>
  </general>
+ <tags>
+  <tag>federationera</tag>
+  <tag>station</tag>
+  <tag>military</tag>
+  <tag>spying</tag>
+ </tags>
 </spob>

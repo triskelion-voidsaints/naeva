@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<spob name="Porta-lariy">
- <pos x="-1768.359922" y="1939.251847"/>
- <marker>spobmarker_triangle</marker>
- <lua>hypergate_kelariy.lua</lua>
- <display>#oPorta-lariy#0</display>
+<spob name="HG-Kel'ariy">
+ <display>#oHG-Kel'ariy#0</display>
  <feature>#oHypergate#0</feature>
+ <lua>hypergate_kelariy.lua</lua>
+ <marker>spobmarker_triangle</marker>
+ <pos x="-1768.359922" y="1939.251847"/>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>
@@ -22,5 +22,9 @@
   <services/>
   <description>This hypergate was built and is maintained by the Polaris.</description>
  </general>
- <tags/>
+ <tags>
+  <tag>hypergate</tag>
+  <tag>manifestera</tag>
+  <tag>active</tag>
+ </tags>
 </spob>

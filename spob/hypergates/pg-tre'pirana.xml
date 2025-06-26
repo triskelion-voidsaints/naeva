@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<spob name="Porta-kolecto">
- <marker>spobmarker_triangle</marker>
- <lua>hypergate_tilkolecto.lua</lua>
- <display>#oPorta-kolecto#0</display>
+<spob name="HG-Tre'pirana">
+ <display>#oHG-Tre'pirana#0</display>
  <feature>#oHypergate#0</feature>
- <pos x="3629.922815" y="2561.239015"/>
+ <lua>hypergate_trepirana.lua</lua>
+ <marker>spobmarker_triangle</marker>
+ <pos x="2995.809751" y="-1166.225939"/>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>
@@ -22,5 +22,9 @@
   <services/>
   <description>This hypergate was built and is maintained by the Polaris.</description>
  </general>
- <tags/>
+ <tags>
+  <tag>hypergate</tag>
+  <tag>manifestera</tag>
+  <tag>active</tag>
+ </tags>
 </spob>

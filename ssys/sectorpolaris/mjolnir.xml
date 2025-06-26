@@ -7,8 +7,8 @@
  </general>
  <pos x="381.505100" y="-65.385190"/>
  <spobs>
+  <spob>HG-Mjolnir</spob>
   <spob>Nil'a Mjolnir</spob>
-  <spob>Porta-mjolnir</spob>
  </spobs>
  <jumps>
   <jump target="NGC-0500">

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<spob name="Porta-illica">
- <pos x="3126.826893" y="1929.757852"/>
- <marker>spobmarker_triangle</marker>
- <lua>hypergate_treillica.lua</lua>
- <display>#oPorta-illica#0</display>
+<spob name="HG-Mjolnir">
+ <display>#oHG-Mjolnir#0</display>
  <feature>#oHypergate#0</feature>
+ <lua>hypergate_mjolnir.lua</lua>
+ <marker>spobmarker_triangle</marker>
+ <pos x="-2264.689514" y="-1275.002364"/>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>
@@ -22,5 +22,9 @@
   <services/>
   <description>This hypergate was built and is maintained by the Polaris.</description>
  </general>
- <tags/>
+ <tags>
+  <tag>hypergate</tag>
+  <tag>manifestera</tag>
+  <tag>active</tag>
+ </tags>
 </spob>

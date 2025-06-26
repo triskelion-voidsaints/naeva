@@ -23,4 +23,10 @@
   </services>
   <description>The warriors manning this listening post know that they have the perilous duty of providing early warning for the warriors protecting Stlap in the Reap system. If Stlap were to fall to the rivals of the Moash House, then one of its main sources of income would be lost. Many times, the warriors here have spotted Vella House forces hypering in, and have engaged them in order to give the forces in orbit around Stlap time to prepare. Warriors who survive their posting here end up wearing a great number of the small orange battle tattoos signifying successful engagements fought against warriors from the Vella House.</description>
  </general>
+ <tags>
+  <tag>federationera</tag>
+  <tag>station</tag>
+  <tag>military</tag>
+  <tag>spying</tag>
+ </tags>
 </spob>

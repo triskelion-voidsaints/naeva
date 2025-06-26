@@ -5,11 +5,12 @@
   <spacedust>400</spacedust>
   <interference>0.000000</interference>
  </general>
- <pos x="59.085005" y="1085.753601"/>
+ <pos x="-15.914995" y="1036.753601"/>
  <spobs/>
  <jumps>
   <jump target="FATE">
    <autopos/>
+   <hidden/>
    <hide>1.000000</hide>
   </jump>
   <jump target="GATE">

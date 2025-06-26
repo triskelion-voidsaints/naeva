@@ -23,4 +23,10 @@
   </services>
   <description>This is another forward observation and staging post on the border of the Federation and the Empire. Because of the fearsome and suspicious natures of the aggressively tattooed Auroran warriors, very few merchants from either side wish to cross the border and be under the constant scrutiny thereafter of these dangerous men. So while trade between the two nations is allowed, it is sporadic and is so heavily policed that most merchants are unwilling to take the risk or go to the trouble.</description>
  </general>
+ <tags>
+  <tag>federationera</tag>
+  <tag>station</tag>
+  <tag>military</tag>
+  <tag>spying</tag>
+ </tags>
 </spob>

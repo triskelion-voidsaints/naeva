@@ -7,9 +7,9 @@
  </general>
  <pos x="257.523148" y="240.335648"/>
  <spobs>
+  <spob>HG-Nil'kol</spob>
   <spob>Nil'a Se</spob>
   <spob>Nil'ar Nina</spob>
-  <spob>Porta-kol</spob>
  </spobs>
  <jumps>
   <jump target="Algol">

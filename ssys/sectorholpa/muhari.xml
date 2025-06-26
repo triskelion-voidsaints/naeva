@@ -7,8 +7,8 @@
  </general>
  <pos x="1091.871460" y="-123.328725"/>
  <spobs>
+  <spob>HG-Mu'hari</spob>
   <spob>Mu'ar Haro</spob>
-  <spob>Porta-hari</spob>
  </spobs>
  <jumps>
   <jump target="Asolm">

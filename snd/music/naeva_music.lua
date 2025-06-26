@@ -12,6 +12,82 @@ return {
 	  ["Ventus"] = { "dark_city.ogg" },
 	  ["Drift"] = { "imminent_threat.ogg" },
    },
+   credits_songs = {
+      "empire1.ogg",
+   },
+   -- Songs chosen randomly when taking off
+   takeoff_songs = {
+      "liftoff.ogg",
+      "launch2.ogg",
+      "launch3chatstart.ogg",
+   },
+   -- Neutral ambient songs
+   ambient_songs_func = function ()
+      local sys = system.cur()
+      local tags = sys:tags()
+      local nebu = sys:nebula() > 0
+      if tags.wildspace then
+         return {
+            "wild_space.ogg",
+         }
+      elseif nebu then
+         return {
+            "ambient1.ogg",
+            "ambient3.ogg",
+            "dreamy_homage.ogg",
+            "mellow_suspension.ogg",
+         }
+      end
+      return {
+         "ambient2.ogg",
+         "ambient2_5.ogg",
+         "ambient4.ogg",
+         "peace1.ogg",
+         "peace2.ogg",
+         "peace4.ogg",
+         "peace6.ogg",
+         "mission.ogg",
+         "void_sensor.ogg",
+         "ambiphonic.ogg",
+         "terminal.ogg",
+         "eureka.ogg",
+         "78pulse.ogg",
+         "therewillbestars.ogg",
+      }
+   end,
+   -- Factional songs. Systems default to songs of dominant factions.
+   factional_songs = {
+      Federation = { "zalek2.ogg"; add_neutral = true },
+      Pirate     = { "pirate1_theme1.ogg", "pirates_orchestra.ogg", "ambient4.ogg",
+                     "terminal.ogg" },
+   },
+   combat_songs_func = function ()
+      local sys = system.cur()
+      local tags = sys:tags()
+      local nebu = sys:nebula() > 0
+      if tags.wildspace then
+         return {
+            "wild_space.ogg"
+         }
+      elseif nebu then
+         return {
+            "nebu_battle1.ogg",
+            "nebu_battle2.ogg",
+         }
+      end
+      return {
+         "combat1.ogg",
+         "combat2.ogg",
+         "combat3.ogg",
+         "vendetta.ogg",
+         "run_under_the_sun.ogg",
+      }
+   end,
+   -- Factional combat songs. Defaults to dominant factions.
+   factional_combat_songs = {
+      Federation = { "galacticbattle.ogg", "battlesomething2.ogg", add_neutral = true },
+      Pirate     = { "battlesomething2.ogg", "blackmoor_tides.ogg", add_neutral = true },
+   },
    -- Spob-specific songs.
    spob_songs_func = function( spb )
       local class = spb:class()

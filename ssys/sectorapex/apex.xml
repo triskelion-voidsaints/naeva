@@ -5,13 +5,14 @@
   <spacedust>400</spacedust>
   <interference>0.000000</interference>
  </general>
- <pos x="87.537937" y="897.192644"/>
+ <pos x="159.537937" y="963.192644"/>
  <spobs>
   <spob>Chimaera Facility</spob>
  </spobs>
  <jumps>
   <jump target="DESTRUCTION">
    <autopos/>
+   <hidden/>
    <hide>1.000000</hide>
   </jump>
  </jumps>

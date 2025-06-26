@@ -22,5 +22,9 @@
   <services/>
   <description>Aldebaran's hypergate was unaffected by the end of the Alien War as its Overgate hub survived. Nevertheless, the people of the Aldebaran system were limited to travel only to other surviving hubs in the Galactic North. During the third Dark Age, xenophobia on Haven reached a fever pitch and they sabotaged their own hypergate's controller to cut themselves off from their neighbours. The damage done was eventually reversed by Sigma Shipyards engineers, who were keen to add it to their network. The gate remains free from hostile reprisals only at Sigma's insistence that the security keys would not be shared publicly and that they would not connect the gate directly to the Gefjon system to respect Aldebaran's isolation. Consequently, Aldebaran does not see much traffic from the Hypergate due to the danger of routing through the nearby pirate-infested Overgate hub, but this is exactly the way the people of Haven like it.</description>
  </general>
- <tags/>
+ <tags>
+  <tag>hypergate</tag>
+  <tag>manifestera</tag>
+  <tag>active</tag>
+ </tags>
 </spob>

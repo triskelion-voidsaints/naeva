@@ -22,4 +22,9 @@
   <services/>
   <description>This Hypergate links this Gate Hub to the Cradle sector's Hypergates as needed.</description>
  </general>
+ <tags>
+  <tag>hypergate</tag>
+  <tag>manifestera</tag>
+  <tag>active</tag>
+ </tags>
 </spob>

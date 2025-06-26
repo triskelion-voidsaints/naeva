@@ -10,19 +10,11 @@
   <spob>Ventus</spob>
  </spobs>
  <jumps>
-  <jump target="Dalbyn">
-   <autopos/>
-   <hide>1.000000</hide>
-  </jump>
   <jump target="Valdyn">
    <autopos/>
    <hide>1.000000</hide>
   </jump>
   <jump target="Varys">
-   <autopos/>
-   <hide>1.000000</hide>
-  </jump>
-  <jump target="Veyla">
    <autopos/>
    <hide>1.000000</hide>
   </jump>

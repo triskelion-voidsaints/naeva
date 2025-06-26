@@ -22,5 +22,9 @@
   <services/>
   <description>The Manifest never built a gate here. It must have been moved here.</description>
  </general>
- <tags/>
+ <tags>
+  <tag>hypergate</tag>
+  <tag>manifestera</tag>
+  <tag>active</tag>
+ </tags>
 </spob>

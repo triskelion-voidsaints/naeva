@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Moab">
+ <general>
+  <radius>4500.000000</radius>
+  <spacedust>400</spacedust>
+  <interference>0.000000</interference>
+ </general>
+ <pos x="-62.542438" y="790.910494"/>
+ <spobs/>
+ <jumps>
+  <jump target="Corvus">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Mallereth">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Rulaja">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+ </jumps>
+ <tags>
+  <tag>Apex</tag>
+ </tags>
+</ssys>

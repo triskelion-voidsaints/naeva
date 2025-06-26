@@ -22,5 +22,9 @@
   <services/>
   <description>Manchester's hypergate was a lucky survivor of the third dark age. The valor of fierce fighters and a heroic leader allowed the Manifest to maintain an outpost on the border of Vell-os space, but this hypergate nevertheless later lay dormant for half a millennia due to the near-complete annihilation of the Overgate hubs. At the dawn of the 12th century, it was reactivated by the Sigma Shipyards corporation and jury-rigged to link to the nearby Enlightenment and Rimshot systems.</description>
  </general>
- <tags/>
+ <tags>
+  <tag>hypergate</tag>
+  <tag>manifestera</tag>
+  <tag>active</tag>
+ </tags>
 </spob>

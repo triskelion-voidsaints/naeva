@@ -23,4 +23,10 @@
   </services>
   <description>This small station is perhaps the only Auroran listening post that is not actually a staging point for a large battle-fleet ready for action. This station is only manned by a total of fifty, warriors who see very little action. Now and then they have to escort a particularly devious Federation merchant out of Auroran space, but the last major skirmish against the Federation in this area of space occurred nearly two decades ago. However, if history is any indication, the Federation is nearly due for another attempt to invade through this area of space rather than trying to overwhelm the Aurorans at the normal battle fronts.</description>
  </general>
+ <tags>
+  <tag>federationera</tag>
+  <tag>station</tag>
+  <tag>military</tag>
+  <tag>spying</tag>
+ </tags>
 </spob>

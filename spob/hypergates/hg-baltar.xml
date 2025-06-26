@@ -22,5 +22,9 @@
   <services/>
   <description>Baltar's hypergate was unaffected by the end of the Alien War as its Overgate hub survived. Unfortunately, the people of the planet Georgia were yet limited to only travel to other surviving hubs in the Cradle and Apex sectors. During the third Dark Age, they made great use of this freedom to visit among their neighbours. Baltar's hypergate was acquired by Sigma Shipyards two decades into the 12th century after a Federation court ordered the lockdown of the gate to prevent the spread of piracy. This lockdown remains 50 years later, as only trusted Sigma employees can activate the ring.</description>
  </general>
- <tags/>
+ <tags>
+  <tag>hypergate</tag>
+  <tag>manifestera</tag>
+  <tag>active</tag>
+ </tags>
 </spob>

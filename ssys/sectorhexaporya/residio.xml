@@ -27,10 +27,6 @@
    <autopos/>
    <hide>1.000000</hide>
   </jump>
-  <jump target="Zillon">
-   <autopos/>
-   <hide>1.000000</hide>
-  </jump>
  </jumps>
  <tags>
   <tag>Hexaporya</tag>

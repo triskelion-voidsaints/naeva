@@ -5,7 +5,7 @@
   <spacedust>400</spacedust>
   <interference>0.000000</interference>
  </general>
- <pos x="181.577289" y="872.115484"/>
+ <pos x="162.577289" y="868.115484"/>
  <spobs/>
  <jumps>
   <jump target="CHALLENGE">
@@ -15,6 +15,7 @@
   </jump>
   <jump target="REUNION">
    <autopos/>
+   <hidden/>
    <hide>1.000000</hide>
   </jump>
   <jump target="TERMINUS">

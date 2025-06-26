@@ -23,4 +23,10 @@
   </services>
   <description>This station is not really a 'listening' post; it is really a forward staging area for the Empire's forces. It is also from here that the juvenile potential warriors from Rimerta in the Pimen system begin their initiation as warriors. From here they must travel to the border and survive two weeks in Federation space. It is because of this that no warrior from any of the Five Houses will show any disrespect towards the Rimertan warriors, as their initiation trial is one that even the most experienced warriors elsewhere would find difficult to complete.</description>
  </general>
+ <tags>
+  <tag>federationera</tag>
+  <tag>station</tag>
+  <tag>military</tag>
+  <tag>spying</tag>
+ </tags>
 </spob>

@@ -5,10 +5,8 @@
   <spacedust>400</spacedust>
   <interference>0.000000</interference>
  </general>
- <pos x="141.068030" y="1039.939558"/>
- <spobs>
-  <spob>Wormhole (Destruction)</spob>
- </spobs>
+ <pos x="11.068030" y="946.939558"/>
+ <spobs/>
  <jumps>
   <jump target="DESTRUCTION">
    <autopos/>

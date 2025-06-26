@@ -22,5 +22,9 @@
   <services/>
   <description>Enlightenment's hypergate was a lucky survivor of the third dark age. However, it lay dormant for half a millennia due to the annihilation of the Forge sector's hub. At the dawn of the 12th century, it was reactivated by the Sigma Shipyards corporation and jury-rigged to link to the nearby Rimshot system. Access is restricted to trusted Sigma employees, particularly those captaining bulk freighters to the distant Aurora Empire.</description>
  </general>
- <tags/>
+ <tags>
+  <tag>hypergate</tag>
+  <tag>manifestera</tag>
+  <tag>active</tag>
+ </tags>
 </spob>

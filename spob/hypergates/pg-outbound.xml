@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<spob name="Porta-paed">
- <pos x="-1273.219144" y="-1809.968391"/>
- <marker>spobmarker_triangle</marker>
- <lua>hypergate_paedt.lua</lua>
- <display>#oPorta-paed#0</display>
+<spob name="HG-Outbound">
+ <display>#oHG-Outbound#0</display>
  <feature>#oHypergate#0</feature>
+ <lua>hypergate_outbound.lua</lua>
+ <marker>spobmarker_triangle</marker>
+ <pos x="-7007.817190" y="-4004.755678"/>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>
@@ -22,5 +22,9 @@
   <services/>
   <description>This hypergate was built and is maintained by the Polaris.</description>
  </general>
- <tags/>
+ <tags>
+  <tag>hypergate</tag>
+  <tag>manifestera</tag>
+  <tag>active</tag>
+ </tags>
 </spob>

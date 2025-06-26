@@ -1,0 +1,109 @@
+frontierera
+manifestera
+overwatchera
+federationera
+
+amazing
+abandoned
+mysterious
+destroyed
+ruined
+nonews
+nonpc
+
+nosightseeing
+immigration
+refugee
+tourism
+
+criminal
+pirate
+prison
+terrorist
+garbage
+
+hypergate
+wormhole
+ringworld
+
+government
+military
+spying
+refuel ?
+restricted
+
+agriculture
+industrial
+mining
+medical
+research
+shipbuilding
+trade
+
+new
+old
+poor
+rich
+rural
+toxic
+urban
+
+auroran lp
+ <tags>
+  <tag>federationera</tag>
+  <tag>station</tag>
+  <tag>military</tag>
+  <tag>spying</tag>
+ </tags>
+
+destroyed overgate
+ <tags>
+  <tag>manifestera</tag>
+  <tag>overgate</tag>
+  <tag>destroyed</tag>
+ </tags>
+
+destabilized overgate
+ <tags>
+  <tag>manifestera</tag>
+  <tag>overgate</tag>
+  <tag>overheated</tag>
+  <tag>active</tag>
+ </tags>
+
+overheated overgate
+ <tags>
+  <tag>manifestera</tag>
+  <tag>overgate</tag>
+  <tag>overheated</tag>
+ </tags>
+
+active overgate
+ <tags>
+  <tag>manifestera</tag>
+  <tag>overgate</tag>
+  <tag>active</tag>
+ </tags>
+
+inactive overgate
+ <tags>
+  <tag>manifestera</tag>
+  <tag>overgate</tag>
+  <tag>inactive</tag>
+ </tags>
+ 
+destroyed hypergate
+ <tags>
+  <tag>hypergate</tag>
+  <tag>destroyed</tag>
+  <tag>nonews</tag>
+  <tag>nonpc</tag>
+  <tag>manifestera</tag>
+ </tags>
+
+hypergate
+ <tags>
+  <tag>hypergate</tag>
+  <tag>manifestera</tag>
+  <tag>active</tag>
+ </tags>

@@ -23,4 +23,10 @@
   </services>
   <description>The Dani House maintains a listening post here, manned by a group of extremely dedicated warriors. It is their duty to warn the Dani fleets of any incoming hostile attackers and then hold them off for as long as possible, to give their fellow warriors time to prepare. It is an arduous position, but the honor earned is immense, and those who survive can wear their many battle tattoos with pride and are treated with respect by all.</description>
  </general>
+ <tags>
+  <tag>federationera</tag>
+  <tag>station</tag>
+  <tag>military</tag>
+  <tag>spying</tag>
+ </tags>
 </spob>
