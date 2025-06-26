@@ -16,6 +16,12 @@
   <class>11-P</class>
   <population>0</population>
   <hide>1.000000</hide>
-  <services/>
+  <services>
+   <uninhabited/>
+  </services>
  </general>
+ <tags>
+  <tag>station</tag>
+  <tag>government</tag>
+ </tags>
 </spob>

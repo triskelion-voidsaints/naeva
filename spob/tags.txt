@@ -107,3 +107,19 @@ hypergate
   <tag>manifestera</tag>
   <tag>active</tag>
  </tags>
+
+  <services>
+   <uninhabited/>
+  </services>
+
+polaris lp
+ <tags>
+  <tag>station</tag>
+  <tag>spying</tag>
+ </tags>
+
+polaris admin relay
+ <tags>
+  <tag>station</tag>
+  <tag>government</tag>
+ </tags>

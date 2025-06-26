@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="HG-Residio">
- <pos x="3173.846444" y="2110.761956"/>
- <marker>spobmarker_triangle</marker>
- <lua>hypergate_residio.lua</lua>
  <display>#oHG-Residio#0</display>
  <feature>#oHypergate#0</feature>
+ <lua>hypergate_residio.lua</lua>
+ <marker>spobmarker_triangle</marker>
+ <pos x="3173.846444" y="2110.761956"/>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>
  </GFX>
- <presence>
-  <faction>Sigma Shipyards</faction>
-  <base>50.000000</base>
-  <bonus>0.000000</bonus>
-  <range>0</range>
- </presence>
  <general>
   <class>9</class>
   <population>0</population>
