@@ -19,7 +19,9 @@
   <class>9</class>
   <population>0</population>
   <hide>0.250000</hide>
-  <services/>
+  <services>
+   <uninhabited/>
+  </services>
  </general>
  <tags>
   <tag>hypergate</tag>

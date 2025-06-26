@@ -19,7 +19,9 @@
   <class>9</class>
   <population>0</population>
   <hide>0.250000</hide>
-  <services/>
+  <services>
+   <uninhabited/>
+  </services>
   <description>This hypergate was unaffected by the cataclysm at the end of the Alien War as its Gate Hub survived.</description>
  </general>
  <tags>

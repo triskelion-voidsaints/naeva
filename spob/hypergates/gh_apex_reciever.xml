@@ -19,7 +19,9 @@
   <class>9</class>
   <population>0</population>
   <hide>1.000000</hide>
-  <services/>
+  <services>
+   <uninhabited/>
+  </services>
   <description>This Hypergate links this Gate Hub to the Apex sector's Hypergates as needed.</description>
  </general>
  <tags>

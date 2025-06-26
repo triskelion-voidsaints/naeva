@@ -13,7 +13,9 @@
   <class>10</class>
   <population>0</population>
   <hide>1.000000</hide>
-  <services/>
+  <services>
+   <uninhabited/>
+  </services>
  </general>
  <tags>
   <tag>manifestera</tag>
