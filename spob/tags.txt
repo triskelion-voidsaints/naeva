@@ -14,7 +14,6 @@
   <tag>nonews</tag>
   <tag>nonpc</tag>
 
-  <tag>nosightseeing</tag>
   <tag>immigration</tag>
   <tag>refugee</tag>
   <tag>tourism</tag>
@@ -32,15 +31,16 @@
   <tag>hypergate</tag>
   <tag>wormhole</tag>
   <tag>ringworld</tag>
+  <tag>station</tag>
 
   <tag>government<tag>
   <tag>military</tag>
   <tag>logistics</tag>
   <tag>spying</tag>
-  <tag>refuel</tag>
   <tag>restricted</tag>
 
   <tag>agriculture</tag>
+  <tag>aquaculture</tag>
   <tag>industrial</tag>
   <tag>mining</tag>
   <tag>medical</tag>
@@ -50,8 +50,6 @@
   <tag>hunting</tag>
   <tag>extraction</tag>
 
-  <tag>new</tag>
-  <tag>old</tag>
   <tag>poor</tag>
   <tag>rich</tag>
   <tag>rural</tag>
