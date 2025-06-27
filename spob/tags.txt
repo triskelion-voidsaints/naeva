@@ -1,3 +1,4 @@
+
  <tags>
  </tags>
 
@@ -33,7 +34,7 @@
   <tag>ringworld</tag>
   <tag>station</tag>
 
-  <tag>government<tag>
+  <tag>government</tag>
   <tag>military</tag>
   <tag>logistics</tag>
   <tag>spying</tag>
@@ -49,6 +50,7 @@
   <tag>trade</tag>
   <tag>hunting</tag>
   <tag>extraction</tag>
+  <tag>religion</tag>
 
   <tag>poor</tag>
   <tag>rich</tag>
@@ -57,6 +59,7 @@
 
  <tags>
   <tag>station</tag>
+  <tag>military</tag>
  </tags>
 
 nilk station

@@ -32,4 +32,8 @@
   <item price_mod="1.5">Foodstuffs</item>
   <item price_mod="1.33">Luxury Goods</item>
  </tech>
+ <tags>
+  <tag>homeworld</tag>
+  <tag>government</tag>
+ </tags>
 </spob>

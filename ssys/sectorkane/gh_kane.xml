@@ -30,6 +30,7 @@
   </jump>
   <jump target="Set">
    <autopos/>
+   <hidden/>
    <hide>1.000000</hide>
   </jump>
  </jumps>
