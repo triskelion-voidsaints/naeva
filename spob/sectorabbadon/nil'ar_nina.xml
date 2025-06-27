@@ -27,4 +27,9 @@
   <item price_mod="0.570000">Equipment</item>
   <item price_mod="1.500000">Metals</item>
  </tech>
+ <tags>
+  <tag>overwatchera</tag>
+  <tag>military</tag>
+  <tag>logistics</tag>
+ </tags>
 </spob>

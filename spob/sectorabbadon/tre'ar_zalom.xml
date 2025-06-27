@@ -29,4 +29,9 @@
   <item price_mod="0.5">Foodstuffs</item>
   <item price_mod="1.5">Industrial</item>
  </tech>
+ <tags>
+  <tag>agriculture</tag>
+  <tag>aquaculture</tag>
+  <tag>tourism</tag>
+ </tags>
 </spob>

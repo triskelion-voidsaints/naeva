@@ -28,4 +28,9 @@
   <item price_mod="1.500000">Foodstuffs</item>
   <item price_mod="1.430000">Equipment</item>
  </tech>
+ <tags>
+  <tag>federationera</tag>
+  <tag>hunting</tag>
+  <tag>poor</tag>
+ </tags>
 </spob>

@@ -1,52 +1,79 @@
-frontierera
-manifestera
-overwatchera
-federationera
+ <tags>
+ </tags>
 
-amazing
-abandoned
-mysterious
-destroyed
-ruined
-nonews
-nonpc
+  <tag>frontierera</tag>
+  <tag>manifestera</tag>
+  <tag>overwatchera</tag>
+  <tag>federationera</tag>
 
-nosightseeing
-immigration
-refugee
-tourism
+  <tag>amazing</tag>
+  <tag>abandoned</tag>
+  <tag>mysterious</tag>
+  <tag>destroyed</tag>
+  <tag>ruined</tag>
+  <tag>nonews</tag>
+  <tag>nonpc</tag>
 
-criminal
-pirate
-prison
-terrorist
-garbage
+  <tag>nosightseeing</tag>
+  <tag>immigration</tag>
+  <tag>refugee</tag>
+  <tag>tourism</tag>
+  <tag>homeworld</tag>
 
-hypergate
-wormhole
-ringworld
+  <tag>criminal</tag>
+  <tag>pirate</tag>
+  <tag>prison</tag>
+  <tag>terrorist</tag>
+  <tag>garbage</tag>
+  <tag>toxic</tag>
+  <tag>gasgiant</tag>
+  <tag>aliens</tag>
 
-government
-military
-spying
-refuel ?
-restricted
+  <tag>hypergate</tag>
+  <tag>wormhole</tag>
+  <tag>ringworld</tag>
 
-agriculture
-industrial
-mining
-medical
-research
-shipbuilding
-trade
+  <tag>government<tag>
+  <tag>military</tag>
+  <tag>logistics</tag>
+  <tag>spying</tag>
+  <tag>refuel</tag>
+  <tag>restricted</tag>
 
-new
-old
-poor
-rich
-rural
-toxic
-urban
+  <tag>agriculture</tag>
+  <tag>industrial</tag>
+  <tag>mining</tag>
+  <tag>medical</tag>
+  <tag>research</tag>
+  <tag>shipbuilding</tag>
+  <tag>trade</tag>
+  <tag>hunting</tag>
+  <tag>extraction</tag>
+
+  <tag>new</tag>
+  <tag>old</tag>
+  <tag>poor</tag>
+  <tag>rich</tag>
+  <tag>rural</tag>
+  <tag>urban</tag>
+
+ <tags>
+  <tag>station</tag>
+ </tags>
+
+nilk station
+ <tags>
+  <tag>overwatchera</tag>
+  <tag>station</tag>
+  <tag>military<tag>
+ </tags>
+
+supply station
+ <tags>
+  <tag>overwatchera</tag>
+  <tag>military</tag>
+  <tag>logistics</tag>
+ </tags>
 
 auroran lp
  <tags>
@@ -122,4 +149,16 @@ polaris admin relay
  <tags>
   <tag>station</tag>
   <tag>government</tag>
+ </tags>
+
+portal exit
+ <tags>
+  <tag>portalexit</tag>
+ </tags>
+
+psionic disruptor
+ <tags>
+  <tag>overwatchera</tag>
+  <tag>station</tag>
+  <tag>gatekeeper</tag>
  </tags>
