@@ -32,4 +32,9 @@
   <item price_mod="1.43">Equipment</item>
   <item price_mod="1.38">Medical Supplies</item>
  </tech>
+ <tags>
+  <tag>military</tag>
+  <tag>terrorist</tag>
+  <tag>spying</tag>
+ </tags>
 </spob>
