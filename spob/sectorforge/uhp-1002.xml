@@ -16,4 +16,7 @@
   </services>
   <description>Chlorine gas whips past the visor of your biosuit as you clamber over rocks made of silicates and metals. You seriously hope you don't accidentally puncture your suit.</description>
  </general>
+ <tags>
+  <tag>toxic</tag>
+ </tags>
 </spob>

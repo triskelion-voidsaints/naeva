@@ -3,12 +3,17 @@
  <pos x="1294.617785" y="-1005.736131"/>
  <GFX>
   <space>X 135.webp</space>
-  <exterior>Unknown.webp</exterior>
+  <exterior>Rigel III.webp</exterior>
  </GFX>
  <general>
   <class>X</class>
   <population>0</population>
   <hide>1.000000</hide>
   <services/>
+  <description>The high levels of radiation aren't the only thing keeping this planet from being habitable, there's also the incredibly toxic bacteria that coat every inch of the planet. You're very thankful for the sterilizing gas system when you return to the airlock.</description>
  </general>
+ <tags>
+  <tag>toxic</tag>
+  <tag>radiation</tag>
+ </tags>
 </spob>

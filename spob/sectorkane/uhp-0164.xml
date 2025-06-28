@@ -20,7 +20,7 @@
    <refuel/>
    <commodity/>
   </services>
-  <description>One of many metallic moons scattered across the galaxy. No air, few resources and no nightclubs. Nice place to retire.</description>
+  <description>This moon is, to put it frankly, not very interesting. It appears to be a mostly flat, gray rock with only a few mountains of note. The only distinguishing features on its surface are a few isolated caves, presumably some of which are home to pirate bolt-holes.</description>
  </general>
  <tech>
   <item price_mod="1">Foodstuffs</item>
@@ -30,4 +30,8 @@
   <item price_mod="1">Medical Supplies</item>
   <item price_mod="1">Luxury Goods</item>
  </tech>
+ <tags>
+  <tag>empty</tag>
+  <tag>pirate</tag>
+ </tags>
 </spob>

@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="Beacon">
- <pos x="636.306024" y="561.903902"/>
+ <pos x="562.005187" y="2345.123992"/>
  <GFX>
   <space>D 45.webp</space>
-  <exterior>Unknown.webp</exterior>
+  <exterior>Luna.webp</exterior>
  </GFX>
  <general>
   <class>D</class>
   <population>0</population>
   <hide>1.000000</hide>
-  <services/>
+  <services>
+   <land/>
+   <uninhabited/>
+  </services>
+  <description>One of many metallic moons scattered across the galaxy. No air, few resources and no nightclubs. Nice place to retire.</description>
  </general>
  <tags>
   <tag>overwatchera</tag>
+  <tag>empty</tag>
  </tags>
 </spob>

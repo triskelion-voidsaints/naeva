@@ -13,15 +13,15 @@
  </spobs>
  <jumps>
   <jump target="Agate">
-   <autopos/>
+   <pos x="-2835.189142" y="1010.412108"/>
    <hide>1.000000</hide>
   </jump>
   <jump target="Claimer">
-   <autopos/>
+   <pos x="989.547755" y="-1022.164534"/>
    <hide>1.000000</hide>
   </jump>
   <jump target="Space">
-   <autopos/>
+   <pos x="1965.834651" y="3429.907102"/>
    <hide>1.000000</hide>
   </jump>
  </jumps>

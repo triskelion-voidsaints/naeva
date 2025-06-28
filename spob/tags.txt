@@ -16,7 +16,6 @@
   <tag>nonpc</tag>
 
   <tag>immigration</tag>
-  <tag>refugee</tag>
   <tag>tourism</tag>
   <tag>homeworld</tag>
 
@@ -30,6 +29,7 @@
   <tag>aliens</tag>
   <tag>empty</tag>
   <tag>memorial</tag>
+  <tag>radiation</tag>
 
   <tag>hypergate</tag>
   <tag>wormhole</tag>
@@ -37,6 +37,7 @@
   <tag>station</tag>
 
   <tag>government</tag>
+  <tag>corporate</tag>
   <tag>military</tag>
   <tag>logistics</tag>
   <tag>spying</tag>
@@ -51,11 +52,12 @@
   <tag>shipbuilding</tag>
   <tag>trade</tag>
   <tag>hunting</tag>
-  <tag>extraction</tag>
+  <tag>extraction</tag> aka gas mining
   <tag>religion</tag>
   <tag>forestry</tag>
   <tag>artisans</tag>
   <tag>brewery</tag>
+  <tag>weapons</tag>
 
   <tag>poor</tag>
   <tag>rich</tag>

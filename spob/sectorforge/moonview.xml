@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="Moonview">
- <pos x="12.899451" y="1045.887477"/>
+ <pos x="-1.960716" y="2947.988906"/>
  <GFX>
   <space>MO cities 0.webp</space>
   <exterior>Moonview.webp</exterior>
@@ -23,15 +23,19 @@
    <commodity/>
    <outfits/>
   </services>
-  <description>With its twin moons of Beacon and Keystone, Moonview is touted as a honeymoon destination for the discerning Federation citizen. Skycars and glass cities dot this sparsely populated world, which is rich in plant life. The oceans of Moonview move in strange synchronization with Keystone and Beacon, causing some very strange tides indeed. This is also one of the few places you can get two blue moons in the same month, and when it occurs there is general feasting and carousing.</description>
+  <description>With its twin moons of Beacon and Keystone, Moonview is touted as a honeymoon destination for the discerning Federation citizen. Skycars and glass cities dot this sparsely populated world, which is rich in plant life. The oceans of Moonview move in strange synchronization with Keystone and Beacon, causing some very strange tides indeed. This is also one of the few places you can get two blue moons in the same month, and when it occurs there is general feasting and carousing.
+  
+Moonview also has a small cottage mining industry. It serves as a crucial source of uranium ore mined from Keystone. The levels of radiation are too high for any humans to land, so the mining process is handled by automated mining drones while engineers maintain them groundside. </description>
   <bar>This well-appointed bar has an enormous set of windows that show off the evening sky and the two rising moons to perfection. Looking around you see that a number of young men have taken advantage of the romantic setting to push their luck with their lady friends. Quite a number seem to be doing fairly well.</bar>
  </general>
  <tech>
-  <item price_mod="0.5">Metals</item>
-  <item price_mod="1.5">Foodstuffs</item>
-  <item price_mod="1.33">Luxury Goods</item>
+  <item price_mod="0.500000">Metals</item>
+  <item price_mod="1.500000">Foodstuffs</item>
+  <item price_mod="1.330000">Luxury Goods</item>
  </tech>
  <tags>
   <tag>overwatchera</tag>
+  <tag>tourism</tag>
+  <tag>mining</tag>
  </tags>
 </spob>

@@ -21,4 +21,8 @@
   </services>
   <description>Reflex-ion is a planetologist's dream, a world that looks destined to become an M-class planet which is in its early stages of formation. Of course this world is still uninhabitable, but the University of Misfire maintains a small research station here to study of the processes that go into the creation of an M-class planet.</description>
  </general>
+ <tags>
+  <tag>research</tag>
+  <tag>toxic</tag>
+ </tags>
 </spob>
