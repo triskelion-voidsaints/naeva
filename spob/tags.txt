@@ -28,13 +28,13 @@
   <tag>gasgiant</tag>
   <tag>aliens</tag>
   <tag>empty</tag>
-  <tag>memorial</tag>
   <tag>radiation</tag>
 
   <tag>hypergate</tag>
   <tag>wormhole</tag>
   <tag>ringworld</tag>
   <tag>station</tag>
+  <tag>memorial</tag>
 
   <tag>government</tag>
   <tag>corporate</tag>
@@ -45,6 +45,7 @@
 
   <tag>agriculture</tag>
   <tag>aquaculture</tag>
+  <tag>hydroponics</tag>
   <tag>industrial</tag>
   <tag>mining</tag>
   <tag>medical</tag>
