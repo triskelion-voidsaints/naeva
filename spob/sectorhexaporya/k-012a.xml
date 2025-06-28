@@ -14,4 +14,7 @@
   </services>
   <description>This rocky world is completely devoid of life, even microbial. Despite this, you cannot shake the feeling that something lives here, or once did. The hills and valleys of this world are clearly unnatural, and you hear a faint ringing around you as you walk across its surface. It would be prudent not to stay too long here.</description>
  </general>
+ <tags>
+  <tag>mysterious</tag>
+ </tags>
 </spob>

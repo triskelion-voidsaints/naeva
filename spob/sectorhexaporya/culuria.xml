@@ -21,4 +21,8 @@
   </services>
   <description>(null)</description>
  </general>
+ <tags>
+  <tag>homeworld</tag>
+  <tag>shipbuilding</tag>
+ </tags>
 </spob>
