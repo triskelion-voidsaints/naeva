@@ -30,4 +30,10 @@
   <item price_mod="0.63">Medical Supplies</item>
   <item price_mod="1.5">Industrial</item>
  </tech>
+ <tags>
+  <tag>industrial</tag>
+  <tag>research</tag>
+  <tag>medical</tag>
+  <tag>shipbuilding</tag>
+ </tags>
 </spob>

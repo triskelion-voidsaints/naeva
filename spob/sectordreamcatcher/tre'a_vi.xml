@@ -29,4 +29,8 @@
  <tech>
   <item price_mod="0.67">Luxury Goods</item>
  </tech>
+ <tags>
+  <tag>artisans</tag>
+  <tag>station</tag>
+ </tags>
 </spob>

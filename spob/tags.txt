@@ -28,6 +28,8 @@
   <tag>toxic</tag>
   <tag>gasgiant</tag>
   <tag>aliens</tag>
+  <tag>empty</tag>
+  <tag>memorial</tag>
 
   <tag>hypergate</tag>
   <tag>wormhole</tag>
@@ -51,6 +53,9 @@
   <tag>hunting</tag>
   <tag>extraction</tag>
   <tag>religion</tag>
+  <tag>forestry</tag>
+  <tag>artisans</tag>
+  <tag>brewery</tag>
 
   <tag>poor</tag>
   <tag>rich</tag>
@@ -66,7 +71,7 @@ nilk station
  <tags>
   <tag>overwatchera</tag>
   <tag>station</tag>
-  <tag>military<tag>
+  <tag>military</tag>
  </tags>
 
 supply station

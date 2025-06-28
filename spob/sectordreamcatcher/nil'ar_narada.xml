@@ -28,4 +28,7 @@
   <item price_mod="0.5">Foodstuffs</item>
   <item price_mod="1.38">Medical Supplies</item>
  </tech>
+ <tags>
+  <tag>military</tag>
+ </tags>
 </spob>

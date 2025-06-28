@@ -18,7 +18,11 @@
   <hide>1.000000</hide>
   <services>
    <land/>
+   <uninhabited/>
   </services>
   <description>Tre'ar Aljo is a large moon that falls under the influence of the Tre'pira, because it could at some stage be mined for some of its fairly extensive deposits of minerals. However, the Polaris do not yet need to make use of these resources, and so far they have refused to disturb its stark beauty.</description>
  </general>
+ <tags>
+  <tag>mining</tag>
+ </tags>
 </spob>

@@ -26,11 +26,12 @@
   <bar>The patrons of this bar all speak with heavy accents, but with excellent diction. The drinks are a little coarse, but very strong. After only a few you decide to call it quits before you have to be carried back to your ship.</bar>
  </general>
  <tech>
-  <item price_mod="0.67">Luxury Goods</item>
+  <item price_mod="0.33">Local Alcohols</item>
   <item price_mod="1.5">Foodstuffs</item>
  </tech>
  <tags>
   <tag>manifestera</tag>
   <tag>urban</tag>
+  <tag>brewery</tag>
  </tags>
 </spob>

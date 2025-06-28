@@ -32,4 +32,8 @@
   <item price_mod="1.330000">Luxury Goods</item>
   <item price_mod="1.500000">Data Crystals</item>
  </tech>
+ <tags>
+  <tag>homeworld</tag>
+  <tag>government</tag>
+ </tags>
 </spob>

@@ -30,4 +30,9 @@
   <item price_mod="0.500000">Industrial</item>
   <item price_mod="1.430000">Equipment</item>
  </tech>
+ <tags>
+  <tag>homeworld</tag>
+  <tag>research</tag>
+  <tag>toxic</tag>
+ </tags>
 </spob>

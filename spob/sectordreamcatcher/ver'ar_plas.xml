@@ -31,4 +31,7 @@
   <item price_mod="0.630000">Medical Supplies</item>
   <item price_mod="1.430000">Equipment</item>
  </tech>
+ <tags>
+  <tag>medical</tag>
+ </tags>
 </spob>
