@@ -30,4 +30,9 @@
   <item price_mod="0.670000">Luxury Goods</item>
   <item price_mod="1.500000">Foodstuffs</item>
  </tech>
+ <tags>
+  <tag>poor</tag>
+  <tag>immigration</tag>
+  <tag>urban</tag>
+ </tags>
 </spob>
