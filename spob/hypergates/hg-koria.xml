@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="HG-Koria">
- <pos x="0.000000" y="0.000000"/>
- <marker>spobmarker_triangle</marker>
- <lua>hypergate_koria.lua</lua>
  <display>#oHG-Koria#0</display>
  <feature>#oHypergate#0</feature>
+ <lua>hypergate_koria.lua</lua>
+ <marker>spobmarker_triangle</marker>
+ <pos x="8.916100" y="2951.229248"/>
  <GFX>
   <space>9.webp</space>
   <exterior>Hypergate.webp</exterior>

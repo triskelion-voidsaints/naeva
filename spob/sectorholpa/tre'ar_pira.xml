@@ -29,4 +29,9 @@
   <item price_mod="0.5">Foodstuffs</item>
   <item price_mod="1.33">Luxury Goods</item>
  </tech>
+ <tags>
+  <tag>homeworld</tag>
+  <tag>agriculture</tag>
+  <tag>mining</tag>
+ </tags>
 </spob>

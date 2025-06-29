@@ -59,11 +59,13 @@
   <tag>artisans</tag>
   <tag>brewery</tag>
   <tag>weapons</tag>
+  <tag>ecology</tag>
 
   <tag>poor</tag>
   <tag>rich</tag>
   <tag>rural</tag>
   <tag>urban</tag>
+  <tag>training</tag>
 
  <tags>
   <tag>station</tag>

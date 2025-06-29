@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="Viking">
- <pos x="-4682.333097" y="474.513376"/>
+ <pos x="-4628.836494" y="1009.479403"/>
  <GFX>
   <space>MW cities 270.webp</space>
   <exterior>Viking.webp</exterior>
  </GFX>
  <presence>
   <faction>Association</faction>
-  <base>300.000000</base>
-  <bonus>40.000000</bonus>
+  <base>150.000000</base>
+  <bonus>75.000000</bonus>
   <range>5</range>
  </presence>
  <general>
@@ -29,8 +29,8 @@
   <bar>This bar is geared to be a quick stopover for freighter crews while their ships are being loaded. The food is ordinary, the drinks are ordinary and the service could best be described as casual, but you can get everything in next to no time.</bar>
  </general>
  <tech>
-  <item price_mod="0.5">Metals</item>
-  <item price_mod="1.38">Medical Supplies</item>
+  <item price_mod="0.500000">Metals</item>
+  <item price_mod="1.380000">Medical Supplies</item>
  </tech>
  <tags>
   <tag>federationera</tag>

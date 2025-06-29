@@ -32,4 +32,8 @@
   <item price_mod="1.5">Metals</item>
   <item price_mod="1.5">Industrial</item>
  </tech>
+ <tags>
+  <tag>medical</tag>
+  <tag>shipbuilding</tag>
+ </tags>
 </spob>

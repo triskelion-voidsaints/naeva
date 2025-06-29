@@ -10,11 +10,11 @@
  <jumps>
   <jump target="Antares">
    <autopos/>
-   <hide>0.000000</hide>
+   <hide>1.000000</hide>
   </jump>
   <jump target="Kania">
    <autopos/>
-   <hide>0.000000</hide>
+   <hide>1.000000</hide>
   </jump>
   <jump target="NGC-0500">
    <autopos/>

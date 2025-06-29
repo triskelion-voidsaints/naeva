@@ -8,6 +8,7 @@
  <pos x="-406.443930" y="219.084490"/>
  <spobs>
   <spob>HG-Forge</spob>
+  <spob>Sentinel</spob>
   <spob>Vulcan</spob>
   <spob>Wormhole (Forge)</spob>
  </spobs>
@@ -17,7 +18,7 @@
    <hide>0.000000</hide>
   </jump>
   <jump target="Naka">
-   <autopos/>
+   <pos x="-2019.491599" y="4988.330993"/>
    <hide>0.000000</hide>
   </jump>
   <jump target="Rock Forest">

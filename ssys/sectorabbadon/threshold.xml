@@ -8,10 +8,6 @@
  <pos x="153.546296" y="397.280093"/>
  <spobs/>
  <jumps>
-  <jump target="Algol">
-   <autopos/>
-   <hide>1.000000</hide>
-  </jump>
   <jump target="Codehaven">
    <autopos/>
    <hide>1.000000</hide>

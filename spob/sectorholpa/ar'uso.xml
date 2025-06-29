@@ -30,4 +30,9 @@
   <item price_mod="0.57">Equipment</item>
   <item price_mod="1.5">Industrial</item>
  </tech>
+ <tags>
+  <tag>enviromentalprotection</tag>
+  <tag>government</tag>
+  <tag>military</tag>
+ </tags>
 </spob>

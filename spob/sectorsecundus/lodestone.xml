@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="Lodestone">
- <pos x="1928.423285" y="-1463.927930"/>
+ <pos x="2389.088475" y="-1932.023204"/>
  <GFX>
   <space>H cities 135.webp</space>
   <exterior>Lodestone.webp</exterior>
@@ -29,9 +29,9 @@
   <bar>A more wretched hive of scum and villainy you will not find. In one corner you have a seedy band playing some exotic form of what you think is music, and the rest of the dimly lit bar is filled with dodgy and dangerous looking characters who are all giving you the once over. You decide to spend as little time here as possible.</bar>
  </general>
  <tech>
-  <item price_mod="0.5">Metals</item>
-  <item price_mod="1.43">Equipment</item>
-  <item price_mod="1.38">Medical Supplies</item>
+  <item price_mod="0.500000">Metals</item>
+  <item price_mod="1.430000">Equipment</item>
+  <item price_mod="1.380000">Medical Supplies</item>
  </tech>
  <tags>
   <tag>manifestera</tag>

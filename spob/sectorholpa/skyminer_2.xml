@@ -12,4 +12,8 @@
   <hide>1.000000</hide>
   <services/>
  </general>
+ <tags>
+  <tag>station</tag>
+  <tag>extraction</tag>
+ </tags>
 </spob>

@@ -6,7 +6,9 @@
   <interference>0.000000</interference>
  </general>
  <pos x="190.393519" y="159.895833"/>
- <spobs/>
+ <spobs>
+  <spob>Spacedock VII</spob>
+ </spobs>
  <jumps>
   <jump target="Algol">
    <autopos/>
@@ -16,9 +18,13 @@
    <autopos/>
    <hide>0.000000</hide>
   </jump>
-  <jump target="Polaris">
+  <jump target="Kania">
    <autopos/>
    <hide>0.000000</hide>
+  </jump>
+  <jump target="Polaris">
+   <autopos/>
+   <hide>1.000000</hide>
   </jump>
   <jump target="Sirius">
    <autopos/>

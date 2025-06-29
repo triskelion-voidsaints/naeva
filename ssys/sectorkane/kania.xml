@@ -11,9 +11,13 @@
   <spob>Port Kane</spob>
  </spobs>
  <jumps>
-  <jump target="Polaris">
+  <jump target="Antares">
    <autopos/>
    <hide>0.000000</hide>
+  </jump>
+  <jump target="Polaris">
+   <autopos/>
+   <hide>1.000000</hide>
   </jump>
   <jump target="Repede">
    <autopos/>

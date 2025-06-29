@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="Spacedock VII">
  <marker>spobmarker_rhombus</marker>
- <pos x="-3979.428483" y="116.503470"/>
+ <pos x="-2561.366098" y="60.614145"/>
  <GFX>
   <space>1-F.webp</space>
   <exterior>Federation Battle.webp</exterior>

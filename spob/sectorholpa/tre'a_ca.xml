@@ -29,4 +29,8 @@
   <item price_mod="0.5">Industrial</item>
   <item price_mod="1.5">Foodstuffs</item>
  </tech>
+ <tags>
+  <tag>trade</tag>
+  <tag>extraction</tag>
+ </tags>
 </spob>

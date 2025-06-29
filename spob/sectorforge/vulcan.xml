@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="Vulcan">
- <pos x="0.000000" y="0.000000"/>
+ <pos x="-1988.290400" y="1968.674979"/>
  <GFX>
   <space>4-M 0.webp</space>
   <exterior>Vulcan.webp</exterior>
@@ -13,7 +13,7 @@
  </presence>
  <general>
   <class>4-W</class>
-  <population>14000000000</population>
+  <population>1.4e+10</population>
   <hide>1.000000</hide>
   <services>
    <land/>
@@ -35,8 +35,8 @@ Besides playing host to the Federation Council, Vulcan is home to the Kane Unive
  </general>
  <tech>
   <item>Maps</item>
-  <item price_mod="0.63">Medical Supplies</item>
-  <item price_mod="1.43">Equipment</item>
+  <item price_mod="0.630000">Medical Supplies</item>
+  <item price_mod="1.430000">Equipment</item>
  </tech>
  <tags>
   <tag>government</tag>

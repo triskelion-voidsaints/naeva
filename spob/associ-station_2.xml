@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Associ-station 2">
+ <pos x="1466.629727" y="-1095.600241"/>
+ <GFX>
+  <space>1-C.webp</space>
+  <exterior>Civilian Station.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Association</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>1-C</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+</spob>

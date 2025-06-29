@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="Sentinel">
- <pos x="-2413.910362" y="2238.030649"/>
+ <pos x="1303.756788" y="-3059.899726"/>
  <GFX>
-  <space>Europa cities 315.webp</space>
+  <space>Europa cities 135.webp</space>
   <exterior>Luna.webp</exterior>
  </GFX>
  <presence>
@@ -21,6 +21,6 @@
    <missions/>
    <commodity/>
   </services>
-  <description>Sentinel is virtually uninhabited, with only a token military presence with a more ceremonial role than anything else. Originally, the military garrison was placed here to be an early warning post in the years immediately preceding the creation of the Overwatch. The base served during the Third Dark Age to allow the inhabitants of Vulcan a little time to prepare for battle. However, over the last few centuries, the military presence on Sentinel has been downgraded and is now viewed as a final posting for decorated veterans from the Auroran border trying to fill out their time in relative comfort before retiring. Common belief recounts that the reason for the downgrade is that only the most suicidal Auroran commander would chart an invasion path through the homeland of the Olympians.</description>
+  <description>Sentinel is virtually uninhabited, with only a token military presence with a more ceremonial role than anything else. Originally, the military garrison was placed here to be an early warning post in the years immediately preceding the creation of the Overwatch. The base served during the Third Dark Age to allow the inhabitants of Vulcan a little time to prepare for battle. However, over the last few centuries, the military presence on Sentinel has been downgraded and is now viewed as a final posting for decorated veterans from the Auroran border trying to fill out their time in relative comfort before retiring.</description>
  </general>
 </spob>

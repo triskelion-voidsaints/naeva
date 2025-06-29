@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="HG-Forge">
  <marker>spobmarker_triangle</marker>
- <pos x="-2679.028297" y="-1306.092311"/>
+ <pos x="-1544.900320" y="3551.399213"/>
  <GFX>
   <space>9-Z.webp</space>
   <exterior>Hypergate Deactivated.webp</exterior>
