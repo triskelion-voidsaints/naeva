@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="HG-Polaris">
- <display>#oHG-Polaris#0</display>
+ <display>#oO’mabitun: Polaris#0</display>
  <feature>#oHypergate#0</feature>
  <lua>hypergate_gh_polaris.lua</lua>
  <marker>spobmarker_triangle</marker>

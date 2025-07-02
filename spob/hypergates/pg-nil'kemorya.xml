@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="HG-Nil'kemorya">
- <display>#oHG-Nil'kemorya#0</display>
+ <display>#oO’mabitun: Nil'kemorya#0</display>
  <feature>#oHypergate#0</feature>
  <lua>hypergate_nilkemorya.lua</lua>
  <marker>spobmarker_triangle</marker>

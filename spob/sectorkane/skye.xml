@@ -31,4 +31,11 @@
   <item price_mod="1.43">Equipment</item>
   <item price_mod="1">Local Alcohols</item>
  </tech>
+ <tags>
+  <tag>frontierera</tag>
+  <tag>aliens</tag>
+  <tag>rural</tag>
+  <tag>tourism</tag>
+  <tag>agriculture</tag>
+ </tags>
 </spob>

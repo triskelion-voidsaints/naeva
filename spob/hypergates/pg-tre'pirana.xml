@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="HG-Tre'pirana">
- <display>#oHG-Tre'pirana#0</display>
+ <display>#oO’mabitun: Tre'pirana#0</display>
  <feature>#oHypergate#0</feature>
  <lua>hypergate_trepirana.lua</lua>
  <marker>spobmarker_triangle</marker>

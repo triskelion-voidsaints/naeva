@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="HG-Mu'hari">
- <display>#oHG-Mu'hari#0</display>
+ <display>#oO’mabitun: Mu'hari#0</display>
  <feature>#oHypergate#0</feature>
  <lua>hypergate_muhari.lua</lua>
  <marker>spobmarker_triangle</marker>

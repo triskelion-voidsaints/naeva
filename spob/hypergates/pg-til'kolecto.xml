@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="HG-Til'kolecto">
- <display>#oHG-Til'kolecto#0</display>
+ <display>#oO’mabitun: Til'kolecto#0</display>
  <feature>#oHypergate#0</feature>
  <lua>hypergate_tilkolecto.lua</lua>
  <marker>spobmarker_triangle</marker>

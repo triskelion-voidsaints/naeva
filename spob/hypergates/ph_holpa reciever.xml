@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="HG-Holpa">
- <display>#oHG-Holpa#0</display>
+ <display>#oO’mabitun: Holpa#0</display>
  <feature>#oHypergate#0</feature>
  <lua>hypergate_gh_holpa.lua</lua>
  <marker>spobmarker_triangle</marker>

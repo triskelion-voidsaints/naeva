@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="HG-Outbound">
- <display>#oHG-Outbound#0</display>
+ <display>#oO’mabitun: Outbound#0</display>
  <feature>#oHypergate#0</feature>
  <lua>hypergate_outbound.lua</lua>
  <marker>spobmarker_triangle</marker>

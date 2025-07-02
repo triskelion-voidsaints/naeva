@@ -7,9 +7,9 @@
  </GFX>
  <presence>
   <faction>Association</faction>
-  <base>100.000000</base>
-  <bonus>50.000000</bonus>
-  <range>1</range>
+  <base>200.000000</base>
+  <bonus>200.000000</bonus>
+  <range>3</range>
  </presence>
  <general>
   <class>1-C</class>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="HG-Kel'ariy">
- <display>#oHG-Kel'ariy#0</display>
+ <display>#oO’mabitun: Kel'ariy#0</display>
  <feature>#oHypergate#0</feature>
  <lua>hypergate_kelariy.lua</lua>
  <marker>spobmarker_triangle</marker>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="HG-P'aedt">
- <display>#oHG-P'aedt#0</display>
+ <display>#oO’mabitun: P'aedt#0</display>
  <feature>#oHypergate#0</feature>
  <lua>hypergate_paedt.lua</lua>
  <marker>spobmarker_triangle</marker>

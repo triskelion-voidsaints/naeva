@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="HG-Tre'illica">
- <display>#oHG-Tre'illica#0</display>
+ <display>#oO’mabitun: Tre'illica#0</display>
  <feature>#oHypergate#0</feature>
  <lua>hypergate_treillica.lua</lua>
  <marker>spobmarker_triangle</marker>

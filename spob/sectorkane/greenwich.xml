@@ -30,4 +30,9 @@
   <item price_mod="0.67">Luxury Goods</item>
   <item price_mod="1.5">Industrial</item>
  </tech>
+ <tags>
+  <tag>federationera</tag>
+  <tag>terraformed</tag>
+  <tag>immigration</tag>
+ </tags>
 </spob>
