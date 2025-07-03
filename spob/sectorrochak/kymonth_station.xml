@@ -31,4 +31,8 @@
   <item price_mod="1.5">Foodstuffs</item>
   <item price_mod="1.5">Industrial</item>
  </tech>
+ <tags>
+  <tag>station</tag>
+  <tag>medical</tag>
+ </tags>
 </spob>

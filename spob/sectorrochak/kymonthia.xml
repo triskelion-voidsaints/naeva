@@ -28,4 +28,9 @@
   <item price_mod="1.5">Foodstuffs</item>
   <item price_mod="1.5">Industrial</item>
  </tech>
+ <tags>
+  <tag>bacteria</tag>
+  <tag>medical</tag>
+  <tag>extraction</tag>
+ </tags>
 </spob>

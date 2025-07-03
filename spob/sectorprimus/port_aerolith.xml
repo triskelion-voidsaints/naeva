@@ -31,4 +31,10 @@
   <item price_mod="1.500000">Metals</item>
   <item price_mod="1.500000">Industrial</item>
  </tech>
+ <tags>
+  <tag>manifestera</tag>
+  <tag>shipbuilding</tag>
+  <tag>station</tag>
+  <tag>corporate</tag>
+ </tags>
 </spob>

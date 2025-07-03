@@ -25,8 +25,8 @@
   <tag>pirate</tag>
   <tag>prison</tag>
   <tag>terrorist</tag>
-  <tag>garbage</tag>
   <tag>toxic</tag>
+  <tag>bacteria</tag>
   <tag>gasgiant</tag>
   <tag>aliens</tag>
   <tag>empty</tag>
@@ -38,6 +38,7 @@
   <tag>ringworld</tag>
   <tag>station</tag>
   <tag>memorial</tag>
+  <tag>colonyship</tag>
 
   <tag>government</tag>
   <tag>corporate</tag>
@@ -68,6 +69,7 @@
   <tag>scrappers</tag>
   <tag>techmining</tag>
   <tag>watertrade</tag>
+  <tag>retirement</tag>
 
   <tag>poor</tag>
   <tag>rich</tag>

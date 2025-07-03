@@ -21,4 +21,7 @@
   </services>
   <description>If you're looking for someone or something, there's a good chance it can be found on Hunter Station. As the headquarters of the Guild of Bounty Hunters, wanted people from all over the galaxy tend to be brought here, either as a guest or as a prisoner.</description>
  </general>
+ <tags>
+  <tag>station</tag>
+ </tags>
 </spob>
