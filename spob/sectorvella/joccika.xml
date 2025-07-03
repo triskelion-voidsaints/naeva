@@ -29,4 +29,8 @@
   <item price_mod="0.63">Medical Supplies</item>
   <item price_mod="1.5">Industrial</item>
  </tech>
+ <tags>
+  <tag>bacteria</tag>
+  <tag>medical</tag>
+ </tags>
 </spob>

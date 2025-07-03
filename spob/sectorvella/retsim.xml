@@ -32,4 +32,7 @@
   <item price_mod="1.5">Foodstuffs</item>
   <item price_mod="1">Local Alcohols</item>
  </tech>
+ <tags>
+  <tag>research</tag>
+ </tags>
 </spob>

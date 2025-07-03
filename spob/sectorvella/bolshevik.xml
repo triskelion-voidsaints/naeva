@@ -31,4 +31,9 @@
   <item price_mod="0.670000">Luxury Goods</item>
   <item price_mod="1.500000">Metals</item>
  </tech>
+ <tags>
+  <tag>station</tag>
+  <tag>military</tag>
+  <tag>training</tag>
+ </tags>
 </spob>
