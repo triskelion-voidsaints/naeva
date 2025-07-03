@@ -1,7 +1,8 @@
 
  <tags>
  </tags>
- 
+
+  <tag>atlanteanera</tag>
   <tag>vellosera</tag>
   <tag>frontierera</tag>
   <tag>manifestera</tag>

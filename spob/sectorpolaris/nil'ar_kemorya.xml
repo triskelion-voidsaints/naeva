@@ -29,4 +29,10 @@
   <item price_mod="0.570000">Equipment</item>
   <item price_mod="1.500000">Foodstuffs</item>
  </tech>
+ <tags>
+  <tag>manifestera</tag>
+  <tag>homeworld</tag>
+  <tag>military</tag>
+  <tag>training</tag>
+ </tags>
 </spob>

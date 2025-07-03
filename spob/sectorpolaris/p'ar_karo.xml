@@ -10,5 +10,12 @@
   <population>0</population>
   <hide>1.000000</hide>
   <services/>
+  <description>This planet defies any conventional explanation. It is dotted with relatively human-like buildings, but they are just a little too small to have been designed by humans. The main landing site is a very clearly artificial landing pad with what appears to be a basic spaceport attatched to it.
+
+As you wander around the deserted buildings, you cannot help but feel like something is watching you, something that doesn't want you here...</description>
  </general>
+ <tags>
+  <tag>abandoned</tag>
+  <tag>radiation</tag>
+ </tags>
 </spob>
