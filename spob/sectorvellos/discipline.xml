@@ -33,4 +33,8 @@
   <item price_mod="1.380000">Medical Supplies</item>
   <item price_mod="1.330000">Luxury Goods</item>
  </tech>
+ <tags>
+  <tag>station</tag>
+  <tag>military</tag>
+ </tags>
 </spob>
