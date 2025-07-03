@@ -11,15 +11,15 @@
  </spobs>
  <jumps>
   <jump target="GH_Rochak">
-   <autopos/>
+   <pos x="998.074034" y="488.682819"/>
    <hide>1.000000</hide>
   </jump>
   <jump target="Nutin">
-   <autopos/>
+   <pos x="-645.612733" y="-3633.807358"/>
    <hide>1.000000</hide>
   </jump>
   <jump target="Smada">
-   <autopos/>
+   <pos x="4956.760167" y="611.399365"/>
    <hide>1.000000</hide>
   </jump>
  </jumps>

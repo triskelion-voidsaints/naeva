@@ -15,10 +15,6 @@
    <pos x="1020.452842" y="1961.331213"/>
    <hide>1.000000</hide>
   </jump>
-  <jump target="Initros">
-   <autopos/>
-   <hide>1.000000</hide>
-  </jump>
   <jump target="Tenetria">
    <pos x="3180.109378" y="-3032.342785"/>
    <hide>1.000000</hide>

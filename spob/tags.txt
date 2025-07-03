@@ -1,7 +1,8 @@
 
  <tags>
  </tags>
-
+ 
+  <tag>vellosera</tag>
   <tag>frontierera</tag>
   <tag>manifestera</tag>
   <tag>overwatchera</tag>

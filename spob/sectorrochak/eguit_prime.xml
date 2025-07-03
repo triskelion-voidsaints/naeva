@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="Eguit Prime">
- <pos x="0.000000" y="0.000000"/>
+ <pos x="2318.186117" y="-1845.632793"/>
  <GFX>
-  <space>F 0.webp</space>
+  <space>F 135.webp</space>
   <exterior>Eguit.webp</exterior>
  </GFX>
  <presence>
