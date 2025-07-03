@@ -70,6 +70,7 @@
   <tag>techmining</tag>
   <tag>watertrade</tag>
   <tag>retirement</tag>
+  <tag>sport</tag>
 
   <tag>poor</tag>
   <tag>rich</tag>

@@ -16,4 +16,8 @@
   </services>
   <description>Spica is an uninviting world that has a thick methane atmosphere. As you look out across the liquid ammonia pools and see the frozen metal caps of the mountains, you wonder how long it will be before the Federation strip-mines this planet.</description>
  </general>
+ <tags>
+  <tag>mining</tag>
+  <tag>toxic</tag>
+ </tags>
 </spob>
