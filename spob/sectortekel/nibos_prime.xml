@@ -30,4 +30,8 @@
   <item price_mod="1.500000">Industrial</item>
   <item price_mod="0.330000">Local Alcohols</item>
  </tech>
+ <tags>
+  <tag>aquaculture</tag>
+  <tag>brewery</tag>
+ </tags>
 </spob>

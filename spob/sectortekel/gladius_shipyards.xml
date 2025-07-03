@@ -33,4 +33,8 @@
   <item price_mod="1.43">Equipment</item>
   <item price_mod="1.5">Metals</item>
  </tech>
+ <tags>
+  <tag>station</tag>
+  <tag>shipbuilding</tag>
+ </tags>
 </spob>

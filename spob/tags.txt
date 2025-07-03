@@ -71,6 +71,7 @@
   <tag>watertrade</tag>
   <tag>retirement</tag>
   <tag>sport</tag>
+  <tag>initiation</tag>
 
   <tag>poor</tag>
   <tag>rich</tag>

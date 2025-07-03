@@ -28,4 +28,9 @@
   <item price_mod="0.5">Industrial</item>
   <item price_mod="1.43">Equipment</item>
  </tech>
+ <tags>
+  <tag>station</tag>
+  <tag>research</tag>
+  <tag>extraction</tag>
+ </tags>
 </spob>

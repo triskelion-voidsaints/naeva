@@ -33,4 +33,8 @@
   <item price_mod="0.57">Equipment</item>
   <item price_mod="1.38">Medical Supplies</item>
  </tech>
+ <tags>
+  <tag>station</tag>
+  <tag>military</tag>
+ </tags>
 </spob>

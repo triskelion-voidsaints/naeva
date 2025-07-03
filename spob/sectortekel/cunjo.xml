@@ -30,4 +30,8 @@
  <tech>
   <item price_mod="0.5">Metals</item>
  </tech>
+ <tags>
+  <tag>station</tag>
+  <tag>military</tag>
+ </tags>
 </spob>

@@ -29,4 +29,8 @@
   <item price_mod="0.5">Metals</item>
   <item price_mod="1.38">Medical Supplies</item>
  </tech>
+ <tags>
+  <tag>federationera</tag>
+  <tag>mining</tag>
+ </tags>
 </spob>

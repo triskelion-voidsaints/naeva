@@ -30,4 +30,9 @@
   <item price_mod="1.5">Foodstuffs</item>
   <item price_mod="1.43">Equipment</item>
  </tech>
+ <tags>
+  <tag>empty</tag>
+  <tag>military</tag>
+  <tag>logistics</tag>
+ </tags>
 </spob>
