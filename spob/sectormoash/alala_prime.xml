@@ -32,4 +32,9 @@
   <item price_mod="1.5">Metals</item>
   <item price_mod="1.33">Luxury Goods</item>
  </tech>
+ <tags>
+  <tag>military</tag>
+  <tag>government</tag>
+  <tag>training</tag>
+ </tags>
 </spob>

@@ -27,4 +27,9 @@
   <item price_mod="0.500000">Foodstuffs</item>
   <item price_mod="1.500000">Metals</item>
  </tech>
+ <tags>
+  <tag>religion</tag>
+  <tag>agriculture</tag>
+  <tag>medical</tag>
+ </tags>
 </spob>

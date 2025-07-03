@@ -31,4 +31,9 @@
   <item price_mod="0.5">Metals</item>
   <item price_mod="1.38">Medical Supplies</item>
  </tech>
+ <tags>
+  <tag>station</tag>
+  <tag>military</tag>
+  <tag>mining</tag>
+ </tags>
 </spob>

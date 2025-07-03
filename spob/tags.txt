@@ -52,6 +52,7 @@
   <tag>mining</tag>
   <tag>medical</tag>
   <tag>research</tag>
+  <tag>exploration</tag>
   <tag>shipbuilding</tag>
   <tag>trade</tag>
   <tag>hunting</tag>
