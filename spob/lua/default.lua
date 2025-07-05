@@ -32,6 +32,7 @@ local SPOB_CLASSES = {
 	["4-M"] = _("Ascension Device (4-M type)"),
 	["4-V"] = _("Grave of the Messiah (4-V type)"),
 	["4-W"] = _("Artificially Ringed World (4-W type)"),
+	["4-Z"] = _("Shattered Ring (4-Z type)"),
 -- Gas mining
 	["6-C"] = _("Independent Skymining (6-C type)"),
 	["6-F"] = _("Pyrogenesis Skymining (6-F type)"),

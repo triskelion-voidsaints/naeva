@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Eeban">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>Q 135.webp</space>
+  <exterior>Ormond.webp</exterior>
+ </GFX>
+ <general>
+  <class>Q</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <uninhabited/>
+  </services>
+  <description>According to the story the Replicant AI has told you about it, this planet was once home to a bio-tech research facility operated by Those Who Came Before. Looking around at this planet, you see the mounds of dead, toxic organic matter beneath the choking sky full of cyanotoxins. The Replicants assure you that the microbes are long dead, but it would be wise not to take that chance.</description>
+ </general>
+ <tags>
+  <tag>ruined</tag>
+ </tags>
+</spob>

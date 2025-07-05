@@ -7,7 +7,9 @@
   <nolanes/>
  </general>
  <pos x="326.986111" y="961.909722"/>
- <spobs/>
+ <spobs>
+  <spob>Anathema</spob>
+ </spobs>
  <jumps>
   <jump target="Dalbyn">
    <autopos/>

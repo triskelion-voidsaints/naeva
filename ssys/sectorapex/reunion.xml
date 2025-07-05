@@ -6,7 +6,9 @@
   <interference>0.000000</interference>
  </general>
  <pos x="248.504758" y="1015.783693"/>
- <spobs/>
+ <spobs>
+  <spob>Taa</spob>
+ </spobs>
  <jumps>
   <jump target="APEX">
    <autopos/>

@@ -6,7 +6,9 @@
   <interference>0.000000</interference>
  </general>
  <pos x="-15.914995" y="1036.753601"/>
- <spobs/>
+ <spobs>
+  <spob>Uuyer</spob>
+ </spobs>
  <jumps>
   <jump target="FATE">
    <autopos/>

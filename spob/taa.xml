@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Taa">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>4-Z 0.webp</space>
+  <exterior>Simpson.webp</exterior>
+ </GFX>
+ <general>
+  <class>4-Z</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <uninhabited/>
+   <refuel/>
+  </services>
+  <description>This planet was the homeworld of Those Who Came Before, or the 'Forbears' as they are called by the Replicants. The planet is covered with millenia-old buildings, carefully maintained by the swarms of nanobots that cover the entire planet. More relevantly, it is now the main home base of the Replicants, who now protect its secrets against the prying eyes and fingers of the 'unworthy'. You are the only human to have ever seen this planet, and you are likely the only one who ever will.</description>
+ </general>
+ <tags>
+  <tag>mysterious</tag>
+  <tag>homeworld</tag>
+ </tags>
+</spob>
