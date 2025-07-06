@@ -6,7 +6,7 @@
   <size>large</size>
   <mass>86</mass>
   <price>8000</price>
-  <priority>8</priority>
+  <priority>30</priority>
   <description>Rounded Carrier Engine.</description>
   <gfx_store>unicorp_engine_m.webp</gfx_store>
  </general>
@@ -14,7 +14,7 @@
   <energy_regen_malus>8</energy_regen_malus>
   <engine_limit>1455</engine_limit>
   <fuel>900</fuel>
-  <speed>197</speed>
+  <speed>215</speed>
   <accel>221</accel>
   <turn>90</turn>
   <cargo>10</cargo>

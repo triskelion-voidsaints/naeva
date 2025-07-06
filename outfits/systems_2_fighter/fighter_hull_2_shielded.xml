@@ -4,7 +4,7 @@
   <typename>Systems (Hull)</typename>
   <slot prop="fighter_hull">structure</slot>
   <size>small</size>
-  <priority>2</priority>
+  <priority>7</priority>
   <mass>12</mass>
   <price>2000</price>
   <description>Shielded Fighter Hull.</description>

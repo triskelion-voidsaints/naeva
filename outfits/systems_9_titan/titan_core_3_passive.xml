@@ -6,7 +6,7 @@
   <size>large</size>
   <mass>229</mass>
   <price>9000</price>
-  <priority>9</priority>
+  <priority>35</priority>
   <description>Passive Titan Core.</description>
   <gfx_store>core_system_basic_l2.webp</gfx_store>
  </general>

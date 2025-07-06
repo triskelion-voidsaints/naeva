@@ -6,7 +6,7 @@
   <size>medium</size>
   <mass>32</mass>
   <price>6000</price>
-  <priority>6</priority>
+  <priority>21</priority>
   <description>Kangaroo Destroyer Engine.</description>
   <gfx_store>krain_remige_engine.webp</gfx_store>
  </general>
@@ -14,7 +14,7 @@
   <energy_regen_malus>6</energy_regen_malus>
   <engine_limit>508</engine_limit>
   <fuel>700</fuel>
-  <speed>233</speed>
+  <speed>275</speed>
   <accel>500</accel>
   <turn>180</turn>
  </specific>

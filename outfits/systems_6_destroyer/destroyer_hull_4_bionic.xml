@@ -4,7 +4,7 @@
   <typename>Systems (Hull)</typename>
   <slot prop="destroyer_hull">structure</slot>
   <size>medium</size>
-  <priority>6</priority>
+  <priority>21</priority>
   <mass>96</mass>
   <price>6000</price>
   <description>Bionic Destroyer Hull.</description>

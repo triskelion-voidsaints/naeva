@@ -8,13 +8,13 @@
   <price>3000</price>
   <description>Kangaroo Gunship Engine.</description>
   <gfx_store>engine10.webp</gfx_store>
-  <priority>3</priority>
+  <priority>9</priority>
  </general>
  <specific type="modification">
   <energy_regen_malus>3</energy_regen_malus>
   <engine_limit>140</engine_limit>
   <fuel>400</fuel>
-  <speed>389</speed>
+  <speed>459</speed>
   <accel>834</accel>
   <turn>325</turn>
  </specific>

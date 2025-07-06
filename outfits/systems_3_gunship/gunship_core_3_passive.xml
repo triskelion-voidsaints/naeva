@@ -6,7 +6,7 @@
   <size>small</size>
   <mass>16</mass>
   <price>3000</price>
-  <priority>3</priority>
+  <priority>11</priority>
   <description>Passive Gunship Core.</description>
   <gfx_store>core_system_basic_s2.webp</gfx_store>
  </general>

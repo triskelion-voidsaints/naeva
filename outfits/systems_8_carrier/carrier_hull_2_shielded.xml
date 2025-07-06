@@ -4,7 +4,7 @@
   <typename>Systems (Hull)</typename>
   <slot prop="carrier_hull">structure</slot>
   <size>large</size>
-  <priority>8</priority>
+  <priority>31</priority>
   <mass>260</mass>
   <price>8000</price>
   <description>Shielded Carrier Hull.</description>

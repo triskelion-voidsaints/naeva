@@ -4,7 +4,7 @@
   <typename>Systems (Hull)</typename>
   <slot prop="lifepod_hull">structure</slot>
   <size>small</size>
-  <priority>1</priority>
+  <priority>3</priority>
   <mass>6</mass>
   <price>1000</price>
   <description>Shielded Lifepod Hull.</description>

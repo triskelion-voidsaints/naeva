@@ -6,7 +6,7 @@
   <size>medium</size>
   <mass>12</mass>
   <price>4000</price>
-  <priority>4</priority>
+  <priority>15</priority>
   <description>Rounded Corvette Engine.</description>
   <gfx_store>engine11.webp</gfx_store>
  </general>
@@ -14,7 +14,7 @@
   <energy_regen_malus>4</energy_regen_malus>
   <engine_limit>224</engine_limit>
   <fuel>500</fuel>
-  <speed>460</speed>
+  <speed>478</speed>
   <accel>223</accel>
   <turn>270</turn>
   <cargo>20</cargo>

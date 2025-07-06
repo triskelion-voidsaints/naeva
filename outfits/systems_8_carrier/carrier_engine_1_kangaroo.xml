@@ -6,7 +6,7 @@
   <size>large</size>
   <mass>86</mass>
   <price>8000</price>
-  <priority>8</priority>
+  <priority>29</priority>
   <description>Kangaroo Carrier Engine.</description>
   <gfx_store>engine8.webp</gfx_store>
  </general>
@@ -14,7 +14,7 @@
   <energy_regen_malus>8</energy_regen_malus>
   <engine_limit>1455</engine_limit>
   <fuel>900</fuel>
-  <speed>128</speed>
+  <speed>163</speed>
   <accel>334</accel>
   <turn>90</turn>
  </specific>

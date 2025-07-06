@@ -4,7 +4,7 @@
   <typename>Systems (Hull)</typename>
   <slot prop="gunship_hull">structure</slot>
   <size>small</size>
-  <priority>3</priority>
+  <priority>10</priority>
   <mass>24</mass>
   <price>3000</price>
   <description>Armoured Gunship Hull.</description>

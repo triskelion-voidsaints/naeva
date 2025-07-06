@@ -4,7 +4,7 @@
   <typename>Systems (Hull)</typename>
   <slot prop="cruiser_hull">structure</slot>
   <size>large</size>
-  <priority>7</priority>
+  <priority>27</priority>
   <mass>178</mass>
   <price>7000</price>
   <description>Shielded Cruiser Hull.</description>

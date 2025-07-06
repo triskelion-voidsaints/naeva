@@ -4,7 +4,7 @@
   <typename>Systems (Hull)</typename>
   <slot prop="corvette_hull">structure</slot>
   <size>medium</size>
-  <priority>4</priority>
+  <priority>15</priority>
   <mass>36</mass>
   <price>4000</price>
   <description>Shielded Corvette Hull.</description>

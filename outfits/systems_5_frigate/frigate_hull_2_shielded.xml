@@ -4,7 +4,7 @@
   <typename>Systems (Hull)</typename>
   <slot prop="frigate_hull">structure</slot>
   <size>medium</size>
-  <priority>5</priority>
+  <priority>19</priority>
   <mass>59</mass>
   <price>5000</price>
   <description>Shielded Frigate Hull.</description>

@@ -6,7 +6,7 @@
   <size>large</size>
   <mass>86</mass>
   <price>8000</price>
-  <priority>8</priority>
+  <priority>31</priority>
   <description>Rounded Carrier Engine.</description>
   <gfx_store>engine13.webp</gfx_store>
  </general>
@@ -14,7 +14,7 @@
   <energy_regen_malus>8</energy_regen_malus>
   <engine_limit>1455</engine_limit>
   <fuel>900</fuel>
-  <speed>221</speed>
+  <speed>232</speed>
   <accel>111</accel>
   <turn>90</turn>
   <cargo>20</cargo>

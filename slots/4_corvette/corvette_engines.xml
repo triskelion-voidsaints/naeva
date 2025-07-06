@@ -4,5 +4,6 @@
  <description>This is the ship's basic, built-in engine system.</description>
  <exclusive/>
  <required/>
+ <locked/>
  <icon>engines.png</icon>
 </slot>

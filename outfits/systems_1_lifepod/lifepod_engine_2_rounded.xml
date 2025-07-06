@@ -8,13 +8,13 @@
   <price>1000</price>
   <description>Rounded Lifepod Engine.</description>
   <gfx_store>nexus_engine_s.webp</gfx_store>
-  <priority>1</priority>
+  <priority>2</priority>
  </general>
  <specific type="modification">
   <energy_regen_malus>1</energy_regen_malus>
   <engine_limit>42</engine_limit>
   <fuel>200</fuel>
-  <speed>686</speed>
+  <speed>732</speed>
   <accel>542</accel>
   <turn>415</turn>
   <cargo>10</cargo>

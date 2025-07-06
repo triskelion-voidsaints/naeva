@@ -6,7 +6,7 @@
   <size>medium</size>
   <mass>12</mass>
   <price>4000</price>
-  <priority>4</priority>
+  <priority>13</priority>
   <description>Kangaroo Corvette Engine.</description>
   <gfx_store>engine10.webp</gfx_store>
  </general>
@@ -14,7 +14,7 @@
   <energy_regen_malus>4</energy_regen_malus>
   <engine_limit>224</engine_limit>
   <fuel>500</fuel>
-  <speed>311</speed>
+  <speed>367</speed>
   <accel>668</accel>
   <turn>270</turn>
  </specific>

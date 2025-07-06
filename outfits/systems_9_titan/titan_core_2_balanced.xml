@@ -6,7 +6,7 @@
   <size>large</size>
   <mass>229</mass>
   <price>9000</price>
-  <priority>9</priority>
+  <priority>34</priority>
   <description>Balanced Titan Core.</description>
   <gfx_store>core_system_shield_l2.webp</gfx_store>
  </general>

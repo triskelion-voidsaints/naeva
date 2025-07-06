@@ -4,7 +4,7 @@
   <typename>Systems (Hull)</typename>
   <slot prop="titan_hull">structure</slot>
   <size>large</size>
-  <priority>9</priority>
+  <priority>34</priority>
   <mass>344</mass>
   <price>9000</price>
   <description>Armoured Titan Hull.</description>

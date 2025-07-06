@@ -8,13 +8,13 @@
   <price>2000</price>
   <description>Kangaroo Fighter Engine.</description>
   <gfx_store>engine9.webp</gfx_store>
-  <priority>2</priority>
+  <priority>5</priority>
  </general>
  <specific type="modification">
   <energy_regen_malus>2</energy_regen_malus>
   <engine_limit>83</engine_limit>
   <fuel>300</fuel>
-  <speed>467</speed>
+  <speed>550</speed>
   <accel>1000</accel>
   <turn>360</turn>
  </specific>

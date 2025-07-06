@@ -8,13 +8,13 @@
   <price>2000</price>
   <description>Drifter Fighter Engine.</description>
   <gfx_store>engine7.webp</gfx_store>
-  <priority>2</priority>
+  <priority>7</priority>
  </general>
  <specific type="modification">
   <energy_regen_malus>2</energy_regen_malus>
   <engine_limit>83</engine_limit>
   <fuel>300</fuel>
-  <speed>689</speed>
+  <speed>717</speed>
   <accel>333</accel>
   <turn>360</turn>
   <cargo>20</cargo>

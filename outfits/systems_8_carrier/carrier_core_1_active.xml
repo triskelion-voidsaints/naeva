@@ -6,7 +6,7 @@
   <size>large</size>
   <mass>173</mass>
   <price>8000</price>
-  <priority>8</priority>
+  <priority>29</priority>
   <description>Active Carrier Core.</description>
   <gfx_store>core_system_cpu_l1.webp</gfx_store>
  </general>

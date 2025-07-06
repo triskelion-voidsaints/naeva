@@ -6,7 +6,7 @@
   <size>medium</size>
   <mass>39</mass>
   <price>5000</price>
-  <priority>5</priority>
+  <priority>19</priority>
   <description>Passive Frigate Core.</description>
   <gfx_store>core_system_basic_m1.webp</gfx_store>
  </general>

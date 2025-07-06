@@ -6,7 +6,7 @@
   <size>large</size>
   <mass>118</mass>
   <price>7000</price>
-  <priority>7</priority>
+  <priority>27</priority>
   <description>Passive Cruiser Core.</description>
   <gfx_store>core_system_basic_m2.webp</gfx_store>
  </general>

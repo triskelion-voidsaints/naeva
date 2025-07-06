@@ -8,13 +8,13 @@
   <price>2000</price>
   <description>Rounded Fighter Engine.</description>
   <gfx_store>nexus_engine_s.webp</gfx_store>
-  <priority>2</priority>
+  <priority>6</priority>
  </general>
  <specific type="modification">
   <energy_regen_malus>2</energy_regen_malus>
   <engine_limit>83</engine_limit>
   <fuel>300</fuel>
-  <speed>633</speed>
+  <speed>675</speed>
   <accel>500</accel>
   <turn>360</turn>
   <cargo>10</cargo>

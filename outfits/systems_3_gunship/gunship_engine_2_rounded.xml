@@ -8,13 +8,13 @@
   <price>3000</price>
   <description>Rounded Gunship Engine.</description>
   <gfx_store>nexus_engine_m.webp</gfx_store>
-  <priority>3</priority>
+  <priority>10</priority>
  </general>
  <specific type="modification">
   <energy_regen_malus>3</energy_regen_malus>
   <engine_limit>140</engine_limit>
   <fuel>400</fuel>
-  <speed>528</speed>
+  <speed>563</speed>
   <accel>417</accel>
   <turn>325</turn>
   <cargo>10</cargo>

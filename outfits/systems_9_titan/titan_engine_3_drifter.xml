@@ -6,7 +6,7 @@
   <size>large</size>
   <mass>115</mass>
   <price>9000</price>
-  <priority>9</priority>
+  <priority>35</priority>
   <description>Rounded Titan Engine.</description>
   <gfx_store>engine14.webp</gfx_store>
  </general>
@@ -14,7 +14,7 @@
   <energy_regen_malus>9</energy_regen_malus>
   <engine_limit>2246</engine_limit>
   <fuel>1000</fuel>
-  <speed>154</speed>
+  <speed>165</speed>
   <accel>83</accel>
   <turn>55</turn>
   <cargo>20</cargo>
