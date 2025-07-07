@@ -7,7 +7,9 @@
   <mass>32</mass>
   <price>6000</price>
   <priority>23</priority>
-  <description>Rounded Destroyer Engine.</description>
+  <description>A drifter engine accelerates slowly, but has a high cruising speed. This engine excels in a situation where your enemies can be planned and accounted for, so your guns cover your retreat. The gentle acceleration curve allows your ship to hold a good deal of cargo pods and missiles, slanting it towards a logistical role.
+
+This is the medium version, which is designed to fit the standard size of capital ship.</description>
   <gfx_store>engine12.webp</gfx_store>
  </general>
  <specific type="modification">
@@ -17,7 +19,7 @@
   <speed>358</speed>
   <accel>167</accel>
   <turn>180</turn>
-  <cargo>20</cargo>
+  <cargo_mod>20</cargo_mod>
   <ammo_capacity>20</ammo_capacity>
  </specific>
 </outfit>

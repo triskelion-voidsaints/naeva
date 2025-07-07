@@ -7,7 +7,9 @@
   <mass>173</mass>
   <price>8000</price>
   <priority>30</priority>
-  <description>Balanced Carrier Core.</description>
+  <description>A balanced core is split evenly between cargo capacity and CPU, allowing a starship the flexibility to approach a variety of situations.
+
+This is the large version, which is built on a ship that is a fleet unto itself.</description>
   <gfx_store>core_system_shield_l1.webp</gfx_store>
  </general>
  <specific type="modification">

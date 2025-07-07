@@ -7,7 +7,9 @@
   <priority>16</priority>
   <mass>36</mass>
   <price>4000</price>
-  <description>Standard Corvette Hull.</description>
+  <description>Standard hulls are split between shield capacity and armour strength. In return for their lack of specialization, the total defensive capacity of this hull is 10% stronger compared to its competitors. They also feature a dedicated array of shield rechargers.
+
+This is the small version, which fits the first class of ships considered to be a proper, independent starship.</description>
   <gfx_store>refined_hull_h.webp</gfx_store>
  </general>
  <specific type="modification">

@@ -7,7 +7,9 @@
   <mass>118</mass>
   <price>7000</price>
   <priority>27</priority>
-  <description>Passive Cruiser Core.</description>
+  <description>A passive core prioritizes cargo capacity and missile stores, allowing a ship to ferry a great deal of cargo but forcing it to take a passive role in combat.
+
+This is the overmedium version, which is designed to accommodate a ship of the line.</description>
   <gfx_store>core_system_basic_m2.webp</gfx_store>
  </general>
  <specific type="modification">

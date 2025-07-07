@@ -7,7 +7,9 @@
   <priority>12</priority>
   <mass>24</mass>
   <price>3000</price>
-  <description>Standard Gunship Hull.</description>
+  <description>Standard hulls are split between shield capacity and armour strength. In return for their lack of specialization, the total defensive capacity of this hull is 10% stronger compared to its competitors. They also feature a dedicated array of shield rechargers.
+
+This is the overtiny version, which fits the smallest of ships with a multi-person crew.</description>
   <gfx_store>refined_hull_s.webp</gfx_store>
  </general>
  <specific type="modification">

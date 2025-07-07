@@ -7,7 +7,9 @@
   <priority>35</priority>
   <mass>344</mass>
   <price>9000</price>
-  <description>Shielded Titan Hull.</description>
+  <description>Shielded hulls rely on a dedicated array of shield capacitors to provide best in class shield capacity, backed up by a dedicated array of shield rechargers. While the ship’s structure is still sturdy, its hull does not mount armour and should not be relied upon to deflect fire.
+
+This is the massive version, which is built around a ship whose size is staggering and purpose unfathomable.</description>
   <gfx_store>base_hull_x.webp</gfx_store>
  </general>
  <specific type="modification">

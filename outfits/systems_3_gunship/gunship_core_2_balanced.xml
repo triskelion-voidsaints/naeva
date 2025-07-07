@@ -7,7 +7,9 @@
   <mass>16</mass>
   <price>3000</price>
   <priority>10</priority>
-  <description>Balanced Gunship Core.</description>
+  <description>A balanced core is split evenly between cargo capacity and CPU, allowing a starship the flexibility to approach a variety of situations.
+
+This is the overtiny version, which fits the smallest of ships with a multi-person crew.</description>
   <gfx_store>core_system_shield_s2.webp</gfx_store>
  </general>
  <specific type="modification">

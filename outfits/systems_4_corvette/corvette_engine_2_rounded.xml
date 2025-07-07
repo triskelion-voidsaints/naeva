@@ -7,7 +7,9 @@
   <mass>12</mass>
   <price>4000</price>
   <priority>14</priority>
-  <description>Rounded Corvette Engine.</description>
+  <description>A rounded engine has a balanced acceleration and cruising speed. The softer acceleration curve permits the storage of a small number of additional cargo pods and missiles, ensuring that this engine performs both in combat and logistical purposes.
+
+This is the small version, which fits the first class of ships considered to be a proper, independent starship.</description>
   <gfx_store>nexus_engine_m.webp</gfx_store>
  </general>
  <specific type="modification">
@@ -17,7 +19,7 @@
   <speed>451</speed>
   <accel>334</accel>
   <turn>270</turn>
-  <cargo>10</cargo>
+  <cargo_mod>10</cargo_mod>
   <ammo_capacity>10</ammo_capacity>
  </specific>
 </outfit>

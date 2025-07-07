@@ -7,7 +7,9 @@
   <mass>118</mass>
   <price>7000</price>
   <priority>25</priority>
-  <description>Active Cruiser Core.</description>
+  <description>An active core dedicates most of your ship’s interior to the processors that enable powerful weapons, but it leaves little space for cargo or missile stores.
+
+This is the overmedium version, which is designed to accommodate a ship of the line.</description>
   <gfx_store>core_system_cpu_m2.webp</gfx_store>
  </general>
  <specific type="modification">

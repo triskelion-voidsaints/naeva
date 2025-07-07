@@ -7,7 +7,9 @@
   <priority>33</priority>
   <mass>344</mass>
   <price>9000</price>
-  <description>Bionic Titan Hull.</description>
+  <description>Like a standard hull, bionic hulls are perfectly balanced between shield capacity and armour strength. Their competitive edge comes with regards to regeneration, which is 30% greater in total than their competitors and is also perfectly balanced between shield recharge and hull repair.
+
+This is the massive version, which is built around a ship whose size is staggering and purpose unfathomable.</description>
   <gfx_store>organic_hull_x.webp</gfx_store>
  </general>
  <specific type="modification">

@@ -7,7 +7,9 @@
   <priority>15</priority>
   <mass>36</mass>
   <price>4000</price>
-  <description>Shielded Corvette Hull.</description>
+  <description>Shielded hulls rely on a dedicated array of shield capacitors to provide best in class shield capacity, backed up by a dedicated array of shield rechargers. While the ship’s structure is still sturdy, its hull does not mount armour and should not be relied upon to deflect fire.
+
+This is the small version, which fits the first class of ships considered to be a proper, independent starship.</description>
   <gfx_store>base_hull_h.webp</gfx_store>
  </general>
  <specific type="modification">

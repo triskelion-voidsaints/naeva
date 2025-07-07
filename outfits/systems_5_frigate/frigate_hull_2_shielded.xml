@@ -7,7 +7,9 @@
   <priority>19</priority>
   <mass>59</mass>
   <price>5000</price>
-  <description>Shielded Frigate Hull.</description>
+  <description>Shielded hulls rely on a dedicated array of shield capacitors to provide best in class shield capacity, backed up by a dedicated array of shield rechargers. While the ship’s structure is still sturdy, its hull does not mount armour and should not be relied upon to deflect fire.
+
+This is the submedium version, which fits the smallest class of capital ships.</description>
   <gfx_store>base_hull_m.webp</gfx_store>
  </general>
  <specific type="modification">

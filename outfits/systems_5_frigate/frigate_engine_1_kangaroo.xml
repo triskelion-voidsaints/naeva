@@ -7,7 +7,9 @@
   <mass>19</mass>
   <price>5000</price>
   <priority>17</priority>
-  <description>Kangaroo Frigate Engine.</description>
+  <description>A kangaroo engine is optimized to accelerate quickly at the cost of a low cruising speed. This jumpy profile is optimal for active combat engagements, but the lack of inhibitors prevents the incorporation of cargo preservation technologies.
+
+This is the submedium version, which fits the smallest class of capital ships.</description>
   <gfx_store>krain_patagium_engine.webp</gfx_store>
  </general>
  <specific type="modification">

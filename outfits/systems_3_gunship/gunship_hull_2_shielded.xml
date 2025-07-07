@@ -7,7 +7,9 @@
   <priority>11</priority>
   <mass>24</mass>
   <price>3000</price>
-  <description>Shielded Gunship Hull.</description>
+  <description>Shielded hulls rely on a dedicated array of shield capacitors to provide best in class shield capacity, backed up by a dedicated array of shield rechargers. While the ship’s structure is still sturdy, its hull does not mount armour and should not be relied upon to deflect fire.
+
+This is the overtiny version, which fits the smallest of ships with a multi-person crew.</description>
   <gfx_store>base_hull_s.webp</gfx_store>
  </general>
  <specific type="modification">

@@ -7,7 +7,9 @@
   <mass>59</mass>
   <price>7000</price>
   <priority>26</priority>
-  <description>Rounded Cruiser Engine.</description>
+  <description>A rounded engine has a balanced acceleration and cruising speed. The softer acceleration curve permits the storage of a small number of additional cargo pods and missiles, ensuring that this engine performs both in combat and logistical purposes.
+
+This is the overmedium version, which is designed to accommodate a ship of the line.</description>
   <gfx_store>unicorp_engine_s.webp</gfx_store>
  </general>
  <specific type="modification">
@@ -17,7 +19,7 @@
   <speed>282</speed>
   <accel>209</accel>
   <turn>145</turn>
-  <cargo>10</cargo>
+  <cargo_mod>10</cargo_mod>
   <ammo_capacity>10</ammo_capacity>
  </specific>
 </outfit>

@@ -6,7 +6,9 @@
   <size>small</size>
   <mass>4</mass>
   <price>2000</price>
-  <description>Drifter Fighter Engine.</description>
+  <description>A drifter engine accelerates slowly, but has a high cruising speed. This engine excels in a situation where your enemies can be planned and accounted for, so your guns cover your retreat. The gentle acceleration curve allows your ship to hold a good deal of cargo pods and missiles, slanting it towards a logistical role.
+
+This is the tiny version, which is designed for those ships commonly crewed by a single pilot.</description>
   <gfx_store>engine7.webp</gfx_store>
   <priority>7</priority>
  </general>
@@ -17,7 +19,7 @@
   <speed>717</speed>
   <accel>333</accel>
   <turn>360</turn>
-  <cargo>20</cargo>
+  <cargo_mod>20</cargo_mod>
   <ammo_capacity>20</ammo_capacity>
  </specific>
 </outfit>

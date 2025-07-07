@@ -7,7 +7,9 @@
   <mass>8</mass>
   <price>2000</price>
   <priority>5</priority>
-  <description>Active Fighter Core.</description>
+  <description>An active core dedicates most of your ship’s interior to the processors that enable powerful weapons, but it leaves little space for cargo or missile stores.
+
+This is the tiny version, which is designed for those ships commonly crewed by a single pilot.</description>
   <gfx_store>core_system_cpu_s1.webp</gfx_store>
  </general>
  <specific type="modification">

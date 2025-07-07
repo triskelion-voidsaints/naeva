@@ -7,7 +7,9 @@
   <mass>4</mass>
   <price>1000</price>
   <priority>2</priority>
-  <description>Balanced Lifepod Core.</description>
+  <description>A balanced core is split evenly between cargo capacity and CPU, allowing a starship the flexibility to approach a variety of situations.
+
+This is the puny version, which only fits vehicles too small to be properly called a ship.</description>
   <gfx_store>core_system_shield_s1.webp</gfx_store>
  </general>
  <specific type="modification">

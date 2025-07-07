@@ -7,7 +7,9 @@
   <mass>64</mass>
   <price>6000</price>
   <priority>21</priority>
-  <description>Active Destroyer Core.</description>
+  <description>An active core dedicates most of your ship’s interior to the processors that enable powerful weapons, but it leaves little space for cargo or missile stores.
+
+This is the medium version, which is designed to fit the standard size of capital ship.</description>
   <gfx_store>core_system_cpu_m2.webp</gfx_store>
  </general>
  <specific type="modification">

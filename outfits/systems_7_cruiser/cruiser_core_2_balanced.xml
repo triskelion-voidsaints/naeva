@@ -7,7 +7,9 @@
   <mass>118</mass>
   <price>7000</price>
   <priority>26</priority>
-  <description>Balanced Cruiser Core.</description>
+  <description>A balanced core is split evenly between cargo capacity and CPU, allowing a starship the flexibility to approach a variety of situations.
+
+This is the overmedium version, which is designed to accommodate a ship of the line.</description>
   <gfx_store>core_system_shield_m2.webp</gfx_store>
  </general>
  <specific type="modification">

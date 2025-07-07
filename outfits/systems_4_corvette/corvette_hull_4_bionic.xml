@@ -7,7 +7,9 @@
   <priority>13</priority>
   <mass>36</mass>
   <price>4000</price>
-  <description>Bionic Corvette Hull.</description>
+  <description>Like a standard hull, bionic hulls are perfectly balanced between shield capacity and armour strength. Their competitive edge comes with regards to regeneration, which is 30% greater in total than their competitors and is also perfectly balanced between shield recharge and hull repair.
+
+This is the small version, which fits the first class of ships considered to be a proper, independent starship.</description>
   <gfx_store>organic_hull_h.webp</gfx_store>
  </general>
  <specific type="modification">

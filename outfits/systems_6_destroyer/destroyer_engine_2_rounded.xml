@@ -7,7 +7,9 @@
   <mass>32</mass>
   <price>6000</price>
   <priority>22</priority>
-  <description>Rounded Destroyer Engine.</description>
+  <description>A rounded engine has a balanced acceleration and cruising speed. The softer acceleration curve permits the storage of a small number of additional cargo pods and missiles, ensuring that this engine performs both in combat and logistical purposes.
+
+This is the medium version, which is designed to fit the standard size of capital ship.</description>
   <gfx_store>nexus_engine_l.webp</gfx_store>
  </general>
  <specific type="modification">
@@ -17,7 +19,7 @@
   <speed>338</speed>
   <accel>250</accel>
   <turn>180</turn>
-  <cargo>10</cargo>
+  <cargo_mod>10</cargo_mod>
   <ammo_capacity>10</ammo_capacity>
  </specific>
 </outfit>

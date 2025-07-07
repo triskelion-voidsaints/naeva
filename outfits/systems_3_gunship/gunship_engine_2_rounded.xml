@@ -6,7 +6,9 @@
   <size>small</size>
   <mass>8</mass>
   <price>3000</price>
-  <description>Rounded Gunship Engine.</description>
+  <description>A rounded engine has a balanced acceleration and cruising speed. The softer acceleration curve permits the storage of a small number of additional cargo pods and missiles, ensuring that this engine performs both in combat and logistical purposes.
+
+This is the overtiny version, which fits the smallest of ships with a multi-person crew.</description>
   <gfx_store>nexus_engine_m.webp</gfx_store>
   <priority>10</priority>
  </general>
@@ -17,7 +19,7 @@
   <speed>563</speed>
   <accel>417</accel>
   <turn>325</turn>
-  <cargo>10</cargo>
+  <cargo_mod>10</cargo_mod>
   <ammo_capacity>10</ammo_capacity>
  </specific>
 </outfit>

@@ -7,7 +7,9 @@
   <priority>29</priority>
   <mass>260</mass>
   <price>8000</price>
-  <description>Bionic Carrier Hull.</description>
+  <description>Like a standard hull, bionic hulls are perfectly balanced between shield capacity and armour strength. Their competitive edge comes with regards to regeneration, which is 30% greater in total than their competitors and is also perfectly balanced between shield recharge and hull repair.
+
+This is the large version, which is built on a ship that is a fleet unto itself.</description>
   <gfx_store>organic_hull_l.webp</gfx_store>
  </general>
  <specific type="modification">

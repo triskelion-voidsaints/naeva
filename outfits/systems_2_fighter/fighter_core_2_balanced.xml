@@ -7,7 +7,9 @@
   <mass>8</mass>
   <price>2000</price>
   <priority>6</priority>
-  <description>Balanced Fighter Core.</description>
+  <description>A balanced core is split evenly between cargo capacity and CPU, allowing a starship the flexibility to approach a variety of situations.
+
+This is the tiny version, which is designed for those ships commonly crewed by a single pilot.</description>
   <gfx_store>core_system_shield_s1.webp</gfx_store>
  </general>
  <specific type="modification">

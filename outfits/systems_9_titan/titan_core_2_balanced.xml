@@ -7,7 +7,9 @@
   <mass>229</mass>
   <price>9000</price>
   <priority>34</priority>
-  <description>Balanced Titan Core.</description>
+  <description>A balanced core is split evenly between cargo capacity and CPU, allowing a starship the flexibility to approach a variety of situations.
+
+This is the massive version, which is built around a ship whose size is staggering and purpose unfathomable.</description>
   <gfx_store>core_system_shield_l2.webp</gfx_store>
  </general>
  <specific type="modification">

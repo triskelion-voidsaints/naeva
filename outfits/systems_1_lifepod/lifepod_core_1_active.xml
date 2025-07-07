@@ -7,7 +7,9 @@
   <mass>4</mass>
   <price>1000</price>
   <priority>1</priority>
-  <description>Active Lifepod Core.</description>
+  <description>An active core dedicates most of your ship’s interior to the processors that enable powerful weapons, but it leaves little space for cargo or missile stores.
+
+This is the puny version, which only fits vehicles too small to be properly called a ship.</description>
   <gfx_store>core_system_cpu_s1.webp</gfx_store>
  </general>
  <specific type="modification">

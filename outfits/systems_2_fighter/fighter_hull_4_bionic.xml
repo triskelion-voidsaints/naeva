@@ -7,7 +7,9 @@
   <priority>5</priority>
   <mass>12</mass>
   <price>2000</price>
-  <description>Bionic Fighter Hull.</description>
+  <description>Like a standard hull, bionic hulls are perfectly balanced between shield capacity and armour strength. Their competitive edge comes with regards to regeneration, which is 30% greater in total than their competitors and is also perfectly balanced between shield recharge and hull repair.
+
+This is the tiny version, which is designed for those ships commonly crewed by a single pilot.</description>
   <gfx_store>organic_hull_s.webp</gfx_store>
  </general>
  <specific type="modification">

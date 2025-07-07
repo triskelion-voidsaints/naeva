@@ -6,7 +6,9 @@
   <size>small</size>
   <mass>8</mass>
   <price>3000</price>
-  <description>Rounded Gunship Engine.</description>
+  <description>A drifter engine accelerates slowly, but has a high cruising speed. This engine excels in a situation where your enemies can be planned and accounted for, so your guns cover your retreat. The gentle acceleration curve allows your ship to hold a good deal of cargo pods and missiles, slanting it towards a logistical role.
+
+This is the overtiny version, which fits the smallest of ships with a multi-person crew.</description>
   <gfx_store>engine7.webp</gfx_store>
   <priority>11</priority>
  </general>
@@ -17,7 +19,7 @@
   <speed>598</speed>
   <accel>278</accel>
   <turn>325</turn>
-  <cargo>20</cargo>
+  <cargo_mod>20</cargo_mod>
   <ammo_capacity>20</ammo_capacity>
  </specific>
 </outfit>

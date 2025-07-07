@@ -7,7 +7,9 @@
   <priority>26</priority>
   <mass>178</mass>
   <price>7000</price>
-  <description>Armoured Cruiser Hull.</description>
+  <description>Armoured hulls feature thick hull plating that can stand up to an extensive beating before failing. They also have damage control and repair systems that can patch up the hull in a pinch, but not with any speed compared to a shield generator. An armoured hull’s shield grid is second rate, but remains a factor.
+
+This is the overmedium version, which is designed to accommodate a ship of the line.</description>
   <gfx_store>combat_hull_m.webp</gfx_store>
  </general>
  <specific type="modification">

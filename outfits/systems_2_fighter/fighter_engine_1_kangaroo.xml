@@ -6,7 +6,9 @@
   <size>small</size>
   <mass>4</mass>
   <price>2000</price>
-  <description>Kangaroo Fighter Engine.</description>
+  <description>A kangaroo engine is optimized to accelerate quickly at the cost of a low cruising speed. This jumpy profile is optimal for active combat engagements, but the lack of inhibitors prevents the incorporation of cargo preservation technologies.
+
+This is the tiny version, which is designed for those ships commonly crewed by a single pilot.</description>
   <gfx_store>engine9.webp</gfx_store>
   <priority>5</priority>
  </general>

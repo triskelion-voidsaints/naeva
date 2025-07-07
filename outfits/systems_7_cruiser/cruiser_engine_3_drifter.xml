@@ -7,7 +7,9 @@
   <mass>59</mass>
   <price>7000</price>
   <priority>27</priority>
-  <description>Rounded Cruiser Engine.</description>
+  <description>A drifter engine accelerates slowly, but has a high cruising speed. This engine excels in a situation where your enemies can be planned and accounted for, so your guns cover your retreat. The gentle acceleration curve allows your ship to hold a good deal of cargo pods and missiles, slanting it towards a logistical role.
+
+This is the overmedium version, which is designed to accommodate a ship of the line.</description>
   <gfx_store>engine13.webp</gfx_store>
  </general>
  <specific type="modification">
@@ -17,7 +19,7 @@
   <speed>299</speed>
   <accel>139</accel>
   <turn>145</turn>
-  <cargo>20</cargo>
+  <cargo_mod>20</cargo_mod>
   <ammo_capacity>20</ammo_capacity>
  </specific>
 </outfit>

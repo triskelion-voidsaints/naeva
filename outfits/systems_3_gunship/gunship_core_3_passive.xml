@@ -7,7 +7,9 @@
   <mass>16</mass>
   <price>3000</price>
   <priority>11</priority>
-  <description>Passive Gunship Core.</description>
+  <description>A passive core prioritizes cargo capacity and missile stores, allowing a ship to ferry a great deal of cargo but forcing it to take a passive role in combat.
+
+This is the overtiny version, which fits the smallest of ships with a multi-person crew.</description>
   <gfx_store>core_system_basic_s2.webp</gfx_store>
  </general>
  <specific type="modification">

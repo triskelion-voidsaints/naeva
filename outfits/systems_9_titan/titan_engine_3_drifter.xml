@@ -7,7 +7,9 @@
   <mass>115</mass>
   <price>9000</price>
   <priority>35</priority>
-  <description>Rounded Titan Engine.</description>
+  <description>A drifter engine accelerates slowly, but has a high cruising speed. This engine excels in a situation where your enemies can be planned and accounted for, so your guns cover your retreat. The gentle acceleration curve allows your ship to hold a good deal of cargo pods and missiles, slanting it towards a logistical role.
+
+This is the massive version, which is built around a ship whose size is staggering and purpose unfathomable.</description>
   <gfx_store>engine14.webp</gfx_store>
  </general>
  <specific type="modification">
@@ -17,7 +19,7 @@
   <speed>165</speed>
   <accel>83</accel>
   <turn>55</turn>
-  <cargo>20</cargo>
+  <cargo_mod>20</cargo_mod>
   <ammo_capacity>20</ammo_capacity>
  </specific>
 </outfit>

@@ -7,7 +7,9 @@
   <mass>229</mass>
   <price>9000</price>
   <priority>35</priority>
-  <description>Passive Titan Core.</description>
+  <description>A passive core prioritizes cargo capacity and missile stores, allowing a ship to ferry a great deal of cargo but forcing it to take a passive role in combat.
+
+This is the massive version, which is built around a ship whose size is staggering and purpose unfathomable.</description>
   <gfx_store>core_system_basic_l2.webp</gfx_store>
  </general>
  <specific type="modification">

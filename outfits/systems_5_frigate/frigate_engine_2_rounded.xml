@@ -7,7 +7,9 @@
   <mass>19</mass>
   <price>5000</price>
   <priority>18</priority>
-  <description>Rounded Frigate Engine.</description>
+  <description>A rounded engine has a balanced acceleration and cruising speed. The softer acceleration curve permits the storage of a small number of additional cargo pods and missiles, ensuring that this engine performs both in combat and logistical purposes.
+
+This is the submedium version, which fits the smallest class of capital ships.</description>
   <gfx_store>nexus_engine_l.webp</gfx_store>
  </general>
  <specific type="modification">
@@ -17,7 +19,7 @@
   <speed>394</speed>
   <accel>292</accel>
   <turn>235</turn>
-  <cargo>10</cargo>
+  <cargo_mod>10</cargo_mod>
   <ammo_capacity>10</ammo_capacity>
  </specific>
 </outfit>
