@@ -13,7 +13,7 @@
  </presence>
  <general>
   <class>K</class>
-  <population>1</population>
+  <population>90000000</population>
   <hide>1.000000</hide>
   <services>
    <land/>
@@ -31,6 +31,7 @@
   <item price_mod="1.43">Equipment</item>
  </tech>
  <tags>
+  <tag>manifestera</tag>
   <tag>tourism</tag>
   <tag>rural</tag>
   <tag>industrial</tag>

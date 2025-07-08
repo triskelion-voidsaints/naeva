@@ -13,7 +13,7 @@
  </presence>
  <general>
   <class>0-C</class>
-  <population>1</population>
+  <population>6400</population>
   <hide>1.000000</hide>
   <services>
    <land/>
@@ -22,6 +22,8 @@
   <description>If you're looking for someone or something, there's a good chance it can be found on Hunter Station. As the headquarters of the Guild of Bounty Hunters, wanted people from all over the galaxy tend to be brought here, either as a guest or as a prisoner.</description>
  </general>
  <tags>
+  <tag>federationera</tag>
   <tag>station</tag>
+  <tag>prison</tag>
  </tags>
 </spob>

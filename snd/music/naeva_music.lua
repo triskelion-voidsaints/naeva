@@ -120,6 +120,10 @@ return {
          return {
             "pirate1_theme1.ogg",
          }
+      elseif tags.prison then
+         return {
+            "pitch_black_pit.ogg",
+         }
       end
 
       -- We'll add stuff here
@@ -138,11 +142,11 @@ return {
       end
 
       -- Added based on class
-      if class == "M" or class == "MD" or class=="H" then
+      if class == "M" or class == "DM" or class == "MD" or class == "MH" or class == "MO" or class == "MP" or class == "MW" then
          tmergei( lst, { "agriculture.ogg", "peaceful_world.ogg", "boschs_garden.ogg" } )
-      elseif class == "O" then
+      elseif class == "O" or class == "DO" or class == "MO" then
          tmergei( lst, { "ocean.ogg" } )
-      elseif class == "P" then
+      elseif class == "P" or class == "DP" or class == "MP" then
          tmergei( lst, { "snow.ogg", "nordic_winter_25_for_25.ogg" } )
       elseif class=="I" or class=="J" or class=="S" or class=="T" or class=="Y" then
          if not services.inhabited then

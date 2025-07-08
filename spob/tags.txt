@@ -42,6 +42,7 @@
   <tag>station</tag>
   <tag>memorial</tag>
   <tag>colonyship</tag>
+  <tag>archaeology</tag>
 
   <tag>government</tag>
   <tag>corporate</tag>

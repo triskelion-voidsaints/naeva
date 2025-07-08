@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<spob name="Associ-station 1">
- <pos x="-4004.284035" y="315.809625"/>
+<spob name="Haematite Station">
+ <pos x="1454.129727" y="-1178.100241"/>
  <GFX>
   <space>1-C.webp</space>
   <exterior>Civilian Station.webp</exterior>

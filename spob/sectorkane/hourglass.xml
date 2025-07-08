@@ -7,7 +7,7 @@
  </GFX>
  <general>
   <class>DM</class>
-  <population>0</population>
+  <population>56</population>
   <hide>1.000000</hide>
   <services>
    <land/>
@@ -18,6 +18,7 @@
  </general>
  <tags>
   <tag>aliens</tag>
+  <tag>hunting</tag>
   <tag>tourism</tag>
   <tag>forestry</tag>
  </tags>
