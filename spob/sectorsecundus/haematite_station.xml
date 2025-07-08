@@ -13,8 +13,26 @@
  </presence>
  <general>
   <class>1-C</class>
-  <population>0</population>
+  <population>3000</population>
   <hide>1.000000</hide>
-  <services/>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <description>Haematite Station is an orbital logistics station provided by the Association of Free Traders for their member captains. A chelonian of Terrapin cargo tugs work (but not too hard!) to warehouse metal here from the planet below. Dedicated dockworkers are on stand-by to transfer the loaded pods to visiting bulk freighter captains, providing a useful alternative to a dangerous landing in the gravity well of Lodestone.</description>
+  <bar>This spaceport bar actually features an upscale space restaurant providing delectable cuisine to its patrons. Nobody seems to be in much of a rush to leave.</bar>
  </general>
+ <tech>
+  <item price_mod="0.500000">Metals</item>
+  <item price_mod="1.430000">Equipment</item>
+  <item price_mod="1.380000">Medical Supplies</item>
+ </tech>
+ <tags>
+  <tag>federationera</tag>
+  <tag>station</tag>
+  <tag>logistics</tag>
+ </tags>
 </spob>

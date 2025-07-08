@@ -13,8 +13,25 @@
  </presence>
  <general>
   <class>1-C</class>
-  <population>0</population>
+  <population>4000</population>
   <hide>1.000000</hide>
-  <services/>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <description>High Bifrost Station is an orbital logistics station provided by the Association of Free Traders for their member captains. Shifts of Terrapin cargo tugs work around the clock to warehouse metal here from the planet below. Dedicated dockworkers are on stand-by to transfer the loaded pods to visiting bulk freighter captains, providing a useful alternative to an expensive landing in the gravity well of Viking.</description>
+  <bar>This bar is geared to be a quick stopover for freighter crews while their ships are being loaded. The food is ordinary, the drinks are ordinary and the service could best be described as casual, but you can get everything in next to no time.</bar>
  </general>
+ <tech>
+  <item price_mod="0.500000">Metals</item>
+  <item price_mod="1.380000">Medical Supplies</item>
+ </tech>
+ <tags>
+  <tag>federationera</tag>
+  <tag>station</tag>
+  <tag>logistics</tag>
+ </tags>
 </spob>

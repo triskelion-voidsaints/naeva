@@ -131,6 +131,9 @@ return {
       if tags.urban then
          tmergei( lst, { "meet_the_fish.ogg" } )
       end
+      if tags.agriculture then
+         tmergei( lst, { "agriculture.ogg" } )
+      end
       if tags.pirate then
          tmergei( lst, { "pirate1_theme1.ogg" } )
       end
@@ -142,8 +145,10 @@ return {
       end
 
       -- Added based on class
-      if class == "M" or class == "DM" or class == "MD" or class == "MH" or class == "MO" or class == "MP" or class == "MW" then
-         tmergei( lst, { "agriculture.ogg", "peaceful_world.ogg", "boschs_garden.ogg" } )
+      if class == "M" or class == "DM" or class == "MD" or class == "MH" or class == "MO" or class == "MP" then
+         tmergei( lst, { "peaceful_world.ogg", "boschs_garden.ogg" } )
+      elseif class == "MW" then
+         tmergei( lst, { "meet_the_fish.ogg" } )
       elseif class == "O" or class == "DO" or class == "MO" then
          tmergei( lst, { "ocean.ogg" } )
       elseif class == "P" or class == "DP" or class == "MP" then
