@@ -13,16 +13,16 @@
  </spobs>
  <jumps>
   <jump target="Antares">
-   <pos x="-458.586191" y="-3901.806966"/>
+   <pos x="-1038.132720" y="-1958.097068"/>
    <nolanes/>
    <hide>0.000000</hide>
   </jump>
   <jump target="Nemesis">
-   <pos x="-7984.035958" y="-1049.183146"/>
+   <pos x="-4578.085587" y="-50.579896"/>
    <hide>1.000000</hide>
   </jump>
   <jump target="Threshold">
-   <pos x="-1334.617174" y="2625.600162"/>
+   <pos x="591.260523" y="3624.203412"/>
    <hide>1.000000</hide>
   </jump>
  </jumps>

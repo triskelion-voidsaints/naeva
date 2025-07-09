@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="High Bifrost Station">
- <pos x="-4004.284035" y="315.809625"/>
+ <pos x="-2770.890140" y="1937.053890"/>
  <GFX>
   <space>1-C.webp</space>
   <exterior>Civilian Station.webp</exterior>
@@ -13,7 +13,7 @@
  </presence>
  <general>
   <class>1-C</class>
-  <population>4000</population>
+  <population>3663</population>
   <hide>1.000000</hide>
   <services>
    <land/>

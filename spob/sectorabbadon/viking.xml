@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="Viking">
- <pos x="-4628.836494" y="1009.479403"/>
+ <pos x="-3719.394248" y="2944.273200"/>
  <GFX>
   <space>MW cities 270.webp</space>
   <exterior>Viking.webp</exterior>
@@ -13,7 +13,7 @@
  </presence>
  <general>
   <class>MW</class>
-  <population>1</population>
+  <population>5516102718</population>
   <hide>1.000000</hide>
   <services>
    <land/>
