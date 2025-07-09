@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <commodity>
  <name>Industrial</name>
- <description>Crude oil, chemicals and fertilizer</description>
+ <description>These things are largely intermediary products in larger production chains and not meant for personal use; stuff like various acids and toxic chemicals, protein slurries, raw materials, aeroponic fertilizer, etc. Notably, fissile materials are kept in containers that could survive a fall from orbit with little to no damage.</description>
  <price_constant/>
- <price>1200</price>
+ <price>600</price>
  <gfx_store>industrial.webp</gfx_store>
 </commodity>

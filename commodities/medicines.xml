@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <commodity>
  <name>Medical Supplies</name>
- <description>For the treatment of illnesses and wounds</description>
+ <description>Almost systematically sterilized and vacuum-packed boxes of things you're guaranteed to find in a hospital or first aid kit. The exceptions are things like antidotes, medicine and blood substitutes; these are kept in sealed climate-controlled containers (which are still sterile).</description>
  <price_constant/>
  <price>1200</price>
  <gfx_store>medicalsupplies.webp</gfx_store>

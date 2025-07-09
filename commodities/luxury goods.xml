@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <commodity>
  <name>Luxury Goods</name>
- <description>Fancy stuff for fancy people</description>
+ <description>The term "luxury" is a broad umbrella which has for sole common property the price the buyer is willing to pay for it. Some examples are AAA beef, entire yachts (or parts of them), the odd painting or sculpture, traditionally-spun silk clothing and, of course, personal service automata.</description>
  <price_constant/>
  <price>1500</price>
  <gfx_store>luxurygoods.webp</gfx_store>

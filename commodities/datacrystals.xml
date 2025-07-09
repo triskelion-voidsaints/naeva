@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <commodity>
  <name>Data Crystals</name>
- <description>Archived information</description>
+ <description>The ultimate form of information storage, these are extremely data-dense, nearly impervious to ionizing radiation or chemical degradation and feature passive (data) self-healing properties when properly stored.</description>
  <price_constant/>
  <price>450</price>
  <gfx_store>nebula_crystals.webp</gfx_store>
