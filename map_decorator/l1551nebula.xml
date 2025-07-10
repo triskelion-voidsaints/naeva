@@ -3,5 +3,5 @@
  <image>l1551nebula.webp</image>
  <x>-842.4</x>
  <y>739.8</y>
- <detection_radius>100</detection_radius>
+ <detection_radius>200</detection_radius>
 </decorator>
