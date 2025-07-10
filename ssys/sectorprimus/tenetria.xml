@@ -9,11 +9,11 @@
  <spobs/>
  <jumps>
   <jump target="Akasha">
-   <autopos/>
+   <pos x="-7218.214196" y="-2090.320140"/>
    <hide>1.000000</hide>
   </jump>
   <jump target="Altair">
-   <autopos/>
+   <pos x="-6334.504139" y="3949.875473"/>
    <hide>1.000000</hide>
   </jump>
   <jump target="Canopus">
@@ -21,11 +21,11 @@
    <hide>1.000000</hide>
   </jump>
   <jump target="Nadir">
-   <autopos/>
+   <pos x="4175.755012" y="-6101.272314"/>
    <hide>1.000000</hide>
   </jump>
   <jump target="Pollux">
-   <autopos/>
+   <pos x="88.005626" y="7470.111229"/>
    <hide>1.000000</hide>
   </jump>
   <jump target="Quandary">
