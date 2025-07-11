@@ -2,7 +2,7 @@
 <spob name="OG-Dreamcatcher SE">
  <pos x="1815.477254" y="-2363.889817"/>
  <lua>active_overgate_dreamcatcher_se.lua</lua>
- <display>#bSouth-east Overgate#0</display>
+ <display>#bO’mabitun He: South-east#0</display>
  <feature>#bOvergate#0</feature>
  <marker>spobmarker_triangle</marker>
  <GFX>
