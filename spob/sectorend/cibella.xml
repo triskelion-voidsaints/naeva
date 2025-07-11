@@ -13,7 +13,7 @@
  </presence>
  <general>
   <class>O</class>
-  <population>7900000000</population>
+  <population>3809353894</population>
   <hide>1.000000</hide>
   <services>
    <land/>
@@ -21,7 +21,7 @@
    <missions/>
    <commodity/>
   </services>
-  <description>Cibella, barring the one major island, is a water world that was an untouched paradise until the recent colonization by the Tekel family as part of the End colonies project. However, in the last two decades since it was settled, the population of the one arcology has increased to nearly eight billion people, and the pollution has begun to have serious effects on the ecology of this once-beautiful world. In typical Auroran fashion, this is not seen as important.</description>
+  <description>Cibella, barring the one major island, is a water world that was an untouched paradise until the recent colonization by the Tekel family as part of the End colonies project. However, in the last two decades since it was settled, the population of the four arcologies has increased to nearly four billion people, and the pollution has begun to have serious effects on the ecology of this once-beautiful world. In typical Auroran fashion, this is not seen as important.</description>
  </general>
  <tech>
   <item price_mod="0.500000">Foodstuffs</item>

@@ -3,6 +3,8 @@ Made by RavelinW
 Thank you to:
 Bobbens
 	Adding features to Naev to support this total conversion, rewriting the Hypergate script to allow it to be more Nova-like and fixing Naev bugs.
+	Fixing Naeva case sensitive bug.
+	Adding collision polygon for Starsbridge.
 Ragashingo
 	Contributing Aftermath landing pictures to the project.
 Pipeline
@@ -23,7 +25,8 @@ eamonn:
 	Writing the HG-Tidbinbilla description.
 Geek:
 	Writing the Spacedock VII descriptions.
+LadyInsane:
+	Earth/Vulcan consistency check.
 Finally, thank you to:
 	Scott Vardy, Dave Williams, Luke Smart, Stephen Chick and Phil Chick for creating EV Nova.
-	Peter Cartwright, Chris West and James Mudd for creating EV Override.
 	Matt Burch for creating Escape Velocity.
