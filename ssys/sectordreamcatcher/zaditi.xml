@@ -10,10 +10,6 @@
   <spob>Ar'za Diti</spob>
  </spobs>
  <jumps>
-  <jump target="Ki'asman">
-   <autopos/>
-   <hide>1.000000</hide>
-  </jump>
   <jump target="Ki'pelo">
    <autopos/>
    <hide>1.000000</hide>

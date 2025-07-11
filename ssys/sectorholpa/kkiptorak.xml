@@ -11,10 +11,6 @@
   <spob>K'a Ni</spob>
  </spobs>
  <jumps>
-  <jump target="J'isallo">
-   <autopos/>
-   <hide>1.000000</hide>
-  </jump>
   <jump target="Ki'asman">
    <autopos/>
    <hide>1.000000</hide>
