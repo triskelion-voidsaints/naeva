@@ -13,11 +13,12 @@
  </presence>
  <general>
   <class>JK</class>
-  <population>1</population>
+  <population>1000000</population>
   <hide>1.000000</hide>
   <services/>
  </general>
  <tags>
   <tag>gasgiant</tag>
+  <tag>aliens</tag>
  </tags>
 </spob>
