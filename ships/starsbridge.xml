@@ -18,6 +18,7 @@
  </characteristics>
  <health>
   <shield>1100</shield>
+  <armour>1</armour>
  </health>
  <slots>
   <utility size="medium" prop="corvette_core">Balanced Corvette Core</utility>

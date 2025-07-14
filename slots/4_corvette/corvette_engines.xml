@@ -6,4 +6,7 @@
  <required/>
  <locked/>
  <icon>engines.png</icon>
+ <tags>
+  <tag>core</tag>
+ </tags>
 </slot>

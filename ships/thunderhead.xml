@@ -20,9 +20,9 @@
   <armour>600</armour>
  </health>
  <slots>
-  <utility size="small" prop="corvette_core">Balanced Fighter Core</utility>
-  <structure size="small" prop="corvette_engines">Rounded Fighter Engine</structure>
-  <structure size="small" prop="corvette_hull">Standard Fighter Hull</structure>
+  <utility size="small" prop="fighter_core">Balanced Fighter Core</utility>
+  <structure size="small" prop="fighter_engines">Rounded Fighter Engine</structure>
+  <structure size="small" prop="fighter_hull">Standard Fighter Hull</structure>
   <weapon size="small" />
   <weapon size="small" />
   <weapon size="small" prop="launcher"/>

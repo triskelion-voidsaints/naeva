@@ -6,4 +6,7 @@
  <required/>
  <locked/>
  <icon>systems.png</icon>
+ <tags>
+  <tag>core</tag>
+ </tags>
 </slot>
