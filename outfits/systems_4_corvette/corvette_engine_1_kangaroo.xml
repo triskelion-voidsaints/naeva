@@ -16,8 +16,8 @@ This is the small version, which fits the first class of ships considered to be 
   <energy_regen_malus>4</energy_regen_malus>
   <engine_limit>224</engine_limit>
   <fuel>500</fuel>
-  <speed>367</speed>
-  <accel>668</accel>
+  <speed>300</speed>
+  <accel>400</accel>
   <turn>270</turn>
  </specific>
 </outfit>

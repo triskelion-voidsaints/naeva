@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="Jenner II">
- <pos x="1874.092985" y="-787.469992"/>
+ <pos x="1908.673189" y="-553.211935"/>
  <GFX>
   <space>I 135.webp</space>
   <exterior>Unknown.webp</exterior>
  </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>300.000000</base>
+  <bonus>0.000000</bonus>
+  <range>0</range>
+ </presence>
  <general>
   <class>I</class>
   <population>0</population>

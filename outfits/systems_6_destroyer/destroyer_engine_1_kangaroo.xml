@@ -16,8 +16,8 @@ This is the medium version, which is designed to fit the standard size of capita
   <energy_regen_malus>6</energy_regen_malus>
   <engine_limit>508</engine_limit>
   <fuel>700</fuel>
-  <speed>275</speed>
-  <accel>500</accel>
+  <speed>225</speed>
+  <accel>300</accel>
   <turn>180</turn>
  </specific>
 </outfit>

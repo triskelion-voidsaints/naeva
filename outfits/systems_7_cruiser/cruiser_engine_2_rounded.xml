@@ -16,8 +16,8 @@ This is the overmedium version, which is designed to accommodate a ship of the l
   <energy_regen_malus>7</energy_regen_malus>
   <engine_limit>852</engine_limit>
   <fuel>800</fuel>
-  <speed>282</speed>
-  <accel>209</accel>
+  <speed>219</speed>
+  <accel>125</accel>
   <turn>145</turn>
   <cargo_mod>10</cargo_mod>
   <ammo_capacity>10</ammo_capacity>

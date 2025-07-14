@@ -16,8 +16,8 @@ This is the submedium version, which fits the smallest class of capital ships.</
   <energy_regen_malus>5</energy_regen_malus>
   <engine_limit>347</engine_limit>
   <fuel>600</fuel>
-  <speed>394</speed>
-  <accel>292</accel>
+  <speed>306</speed>
+  <accel>175</accel>
   <turn>235</turn>
   <cargo_mod>10</cargo_mod>
   <ammo_capacity>10</ammo_capacity>

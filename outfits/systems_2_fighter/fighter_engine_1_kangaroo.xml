@@ -16,8 +16,8 @@ This is the tiny version, which is designed for those ships commonly crewed by a
   <energy_regen_malus>2</energy_regen_malus>
   <engine_limit>83</engine_limit>
   <fuel>300</fuel>
-  <speed>550</speed>
-  <accel>1000</accel>
+  <speed>450</speed>
+  <accel>600</accel>
   <turn>360</turn>
  </specific>
 </outfit>

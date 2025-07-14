@@ -16,8 +16,8 @@ This is the large version, which is built on a ship that is a fleet unto itself.
   <energy_regen_malus>8</energy_regen_malus>
   <engine_limit>1455</engine_limit>
   <fuel>900</fuel>
-  <speed>163</speed>
-  <accel>334</accel>
+  <speed>138</speed>
+  <accel>200</accel>
   <turn>90</turn>
  </specific>
 </outfit>

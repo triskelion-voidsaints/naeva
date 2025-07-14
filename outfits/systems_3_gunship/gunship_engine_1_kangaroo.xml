@@ -16,8 +16,8 @@ This is the overtiny version, which fits the smallest of ships with a multi-pers
   <energy_regen_malus>3</energy_regen_malus>
   <engine_limit>140</engine_limit>
   <fuel>400</fuel>
-  <speed>459</speed>
-  <accel>834</accel>
+  <speed>375</speed>
+  <accel>500</accel>
   <turn>325</turn>
  </specific>
 </outfit>

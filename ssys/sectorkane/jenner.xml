@@ -14,14 +14,17 @@
  <jumps>
   <jump target="Galvan">
    <autopos/>
+   <nolanes/>
    <hide>1.000000</hide>
   </jump>
   <jump target="Kon">
    <autopos/>
+   <nolanes/>
    <hide>1.000000</hide>
   </jump>
   <jump target="Legrous">
    <autopos/>
+   <nolanes/>
    <hide>1.000000</hide>
   </jump>
   <jump target="Mark">
@@ -30,6 +33,7 @@
   </jump>
   <jump target="Porto Rillia">
    <autopos/>
+   <nolanes/>
    <hide>1.000000</hide>
   </jump>
   <jump target="Sanddown">
@@ -38,6 +42,7 @@
   </jump>
   <jump target="Tirna">
    <autopos/>
+   <nolanes/>
    <hide>1.000000</hide>
   </jump>
  </jumps>

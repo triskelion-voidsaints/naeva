@@ -16,8 +16,8 @@ This is the medium version, which is designed to fit the standard size of capita
   <energy_regen_malus>6</energy_regen_malus>
   <engine_limit>508</engine_limit>
   <fuel>700</fuel>
-  <speed>338</speed>
-  <accel>250</accel>
+  <speed>263</speed>
+  <accel>150</accel>
   <turn>180</turn>
   <cargo_mod>10</cargo_mod>
   <ammo_capacity>10</ammo_capacity>

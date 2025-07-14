@@ -16,8 +16,8 @@ This is the small version, which fits the first class of ships considered to be 
   <energy_regen_malus>4</energy_regen_malus>
   <engine_limit>224</engine_limit>
   <fuel>500</fuel>
-  <speed>451</speed>
-  <accel>334</accel>
+  <speed>350</speed>
+  <accel>200</accel>
   <turn>270</turn>
   <cargo_mod>10</cargo_mod>
   <ammo_capacity>10</ammo_capacity>

@@ -16,8 +16,8 @@ This is the massive version, which is built around a ship whose size is staggeri
   <energy_regen_malus>9</energy_regen_malus>
   <engine_limit>2246</engine_limit>
   <fuel>1000</fuel>
-  <speed>96</speed>
-  <accel>250</accel>
+  <speed>88</speed>
+  <accel>150</accel>
   <turn>55</turn>
  </specific>
 </outfit>

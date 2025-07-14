@@ -16,8 +16,8 @@ This is the puny version, which only fits vehicles too small to be properly call
   <energy_regen_malus>1</energy_regen_malus>
   <engine_limit>42</engine_limit>
   <fuel>200</fuel>
-  <speed>777</speed>
-  <accel>361</accel>
+  <speed>596</speed>
+  <accel>217</accel>
   <turn>415</turn>
   <cargo_mod>20</cargo_mod>
   <ammo_capacity>20</ammo_capacity>
