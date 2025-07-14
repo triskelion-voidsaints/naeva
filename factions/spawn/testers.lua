@@ -1,6 +1,6 @@
 local scom = require "factions.spawn.lib.common"
 
-local sllama      = ship.get("Starsbridge")
+local sllama      = ship.get("Starbridge")
 
 -- @brief Spawns a small patrol fleet.
 local function spawn_solitary_civilians ()

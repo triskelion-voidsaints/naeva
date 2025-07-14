@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ship name="Starsbridge">
+<ship name="Starbridge">
  <points>1</points>
  <base_type>starsbridge</base_type>
  <gfx sx="9" sy="8">starsbridge</gfx>
