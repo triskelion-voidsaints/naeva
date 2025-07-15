@@ -2,7 +2,7 @@
 <ship name="Sickle">
  <points>1</points>
  <base_type>sickle</base_type>
- <gfx sx="8" sy="9">sickle</gfx>
+ <gfx sx="8" sy="9">sickle.png</gfx>
  <sound>engine</sound>
  <class>Destroyer</class>
  <price>2000000</price>
