@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ship name="Sickle">
+<ship name="Cross">
  <points>1</points>
  <base_type>IDA</base_type>
- <gfx sx="8" sy="9" format="webp">sickle</gfx>
+ <gfx sx="8" sy="9" format="webp">cross</gfx>
  <sound>engine</sound>
  <class>Destroyer</class>
  <price>2000000</price>
  <time_mod>1</time_mod>
- <faction>Rebellion</faction>
- <fabricator>Overwatch</fabricator>
- <description>A versatile upgunned assault platform.</description>
+ <faction>Federation</faction>
+ <fabricator>Xenial</fabricator>
+ <description>A logistics cruiser.</description>
  <characteristics>
   <crew>36</crew>
   <mass>59</mass>

@@ -35,6 +35,7 @@ Besides playing host to the Federation Council, Vulcan is home to the Kane Unive
  </general>
  <tech>
   <item>Maps</item>
+  <item>IDAs</item>
   <item price_mod="0.630000">Medical Supplies</item>
   <item price_mod="1.430000">Equipment</item>
  </tech>
