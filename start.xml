@@ -4,7 +4,7 @@
  <player>
   <gui>legacy</gui>
   <ship name="Starter" acquired="Your first space-worthy ship!">Starbridge</ship>
-  <credits>30000</credits>
+  <credits>20000000</credits>
   <system>
    <name>Kon</name>
    <x>-150</x>

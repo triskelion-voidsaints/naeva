@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tech name="Ships">
- <item>Starbridge</item>
  <item>Thunderhead</item>
+ <item>Fed Thunderhead</item>
+ <item>Hardhat</item>
+ <item>Aurora Hardhat</item>
+ <item>Courser</item>
+ <item>Pirate Courser</item>
+ <item>Yellowjacket</item>
+ <item>Fed Yellowjacket</item>
 </tech>

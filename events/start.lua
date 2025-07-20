@@ -38,5 +38,8 @@ function create()
 
    -- Give all GUIs
    player.outfitAdd( "GUI - Legacy" )
+   
+   -- Initialize fleet capacity
+   player.fleetCapacitySet( 100 )
 
 end
