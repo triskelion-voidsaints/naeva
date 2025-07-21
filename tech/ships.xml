@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tech name="Ships">
- <item>Thunderhead</item>
- <item>Fed Thunderhead</item>
- <item>Hardhat</item>
- <item>Aurora Hardhat</item>
- <item>Courser</item>
- <item>Pirate Courser</item>
- <item>Yellowjacket</item>
- <item>Fed Yellowjacket</item>
+ <item>Starbridge</item>
+ <item>Pirate Starbridge</item>
+ <item>Modbridge</item>
+ <item>Civilian Modbridge</item>
+ <item>Warbridge</item>
+ <item>Civilian Warbridge</item>
+ <item>WG Warbridge</item>
 </tech>
