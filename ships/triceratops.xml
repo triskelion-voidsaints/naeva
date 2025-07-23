@@ -10,6 +10,7 @@
  <faction>Ronin Warriors</faction>
  <fabricator>Kipan Grease Rats</fabricator>
  <description>A Ronin escort cruiser designed to match a mysterious pirate destroyer of unknown configuration.</description>
+ <rarity>1</rarity>
  <characteristics>
   <crew>36</crew>
   <mass>59</mass>

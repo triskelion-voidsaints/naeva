@@ -10,6 +10,7 @@
  <faction>Aurora Empire</faction>
  <fabricator>Auroran Industries</fabricator>
  <description>A captured warship, now freighter.</description>
+ <rarity>1</rarity>
  <characteristics>
   <crew>36</crew>
   <mass>59</mass>

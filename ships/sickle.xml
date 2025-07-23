@@ -10,6 +10,7 @@
  <faction>Rebellion</faction>
  <fabricator>Overwatch</fabricator>
  <description>A versatile upgunned assault platform.</description>
+ <rarity>1</rarity>
  <characteristics>
   <crew>36</crew>
   <mass>59</mass>

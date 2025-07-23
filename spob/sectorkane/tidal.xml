@@ -30,8 +30,11 @@
  <tech>
   <item price_mod="0.500000">Foodstuffs</item>
   <item price_mod="1.500000">Metals</item>
-  <item>Systems</item>
   <item>Ships</item>
+  <item>Systems</item>
+  <item>Starsbridge</item>
+  <item>Thunderheads</item>
+  <item>IDAs</item>
  </tech>
  <tags>
   <tag>manifestera</tag>

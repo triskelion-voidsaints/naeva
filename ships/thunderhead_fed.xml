@@ -10,6 +10,7 @@
  <faction>Federation</faction>
  <fabricator>Xenial</fabricator>
  <description>A much maligned assault fighter.</description>
+ <rarity>1</rarity>
  <characteristics>
   <crew>2</crew>
   <mass>10</mass>

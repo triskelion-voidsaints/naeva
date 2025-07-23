@@ -10,6 +10,7 @@
  <faction>Wild Geese</faction>
  <fabricator>Hesslock &amp; Wolfner</fabricator>
  <description>A fire support frigate that can run with the pack.</description>
+ <rarity>1</rarity>
  <characteristics>
   <crew>36</crew>
   <mass>59</mass>

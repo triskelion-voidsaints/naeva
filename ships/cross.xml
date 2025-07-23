@@ -10,6 +10,7 @@
  <faction>Federation</faction>
  <fabricator>Xenial</fabricator>
  <description>A logistics cruiser.</description>
+ <rarity>1</rarity>
  <characteristics>
   <crew>36</crew>
   <mass>59</mass>

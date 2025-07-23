@@ -10,6 +10,7 @@
  <faction>Association</faction>
  <fabricator>Greyshoulders Dockyards</fabricator>
  <description>A well protected freighter with a full fighter complement.</description>
+ <rarity>1</rarity>
  <characteristics>
   <crew>36</crew>
   <mass>59</mass>

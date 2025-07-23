@@ -11,6 +11,7 @@
  <faction>Independent</faction>
  <fabricator>Aerolith Manufactory</fabricator>
  <description>A new design in a Federation where ancient designs are the rule.</description>
+ <rarity>1</rarity>
  <characteristics>
   <crew>12</crew>
   <mass>26</mass>

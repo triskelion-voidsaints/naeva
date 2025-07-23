@@ -10,6 +10,7 @@
  <faction>Rebellion</faction>
  <fabricator>Overwatch</fabricator>
  <description>A logistics cruiser for braving the void between the Cradle and Dreamcatcher sectors.</description>
+ <rarity>1</rarity>
  <characteristics>
   <crew>36</crew>
   <mass>59</mass>

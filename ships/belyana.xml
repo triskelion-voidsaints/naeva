@@ -10,6 +10,7 @@
  <faction>Independent</faction>
  <fabricator>Kristoferson Customs</fabricator>
  <description>An overloaded freighter.</description>
+ <rarity>1</rarity>
  <characteristics>
   <crew>36</crew>
   <mass>59</mass>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faction name="Nephilim">
+ <ai>independent</ai>
+ <static />
+ <known />
+ <player>3</player>
+ <description>Nephilim</description>
+ <colour r="0.8117" g="0" b="0.4588" />
+ <spawn>testers</spawn>
+ <standing>static</standing>
+ <allies>
+ </allies>
+ <enemies>
+ </enemies>
+ <lane_length_per_presence>400</lane_length_per_presence>
+ <lane_base_cost>50</lane_base_cost>
+</faction>

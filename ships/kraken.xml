@@ -10,6 +10,7 @@
  <faction>Derelict</faction>
  <fabricator>Overwatch</fabricator>
  <description>The Overwatch dreadnaught, now a ghost.</description>
+ <rarity>1</rarity>
  <characteristics>
   <crew>36</crew>
   <mass>59</mass>

@@ -10,6 +10,7 @@
  <faction>Free Traders</faction>
  <fabricator>Ymel Yards</fabricator>
  <description>A pirate treasure ship.</description>
+ <rarity>1</rarity>
  <characteristics>
   <crew>36</crew>
   <mass>59</mass>

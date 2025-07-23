@@ -1,15 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ship name="Pirate Courser">
+<ship name="Aurora Brume">
  <points>1</points>
  <base_type>thunderhead</base_type>
- <gfx sx="8" sy="9" format="webp">courser_pirate</gfx>
+ <gfx sx="8" sy="9" format="webp">brume_aurora</gfx>
  <sound>engine</sound>
  <class>Fighter</class>
  <price>200000</price>
  <time_mod>1</time_mod>
- <faction>Free Traders</faction>
- <fabricator>Ymel Yards</fabricator>
+ <faction>Aurora Empire</faction>
+ <fabricator>Auroran Industries</fabricator>
  <description>A much maligned assault fighter.</description>
+ <rarity>1</rarity>
  <characteristics>
   <crew>2</crew>
   <mass>10</mass>

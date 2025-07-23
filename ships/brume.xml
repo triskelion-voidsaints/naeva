@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ship name="Hardhat">
+<ship name="Brume">
  <points>1</points>
  <base_type>thunderhead</base_type>
- <gfx sx="8" sy="9" format="webp">hardhat_rebel</gfx>
+ <gfx sx="8" sy="9" format="webp">brume_rebel</gfx>
  <sound>engine</sound>
  <class>Fighter</class>
  <price>200000</price>
@@ -10,6 +10,7 @@
  <faction>Rebellion</faction>
  <fabricator>Chick &amp; Co</fabricator>
  <description>A much maligned assault fighter.</description>
+ <rarity>1</rarity>
  <characteristics>
   <crew>2</crew>
   <mass>10</mass>
