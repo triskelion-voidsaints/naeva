@@ -6,7 +6,7 @@
  <known />
  <player>3</player>
  <description>Bureau</description>
- <colour r="0.9294" g="0.1098" b="0.14117" />
+ <colour r="0.2705" g="0.37647" b="0.6196" />
  <spawn>testers</spawn>
  <standing>static</standing>
  <allies>
