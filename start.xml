@@ -3,7 +3,7 @@
  <name>T:VS: Naeva</name>
  <player>
   <gui>legacy</gui>
-  <ship name="Starter" acquired="Your first space-worthy ship!">Starbridge</ship>
+  <ship name="Starter" acquired="Your first space-worthy ship!">Civ. Starbridge [S]</ship>
   <credits>20000000</credits>
   <system>
    <name>Kon</name>

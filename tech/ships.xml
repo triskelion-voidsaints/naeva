@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tech name="Ships">
- <item>Valkyrie</item>
- <item>Fed. Valkyrie</item>
- <item>Pir. Valkyrie</item>
- <item>Ins. Valkyrie</item>
- <item>Erinyes</item>
- <item>Asc. Erinyes</item>
- <item>WG Erinyes</item>
+ <item>Fed. Bullfrog [S]</item>
+ <item>Civ. Bullfrog [S]</item>
+ <item>Bur. Bullfrog [S]</item>
+ <item>Ins. Bullfrog [S]</item>
+ <item>Pir. Bullfrog [S]</item>
+ <item>Ron. Bullfrog [S]</item>
+ <item>Fed. Salamander [S]</item>
+ <item>Bur. Salamander [S]</item>
+ <item>Civ. Salamander [S]</item>
+ <item>Ins. Salamander [S]</item>
+ <item>Pir. Salamander [S]</item>
+ <item>Ron. Salamander [S]</item>
 </tech>

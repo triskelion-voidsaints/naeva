@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tech name="Thunderheads">
- <item>Thunderhead</item>
- <item>Fed Thunderhead</item>
- <item>Pirate Thunderhead</item>
- <item>Brume</item>
- <item>Aurora Brume</item>
- <item>Civilian Brume</item>
- <item>Cirrus</item>
- <item>Pirate Cirrus</item>
- <item>Nimbus</item>
- <item>Fed Nimbus</item>
+ <item>Civ. Thunderhead [S]</item>
+ <item>Fed. Thunderhead [S]</item>
+ <item>Pir. Thunderhead [S]</item>
+ <item>Ins. Brume [S]</item>
+ <item>Aur. Brume [S]</item>
+ <item>Civ. Brume [S]</item>
+ <item>W.G. Cirrus [S]</item>
+ <item>Pir. Cirrus [S]</item>
+ <item>Pir. Nimbus [S]</item>
+ <item>Fed. Nimbus [S]</item>
 </tech>

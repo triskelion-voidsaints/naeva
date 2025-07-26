@@ -30,11 +30,12 @@
  <tech>
   <item price_mod="0.500000">Foodstuffs</item>
   <item price_mod="1.500000">Metals</item>
-  <item>Valkyries</item>
-  <item>Starbridges</item>
-  <item>Thunderheads</item>
+  <item>Troop Shuttles</item>
   <item>IDAs</item>
+  <item>Starbridges</item>
   <item>Telepaths</item>
+  <item>Thunderheads</item>
+  <item>Valkyries</item>
   <item>Systems</item>
  </tech>
  <tags>

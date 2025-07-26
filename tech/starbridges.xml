@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tech name="Starbridges">
- <item>Starbridge</item>
- <item>Pirate Starbridge</item>
- <item>Modbridge</item>
- <item>Civilian Modbridge</item>
- <item>Warbridge</item>
- <item>Civilian Warbridge</item>
- <item>WG Warbridge</item>
+ <item>Civ. Starbridge [S]</item>
+ <item>Pir. Starbridge [S]</item>
+ <item>Ins. Modbridge [S]</item>
+ <item>Civ. Modbridge [S]</item>
+ <item>Fed. Warbridge [S]</item>
+ <item>Civ. Warbridge [S]</item>
+ <item>W.G. Warbridge [S]</item>
 </tech>

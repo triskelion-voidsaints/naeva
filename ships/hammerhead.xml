@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ship name="Hammerhead">
+<ship name="W.G. Hammerhead [S]">
  <points>1</points>
  <base_type>IDA</base_type>
  <gfx sx="8" sy="9" format="webp">hammerhead</gfx>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ship name="Nephilim Arrow">
+<ship name="Nep. Arrow">
  <points>1</points>
  <base_type>arrow</base_type>
  <gfx sx="8" sy="9" format="webp">arrow_nephilim</gfx>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ship name="Pirate Starbridge">
+<ship name="Pir. Starbridge [S]">
  <points>1</points>
  <base_type>starsbridge</base_type>
  <gfx sx="8" sy="9" format="webp">starsbridge_pirate</gfx>
