@@ -7,6 +7,7 @@
 --[[
    Event run when creating a new pilot.
 --]]
+local intro = require "intro"
 
 local names = {
    _("Albatross"),
@@ -28,7 +29,7 @@ function create()
    system.setKnown( "Forge", true )
    system.setKnown( "Aurora", true )
    system.setKnown( "Kel'ariy", true )
-   
+
 
    -- Set player-specific settings
    var.push( "autonav_reset_shield", 1 )
@@ -38,8 +39,10 @@ function create()
 
    -- Give all GUIs
    player.outfitAdd( "GUI - Legacy" )
-   
+
    -- Initialize fleet capacity
    player.fleetCapacitySet( 100 )
 
+   music.choose("intro")
+   intro.run("intro")
 end
