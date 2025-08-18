@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Kiniké">
+ <pos x="3969.630118" y="4015.805962"/>
+ <GFX>
+  <space>MW cities 45.webp</space>
+  <exterior>Kinike.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>50.000000</base>
+  <bonus>50.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>MW</class>
+  <population>8299702889</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <description>Menin's famous dome was created with this planet in mind. Kinike has always been polluted due to overcrowding and heavy industrial manufacturing centers. The domes were a godsend, and now life on Kinike is actually bearable. While the outside view is nothing special, the air inside is clean, and everyone has at least 80 square meters of living space. Efforts are being made to clean up what remains of the biosphere, but with raw effluent still pouring out from the factories, the job will take many more decades of political wrangling.</description>
+  <bar>This bar is filled with people trying to escape the cramped living quarters they are forced to live in by getting blissfully drunk.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.500000">Industrial</item>
+ </tech>
+ <tags>
+  <tag>overwatchera</tag>
+  <tag>industrial</tag>
+  <tag>urban</tag>
+  <tag>toxic</tag>
+ </tags>
+</spob>

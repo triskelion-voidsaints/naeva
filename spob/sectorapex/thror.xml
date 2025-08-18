@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Thror">
+ <marker>spobmarker_empty</marker>
+ <pos x="2206.440690" y="882.201773"/>
+ <GFX>
+  <space>DD cities 45.webp</space>
+  <exterior>Thror.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>50.000000</base>
+  <bonus>25.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>DD</class>
+  <population>64088673</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+   <commodity/>
+  </services>
+  <description>Thror is to Thraine what Luna was to the Earth. Thror has been strip-mined for some decades now, and it continues to provide much of the raw material for Federation activities throughout this sector of space.</description>
+ </general>
+ <tags>
+  <tag>federationera</tag>
+  <tag>mining</tag>
+ </tags>
+ <tech>
+  <item price_mod="0.5">Metals</item>
+  <item price_mod="1.43">Equipment</item>
+ </tech>
+</spob>

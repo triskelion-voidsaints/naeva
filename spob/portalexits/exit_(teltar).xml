@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Exit (Teltar)">
+ <pos x="2006.122601" y="1025.351552"/>
+ <display>#rDestabilized Portal Exit#0</display>
+ <feature>#rExit#0</feature>
+ <GFX>
+  <space>12-Q.png</space>
+  <exterior>Polaris Listening Post.webp</exterior>
+ </GFX>
+ <general>
+  <class>12-Q</class>
+  <population>0</population>
+  <hide>0.01</hide>
+  <services/>
+ </general>
+ <tags>
+  <tag>portalexit</tag>
+ </tags>
+</spob>

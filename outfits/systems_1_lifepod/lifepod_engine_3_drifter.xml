@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Drifter Lifepod Engine">
+ <general>
+  <typename>Systems (Engine)</typename>
+  <slot prop="lifepod_engines">structure</slot>
+  <size>small</size>
+  <mass>2</mass>
+  <price>1000</price>
+  <description>A drifter engine accelerates slowly, but has a high cruising speed. This engine excels in a situation where your enemies can be planned and accounted for, so your guns cover your retreat. The gentle acceleration curve allows your ship to hold a good deal of cargo pods and missiles, slanting it towards a logistical role.
+
+This is the puny version, which only fits vehicles too small to be properly called a ship.</description>
+  <gfx_store>engine6.webp</gfx_store>
+  <priority>3</priority>
+ </general>
+ <specific type="modification">
+  <energy_regen_malus>1</energy_regen_malus>
+  <engine_limit>42</engine_limit>
+  <fuel>200</fuel>
+  <speed>596</speed>
+  <accel>217</accel>
+  <turn>415</turn>
+  <cargo_mod>20</cargo_mod>
+  <ammo_capacity>20</ammo_capacity>
+ </specific>
+</outfit>

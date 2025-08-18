@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Standard Destroyer Hull">
+ <general>
+  <typename>Systems (Hull)</typename>
+  <slot prop="destroyer_hull">structure</slot>
+  <size>medium</size>
+  <priority>24</priority>
+  <mass>96</mass>
+  <price>6000</price>
+  <description>Standard hulls are split between shield capacity and armour strength. In return for their lack of specialization, the total defensive capacity of this hull is 10% stronger compared to its competitors. They also feature a dedicated array of shield rechargers.
+
+This is the medium version, which is designed to fit the standard size of capital ship.</description>
+  <gfx_store>refined_hull_m.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <armour>8800</armour>
+  <shield>8800</shield>
+  <shield_regen>80</shield_regen>
+ </specific>
+</outfit>

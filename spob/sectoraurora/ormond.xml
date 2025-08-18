@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Ormond">
+ <pos x="132.494745" y="-264.989491"/>
+ <GFX>
+  <space>Q cities 0.webp</space>
+  <exterior>Ormond.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Dani</faction>
+  <base>150.000000</base>
+  <bonus>75.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>Q</class>
+  <population>25466733993</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <description>Ormond is an extremely polluted planet which, carries an enormous human population of slightly more than twenty-five billion people. It is best known as a supply depot for the Dani House warriors stationed in the Himear and Kilik systems. Occasionally the warriors carry out one of their many ritual duels here, providing a much-watched spectacle that captures the interest of the countless Aurorans who scratch out their meager lives here.</description>
+  <bar>This bar has a large flat ringed area which is used for warriors of the Dani House to conduct their ritual duels. Perhaps the fact that none are being fought today accounts for the relatively few people drinking here.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Industrial</item>
+  <item price_mod="1.38">Medical Supplies</item>
+ </tech>
+ <tags>
+  <tag>logistics</tag>
+  <tag>industrial</tag>
+  <tag>poor</tag>
+  <tag>urban</tag>
+ </tags>
+</spob>

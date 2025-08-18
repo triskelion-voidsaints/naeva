@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Anex">
+ <pos x="0.000000" y="0.000000"/>
+ <marker>spobmarker_rhombus</marker>
+ <GFX>
+  <space>7-1.webp</space>
+  <exterior>Deimos Double.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Moash</faction>
+  <base>300.000000</base>
+  <bonus>150.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>7-1</class>
+  <population>327700</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <description>Two hundred and fifty years ago, after having been attacked a few years earlier, Federation forces trying to send a warning to the Aurorans inadvertently passed through Moash space. Anex, the Moash Mundokiir, led a desperate counterattack against this surprise incursion. As his small emergency taskforce of fighters crumbled under heavy fire, he abandoned tactical sense and attacked the center of the Federation formation. After weaving his way through, his personal fighter was so badly damaged that it had no weapons or shields, and its guidance system was malfunctioning. He managed to smash his craft directly into the bridge of the command ship, destroying the command staff of the Federation battle fleet and forcing the Federation forces to withdraw in disorder. This event, along with other Federation incursions, led the Five Families to join with the 'Auroran' family to form the Auroran Empire.</description>
+  <bar>Noisily drunk Moash warriors are far too busy drinking, singing, fighting and throwing up to take any notice of you as you enter this noisy establishment.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.57">Equipment</item>
+  <item price_mod="1.5">Metals</item>
+  <item price_mod="1.33">Luxury Goods</item>
+ </tech>
+ <tags>
+  <tag>overwatchera</tag>
+  <tag>station</tag>
+  <tag>military</tag>
+  <tag>shipbuilding</tag>
+ </tags>
+</spob>

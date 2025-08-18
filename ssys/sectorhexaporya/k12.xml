@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="K12">
+ <general>
+  <radius>3000.000000</radius>
+  <spacedust>400</spacedust>
+  <interference>0.000000</interference>
+ </general>
+ <pos x="-745.379634" y="754.580027"/>
+ <spobs>
+  <spob>K-012a</spob>
+ </spobs>
+ <jumps>
+  <jump target="K20">
+   <pos x="3042.117534" y="324.323062"/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="K4">
+   <pos x="244.053916" y="-2921.600047"/>
+   <hide>1.000000</hide>
+  </jump>
+ </jumps>
+ <tags>
+  <tag>Hexaporya</tag>
+ </tags>
+</ssys>

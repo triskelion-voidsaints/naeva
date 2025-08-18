@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Wittor Prime">
+ <pos x="73.089018" y="6075.814073"/>
+ <GFX>
+  <space>I 0.webp</space>
+  <exterior>Unknown.webp</exterior>
+ </GFX>
+ <general>
+  <class>I</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+ <tags>
+  <tag>mining</tag>
+  <tag>gasgiant</tag>
+ </tags>
+</spob>

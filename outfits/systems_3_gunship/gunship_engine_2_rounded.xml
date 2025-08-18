@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Rounded Gunship Engine">
+ <general>
+  <typename>Systems (Engine)</typename>
+  <slot prop="gunship_engines">structure</slot>
+  <size>small</size>
+  <mass>8</mass>
+  <price>3000</price>
+  <description>A rounded engine has a balanced acceleration and cruising speed. The softer acceleration curve permits the storage of a small number of additional cargo pods and missiles, ensuring that this engine performs both in combat and logistical purposes.
+
+This is the overtiny version, which fits the smallest of ships with a multi-person crew.</description>
+  <gfx_store>nexus_engine_m.webp</gfx_store>
+  <priority>10</priority>
+ </general>
+ <specific type="modification">
+  <energy_regen_malus>3</energy_regen_malus>
+  <engine_limit>140</engine_limit>
+  <fuel>400</fuel>
+  <speed>438</speed>
+  <accel>250</accel>
+  <turn>325</turn>
+  <cargo_mod>10</cargo_mod>
+  <ammo_capacity>10</ammo_capacity>
+ </specific>
+</outfit>

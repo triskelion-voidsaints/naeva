@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faction name="Derelict">
+ <!-- Used for some abandoned assets. -->
+ <ai>independent</ai>
+ <static />
+ <invisible />
+ <player>0</player>
+ <standing>static</standing>
+ <colour r="0.122" g="0.122" b="0.122" />
+ <allies />
+ <enemies />
+</faction>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Holpa">
+ <general>
+  <radius>4500.000000</radius>
+  <spacedust>400</spacedust>
+  <interference>0.000000</interference>
+ </general>
+ <pos x="936.585966" y="-353.845700"/>
+ <spobs>
+  <spob>Holpa Station</spob>
+ </spobs>
+ <jumps>
+  <jump target="Caldos">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Grip">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Prophe">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+ </jumps>
+ <tags>
+  <tag>Holpa</tag>
+ </tags>
+</ssys>

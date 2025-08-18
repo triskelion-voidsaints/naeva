@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Nil'a Se">
+ <pos x="-1881.297195" y="-151.573708"/>
+ <marker>spobmarker_rhombus</marker>
+ <GFX>
+  <space>1-P.webp</space>
+  <exterior>Polaris Defence Station.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Nil'kemorya</faction>
+  <base>300.000000</base>
+  <bonus>0.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>1-P</class>
+  <population>17145</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+   <outfits/>
+  </services>
+  <description>The Nil'kemorya, as the warrior caste is named, have built a station here as a bulwark against any Federation-backed incursions. The Polaris, and specifically the Nil'kemorya, have always found that their greatest threats have always originated from Forge. Having been on the receiving end of many Federation plots, they view anybody associated with the Federation with great suspicion.</description>
+ </general>
+ <tech>
+  <item>Maps</item>
+ </tech>
+ <tags>
+  <tag>overwatchera</tag>
+  <tag>station</tag>
+  <tag>military</tag>
+ </tags>
+</spob>

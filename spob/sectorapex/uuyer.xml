@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Uuyer">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>F 45.webp</space>
+  <exterior>Forticus.webp</exterior>
+ </GFX>
+ <general>
+  <class>F</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <uninhabited/>
+  </services>
+  <description>This planet appears to have been a gas-mining colony at one point long ago, judging by the buildings and equipment left behind.  It seems that the Atlanteans valued the chlorine, argon, and methane that make up this planet's atmosphere for manufacturing purposes, as the entire surface of the planet is dotted with mining outposts and refineries. Curiously, no gas-mining ships are present on the planet.</description>
+ </general>
+ <tags>
+  <tag>mysterious</tag>
+ </tags>
+</spob>

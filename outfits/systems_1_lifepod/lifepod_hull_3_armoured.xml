@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Armoured Lifepod Hull">
+ <general>
+  <typename>Systems (Hull)</typename>
+  <slot prop="lifepod_hull">structure</slot>
+  <size>small</size>
+  <priority>2</priority>
+  <mass>6</mass>
+  <price>1000</price>
+  <description>Armoured hulls feature thick hull plating that can stand up to an extensive beating before failing. They also have damage control and repair systems that can patch up the hull in a pinch, but not with any speed compared to a shield generator. An armoured hull’s shield grid is second rate, but remains a factor.
+
+This is the puny version, which only fits vehicles too small to be properly called a ship.</description>
+  <gfx_store>combat_hull_t.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <armour>700</armour>
+  <shield>300</shield>
+  <shield_regen>105</shield_regen>
+  <armour_regen>45</armour_regen>
+ </specific>
+</outfit>

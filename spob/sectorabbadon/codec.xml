@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Codec">
+ <pos x="4005.825609" y="-1941.284718"/>
+ <GFX>
+  <space>N cities 135.webp</space>
+  <exterior>Codec.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>50.000000</base>
+  <bonus>25.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>N</class>
+  <population>36980372</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <blackmarket/>
+  </services>
+  <description>Officially, the main exports of Codec are the results of its enormous medical and computing research centers. Unofficially, Codec is the center for Federation bio-weapons research and its information technology warfare department. Many of the doctors and young computer professionals of this world are engaged in technically illegal activities, but because they give some of the results to the Federation military, they remain free from persecution. As a result, if information or illegal biotechnology is what you want, you can get it all here, if you can pay the price.</description>
+  <bar>As you walk in you cannot see a lot in this dark smoke-filled bar. As your eyes adjust you notice many small groups leaning closely together furtively discussing things which you would prefer not to know about. You quickly reach the conclusion that you should probably spend as little time in here as necessary.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.63">Medical Supplies</item>
+  <item price_mod="1.33">Luxury Goods</item>
+ </tech>
+ <tags>
+  <tag>federationera</tag>
+  <tag>medical</tag>
+  <tag>research</tag>
+  <tag>criminal</tag>
+ </tags>
+</spob>

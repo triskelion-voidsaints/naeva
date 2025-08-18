@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faction name="Bureau">
+ <ai>independent</ai>
+ <static />
+ <logo>federation</logo>
+ <known />
+ <player>3</player>
+ <description>Bureau</description>
+ <colour r="0.2705" g="0.37647" b="0.6196" />
+ <spawn>testers</spawn>
+ <standing>static</standing>
+ <allies>
+ </allies>
+ <enemies/>
+</faction>

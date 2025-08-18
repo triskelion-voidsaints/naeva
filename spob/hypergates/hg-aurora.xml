@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="HG-Aurora">
+ <pos x="-1257.170163" y="3718.013887"/>
+ <marker>spobmarker_triangle</marker>
+ <lua>hypergate_aurora.lua</lua>
+ <display>#oHG-Aurora#0</display>
+ <feature>#oHypergate#0</feature>
+ <GFX>
+  <space>9.webp</space>
+  <exterior>Hypergate.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Sigma Shipyards</faction>
+  <base>50.000000</base>
+  <bonus>0.000000</bonus>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>9</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services>
+   <uninhabited/>
+  </services>
+  <description>No Auroran hypergate was destroyed by the calamity at the end of the Alien War.</description>
+ </general>
+ <tags>
+  <tag>hypergate</tag>
+  <tag>manifestera</tag>
+  <tag>active</tag>
+ </tags>
+</spob>

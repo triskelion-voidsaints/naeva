@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Nil'ar Nina">
+ <pos x="1002.342618" y="-989.532681"/>
+ <GFX>
+  <space>DZ 135.webp</space>
+  <exterior>Nil'ar Nina.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Nil'kemorya</faction>
+  <base>150.000000</base>
+  <bonus>75.000000</bonus>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>DZ</class>
+  <population>13664</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+   <commodity/>
+  </services>
+  <description>A world of deep canyons with relatively large amounts of water covering its surface, Nil'ar Nina has only trace amounts of oxygen in its atmosphere, and supports little life. The planet is uninhabited except for where the Nil'kemorya, as the warrior caste are called, have left a few supply depots to support their station in orbit.</description>
+ </general>
+ <tech>
+  <item price_mod="0.570000">Equipment</item>
+  <item price_mod="1.500000">Metals</item>
+ </tech>
+ <tags>
+  <tag>overwatchera</tag>
+  <tag>military</tag>
+  <tag>logistics</tag>
+  <tag>watertrade</tag>
+ </tags>
+</spob>

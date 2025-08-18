@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Kismet">
+ <pos x="-1074.487029" y="2189.087106"/>
+ <GFX>
+  <space>I 45.webp</space>
+  <exterior>Unknown.webp</exterior>
+ </GFX>
+ <general>
+  <class>I</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+ <tags>
+  <tag>gasgiant</tag>
+ </tags>
+</spob>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Cunja Loff">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>DM 0.webp</space>
+  <exterior>Cunja Loff.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Aurora Empire</faction>
+  <base>100.000000</base>
+  <bonus>0.000000</bonus>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>DM</class>
+  <population>111724</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <nomissionspawn/>
+   <uninhabited/>
+  </services>
+  <description>This is the home world of the fearsome predator, the Cunjo. This deadly animal rivals the Vrenna Ice-Lizard in ferocity, speed, and strength, but unlike the Ice-Lizard, they have no valuable pelt, and there is no economic reason to hunt these huge, aggressive, and cunning creatures. Cunja Loff itself is an almost untouched paradise, with a wild, uncivilized feel to it. Many young nobles from Tekel house attempt to prove themselves as warriors by coming here to bag themselves the head of a Cunjo, even though many hunters have not returned. The hunting of a Cunjo, if done in groups of less than three, is worthy of a battle tattoo, and those who regularly come after the Cunjo find themselves covered with the brown tattoos that signify their prowess.</description>
+ </general>
+ <tags>
+  <tag>hunting</tag>
+  <tag>aliens</tag>
+ </tags>
+</spob>

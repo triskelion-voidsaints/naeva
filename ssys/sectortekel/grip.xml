@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Grip">
+ <general>
+  <radius>4500.000000</radius>
+  <spacedust>400</spacedust>
+  <interference>0.000000</interference>
+ </general>
+ <pos x="863.283497" y="-327.321780"/>
+ <spobs>
+  <spob>Agrippa</spob>
+ </spobs>
+ <jumps>
+  <jump target="Holpa">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Hook">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Rome">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+ </jumps>
+ <tags>
+  <tag>Tekel</tag>
+ </tags>
+</ssys>

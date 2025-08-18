@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Harbor">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>0-C-P big.webp</space>
+  <exterior>Civilian Station Small Shadowed.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Free Traders</faction>
+  <base>1000.000000</base>
+  <bonus>0.000000</bonus>
+  <range>9</range>
+ </presence>
+ <general>
+  <class>0-C-P</class>
+  <population>39588</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+   <blackmarket/>
+  </services>
+  <description>This is the home of the 'Guild of Free Traders'. These 'merchants' are better known throughout the galaxy as pirates. This is a surprisingly well-run station, but you should keep an eye out, as those who break the very strict code of conduct can find themselves in deep trouble very quickly. One step outside the code, and you are fair game for everybody. You are best off saying and doing nothing.</description>
+  <bar>You walk into a menacingly dark and smoky yet surprisingly clean establishment. A small jazz band play classy numbers on the stage making just enough noise to cover any conversation going on. You notice six dangerously well-dressed men sitting at a table on a balcony quietly overlooking the club.</bar>
+ </general>
+ <tech>
+  <item price_mod="1.500000">Foodstuffs</item>
+  <item price_mod="1.500000">Metals</item>
+  <item price_mod="1.500000">Industrial</item>
+  <item price_mod="1.430000">Equipment</item>
+  <item price_mod="1.380000">Medical Supplies</item>
+  <item price_mod="1.330000">Luxury Goods</item>
+  <item price_mod="1.670000">Local Alcohols</item>
+  <item price_mod="1.670000">Data Crystals</item>
+ </tech>
+ <tags>
+  <tag>federationera</tag>
+  <tag>pirate</tag>
+  <tag>station</tag>
+  <tag>criminal</tag>
+ </tags>
+</spob>

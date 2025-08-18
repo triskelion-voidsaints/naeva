@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Rounded Titan Engine">
+ <general>
+  <typename>Systems (Engine)</typename>
+  <slot prop="titan_engines">structure</slot>
+  <size>large</size>
+  <mass>115</mass>
+  <price>9000</price>
+  <priority>34</priority>
+  <description>A rounded engine has a balanced acceleration and cruising speed. The softer acceleration curve permits the storage of a small number of additional cargo pods and missiles, ensuring that this engine performs both in combat and logistical purposes.
+
+This is the massive version, which is built around a ship whose size is staggering and purpose unfathomable.</description>
+  <gfx_store>unicorp_engine_l.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <energy_regen_malus>9</energy_regen_malus>
+  <engine_limit>2246</engine_limit>
+  <fuel>1000</fuel>
+  <speed>119</speed>
+  <accel>75</accel>
+  <turn>55</turn>
+  <cargo_mod>10</cargo_mod>
+  <ammo_capacity>10</ammo_capacity>
+ </specific>
+</outfit>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Warana">
+ <general>
+  <radius>6000.000000</radius>
+  <spacedust>400</spacedust>
+  <interference>0.000000</interference>
+ </general>
+ <pos x="-832.348783" y="-247.350359"/>
+ <spobs>
+  <spob>Vella LP №1</spob>
+ </spobs>
+ <jumps>
+  <jump target="Belt">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Biri">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Gechta">
+   <autopos/>
+   <hide>0.000000</hide>
+  </jump>
+  <jump target="Hevel">
+   <autopos/>
+   <hide>0.000000</hide>
+  </jump>
+ </jumps>
+ <tags>
+  <tag>Vella</tag>
+ </tags>
+</ssys>

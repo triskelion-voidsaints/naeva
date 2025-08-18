@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faction name="Olympians">
+ <ai>independent</ai>
+ <static />
+ <known />
+ <player>3</player>
+ <description>Olympians</description>
+ <colour r="0" g="0.717" b="0.921" />
+ <spawn>testers</spawn>
+ <standing>static</standing>
+ <allies>
+ </allies>
+ <enemies>
+ </enemies>
+ <lane_length_per_presence>400</lane_length_per_presence>
+ <lane_base_cost>50</lane_base_cost>
+</faction>

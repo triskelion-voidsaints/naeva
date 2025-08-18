@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Chronos">
+ <pos x="-693.315971" y="333.818801"/>
+ <GFX>
+  <space>DO 0.webp</space>
+  <exterior>Chronos.webp</exterior>
+ </GFX>
+ <general>
+  <class>DO</class>
+  <population>224</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <nomissionspawn/>
+   <uninhabited/>
+  </services>
+  <description>From Chronos' watery surface you are afforded a fine view of the rising planet of Greenwich, and Chronos' sister moon Hourglass. Chronos is, as yet, uninhabited due to its thin atmosphere (which requires a breathmask for comfort). More than a few traders come here to refresh their tired spirits.</description>
+ </general>
+ <tags>
+  <tag>aliens</tag>
+  <tag>tourism</tag>
+  <tag>watertrade</tag>
+ </tags>
+</spob>

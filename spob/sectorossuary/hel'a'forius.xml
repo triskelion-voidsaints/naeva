@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Hel'A'Forius">
+ <pos x="1583.499440" y="2589.235570"/>
+ <GFX>
+  <space>J 45.webp</space>
+  <exterior>Unknown.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Wraith</faction>
+  <base>300.000000</base>
+  <bonus>150.000000</bonus>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>J</class>
+  <population>10000000</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+ <tags>
+  <tag>gasgiant</tag>
+  <tag>aliens</tag>
+ </tags>
+</spob>

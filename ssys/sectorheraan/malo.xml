@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Malo">
+ <general>
+  <radius>4500.000000</radius>
+  <spacedust>400</spacedust>
+  <interference>0.000000</interference>
+ </general>
+ <pos x="-200.780213" y="-367.168119"/>
+ <spobs>
+  <spob>Resilience</spob>
+  <spob>Tranquility</spob>
+ </spobs>
+ <jumps>
+  <jump target="Inci">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Ivia">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Peflek">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+ </jumps>
+ <tags>
+  <tag>Heraan</tag>
+ </tags>
+</ssys>

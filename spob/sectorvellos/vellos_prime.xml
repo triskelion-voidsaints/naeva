@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Vellos Prime">
+ <pos x="1836.003404" y="-1271.079280"/>
+ <GFX>
+  <space>Z 135.webp</space>
+  <exterior>Vellos.webp</exterior>
+ </GFX>
+ <general>
+  <class>Z</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <nomissionspawn/>
+   <uninhabited/>
+  </services>
+  <description>This planet is all that is left of what was once an advanced and beautiful civilization. Very few records of Vellos before the Alien War have survived, but those that have show that this planet was a paradise world, with many beautiful buildings and parks. They say that in every city there were artistic and athletic festivals, and that these two pursuits were viewed as the most noble by all Vell-os. Now only radioactive dust and one or two radiation-resistant microbial life-forms remain here. You wish you could spend more time wandering around the ruins of this planet, but your bio-suit is already giving you warnings about the radiation.</description>
+ </general>
+ <tags>
+  <tag>ruined</tag>
+  <tag>genocide</tag>
+  <tag>homeworld</tag>
+ </tags>
+</spob>

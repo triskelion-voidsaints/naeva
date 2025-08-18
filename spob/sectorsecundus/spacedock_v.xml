@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Spacedock V">
+ <pos x="-2734.318357" y="-574.767499"/>
+ <GFX>
+  <space>1-F.webp</space>
+  <exterior>Federation Battle.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Roughnecks</faction>
+  <base>400.000000</base>
+  <bonus>0.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>1-F</class>
+  <population>24943</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <outfits/>
+  </services>
+  <description>SD5's primary task is to supply and maintain a large Federation armada under the command of Admiral Raczak. Surviving a tour of duty in Raczak's Roughnecks almost always ensures an operational command posting elsewhere. The Roughnecks have a long and proud tradition of producing the hardest and most capable veterans of any combat unit, due to the near-continuous action that the armada sees. It is hardly worthy of note that the Roughnecks have the greatest attrition rate of any operational Federation unit. There seems to be a bone of contention between Admiral Raczak and the Wild Geese stationed on Port Kerella, but only the closest associates of the Admiral seem to ken the reason why. However, historians have noted that Raczak's report following the Battle of Xante doesn't paint the mercenaries in a good light.</description>
+  <bar>Pictures are plastered on every wall of 'The Roughrider,' depicting successful engagements for the Roughnecks. An arcade game entitled 'Gun A Goose' sits in the corner. It seems overly violent.</bar>
+ </general>
+ <tags>
+  <tag>federationera</tag>
+  <tag>station</tag>
+  <tag>military</tag>
+  <tag>mercenary</tag>
+ </tags>
+ <tech>
+  <item>Maps</item>
+ </tech>
+</spob>

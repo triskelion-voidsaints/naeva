@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Nil'a Ro">
+ <pos x="0.000000" y="0.000000"/>
+ <marker>spobmarker_rhombus</marker>
+ <GFX>
+  <space>1-P.webp</space>
+  <exterior>Polaris Defence Station.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Nil'kemorya</faction>
+  <base>300.000000</base>
+  <bonus>0.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>1-P</class>
+  <population>17850</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+   <outfits/>
+  </services>
+  <description>The Nil'kemorya are the only inhabitants of this station. As a rule, the Nil'kemorya have a stillness and a seriousness of aspect about them that you have only ever seen amongst the most elite and battle-hardened soldiers elsewhere. You quickly come to the realization that they are all exceptionally capable, even compared to those soldiers considered 'exceptional' elsewhere.</description>
+ </general>
+ <tech>
+  <item>Maps</item>
+ </tech>
+ <tags>
+  <tag>overwatchera</tag>
+  <tag>station</tag>
+  <tag>military</tag>
+ </tags>
+</spob>

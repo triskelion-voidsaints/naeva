@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Imperial Archives">
+ <pos x="0.000000" y="0.000000"/>
+ <marker>spobmarker_rhombus</marker>
+ <GFX>
+  <space>7-1.webp</space>
+  <exterior>Deimos Double.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Aurora Empire</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>7-1</class>
+  <population>526342</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <description>On this immense station, all records from all over the Empire that are greater than two years old are stored. Some three centuries of Auroran history is housed here, and its loss would be catastrophic. The records that are less than two years old are kept on Aurora itself before being filed here by year and by subject. Everything from major battles to minor skirmishes, to births, deaths and any news at all is recorded on this station.</description>
+  <bar>Like most bars throughout the Empire that mix warriors with workers in any other professions, the warriors, despite being fewer in number, take the lion share of the space, and limelight.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.63">Medical Supplies</item>
+  <item price_mod="1.43">Equipment</item>
+  <item price_mod="1.67">Data Crystals</item>
+ </tech>
+ <tags>
+  <tag>government</tag>
+  <tag>research</tag>
+  <tag>station</tag>
+ </tags>
+</spob>

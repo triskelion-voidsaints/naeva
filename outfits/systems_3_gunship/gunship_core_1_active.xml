@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Active Gunship Core">
+ <general>
+  <typename>Systems (Core)</typename>
+  <slot prop="gunship_core">utility</slot>
+  <size>small</size>
+  <mass>16</mass>
+  <price>3000</price>
+  <priority>9</priority>
+  <description>An active core dedicates most of your ship’s interior to the processors that enable powerful weapons, but it leaves little space for cargo or missile stores.
+
+This is the overtiny version, which fits the smallest of ships with a multi-person crew.</description>
+  <gfx_store>core_system_cpu_s2.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <cpu_max>42</cpu_max>
+  <cargo>18</cargo>
+  <energy>280</energy>
+  <energy_regen>40</energy_regen>
+ </specific>
+</outfit>

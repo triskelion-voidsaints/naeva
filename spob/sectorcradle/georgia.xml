@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Georgia">
+ <pos x="-385.175539" y="-1436.447978"/>
+ <GFX>
+  <space>MP cities 180.webp</space>
+  <exterior>Georgia.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>MP</class>
+  <population>7923238311</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <description>Georgia was settled quite early in the second great expansion of the Manifest. Most of Georgia's people are Baltic and Slav in origin, and don't mind the planet's cold moods. Georgia is heavily populated for a Federation planet, and to hail from this planet is seen as a sign of impeccable breeding.</description>
+  <bar>The patrons of this bar all speak with heavy accents, but with excellent diction. The drinks are a little coarse, but very strong. After only a few you decide to call it quits before you have to be carried back to your ship.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.33">Local Alcohols</item>
+  <item price_mod="1.5">Foodstuffs</item>
+ </tech>
+ <tags>
+  <tag>manifestera</tag>
+  <tag>urban</tag>
+  <tag>brewery</tag>
+ </tags>
+</spob>

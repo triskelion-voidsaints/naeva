@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Keystone">
+ <pos x="-635.994526" y="3461.043066"/>
+ <GFX>
+  <space>DK 315.webp</space>
+  <exterior>Outcast.webp</exterior>
+ </GFX>
+ <general>
+  <class>DK</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <uninhabited/>
+  </services>
+  <description>The radiation on this moon comes from the high concentrations of uranium and plutonium in its soil. You actually see an old Overwatch-era robotic miner sitting derelict on the surface, a relic of the time when a nuclear arsenal was the premier method of attack in space combat.</description>
+ </general>
+ <tags>
+  <tag>overwatchera</tag>
+  <tag>radiation</tag>
+ </tags>
+</spob>

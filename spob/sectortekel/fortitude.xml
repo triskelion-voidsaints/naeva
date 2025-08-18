@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Fortitude">
+ <pos x="0.000000" y="0.000000"/>
+ <marker>spobmarker_rhombus</marker>
+ <GFX>
+  <space>7-0.webp</space>
+  <exterior>Deimos.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Tekel</faction>
+  <base>300.000000</base>
+  <bonus>150.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>7-0</class>
+  <population>158227</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <description>This station is one of the two main bases for the Tekel House battle fleets and, like many battle-stations in the Empire, is named for one of the many desired qualities in a warrior. The fleet stationed here is used mostly to blood young warriors by sending them into Polaris space to face a truly worthy enemy. More warriors from the Tekel House have earned the respected purple battle tattoo from facing the Polaris in battle than from any other of the Five Families. Nearly all moves into Polaris space are launched from here, and even though the warriors here acknowledge the higher level of technology and skill of the Polaris military, the number of Polaris-bound missions remains high.</description>
+  <bar>You see no shortage of warriors who all bear a number of the small purple battle tattoos signifying successful engagements against the Polaris, although the definition of success in this case has often been deemed to mean mere survival when talking about battles with the Polaris.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.67">Luxury Goods</item>
+  <item price_mod="0.57">Equipment</item>
+  <item price_mod="1.38">Medical Supplies</item>
+ </tech>
+ <tags>
+  <tag>station</tag>
+  <tag>military</tag>
+ </tags>
+</spob>

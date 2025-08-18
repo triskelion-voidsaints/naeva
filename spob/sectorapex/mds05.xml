@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="MDS-05">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>3 small.webp</space>
+  <exterior>Manifest Station.webp</exterior>
+ </GFX>
+ <general>
+  <class>3</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <uninhabited/>
+  </services>
+  <description>This is a former Manifest 'drifting' station, a project originated by the council for the purposes of exploring deep space. This one ended up drifting into the Apex Cluster, and was cut off and slowly starved. However, they would achieve a sort of immortality; their archives of human cultural works and the audio-logs kept by crew members would form the Replicants' understanding of humanity for hundreds of years.</description>
+ </general>
+ <tags>
+  <tag>ruined</tag>
+ </tags>
+</spob>

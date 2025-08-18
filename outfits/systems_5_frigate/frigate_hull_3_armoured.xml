@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Armoured Frigate Hull">
+ <general>
+  <typename>Systems (Hull)</typename>
+  <slot prop="frigate_hull">structure</slot>
+  <size>medium</size>
+  <priority>18</priority>
+  <mass>59</mass>
+  <price>5000</price>
+  <description>Armoured hulls feature thick hull plating that can stand up to an extensive beating before failing. They also have damage control and repair systems that can patch up the hull in a pinch, but not with any speed compared to a shield generator. An armoured hull’s shield grid is second rate, but remains a factor.
+
+This is the submedium version, which fits the smallest class of capital ships.</description>
+  <gfx_store>combat_hull_x.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <armour>7700</armour>
+  <shield>3300</shield>
+  <shield_regen>39</shield_regen>
+  <armour_regen>17</armour_regen>
+ </specific>
+</outfit>

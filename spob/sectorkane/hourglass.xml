@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Hourglass">
+ <pos x="-2067.108728" y="1194.044172"/>
+ <GFX>
+  <space>DM 0.webp</space>
+  <exterior>Hourglass.webp</exterior>
+ </GFX>
+ <general>
+  <class>DM</class>
+  <population>36</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <nomissionspawn/>
+   <uninhabited/>
+  </services>
+  <description>Hourglass is presently under Federation quarantine, as a hostile species known as the Cunjo was introduced here by Auroran raiders, along with some of the small, oddly geometric native trees it feeds on. Every so often some foolhardy Aurorans come here in a primitive initiation rite, or to "test their strength," as they call it. Of course, most don't leave.</description>
+ </general>
+ <tags>
+  <tag>aliens</tag>
+  <tag>hunting</tag>
+  <tag>tourism</tag>
+  <tag>forestry</tag>
+ </tags>
+</spob>

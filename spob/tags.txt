@@ -1,0 +1,192 @@
+
+ <tags>
+ </tags>
+
+  <tag>atlanteanera</tag>
+  <tag>vellosera</tag>
+  <tag>frontierera</tag>
+  <tag>manifestera</tag>
+  <tag>overwatchera</tag>
+  <tag>federationera</tag>
+
+  <tag>amazing</tag>
+  <tag>abandoned</tag>
+  <tag>mysterious</tag>
+  <tag>destroyed</tag>
+  <tag>ruined</tag>
+  <tag>nonews</tag>
+  <tag>nonpc</tag>
+
+  <tag>immigration</tag>
+  <tag>refugee</tag>
+  <tag>tourism</tag>
+  <tag>homeworld</tag>
+
+  <tag>criminal</tag>
+  <tag>pirate</tag>
+  <tag>prison</tag>
+  <tag>terrorist</tag>
+  <tag>toxic</tag>
+  <tag>bacteria</tag>
+  <tag>gasgiant</tag>
+  <tag>aliens</tag>
+  <tag>empty</tag>
+  <tag>radiation</tag>
+  <tag>terraformed</tag>
+  <tag>genocide</tag>
+  <tag>timestop</tag>
+
+  <tag>hypergate</tag>
+  <tag>wormhole</tag>
+  <tag>ringworld</tag>
+  <tag>station</tag>
+  <tag>memorial</tag>
+  <tag>colonyship</tag>
+  <tag>archaeology</tag>
+
+  <tag>government</tag>
+  <tag>corporate</tag>
+  <tag>military</tag>
+  <tag>logistics</tag>
+  <tag>spying</tag>
+  <tag>restricted</tag>
+
+  <tag>agriculture</tag>
+  <tag>aquaculture</tag>
+  <tag>husbandry</tag>
+  <tag>hydroponics</tag>
+  <tag>industrial</tag>
+  <tag>mining</tag>
+  <tag>medical</tag>
+  <tag>research</tag>
+  <tag>exploration</tag>
+  <tag>shipbuilding</tag>
+  <tag>trade</tag>
+  <tag>hunting</tag>
+  <tag>extraction</tag> aka gas mining
+  <tag>religion</tag>
+  <tag>forestry</tag>
+  <tag>artisans</tag>
+  <tag>brewery</tag>
+  <tag>weapons</tag>
+  <tag>ecology</tag>
+  <tag>scrappers</tag>
+  <tag>techmining</tag>
+  <tag>watertrade</tag>
+  <tag>retirement</tag>
+  <tag>sport</tag>
+  <tag>initiation</tag>
+
+  <tag>poor</tag>
+  <tag>rich</tag>
+  <tag>rural</tag>
+  <tag>urban</tag>
+  <tag>training</tag>
+
+ <tags>
+  <tag>station</tag>
+  <tag>military</tag>
+ </tags>
+
+nilk station
+ <tags>
+  <tag>overwatchera</tag>
+  <tag>station</tag>
+  <tag>military</tag>
+ </tags>
+
+supply station
+ <tags>
+  <tag>overwatchera</tag>
+  <tag>station</tag>
+  <tag>military</tag>
+  <tag>logistics</tag>
+ </tags>
+
+auroran lp
+ <tags>
+  <tag>federationera</tag>
+  <tag>station</tag>
+  <tag>military</tag>
+  <tag>spying</tag>
+ </tags>
+
+destroyed overgate
+ <tags>
+  <tag>manifestera</tag>
+  <tag>overgate</tag>
+  <tag>destroyed</tag>
+ </tags>
+
+destabilized overgate
+ <tags>
+  <tag>manifestera</tag>
+  <tag>overgate</tag>
+  <tag>overheated</tag>
+  <tag>active</tag>
+ </tags>
+
+overheated overgate
+ <tags>
+  <tag>manifestera</tag>
+  <tag>overgate</tag>
+  <tag>overheated</tag>
+ </tags>
+
+active overgate
+ <tags>
+  <tag>manifestera</tag>
+  <tag>overgate</tag>
+  <tag>active</tag>
+ </tags>
+
+inactive overgate
+ <tags>
+  <tag>manifestera</tag>
+  <tag>overgate</tag>
+  <tag>inactive</tag>
+ </tags>
+ 
+destroyed hypergate
+ <tags>
+  <tag>hypergate</tag>
+  <tag>destroyed</tag>
+  <tag>nonews</tag>
+  <tag>nonpc</tag>
+  <tag>manifestera</tag>
+ </tags>
+
+hypergate
+ <tags>
+  <tag>hypergate</tag>
+  <tag>manifestera</tag>
+  <tag>active</tag>
+ </tags>
+
+  <services>
+   <uninhabited/>
+  </services>
+
+polaris lp
+ <tags>
+  <tag>station</tag>
+  <tag>spying</tag>
+ </tags>
+
+polaris admin relay
+ <tags>
+  <tag>station</tag>
+  <tag>government</tag>
+ </tags>
+
+portal exit
+ <tags>
+  <tag>portalexit</tag>
+ </tags>
+
+psionic disruptor
+ <tags>
+  <tag>overwatchera</tag>
+  <tag>station</tag>
+  <tag>gatekeeper</tag>
+ </tags>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Twilight">
+ <pos x="-2037.305176" y="-953.100229"/>
+ <GFX>
+  <space>DZ cities 225.webp</space>
+  <exterior>Twilight.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Houseless</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>DZ</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <description>This harsh, rocky planet is one of the few independent worlds near Auroran space. It broke away from the Vella House some ten years ago and has held out under constant attack mainly due to the Vella's fighting with the Federation and Moash house. The planet is ruled by a democratically elected Senate, and is defended by a militia that is lead by Jazir Hagiiro, the noted author and revolutionary. Life is hard here, but the citizens all seem to agree that their cause is worth it.</description>
+  <bar>This bar, named the Golden Eagle, seems to be considered the superior option near the spaceport by its patrons. Inside you see gatherings of old friends, laughing and drinking in spite of the difficult conditions on this planet. The news-relay is constantly running, bringing news to the people of this bar on the goings-on of the outside world.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.500000">Metals</item>
+  <item price_mod="0.630000">Medical Supplies</item>
+  <item price_mod="0.670000">Luxury Goods</item>
+  <item price_mod="1.500000">Foodstuffs</item>
+  <item price_mod="1.500000">Industrial</item>
+  <item price_mod="1.430000">Equipment</item>
+ </tech>
+ <tags>
+  <tag>refugee</tag>
+  <tag>immigration</tag>
+ </tags>
+</spob>

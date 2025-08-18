@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Bionic Fighter Hull">
+ <general>
+  <typename>Systems (Hull)</typename>
+  <slot prop="fighter_hull">structure</slot>
+  <size>small</size>
+  <priority>5</priority>
+  <mass>12</mass>
+  <price>2000</price>
+  <description>Like a standard hull, bionic hulls are perfectly balanced between shield capacity and armour strength. Their competitive edge comes with regards to regeneration, which is 30% greater in total than their competitors and is also perfectly balanced between shield recharge and hull repair.
+
+This is the tiny version, which is designed for those ships commonly crewed by a single pilot.</description>
+  <gfx_store>organic_hull_s.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <armour>1000</armour>
+  <shield>1000</shield>
+  <shield_regen>85</shield_regen>
+  <armour_regen>85</armour_regen>
+ </specific>
+</outfit>

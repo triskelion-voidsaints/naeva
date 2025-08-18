@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Kangaroo Destroyer Engine">
+ <general>
+  <typename>Systems (Engine)</typename>
+  <slot prop="destroyer_engines">structure</slot>
+  <size>medium</size>
+  <mass>32</mass>
+  <price>6000</price>
+  <priority>21</priority>
+  <description>A kangaroo engine is optimized to accelerate quickly at the cost of a low cruising speed. This jumpy profile is optimal for active combat engagements, but the lack of inhibitors prevents the incorporation of cargo preservation technologies.
+
+This is the medium version, which is designed to fit the standard size of capital ship.</description>
+  <gfx_store>krain_remige_engine.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <energy_regen_malus>6</energy_regen_malus>
+  <engine_limit>508</engine_limit>
+  <fuel>700</fuel>
+  <speed>225</speed>
+  <accel>300</accel>
+  <turn>180</turn>
+ </specific>
+</outfit>

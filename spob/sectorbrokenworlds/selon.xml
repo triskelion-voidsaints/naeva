@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Selon">
+ <pos x="995.631217" y="0.000000"/>
+ <GFX>
+  <space>C 90.webp</space>
+  <exterior>Selon.webp</exterior>
+ </GFX>
+ <general>
+  <class>C</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <nomissionspawn/>
+   <uninhabited/>
+  </services>
+  <description>Though still marginally habitable, Seon is slowly but surely spiraling towards a fiery doom in the inferno of its red dwarf star.  Knocked out of orbit by an inconceivably powerful energy blast, Selon is mostly sterile desert, though a few oases and stalwart shrubs still dot the land.  This planet's unique atmosphere seems to cause a particle reaction in the air which absorbs heat and transforms it into a light metal mixture which constantly snows down onto the surface as sand.  Some kind of artificial mechanism must be responsible for this, for which you should be grateful: it is amazing that this planet can be comfortable when the sun fills almost a quarter of the sky.</description>
+ </general>
+ <tags>
+  <tag>ruined</tag>
+ </tags>
+</spob>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="UHP-23155">
+ <pos x="-941.267560" y="1066.460645"/>
+ <GFX>
+  <space>Q 270.webp</space>
+  <exterior>Unknown.webp</exterior>
+ </GFX>
+ <general>
+  <class>Q</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+ <tags>
+  <tag>gasgiant</tag>
+ </tags>
+</spob>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Pyrogenesis I">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="2568.905912" y="2161.910659"/>
+ <GFX>
+  <space>6-F.webp</space>
+  <exterior>Skymining Pyrogenesis.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>6-F</class>
+  <population>46585</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <description>This sky mining station, owned by the independent weapons manufacturer Pyrogenesis, mines some rare gases from the upper reaches of Nesre Secundus IV which will be used in the production of their exotic weaponry. The chemicals used in the creation of blaster 'bolts' are easily produced from the upper atmosphere of the gas giant, and Pyrogenesis requires a constant supply of these gases.</description>
+  <bar>This bar is part of the complete service offered by Pyrogenesis to trader captains. The operation is heavily subsidized by the parent company so that the service, food and drink are excellent, while maintaining low prices.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.500000">Industrial</item>
+  <item price_mod="1.430000">Equipment</item>
+ </tech>
+ <tags>
+  <tag>manifestera</tag>
+  <tag>station</tag>
+  <tag>extraction</tag>
+ </tags>
+</spob>

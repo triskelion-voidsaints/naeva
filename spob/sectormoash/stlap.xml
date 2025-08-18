@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Stlap">
+ <pos x="-1396.855737" y="690.997785"/>
+ <GFX>
+  <space>MH cities 0.webp</space>
+  <exterior>Stlap.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Moash</faction>
+  <base>150.000000</base>
+  <bonus>75.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>MH</class>
+  <population>1872905901</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <description>Stlap is the reason for the Moash Family's affluence. It is perhaps the most fertile world in the Empire, and produces enough food to feed more than any two houses. It is also one of the most stable food supplies; its crops have never suffered a complete failure, and the last partial failure of any significant size was more than seventy years ago. The Moash House sell the enormous surplus to the other four houses and make an enormous amount of money doing so. This planet is one of the most important resources the Moash House have, and it is protected by the fleets attached to the battle-station in orbit.</description>
+  <bar>This room is filled with tired farm-hands from the countless nearby farming concerns. Unlike other members of the Auroran working class on other planets these men seem to be well-fed and clothed, and they seem to have a little more self-esteem.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Foodstuffs</item>
+  <item price_mod="1.5">Industrial</item>
+  <item price_mod="1.43">Equipment</item>
+ </tech>
+ <tags>
+  <tag>agriculture</tag>
+ </tags>
+</spob>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Bionic Cruiser Hull">
+ <general>
+  <typename>Systems (Hull)</typename>
+  <slot prop="cruiser_hull">structure</slot>
+  <size>large</size>
+  <priority>25</priority>
+  <mass>178</mass>
+  <price>7000</price>
+  <description>Like a standard hull, bionic hulls are perfectly balanced between shield capacity and armour strength. Their competitive edge comes with regards to regeneration, which is 30% greater in total than their competitors and is also perfectly balanced between shield recharge and hull repair.
+
+This is the overmedium version, which is designed to accommodate a ship of the line.</description>
+  <gfx_store>organic_hull_l.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <armour>11000</armour>
+  <shield>11000</shield>
+  <shield_regen>72</shield_regen>
+  <armour_regen>72</armour_regen>
+ </specific>
+</outfit>

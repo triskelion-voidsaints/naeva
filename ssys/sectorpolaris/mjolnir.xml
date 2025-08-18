@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Mjolnir">
+ <general>
+  <radius>4500.000000</radius>
+  <spacedust>400</spacedust>
+  <interference>0.000000</interference>
+ </general>
+ <pos x="381.505100" y="-65.385190"/>
+ <spobs>
+  <spob>HG-Mjolnir</spob>
+  <spob>Nil'a Mjolnir</spob>
+ </spobs>
+ <jumps>
+  <jump target="NGC-0500">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Tau Ceti">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Za'krana">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+ </jumps>
+ <tags>
+  <tag>Polaris</tag>
+ </tags>
+</ssys>

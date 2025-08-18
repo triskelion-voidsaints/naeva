@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Active Fighter Core">
+ <general>
+  <typename>Systems (Core)</typename>
+  <slot prop="fighter_core">utility</slot>
+  <size>small</size>
+  <mass>8</mass>
+  <price>2000</price>
+  <priority>5</priority>
+  <description>An active core dedicates most of your ship’s interior to the processors that enable powerful weapons, but it leaves little space for cargo or missile stores.
+
+This is the tiny version, which is designed for those ships commonly crewed by a single pilot.</description>
+  <gfx_store>core_system_cpu_s1.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <cpu_max>28</cpu_max>
+  <cargo>12</cargo>
+  <energy>210</energy>
+  <energy_regen>31</energy_regen>
+ </specific>
+</outfit>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Empire LP IV">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>0-A big.webp</space>
+  <exterior>Auroran Single.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Aurora Empire</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>0-A</class>
+  <population>12000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+  </services>
+  <description>This medium-sized outpost stands across one of the main routes into the Empire from the Federation to provide an anchoring point for a fairly large battle fleet. Warriors stationed here spend nearly as much time in Federation space fighting its soldiers as they do in Auroran space defending against the same. It is one of the most honorable postings that any warrior can hope to be given in their career.</description>
+ </general>
+ <tags>
+  <tag>federationera</tag>
+  <tag>station</tag>
+  <tag>military</tag>
+  <tag>spying</tag>
+ </tags>
+</spob>

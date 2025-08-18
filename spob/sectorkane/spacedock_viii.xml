@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Spacedock VIII">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="2027.307256" y="-1967.819033"/>
+ <GFX>
+  <space>1-F.webp</space>
+  <exterior>Federation Battle.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>300.000000</base>
+  <bonus>0.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>1-F</class>
+  <population>15651</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <description>null</description>
+  <bar>null</bar>
+ </general>
+ <tags>
+  <tag>federationera</tag>
+  <tag>station</tag>
+  <tag>military</tag>
+ </tags>
+ <tech>
+  <item>Maps</item>
+ </tech>
+</spob>

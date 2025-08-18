@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Korell Prime">
+ <pos x="-14.860167" y="2028.412852"/>
+ <GFX>
+  <space>V 0.webp</space>
+  <exterior>Korell.webp</exterior>
+ </GFX>
+ <general>
+  <class>V</class>
+  <population>6</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <nomissionspawn/>
+   <uninhabited/>
+  </services>
+  <description>There is something very odd about this planet. In most every other system in what used to be the Hexaporya sector, there are only the half consumed husks of dead worlds. You find it a little strange that the nanite globes scourging this sector of space left an entire system untouched.</description>
+ </general>
+ <tags>
+  <tag>mysterious</tag>
+ </tags>
+</spob>

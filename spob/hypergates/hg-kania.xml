@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="HG-Kania">
+ <marker>spobmarker_triangle</marker>
+ <lua>hypergate_kania.lua</lua>
+ <display>#oHG-Kania#0</display>
+ <feature>#oHypergate#0</feature>
+ <pos x="1493.677983" y="536.369487"/>
+ <GFX>
+  <space>9.webp</space>
+  <exterior>Hypergate.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Sigma Shipyards</faction>
+  <base>50.000000</base>
+  <bonus>0.000000</bonus>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>9</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <uninhabited/>
+  </services>
+  <description>Kania's hypergate was a lucky survivor of the third dark age. However, it lay dormant for half a millennia due to the near-complete annihilation of the Overgate hubs. At the dawn of the 12th century, it was reactivated by the Sigma Shipyards corporation and jury-rigged to link to the nearby Archenar, Aria and Tichel systems. Access is restricted to trusted Sigma employees, particularly those captaining bulk freighters to the distant Aurora Empire.</description>
+ </general>
+ <tags>
+  <tag>hypergate</tag>
+  <tag>manifestera</tag>
+  <tag>active</tag>
+ </tags>
+</spob>

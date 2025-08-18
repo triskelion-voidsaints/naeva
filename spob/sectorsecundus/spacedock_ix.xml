@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Spacedock IX">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="-2790.762006" y="-550.617636"/>
+ <GFX>
+  <space>0-F.webp</space>
+  <exterior>Federation Station.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>300.000000</base>
+  <bonus>0.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>0-F</class>
+  <population>22226</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <outfits/>
+  </services>
+  <description>null</description>
+  <bar>null</bar>
+ </general>
+ <tags>
+  <tag>federationera</tag>
+  <tag>station</tag>
+  <tag>military</tag>
+ </tags>
+ <tech>
+  <item>Maps</item>
+ </tech>
+</spob>

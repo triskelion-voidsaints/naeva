@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="A'j He">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="5802.895375" y="743.008371"/>
+ <GFX>
+  <space>5-P.webp</space>
+  <exterior>Polaris Listening Post.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Polaris</faction>
+  <base>50.000000</base>
+  <bonus>25.000000</bonus>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>5-P</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <uninhabited/>
+  </services>
+ </general>
+ <tags>
+  <tag>station</tag>
+  <tag>spying</tag>
+ </tags>
+</spob>

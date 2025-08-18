@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Vella LP №2">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>5-A.webp</space>
+  <exterior>Auroran LP.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Vella</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>5-A</class>
+  <population>50</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+  </services>
+  <description>The warriors who staff this small early warning station spend their lives giving the warriors inside Vella space time to prepare to meet incoming hostile forces. Of course, despite the fact that there are only fifty of them, the warriors here would never admit that they could not defeat any incoming force, regardless of size. This means that the warriors who receive a posting here tend not to survive, but that those who do have obviously achieved a high level of skill at battle-craft, and have perhaps learned a little prudence. Many of the Five Houses' leading warriors have served postings to places much like this one.</description>
+ </general>
+ <tags>
+  <tag>federationera</tag>
+  <tag>station</tag>
+  <tag>military</tag>
+  <tag>spying</tag>
+ </tags>
+</spob>

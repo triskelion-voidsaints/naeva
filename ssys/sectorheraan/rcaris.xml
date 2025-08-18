@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Rcaris">
+ <general>
+  <radius>3000.000000</radius>
+  <spacedust>400</spacedust>
+  <interference>0.000000</interference>
+ </general>
+ <pos x="48.062380" y="-391.280773"/>
+ <spobs>
+  <spob>Wormhole (Rcaris)</spob>
+ </spobs>
+ <jumps>
+  <jump target="Freya">
+   <pos x="1063.877753" y="-2817.202338"/>
+   <hide>0.000000</hide>
+  </jump>
+  <jump target="Hope">
+   <pos x="2629.657161" y="1395.006508"/>
+   <hide>0.000000</hide>
+  </jump>
+ </jumps>
+ <tags>
+  <tag>Heraan</tag>
+ </tags>
+</ssys>

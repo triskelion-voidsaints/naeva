@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Rounded Lifepod Engine">
+ <general>
+  <typename>Systems (Engine)</typename>
+  <slot prop="lifepod_engines">structure</slot>
+  <size>small</size>
+  <mass>2</mass>
+  <price>1000</price>
+  <description>A rounded engine has a balanced acceleration and cruising speed. The softer acceleration curve permits the storage of a small number of additional cargo pods and missiles, ensuring that this engine performs both in combat and logistical purposes.
+
+This is the puny version, which only fits vehicles too small to be properly called a ship.</description>
+  <gfx_store>nexus_engine_s.webp</gfx_store>
+  <priority>2</priority>
+ </general>
+ <specific type="modification">
+  <energy_regen_malus>1</energy_regen_malus>
+  <engine_limit>42</engine_limit>
+  <fuel>200</fuel>
+  <speed>569</speed>
+  <accel>325</accel>
+  <turn>415</turn>
+  <cargo_mod>10</cargo_mod>
+  <ammo_capacity>10</ammo_capacity>
+ </specific>
+</outfit>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Drifter Titan Engine">
+ <general>
+  <typename>Systems (Engine)</typename>
+  <slot prop="titan_engines">structure</slot>
+  <size>large</size>
+  <mass>115</mass>
+  <price>9000</price>
+  <priority>35</priority>
+  <description>A drifter engine accelerates slowly, but has a high cruising speed. This engine excels in a situation where your enemies can be planned and accounted for, so your guns cover your retreat. The gentle acceleration curve allows your ship to hold a good deal of cargo pods and missiles, slanting it towards a logistical role.
+
+This is the massive version, which is built around a ship whose size is staggering and purpose unfathomable.</description>
+  <gfx_store>engine14.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <energy_regen_malus>9</energy_regen_malus>
+  <engine_limit>2246</engine_limit>
+  <fuel>1000</fuel>
+  <speed>129</speed>
+  <accel>50</accel>
+  <turn>55</turn>
+  <cargo_mod>20</cargo_mod>
+  <ammo_capacity>20</ammo_capacity>
+ </specific>
+</outfit>

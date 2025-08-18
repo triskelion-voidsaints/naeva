@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Spica Prime">
+ <pos x="4991.874990" y="-961.398146"/>
+ <GFX>
+  <space>S 0.webp</space>
+  <exterior>Spica.webp</exterior>
+ </GFX>
+ <general>
+  <class>S</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <nomissionspawn/>
+   <uninhabited/>
+  </services>
+  <description>Spica is an uninviting world that has a thick methane atmosphere. As you look out across the liquid ammonia pools and see the frozen metal caps of the mountains, you wonder how long it will be before the Federation strip-mines this planet.</description>
+ </general>
+ <tags>
+  <tag>mining</tag>
+  <tag>toxic</tag>
+ </tags>
+</spob>

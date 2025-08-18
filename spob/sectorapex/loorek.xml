@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Loorek">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>DO 225.webp</space>
+  <exterior>Chronos.webp</exterior>
+ </GFX>
+ <general>
+  <class>DO</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <uninhabited/>
+  </services>
+  <description>This planet is almost entirely covered by water, with only a few isolated landing pads peeking above the surface. Below the water, the planet's seafloor is covered with the buildings of an apparently sunken mega-city, with a few tall spires sticking out of the water. What happened on this planet millenia ago is anyone's guess, but it seems unlikely to have been pleasant.</description>
+ </general>
+ <tags>
+  <tag>mysterious</tag>
+ </tags>
+</spob>

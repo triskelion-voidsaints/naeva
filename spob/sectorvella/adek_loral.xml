@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Adek Loral">
+ <pos x="1936.577017" y="-1840.283133"/>
+ <GFX>
+  <space>V cities 135.webp</space>
+  <exterior>Adek Loral.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Vella</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>V</class>
+  <population>16884684324</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <description>When the soldiers from the Auroran region of space rediscovered hyperdrive technologies nearly four centuries ago, they immediately moved to take over as much of the surrounding space as possible. Eventually they reached what had been the Vella region of the Manifest, and began to conquer what had become a peaceful, agricultural society during the two centuries of isolation. A small group of men captured one of the soldiers' hyperspace-capable ships, and undertook the months-long journey to Aurora. Once there, they destroyed many major cities, which caused the Auroran soldiers to be recalled home. The 'renegades' then journeyed to all of the former regions of the Manifest and taught them the secrets of hyperspace technology. The leader of these men was named Adek Loral, and he never again saw his homeworld.</description>
+  <bar>This filthy bar is filled with dirty, poor, slightly undernourished men spending what little money they earn on the only thing that allows them some relief in their lives.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.500000">Foodstuffs</item>
+  <item price_mod="1.430000">Equipment</item>
+ </tech>
+ <tags>
+  <tag>manifestera</tag>
+  <tag>agriculture</tag>
+  <tag>poor</tag>
+ </tags>
+</spob>

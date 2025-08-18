@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot name="hull">
+ <display>Hull Modifications</display>
+ <description>This slot is used for structural modifications to the ship's hull.</description>
+ <exclusive/>
+ <icon>hull.png</icon>
+</slot>

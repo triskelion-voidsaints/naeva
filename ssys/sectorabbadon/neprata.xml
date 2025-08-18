@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Ne'prata">
+ <general>
+  <radius>6000.000000</radius>
+  <spacedust>400</spacedust>
+  <interference>0.000000</interference>
+ </general>
+ <pos x="439.468063" y="360.914964"/>
+ <spobs/>
+ <jumps>
+  <jump target="K'minkek">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="K'onl">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Nil'nesa">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Tri'lipra">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+ </jumps>
+ <tags>
+  <tag>Abbadon</tag>
+ </tags>
+</ssys>

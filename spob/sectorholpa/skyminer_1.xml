@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Skyminer 1">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="-3153.943068" y="3536.705894"/>
+ <GFX>
+  <space>6-P 315.webp</space>
+  <exterior>Unknown.webp</exterior>
+ </GFX>
+ <general>
+  <class>6-P</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+ <tags>
+  <tag>station</tag>
+  <tag>extraction</tag>
+ </tags>
+</spob>

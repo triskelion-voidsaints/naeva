@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Jenner Lost">
+ <pos x="-1331.310427" y="867.650811"/>
+ <GFX>
+  <space>JP 315.webp</space>
+  <exterior>Unknown.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>400.000000</base>
+  <bonus>0.000000</bonus>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>JP</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+ <tags>
+  <tag>gasgiant</tag>
+ </tags>
+</spob>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Ver'ar Roqu">
+ <pos x="1018.220544" y="1063.010304"/>
+ <GFX>
+  <space>MO 0.webp</space>
+  <exterior>Ver'ar Roqu.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Ver'ash</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>MO</class>
+  <population>3811625881</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <description>The main college of Ver'ash is located on the surface of Ver'ar Roqu. When any young Polarans are thought to be suitable for entry into the Ver'ash, they are brought here at the age of four and stay until the age of twelve. In that time they are taught all the basics of human biology and medicine, and also the system by which the biological components of their ships are grown. The planet itself remains virtually undisturbed by the college, except for the occasional prank by some of the older students, which is usually laughed at by all, but quickly cleaned up to return Ver'ar Roqu to its pristine state.</description>
+  <bar>The students and staff of this establishment mix freely after hours laughing and chatting in this room. The jovial atmosphere is infectious and you soon find yourself laughing and joking right along with them.</bar>
+ </general>
+ <tags>
+  <tag>training</tag>
+  <tag>medical</tag>
+  <tag>shipbuilding</tag>
+ </tags>
+ <tech>
+  <item price_mod="0.63">Medical Supplies</item>
+  <item price_mod="1.5">Industrial</item>
+ </tech>
+</spob>

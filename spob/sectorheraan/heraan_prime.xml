@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Heraan Prime">
+ <pos x="-2951.110367" y="2918.120795"/>
+ <GFX>
+  <space>V cities 315.webp</space>
+  <exterior>Heraan.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Heraan</faction>
+  <base>400.000000</base>
+  <bonus>200.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>V</class>
+  <population>110737735601</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <description>Heraan is the most heavily populated world in Known Space, with some 110 billion inhabitants. This includes the largest concentration of warriors in Heraan space, because it is just two jumps away from the border of Heraan space in two different directions. The warriors posted here are ready to hyper out at a moment's notice to help with any border conflicts as necessary, but they are also ready to defend their homeworld if the borders of Heraan space crumble. The leaders of the Heraan House make their homes here, and oversee not just the military action, but also the management of food resources for the enormous population of this world.</description>
+  <bar>Surprisingly in this bar, the Heraan House warriors, as they drink their non-alcoholic drinks, seem to give way to members of the working and merchant classes as a matter of course.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.500000">Industrial</item>
+  <item price_mod="1.500000">Foodstuffs</item>
+  <item price_mod="1.330000">Luxury Goods</item>
+  <item>Data Crystals</item>
+ </tech>
+ <tags>
+  <tag>manifestera</tag>
+  <tag>homeworld</tag>
+  <tag>government</tag>
+  <tag>military</tag>
+  <tag>urban</tag>
+ </tags>
+</spob>

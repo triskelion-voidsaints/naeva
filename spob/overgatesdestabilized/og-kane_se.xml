@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="OG-Kane SE">
+ <pos x="1815.477254" y="-2363.889817"/>
+ <marker>spobmarker_triangle</marker>
+ <lua>overgate_dani.lua</lua>
+ <display>#rSouth-east Overgate#0</display>
+ <feature>#rDestabilized Overgate#0</feature>
+ <GFX>
+  <space>10-Y 150.webp</space>
+  <exterior>Overgate.webp</exterior>
+ </GFX>
+ <general>
+  <class>10-Y</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <uninhabited/>
+  </services>
+ </general>
+ <tags>
+  <tag>manifestera</tag>
+  <tag>overgate</tag>
+  <tag>overheated</tag>
+  <tag>active</tag>
+ </tags>
+</spob>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Uncountable Kichis">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="-2171.962069" y="738.253117"/>
+ <GFX>
+  <space>7.webp</space>
+  <exterior>Unknown.webp</exterior>
+ </GFX>
+ <general>
+  <class>7</class>
+  <population>0</population>
+  <hide>0.500000</hide>
+  <services/>
+ </general>
+ <tags>
+  <tag>frontierera</tag>
+ </tags>
+</spob>

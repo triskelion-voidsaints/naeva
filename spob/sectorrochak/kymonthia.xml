@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Kymonthia">
+ <pos x="-1058.786928" y="204.327302"/>
+ <GFX>
+  <space>X 0.webp</space>
+  <exterior>Kymonthia.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Tekel</faction>
+  <base>150.000000</base>
+  <bonus>75.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>X</class>
+  <population>110579558</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+   <commodity/>
+  </services>
+  <description>Kymonthia is one of the few worlds in the Empire to remain virtually untouched by pollutants and human habitation. This is because many of the naturally occurring chemicals and bacteria on this planet are extremely useful in the production of many different medicines. Because they govern this system, Tekel House has the lowest death rate of any house, as they use slightly more than half the products. The rest is traded out to the rest of the Empire.</description>
+ </general>
+ <tech>
+  <item price_mod="0.63">Medical Supplies</item>
+  <item price_mod="1.5">Foodstuffs</item>
+  <item price_mod="1.5">Industrial</item>
+ </tech>
+ <tags>
+  <tag>bacteria</tag>
+  <tag>medical</tag>
+  <tag>extraction</tag>
+ </tags>
+</spob>

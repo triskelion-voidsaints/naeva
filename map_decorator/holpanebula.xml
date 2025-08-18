@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<decorator>
+ <image>holpanebula.webp</image>
+ <x>903.6</x>
+ <y>-250</y>
+ <detection_radius>100</detection_radius>
+</decorator>

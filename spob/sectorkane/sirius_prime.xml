@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Sirius Prime">
+ <pos x="1765.140219" y="-1683.656968"/>
+ <GFX>
+  <space>K cities 135.webp</space>
+  <exterior>Sirius Prime.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>250.000000</base>
+  <bonus>25.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>K</class>
+  <population>22995</population>
+  <hide>0.500000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <description>Both Sirius Prime and its binary partner Sirius II orbit the quaternary star system Sirius. As a result of exposure to differing levels of radiation of various wavelengths (depending of the positions of the suns), Sirius Prime has developed life forms that have very heavy duty radiation shielding as part of their armored carapaces. The Sirian Monkdillo, for example, has a greater ability to block theta radiation than the hull armor of a Federation Destroyer. Some of the Federation's best minds have been studying the Monkdillo and its fellow inhabitants for many years, but have yet to unlock the secrets of their shielding methods.</description>
+  <bar>All of the monkdillos that have been taken for scientific study somehow end up here. The walls seem to be coated with monkdillo shells. The barman tells you that it's for your own good, lest you get radiation poisoning.</bar>
+ </general>
+ <tags>
+  <tag>federationera</tag>
+  <tag>aliens</tag>
+  <tag>research</tag>
+  <tag>radiation</tag>
+ </tags>
+ <tech>
+  <item>Maps</item>
+ </tech>
+</spob>

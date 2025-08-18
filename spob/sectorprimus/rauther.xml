@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Rauther">
+ <pos x="-1301.037377" y="21.398641"/>
+ <GFX>
+  <space>DD cities 270.webp</space>
+  <exterior>Rauther.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>DD</class>
+  <population>153262</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <description>Rauther was the third planet ever to be purchased outright, but the first to be purchased by a corporation rather than a government. Rauther Power Industries maintains their primary research lab here, as well as their main office. As you can imagine, this is unbelievably convenient for tax purposes. Rauther also houses a small fleet of gas mining droid ships that mine the planet Rautherion Prime. Rauther's share price is on constant display via laser holographic projection into the thin atmosphere.</description>
+  <bar>This bar is a retreat from the office for the many Rauther executives that live on this planet. The service is good, and the many cubicles allow a fair amount of privacy.</bar>
+ </general>
+ <tags>
+  <tag>manifestera</tag>
+  <tag>corporate</tag>
+  <tag>weapons</tag>
+  <tag>research</tag>
+  <tag>extraction</tag>
+ </tags>
+ <tech>
+  <item price_mod="0.57">Equipment</item>
+  <item price_mod="1.5">Metals</item>
+  <item price_mod="1.5">Industrial</item>
+ </tech>
+</spob>

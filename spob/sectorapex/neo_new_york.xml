@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Neo New York">
+ <pos x="56.697840" y="3075.241507"/>
+ <GFX>
+  <space>S 0.webp</space>
+  <exterior>Neo New York.webp</exterior>
+ </GFX>
+ <general>
+  <class>S</class>
+  <population>0</population>
+  <hide>0.500000</hide>
+  <services>
+   <land/>
+  </services>
+  <description>Neo New York was a flourishing Manifest colony until the Crettic Plague destroyed all life here. The atmosphere is a now a poisonous shell of its former self, containing mostly methane and variants thereof. Some remnants of the plague virus survive on the methane and sulphur compounds. You can feel the heat through your bio-suit, and the sludge squishes under your feet as you walk through the deserted streets of the spaceport. There is nothing of worth here, and even if there was it would never pass through your ship's biofilters.</description>
+ </general>
+ <tags>
+  <tag>manifestera</tag>
+  <tag>ruined</tag>
+  <tag>toxic</tag>
+ </tags>
+</spob>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Bionic Corvette Hull">
+ <general>
+  <typename>Systems (Hull)</typename>
+  <slot prop="corvette_hull">structure</slot>
+  <size>medium</size>
+  <priority>13</priority>
+  <mass>36</mass>
+  <price>4000</price>
+  <description>Like a standard hull, bionic hulls are perfectly balanced between shield capacity and armour strength. Their competitive edge comes with regards to regeneration, which is 30% greater in total than their competitors and is also perfectly balanced between shield recharge and hull repair.
+
+This is the small version, which fits the first class of ships considered to be a proper, independent starship.</description>
+  <gfx_store>organic_hull_h.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <armour>3500</armour>
+  <shield>3500</shield>
+  <shield_regen>46</shield_regen>
+  <armour_regen>46</armour_regen>
+ </specific>
+</outfit>

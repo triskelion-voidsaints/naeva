@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Irradiated Deimos">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="1418.776362" y="-2243.268905"/>
+ <GFX>
+  <space>7-Z.webp</space>
+  <exterior>Deimos Colony Ship Irradiated.webp</exterior>
+ </GFX>
+ <general>
+  <class>7-Z</class>
+  <population>0</population>
+  <hide>0.500000</hide>
+  <services>
+   <land/>
+   <uninhabited/>
+  </services>
+  <description>This Deimos launched from Earth 1,534 years ago, bound for the Wolf system. When it arrived, it was merely an irradiated wreck. Of no use to the Aurora Empire, it now serves only as a guiding star for their ceaseless aggression and as an agility course for particularly daring Firebird pilots.</description>
+ </general>
+ <tags>
+  <tag>frontierera</tag>
+  <tag>destroyed</tag>
+ </tags>
+</spob>

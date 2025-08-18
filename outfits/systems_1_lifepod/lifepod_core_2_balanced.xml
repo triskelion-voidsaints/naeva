@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Balanced Lifepod Core">
+ <general>
+  <typename>Systems (Core)</typename>
+  <slot prop="lifepod_core">utility</slot>
+  <size>small</size>
+  <mass>4</mass>
+  <price>1000</price>
+  <priority>2</priority>
+  <description>A balanced core is split evenly between cargo capacity and CPU, allowing a starship the flexibility to approach a variety of situations.
+
+This is the puny version, which only fits vehicles too small to be properly called a ship.</description>
+  <gfx_store>core_system_shield_s1.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <cpu_max>10</cpu_max>
+  <cargo>10</cargo>
+  <energy>200</energy>
+  <energy_regen>10</energy_regen>
+  <ammo_capacity>20</ammo_capacity>
+ </specific>
+</outfit>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Yndycla">
+ <pos x="624.127031" y="-1506.820976"/>
+ <GFX>
+  <space>P 180.webp</space>
+  <exterior>K'ar Kasi.webp</exterior>
+ </GFX>
+ <general>
+  <class>P</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <bar/>
+   <nomissionspawn/>
+   <uninhabited/>
+  </services>
+  <description>This world orbits a small white dwarf and although it may have been habitable at one time, it's currently so cold the troposphere freezes every winter. Perfectly preserved cities and ships dot this world, showing the faded splendor of the fallen civilization here. Outside of the cities, there appears to be a number of mass graves, scenes to a massacre or sacrifice too macabre to fathom. Whoever these people were, they met a fate as terrible as any in the worst annals of human history.</description>
+  <bar>The equivalent of a tavern has been perfectly preserved at this spaceport. Perfectly preserved patrons still sit in their chairs holding their drinks. Others still are reading the news or playing games, and so on. What's surprising is that all of the technology in here works; the holonet still picks up signals from far-distant human worlds, and the gambling machines are in order.  No drinks, though.</bar>
+ </general>
+ <tags>
+  <tag>ruined</tag>
+ </tags>
+</spob>

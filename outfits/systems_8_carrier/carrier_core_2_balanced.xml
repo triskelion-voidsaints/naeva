@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Balanced Carrier Core">
+ <general>
+  <typename>Systems (Core)</typename>
+  <slot prop="carrier_core">utility</slot>
+  <size>large</size>
+  <mass>173</mass>
+  <price>8000</price>
+  <priority>30</priority>
+  <description>A balanced core is split evenly between cargo capacity and CPU, allowing a starship the flexibility to approach a variety of situations.
+
+This is the large version, which is built on a ship that is a fleet unto itself.</description>
+  <gfx_store>core_system_shield_l1.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <cpu_max>300</cpu_max>
+  <cargo>300</cargo>
+  <energy>900</energy>
+  <energy_regen>87</energy_regen>
+  <ammo_capacity>20</ammo_capacity>
+ </specific>
+</outfit>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="OG-Primus E">
+ <marker>spobmarker_triangle</marker>
+ <display>Overheated Overgate#0</display>
+ <pos x="2959.899116" y="-16.159298"/>
+ <GFX>
+  <space>10-Q 90.webp</space>
+  <exterior>Overgate.webp</exterior>
+ </GFX>
+ <general>
+  <class>10-Q</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <uninhabited/>
+  </services>
+ </general>
+ <tags>
+  <tag>manifestera</tag>
+  <tag>overgate</tag>
+  <tag>overheated</tag>
+ </tags>
+</spob>

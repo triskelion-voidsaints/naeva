@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Drifter Corvette Engine">
+ <general>
+  <typename>Systems (Engine)</typename>
+  <slot prop="corvette_engines">structure</slot>
+  <size>medium</size>
+  <mass>12</mass>
+  <price>4000</price>
+  <priority>15</priority>
+  <description>A drifter engine accelerates slowly, but has a high cruising speed. This engine excels in a situation where your enemies can be planned and accounted for, so your guns cover your retreat. The gentle acceleration curve allows your ship to hold a good deal of cargo pods and missiles, slanting it towards a logistical role.
+
+This is the small version, which fits the first class of ships considered to be a proper, independent starship.</description>
+  <gfx_store>engine11.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <energy_regen_malus>4</energy_regen_malus>
+  <engine_limit>224</engine_limit>
+  <fuel>500</fuel>
+  <speed>367</speed>
+  <accel>133</accel>
+  <turn>270</turn>
+  <cargo_mod>20</cargo_mod>
+  <ammo_capacity>20</ammo_capacity>
+ </specific>
+</outfit>

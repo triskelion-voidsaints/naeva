@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Heraan LP - 'Irze'">
+ <pos x="0.000000" y="0.000000"/>
+ <marker>spobmarker_rhombus</marker>
+ <GFX>
+  <space>5-A.webp</space>
+  <exterior>Auroran LP.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Heraan</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>5-A</class>
+  <population>50</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+  </services>
+  <description>This small early warning post is named after a young Moash warrior who lived during the Great Moash invasion. This warrior was one of the main reasons for the success of the Moash forces. After passing his initiation at a very young age, he was not marked with a death tattoo, but instead journeyed to Heraan space and pretended to go through the training and trials necessary to become a Heraan warrior. After succeeding, he became a junior assistant to the Heraan Ruling Council and proceeded to pass intelligence to the Moash forces during the war while also misleading the Heraan leaders. Although he died in the conflict, he is regarded by warriors of both houses as an example of the dedication and discipline required to become a true warrior.</description>
+ </general>
+ <tags>
+  <tag>federationera</tag>
+  <tag>station</tag>
+  <tag>military</tag>
+  <tag>spying</tag>
+ </tags>
+</spob>

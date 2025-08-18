@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Kangaroo Cruiser Engine">
+ <general>
+  <typename>Systems (Engine)</typename>
+  <slot prop="cruiser_engines">structure</slot>
+  <size>large</size>
+  <mass>59</mass>
+  <price>7000</price>
+  <priority>25</priority>
+  <description>A kangaroo engine is optimized to accelerate quickly at the cost of a low cruising speed. This jumpy profile is optimal for active combat engagements, but the lack of inhibitors prevents the incorporation of cargo preservation technologies.
+
+This is the overmedium version, which is designed to accommodate a ship of the line.</description>
+  <gfx_store>krain_remige_engine.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <energy_regen_malus>7</energy_regen_malus>
+  <engine_limit>852</engine_limit>
+  <fuel>800</fuel>
+  <speed>188</speed>
+  <accel>250</accel>
+  <turn>145</turn>
+ </specific>
+</outfit>

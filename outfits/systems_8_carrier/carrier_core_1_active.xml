@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Active Carrier Core">
+ <general>
+  <typename>Systems (Core)</typename>
+  <slot prop="carrier_core">utility</slot>
+  <size>large</size>
+  <mass>173</mass>
+  <price>8000</price>
+  <priority>29</priority>
+  <description>An active core dedicates most of your ship’s interior to the processors that enable powerful weapons, but it leaves little space for cargo or missile stores.
+
+This is the large version, which is built on a ship that is a fleet unto itself.</description>
+  <gfx_store>core_system_cpu_l1.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <cpu_max>420</cpu_max>
+  <cargo>180</cargo>
+  <energy>630</energy>
+  <energy_regen>113</energy_regen>
+ </specific>
+</outfit>

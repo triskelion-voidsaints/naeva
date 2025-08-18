@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<decorator>
+ <image>abattoir.webp</image>
+ <x>282.060656</x>
+ <y>318.669594</y>
+ <detection_radius>10</detection_radius>
+</decorator>

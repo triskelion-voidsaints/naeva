@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Passive Destroyer Core">
+ <general>
+  <typename>Systems (Core)</typename>
+  <slot prop="destroyer_core">utility</slot>
+  <size>medium</size>
+  <mass>64</mass>
+  <price>6000</price>
+  <priority>23</priority>
+  <description>A passive core prioritizes cargo capacity and missile stores, allowing a ship to ferry a great deal of cargo but forcing it to take a passive role in combat.
+
+This is the medium version, which is designed to fit the standard size of capital ship.</description>
+  <gfx_store>core_system_basic_m2.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <cpu_max>60</cpu_max>
+  <cargo>140</cargo>
+  <energy>910</energy>
+  <energy_regen>46</energy_regen>
+  <ammo_capacity>40</ammo_capacity>
+ </specific>
+</outfit>

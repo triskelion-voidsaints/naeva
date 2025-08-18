@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Drifter Carrier Engine">
+ <general>
+  <typename>Systems (Engine)</typename>
+  <slot prop="carrier_engines">structure</slot>
+  <size>large</size>
+  <mass>86</mass>
+  <price>8000</price>
+  <priority>31</priority>
+  <description>A drifter engine accelerates slowly, but has a high cruising speed. This engine excels in a situation where your enemies can be planned and accounted for, so your guns cover your retreat. The gentle acceleration curve allows your ship to hold a good deal of cargo pods and missiles, slanting it towards a logistical role.
+
+This is the large version, which is built on a ship that is a fleet unto itself.</description>
+  <gfx_store>engine13.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <energy_regen_malus>8</energy_regen_malus>
+  <engine_limit>1455</engine_limit>
+  <fuel>900</fuel>
+  <speed>179</speed>
+  <accel>67</accel>
+  <turn>90</turn>
+  <cargo_mod>20</cargo_mod>
+  <ammo_capacity>20</ammo_capacity>
+ </specific>
+</outfit>

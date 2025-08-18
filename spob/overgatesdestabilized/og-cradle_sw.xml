@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="OG-Cradle SW">
+ <marker>spobmarker_triangle</marker>
+ <lua>overgate_forge.lua</lua>
+ <display>#rSouth-west Overgate#0</display>
+ <feature>#rDestabilized Overgate#0</feature>
+ <pos x="-1624.650821" y="-2491.117037"/>
+ <GFX>
+  <space>10-X 210.webp</space>
+  <exterior>Overgate.webp</exterior>
+ </GFX>
+ <general>
+  <class>10-X</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <uninhabited/>
+  </services>
+ </general>
+ <tags>
+  <tag>manifestera</tag>
+  <tag>overgate</tag>
+  <tag>overheated</tag>
+  <tag>active</tag>
+ </tags>
+</spob>

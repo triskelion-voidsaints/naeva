@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Active Cruiser Core">
+ <general>
+  <typename>Systems (Core)</typename>
+  <slot prop="cruiser_core">utility</slot>
+  <size>large</size>
+  <mass>118</mass>
+  <price>7000</price>
+  <priority>25</priority>
+  <description>An active core dedicates most of your ship’s interior to the processors that enable powerful weapons, but it leaves little space for cargo or missile stores.
+
+This is the overmedium version, which is designed to accommodate a ship of the line.</description>
+  <gfx_store>core_system_cpu_m2.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <cpu_max>210</cpu_max>
+  <cargo>90</cargo>
+  <energy>560</energy>
+  <energy_regen>95</energy_regen>
+ </specific>
+</outfit>

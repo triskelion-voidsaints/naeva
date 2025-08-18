@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Feret">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>P cities 0.webp</space>
+  <exterior>Feret.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Moash</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>P</class>
+  <population>6924889152</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <description>Some three centuries ago, the leader of the Moash House decided that he would have a university built on this planet, so that those who could not become warriors could at least have an impact on society. Since then, in the eyes of the warriors, the only useful contribution made by this place to the well-being of the Moash Family is the training of the many thousands of medical staff necessary to support them. Most Moash warriors would avoid this system entirely if there were not a garrison placed here to protect this 'valuable' resource, and if the main hospital facilities in Moash space were not located here. The warriors stationed here are a fractious, unruly lot, as they are often sent here as a punishment for some misdeed or another.</description>
+  <bar>As you walk in you are challenged by one of the very few unfit looking warriors you have ever seen. You are about to respond when his eyes roll up into his head and he falls to the floor unconscious.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.63">Medical Supplies</item>
+  <item price_mod="1.5">Industrial</item>
+  <item price_mod="1.43">Equipment</item>
+ </tech>
+ <tags>
+  <tag>research</tag>
+  <tag>medical</tag>
+ </tags>
+</spob>

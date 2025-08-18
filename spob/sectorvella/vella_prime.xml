@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Vella Prime">
+ <pos x="1977.234435" y="2041.430359"/>
+ <GFX>
+  <space>G cities 45.webp</space>
+  <exterior>Vella.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Vella</faction>
+  <base>400.000000</base>
+  <bonus>200.000000</bonus>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>G</class>
+  <population>85179478035</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <description>This is the homeworld of the Vella House, and it is where the Vella Ruling Council resides. Vella itself is a polluted mess of a world, due to its enormous population. The number of people living on Vella exceeds 85 billion, and they have numbered more than 60 billion for nearly two centuries. In fact, no native plant or animal life has been able to live here for nearly eight centuries, as Vella has always been amongst the most populated planets in the Known Galaxy.</description>
+  <bar>This bar hosts a cross-section of Auroran Society. You see a few dirty, obviously poor men drinking alone at the bar as well as a number of slightly better dressed merchants drinking with the fiercely tattooed warriors who had been paid to protect them and their cargo. Nobody pays you any attention.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.500000">Industrial</item>
+  <item price_mod="0.330000">Local Alcohols</item>
+  <item price_mod="0.330000">Data Crystals</item>
+  <item price_mod="1.500000">Foodstuffs</item>
+  <item price_mod="1.33">Luxury Goods</item>
+ </tech>
+ <tags>
+  <tag>homeworld</tag>
+  <tag>urban</tag>
+ </tags>
+</spob>

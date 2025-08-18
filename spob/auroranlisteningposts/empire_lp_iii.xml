@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Empire LP III">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>0-A big.webp</space>
+  <exterior>Auroran Single.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Aurora Empire</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>0-A</class>
+  <population>12000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+  </services>
+  <description>This is a forward assembly area for Auroran warriors to both protect the center of the Empire, and to launch task forces to settle disputes in the End sector. Nearly all young warriors spend some time at one of these stations, but only a few receive an extended posting to one. Those that are sent here for any real length of time will have the opportunity to earn some honor while sharpening their skills, as they are often sent as a ready reaction force to help out with the incessant raiding from Pirates and Houseless Warriors.</description>
+ </general>
+ <tags>
+  <tag>federationera</tag>
+  <tag>station</tag>
+  <tag>military</tag>
+  <tag>spying</tag>
+ </tags>
+</spob>

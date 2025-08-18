@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="GH_Heraan">
+ <general>
+  <radius>4500.000000</radius>
+  <spacedust>400</spacedust>
+  <interference>0.000000</interference>
+ </general>
+ <pos x="-167.987003" y="-463.618736"/>
+ <spobs>
+  <spob>GH_Heraan Reciever</spob>
+  <spob>OG-Heraan E</spob>
+  <spob>OG-Heraan NE</spob>
+  <spob>OG-Heraan NW</spob>
+  <spob>OG-Heraan SE</spob>
+  <spob>OG-Heraan SW</spob>
+  <spob>OG-Heraan W</spob>
+ </spobs>
+ <jumps>
+  <jump target="Heraan">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Lacora">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Saal">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+ </jumps>
+ <tags>
+  <tag>Heraan</tag>
+ </tags>
+</ssys>

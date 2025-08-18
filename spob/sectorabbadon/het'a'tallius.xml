@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Het'A'Tallius">
+ <pos x="54.057978" y="2998.735202"/>
+ <GFX>
+  <space>I 0.webp</space>
+  <exterior>Unknown.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Wraith</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>I</class>
+  <population>1000000</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+ <tags>
+  <tag>gasgiant</tag>
+  <tag>aliens</tag>
+ </tags>
+</spob>

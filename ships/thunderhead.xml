@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ship name="Civ. Thunderhead [S]">
+ <points>1</points>
+ <base_type>thunderhead</base_type>
+ <gfx sx="8" sy="9" format="webp">thunderhead</gfx>
+ <sound>engine</sound>
+ <class>Fighter</class>
+ <price>200000</price>
+ <time_mod>1</time_mod>
+ <faction>Independent</faction>
+ <fabricator>GLi-Tech Arms</fabricator>
+ <description>A much maligned assault fighter.</description>
+ <rarity>1</rarity>
+ <characteristics>
+  <crew>2</crew>
+  <mass>10</mass>
+  <fuel>200</fuel>
+  <fuel_consumption>100</fuel_consumption>
+ </characteristics>
+ <health>
+  <armour>600</armour>
+ </health>
+ <slots>
+  <utility size="small" prop="fighter_core">Balanced Fighter Core</utility>
+  <structure size="small" prop="fighter_engines">Rounded Fighter Engine</structure>
+  <structure size="small" prop="fighter_hull">Standard Fighter Hull</structure>
+  <weapon size="small" />
+  <weapon size="small" />
+  <weapon size="small" prop="launcher"/>
+  <structure size="small"/>
+  <structure size="small"/>
+  <structure size="small"/>
+  <utility size="small"/>
+  <utility size="small"/>
+ </slots>
+ <stats>
+  <speed>-75</speed>
+  <accel>100</accel>
+  <turn>-60</turn>
+  <absorb>10</absorb>
+  <stress_dissipation>10</stress_dissipation>
+  <cpu_max>18</cpu_max>
+  <mining_bonus>25</mining_bonus>
+ </stats>
+</ship>

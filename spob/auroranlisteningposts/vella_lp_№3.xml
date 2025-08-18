@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Vella LP №3">
+ <pos x="0.000000" y="0.000000"/>
+ <marker>spobmarker_rhombus</marker>
+ <GFX>
+  <space>5-A.webp</space>
+  <exterior>Auroran LP.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Vella</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>5-A</class>
+  <population>50</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+  </services>
+  <description>The warriors at this early-warning station face down the mercenary group known as the Wild Geese, whom the Aurorans call 'Archekro': 'they who dance with blood and war'. Evidently, the Vella give them a great deal of respect, and no warrior here doubts their ability to cause havoc in Vella space if given the chance. Consequently, those stationed at this listening post give a great deal of effort to deflecting any Wild Geese scouting party they encounter here.</description>
+ </general>
+ <tags>
+  <tag>federationera</tag>
+  <tag>station</tag>
+  <tag>military</tag>
+  <tag>spying</tag>
+ </tags>
+</spob>

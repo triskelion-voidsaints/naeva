@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Lodestone">
+ <pos x="2389.088475" y="-1932.023204"/>
+ <GFX>
+  <space>H cities 135.webp</space>
+  <exterior>Lodestone.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>H</class>
+  <population>251159167</population>
+  <hide>2.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+   <blackmarket/>
+  </services>
+  <description>Prospectors always number among the first people to explore new territories, and space has not proved to be an exception to the rule. Lodestone was discovered to have rich mineral deposits in the second major expansion of the Manifest. Many useful metals are mined here, as well as gems and rare earths. Lodestone is officially a Federation member, but is in reality owned by BHP Billiton, who in turn lease out parts of the planet to smaller concerns.</description>
+  <bar>A more wretched hive of scum and villainy you will not find. In one corner you have a seedy band playing some exotic form of what you think is music, and the rest of the dimly lit bar is filled with dodgy and dangerous looking characters who are all giving you the once over. You decide to spend as little time here as possible.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.500000">Metals</item>
+  <item price_mod="1.430000">Equipment</item>
+  <item price_mod="1.380000">Medical Supplies</item>
+ </tech>
+ <tags>
+  <tag>manifestera</tag>
+  <tag>mining</tag>
+  <tag>criminal</tag>
+ </tags>
+</spob>

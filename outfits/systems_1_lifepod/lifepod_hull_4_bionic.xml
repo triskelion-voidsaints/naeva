@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Bionic Lifepod Hull">
+ <general>
+  <typename>Systems (Hull)</typename>
+  <slot prop="lifepod_hull">structure</slot>
+  <size>small</size>
+  <priority>1</priority>
+  <mass>6</mass>
+  <price>1000</price>
+  <description>Like a standard hull, bionic hulls are perfectly balanced between shield capacity and armour strength. Their competitive edge comes with regards to regeneration, which is 30% greater in total than their competitors and is also perfectly balanced between shield recharge and hull repair.
+
+This is the puny version, which only fits vehicles too small to be properly called a ship.</description>
+  <gfx_store>organic_hull_t.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <armour>500</armour>
+  <shield>500</shield>
+  <shield_regen>98</shield_regen>
+  <armour_regen>98</armour_regen>
+ </specific>
+</outfit>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Aantren">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>X 180.webp</space>
+  <exterior>Retsim.webp</exterior>
+ </GFX>
+ <general>
+  <class>X</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <uninhabited/>
+  </services>
+  <description>This planet is completely covered in greenish algae and primordial sludge. Toxic levels of carbon dioxide saturate the atmosphere, while the oceans are filled with bacterial toxins. It's the beginnings of life on a world, and would almost be beautiful to behold if it weren't completely disgusting.</description>
+ </general>
+ <tags>
+  <tag>mysterious</tag>
+  <tag>toxic</tag>
+ </tags>
+</spob>

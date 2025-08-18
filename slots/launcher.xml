@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot name="launcher">
+ <display>Missile Launcher</display>
+ <description>This slot is used by guns and missile launchers.</description>
+ <icon>launcher.png</icon>
+</slot>

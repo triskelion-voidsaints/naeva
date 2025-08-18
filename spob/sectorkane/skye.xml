@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Skye">
+ <pos x="21.398641" y="2075.668184"/>
+ <GFX>
+  <space>MD cities 0.webp</space>
+  <exterior>Skye.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>MD</class>
+  <population>2618209497</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <description>Skye is smallish for an inhabited planet. It has a slightly rarefied atmosphere, but a high internal density that provides a gravity of 0.992 standard G. Many forms of life flourish on this bountiful paradise world, which has all the environments you might expect from a class-M planet. Skye is a provincial world, and the people here are happy and carefree. The troubles of the universe seldom intrude in this best garden of the Federation. The population numbers many Gaelic people, and celebrations of traditional feast days are always exuberant. The sunsets over Hope Bay on the western hemisphere continent of Llyril are a marvel of the galaxy, and are perfect for quiet contemplation of life.</description>
+  <bar>You walk in to hear the strains of a melodious folk-song being sung lustily and well by most of the patrons. You are immediately whisked into their midst and given a drink and shown a damn good time.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.67">Luxury Goods</item>
+  <item price_mod="1.43">Equipment</item>
+  <item price_mod="1">Local Alcohols</item>
+ </tech>
+ <tags>
+  <tag>frontierera</tag>
+  <tag>aliens</tag>
+  <tag>rural</tag>
+  <tag>tourism</tag>
+  <tag>agriculture</tag>
+ </tags>
+</spob>

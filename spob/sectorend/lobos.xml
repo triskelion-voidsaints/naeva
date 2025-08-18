@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Lobos">
+ <pos x="-3004.369207" y="-12.839185"/>
+ <GFX>
+  <space>W cities 270.webp</space>
+  <exterior>Lobos.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Heraan</faction>
+  <base>400.000000</base>
+  <bonus>75.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>W</class>
+  <population>50436743630</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <description>Like Rimerta in the Pimen system, Lobos was colonized by members of the enormous Auroran underclass made up of the poor and weak. Unlike the Rimertans, the warriors from this world inevitably become members of the Heraan House. This is out of gratitude for the Heraan-sponsored management of their planet, and for the guidance that the Heraan warriors freely give to them in terms of training and support for these young aspirants.</description>
+  <bar>As you walk in you see a Heraan House warrior talking to a number of young warrior initiates about the nature of being a warrior. You hear the words honor, strength, integrity and above all impeccability being mentioned often.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.670000">Luxury Goods</item>
+  <item price_mod="1.500000">Foodstuffs</item>
+ </tech>
+ <tags>
+  <tag>poor</tag>
+  <tag>immigration</tag>
+  <tag>urban</tag>
+ </tags>
+</spob>

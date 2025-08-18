@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Olympus">
+ <pos x="2188.244945" y="-1942.019178"/>
+ <GFX>
+  <space>C cities 135.webp</space>
+  <exterior>Misfire.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Olympians</faction>
+  <base>700.000000</base>
+  <bonus>0.000000</bonus>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>MD</class>
+  <population>437171180</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <commodity/>
+  </services>
+  <description>This is the homeworld of the Olympians, humans with telekinetic powers who settled here during the Third Dark Age and have defended the Federation since.</description>
+ </general>
+ <tech>
+  <item>Maps</item>
+  <item price_mod="0.67">Luxury Goods</item>
+ </tech>
+ <tags>
+  <tag>homeworld</tag>
+ </tags>
+</spob>

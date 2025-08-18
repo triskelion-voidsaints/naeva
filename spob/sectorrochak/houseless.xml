@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Houseless">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>D-A.webp</space>
+  <exterior>Inhabited Asteroid Houseless.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Ronin Warriors</faction>
+  <base>400.000000</base>
+  <bonus>200.000000</bonus>
+  <range>6</range>
+ </presence>
+ <general>
+  <class>D-A</class>
+  <population>192473</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <description>Situated deep in the Rochak Dust Field, Kipa is one of this group of systems that play home to ronin warriors; warriors who have been cast out of their families for dishonorable actions. These warriors occasionally attack along the trade routes close by. On this small asteroid, which they have named Houseless, these warriors have a small base for refuelling and some basic repairs. So far they have managed to avoid angering the Dani and Tekel families too much, and so they continue to plague this area. Both these great houses claim that these systems fall inside the borders of the other, and that therefore it is not their problem. In short, these pirates continue to operate freely.</description>
+  <bar>This richly appointed establishment is overlooked by a balcony which has but one table. A shadowy figure sits there watching the movements of everyone in the bar.</bar>
+ </general>
+ <tech>
+  <item price_mod="1.500000">Foodstuffs</item>
+  <item price_mod="1.500000">Metals</item>
+  <item price_mod="1.500000">Industrial</item>
+  <item price_mod="1.430000">Equipment</item>
+  <item price_mod="1.380000">Medical Supplies</item>
+  <item price_mod="1.330000">Luxury Goods</item>
+ </tech>
+ <tags>
+  <tag>pirate</tag>
+  <tag>station</tag>
+ </tags>
+</spob>

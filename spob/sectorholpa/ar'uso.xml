@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Ar'Uso">
+ <marker>spobmarker_empty</marker>
+ <pos x="973.638169" y="-898.742925"/>
+ <GFX>
+  <space>DM cities 0.webp</space>
+  <exterior>Ar'Uso.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Mu'hari</faction>
+  <base>150.000000</base>
+  <bonus>75.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>DM</class>
+  <population>27540</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <description>This is a forested, mountainous moon circling Ar'Bis Usoca that has a small population of Mu'hari, as the 'casteless' caste are called. The Mu'hari ensure the preservation of the pristine environment on Ar'Bis Usoca, and protect it from any outside incursion, warding it against all ships except for those piloted by the new leaders of the Polaris. Ar'Uso is a small green jewel of a moon.</description>
+  <bar>This tiny bar has a few black-cloaked Mu'Hari drinking in it when you arrive. As soon as they see you they immediately all make sure that your every need is taken care of before returning to their own drinks. You have never seen a group of people more concerned with your welfare.</bar>
+ </general>
+  <tech>
+  <item price_mod="0.57">Equipment</item>
+  <item price_mod="1.5">Industrial</item>
+ </tech>
+ <tags>
+  <tag>enviromentalprotection</tag>
+  <tag>government</tag>
+  <tag>military</tag>
+ </tags>
+</spob>

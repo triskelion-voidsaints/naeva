@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Moash Prime">
+ <pos x="25.678369" y="-2811.781437"/>
+ <GFX>
+  <space>C cities 180.webp</space>
+  <exterior>Moash.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Moash</faction>
+  <base>400.000000</base>
+  <bonus>200.000000</bonus>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>C</class>
+  <population>100833034577</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <description>This is the homeworld of the Moash House, but the Moash Ruling Council does not make its home here. Instead, because the Moash are also the First Family, their leaders reside in the Aurora system. The population here has declined since the induction of the Moash House as the First Family; it is now only the second-most populated world in Known Space, with some one hundred billion inhabitants.
+ 
+ Moash, like all the homeworlds for the Five Families and Aurora itself, has been settled for nearly a millennium. This marginally habitable planet was founded as a population center for the Manifest, in what was then titled the Moash region of known space. The poor and the illfavored were relocated either here or to other colony projects along the southern rim. The only chance for long term survival here was through the construction of arcologies, which the colonist's labour and lives were spent upon.</description>
+  <bar>This bar looks like it is many centuries old, and this is exactly what the bartender claims. He reckons that this bar is the oldest pub in known space and that it has been in operation for over 1200 years. Despite this you note that obviously they are yet to figure out how to brew a decent beer.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.670000">Luxury Goods</item>
+  <item price_mod="1.500000">Foodstuffs</item>
+  <item price_mod="0.330000">Data Crystals</item>
+ </tech>
+ <tags>
+  <tag>manifestera</tag>
+  <tag>rich</tag>
+  <tag>urban</tag>
+  <tag>artisans</tag>
+ </tags>
+</spob>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Bolshevik">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>0-A big.webp</space>
+  <exterior>Auroran Single.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Vella</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>0-A</class>
+  <population>12552</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <description>Because of its infamous history, this Vella battle-station is titled after the name given to revolutionaries in an ancient, now forgotten language of Earth. Nearly a century ago, the warriors stationed here became restless due to the boring nature of life on this station. After repeated calls by many of them asking for a re-posting to anywhere else, the station as a whole revolted and declared itself independent of Vella rule. Unfortunately for them, the warriors stationed elsewhere were more battle-hardened, and when they came to retake the station, not one of the revolutionaries was left alive. Since then, the leaders of the Vella Family have decided to make this station into a training location for warriors between postings, and the surrounding space is filled with warriors practicing their skills.</description>
+  <bar>This well-placed, if shonkily constructed bar is full of happy and mostly drunk off-duty warriors all trying to drink themselves into oblivion. You are immediately grabbed and dragged to the bar and challenged to a drinking competition. It is the start of a long, if slightly hazy, night.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.670000">Luxury Goods</item>
+  <item price_mod="1.500000">Metals</item>
+ </tech>
+ <tags>
+  <tag>station</tag>
+  <tag>military</tag>
+  <tag>training</tag>
+ </tags>
+</spob>

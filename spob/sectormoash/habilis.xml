@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Habilis">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>MD cities 0.webp</space>
+  <exterior>Habilis.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Aurora Empire</faction>
+  <base>150.000000</base>
+  <bonus>75.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>MD</class>
+  <population>2665615916</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <description>Habilis is a small world with the only official Auroran exploratory outpost on it. Here scientists, engineers, and warriors work together in an attempt to penetrate the veils of space to the Galactic South. Thus far they have been unable to find a single stable jump point, but nonetheless they continue trying. In the meantime, the Empire is slowly transporting people from places like Rimerta in the Pimen system to this planet, in an effort to reduce the enormous population strain on those worlds.</description>
+  <bar>You walk in to see the amazing sight of warriors, engineers and scientists all sitting together discussing the problems encountered with exploration of the Galactic South thus far.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.63">Medical Supplies</item>
+  <item price_mod="1.43">Equipment</item>
+ </tech>
+ <tags>
+  <tag>research</tag>
+  <tag>exploration</tag>
+  <tag>immigration</tag>
+ </tags>
+</spob>

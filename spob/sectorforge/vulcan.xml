@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Vulcan">
+ <pos x="-1988.290400" y="1968.674979"/>
+ <GFX>
+  <space>4-M 0.webp</space>
+  <exterior>Vulcan.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>500.000000</base>
+  <bonus>200.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>4-W</class>
+  <population>14268172423</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <description>Vulcan is the capital of the Federation and a hub of activity in the core worlds, but this world was originally founded as the Manifest’s nerve center for colonization.
+
+Millions of colonists were processed here and sent to their final destination via the Kane Band, named for the messianic figure, Omata Kane. This massive ring laid the keels of hundreds of colony ships and the ancestors of most Aurorans can be traced back to Vulcan. There are no greater shipyards anywhere in known space; in fact, Sigma Shipyards actually owns 62% of the band surface.
+
+During the Second Dark Age, the remnants of the Manifest navy chose Vulcan as their final destination. It is perhaps no surprise that hundreds of years later, this planet would rise to protect the surrounding sectors as the Overwatch, a duty that continues to this day.
+
+Besides playing host to the Federation Council, Vulcan is home to the Kane University, a conservative institution which produces the research that provides the basis for much of the Federation's doctrine. It's also a hub of tourism as humanity's second homeworld, with sites that show off the fascinating culture that flourished after humans were resettled here by the Vell-os.</description>
+  <bar>A well-known haven to spacers, Kane's Lubritorium is known throughout the Federation for its warm flat beer from rusty taps. An acquired taste for sure.</bar>
+ </general>
+ <tech>
+  <item>Maps</item>
+  <item>IDAs</item>
+  <item price_mod="0.630000">Medical Supplies</item>
+  <item price_mod="1.430000">Equipment</item>
+ </tech>
+ <tags>
+  <tag>manifestera</tag>
+  <tag>government</tag>
+  <tag>tourism</tag>
+  <tag>homeworld</tag>
+  <tag>shipbuilding</tag>
+  <tag>research</tag>
+  <tag>medical</tag>
+ </tags>
+</spob>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="OG-Heraan SE">
+ <pos x="1815.477254" y="-2363.889817"/>
+ <marker>spobmarker_triangle</marker>
+ <lua>active_overgate_heraan_se.lua</lua>
+ <display>#bSouth-east Overgate#0</display>
+ <feature>#bOvergate#0</feature>
+ <GFX>
+  <space>10-9 150.webp</space>
+  <exterior>Overgate.webp</exterior>
+ </GFX>
+ <general>
+  <class>10-9</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <uninhabited/>
+  </services>
+ </general>
+ <tags>
+  <tag>manifestera</tag>
+  <tag>overgate</tag>
+  <tag>active</tag>
+ </tags>
+</spob>

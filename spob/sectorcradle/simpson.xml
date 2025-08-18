@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Simpson">
+ <pos x="-1005.207769" y="2833.641294"/>
+ <GFX>
+  <space>DD cities 315.webp</space>
+  <exterior>Simpson.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Pirate</faction>
+  <base>300.000000</base>
+  <bonus>0.000000</bonus>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>DD</class>
+  <population>543823</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <blackmarket/>
+  </services>
+  <description>Simpson is home to a number of small-time ship outfitters who maintain the vessels of the small number of prospectors (and occasional pirate) who roam the northern edges of the Federation and beyond. It is known for its somewhat shady deals, and is tolerated by the Federation authorities, who usually give it a wide berth. Many a criminal on the run can be found here, and bounty hunters number many among the populace. Life is cheap here, and friends will betray friends for the price of another drink.</description>
+  <bar>As you walk in, you see a flash from the corner of the bar, followed by a expanding cloud of smoke. You are unsure as to what actually happened, but you recognize a muzzle flash when you see one. You decide it would be prudent to sit at the bar and talk to no-one but the barman.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.57">Equipment</item>
+  <item price_mod="1.5">Metals</item>
+ </tech>
+ <tags>
+  <tag>federationera</tag>
+  <tag>trade</tag>
+  <tag>criminal</tag>
+ </tags>
+</spob>

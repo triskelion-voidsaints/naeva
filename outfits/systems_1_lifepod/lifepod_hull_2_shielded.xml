@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Shielded Lifepod Hull">
+ <general>
+  <typename>Systems (Hull)</typename>
+  <slot prop="lifepod_hull">structure</slot>
+  <size>small</size>
+  <priority>3</priority>
+  <mass>6</mass>
+  <price>1000</price>
+  <description>Shielded hulls rely on a dedicated array of shield capacitors to provide best in class shield capacity, backed up by a dedicated array of shield rechargers. While the ship’s structure is still sturdy, its hull does not mount armour and should not be relied upon to deflect fire.
+
+This is the puny version, which only fits vehicles too small to be properly called a ship.</description>
+  <gfx_store>base_hull_t.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <armour>300</armour>
+  <shield>700</shield>
+  <shield_regen>150</shield_regen>
+ </specific>
+</outfit>

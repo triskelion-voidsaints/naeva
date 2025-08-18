@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Viking">
+ <pos x="-3719.394248" y="2944.273200"/>
+ <GFX>
+  <space>MW cities 270.webp</space>
+  <exterior>Viking.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>100.000000</base>
+  <bonus>75.000000</bonus>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>MW</class>
+  <population>7516102718</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+   <blackmarket/>
+  </services>
+  <description>Viking is a mineral- and ore-rich world, and has been mined heavily, leaving a once picturesque planet polluted and overcast. Many of the ores and minerals mined here are shipped up to High Bifrost in orbit, and taken to various parts of the Federation to be used in the production of the numerous parts and equipment required by the Federation Navy. The contract was given to Hal Corp, a Federation-owned company, but the mining operation is highly successful, and any questions of nepotism have been answered by their productivity levels.</description>
+  <bar>The 'Hallowed Owl' spaceport bar features welcoming claustrophobia and aromatic rust. It's a local favorite for Viking Space Academy pilots.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.500000">Metals</item>
+  <item price_mod="1.380000">Medical Supplies</item>
+ </tech>
+ <tags>
+  <tag>federationera</tag>
+  <tag>mining</tag>
+  <tag>shipbuilding</tag>
+ </tags>
+</spob>

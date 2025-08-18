@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Heraan LP - 'Heron'">
+ <pos x="0.000000" y="0.000000"/>
+ <marker>spobmarker_rhombus</marker>
+ <GFX>
+  <space>5-A.webp</space>
+  <exterior>Auroran LP.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Heraan</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>5-A</class>
+  <population>50</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+  </services>
+  <description>This lightly manned early warning post is named for the Heraan style of unarmed combat. Over the centuries, the Heraan warriors have shown themselves to be nearly invincible in hand-to-hand confrontations. Their style includes very powerful strikes and a subtle understanding of wrestling techniques. Their method of fighting is called the Heron style because those who are acknowledged masters of this style by their fellow practitioners have a heron tattooed onto their faces. At any one time, there are perhaps three or four Heron masters amongst the Heraan warrior population, and they are held in the highest respect by any who meet them.</description>
+ </general>
+ <tags>
+  <tag>federationera</tag>
+  <tag>station</tag>
+  <tag>military</tag>
+  <tag>spying</tag>
+ </tags>
+</spob>

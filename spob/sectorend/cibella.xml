@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Cibella">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>O cities 0.webp</space>
+  <exterior>Cibella.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Tekel</faction>
+  <base>400.000000</base>
+  <bonus>75.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>O</class>
+  <population>3809353894</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+   <commodity/>
+  </services>
+  <description>Cibella, barring the one major island, is a water world that was an untouched paradise until the recent colonization by the Tekel family as part of the End colonies project. However, in the last two decades since it was settled, the population of the four arcologies has increased to nearly four billion people, and the pollution has begun to have serious effects on the ecology of this once-beautiful world. In typical Auroran fashion, this is not seen as important.</description>
+ </general>
+ <tech>
+  <item price_mod="0.500000">Foodstuffs</item>
+  <item price_mod="1.500000">Industrial</item>
+ </tech>
+ <tags>
+  <tag>enviromentalprotection</tag>
+  <tag>immigration</tag>
+ </tags>
+</spob>

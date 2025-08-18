@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Hunter Station">
+ <pos x="-1286.840302" y="-1738.133483"/>
+ <GFX>
+  <space>0-C-P.webp</space>
+  <exterior>Civilian Station Small.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>0-C</class>
+  <population>6463</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+  </services>
+  <description>If you're looking for someone or something, there's a good chance it can be found on Hunter Station. As the headquarters of the Guild of Bounty Hunters, wanted people from all over the galaxy tend to be brought here, either as a guest or as a prisoner.</description>
+ </general>
+ <tags>
+  <tag>federationera</tag>
+  <tag>station</tag>
+  <tag>prison</tag>
+ </tags>
+</spob>

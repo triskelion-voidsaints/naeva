@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Hax">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>Z 0.webp</space>
+  <exterior>Simpson.webp</exterior>
+ </GFX>
+ <general>
+  <class>Z</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <nomissionspawn/>
+   <uninhabited/>
+  </services>
+  <description>Hax, as it is called by the nav-buoys, is the sole survivor of the destruction of its solar system.  Wandering aimlessly throughout the cosmos, Hax is a broken heap of a world that outlasted its sun, a dyson sphere, and every other stellar body formerly present in this system.  Faint energy readings and a world-spanning metallic lattice suggest that this world was once a fortress against an unknown menace, and was heavily shielded in case of an attack. Evidently, it didn't help as much as they had hoped.</description>
+ </general>
+ <tags>
+  <tag>ruined</tag>
+ </tags>
+</spob>

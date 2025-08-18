@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Bionic Frigate Hull">
+ <general>
+  <typename>Systems (Hull)</typename>
+  <slot prop="frigate_hull">structure</slot>
+  <size>medium</size>
+  <priority>17</priority>
+  <mass>59</mass>
+  <price>5000</price>
+  <description>Like a standard hull, bionic hulls are perfectly balanced between shield capacity and armour strength. Their competitive edge comes with regards to regeneration, which is 30% greater in total than their competitors and is also perfectly balanced between shield recharge and hull repair.
+
+This is the submedium version, which fits the smallest class of capital ships.</description>
+  <gfx_store>organic_hull_m.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <armour>5500</armour>
+  <shield>5500</shield>
+  <shield_regen>36</shield_regen>
+  <armour_regen>36</armour_regen>
+ </specific>
+</outfit>

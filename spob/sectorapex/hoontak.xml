@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Hoontak">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>C 90.webp</space>
+  <exterior>K012a.webp</exterior>
+ </GFX>
+ <general>
+  <class>C</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <uninhabited/>
+  </services>
+  <description>This planet was apparently once home to a quarry where strange crystals were mined. It is not immediately clear what the purpose of the crystals was, but they appear to have a resonant frequency that is abnormally close to the very constant winds of the planet. The result is that the crystals 'sing,' lending an erie quality to this otherwise unremarkable planet.</description>
+ </general>
+ <tags>
+  <tag>mysterious</tag>
+ </tags>
+</spob>

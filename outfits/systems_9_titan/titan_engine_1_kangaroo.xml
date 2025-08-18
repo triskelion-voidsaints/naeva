@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Kangaroo Titan Engine">
+ <general>
+  <typename>Systems (Engine)</typename>
+  <slot prop="titan_engines">structure</slot>
+  <size>large</size>
+  <mass>115</mass>
+  <price>9000</price>
+  <priority>33</priority>
+  <description>A kangaroo engine is optimized to accelerate quickly at the cost of a low cruising speed. This jumpy profile is optimal for active combat engagements, but the lack of inhibitors prevents the incorporation of cargo preservation technologies.
+
+This is the massive version, which is built around a ship whose size is staggering and purpose unfathomable.</description>
+  <gfx_store>engine5.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <energy_regen_malus>9</energy_regen_malus>
+  <engine_limit>2246</engine_limit>
+  <fuel>1000</fuel>
+  <speed>88</speed>
+  <accel>150</accel>
+  <turn>55</turn>
+ </specific>
+</outfit>

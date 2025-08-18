@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Passive Titan Core">
+ <general>
+  <typename>Systems (Core)</typename>
+  <slot prop="titan_core">utility</slot>
+  <size>large</size>
+  <mass>229</mass>
+  <price>9000</price>
+  <priority>35</priority>
+  <description>A passive core prioritizes cargo capacity and missile stores, allowing a ship to ferry a great deal of cargo but forcing it to take a passive role in combat.
+
+This is the massive version, which is built around a ship whose size is staggering and purpose unfathomable.</description>
+  <gfx_store>core_system_basic_l2.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <cpu_max>312</cpu_max>
+  <cargo>728</cargo>
+  <energy>1300</energy>
+  <energy_regen>66</energy_regen>
+  <ammo_capacity>40</ammo_capacity>
+ </specific>
+</outfit>

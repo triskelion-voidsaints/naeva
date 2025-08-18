@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot name="carrier_hull">
+ <display>Ship Hull</display>
+ <description>This is the ship's basic, built-in defensive configuration.</description>
+ <exclusive/>
+ <required/>
+ <locked/>
+ <icon>hull.png</icon>
+ <tags>
+  <tag>core</tag>
+ </tags>
+</slot>

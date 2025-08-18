@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Tre'ar Helonis">
+ <pos x="15.479341" y="15.479341"/>
+ <GFX>
+  <space>4.webp</space>
+  <exterior>Helonis.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Tre'pira</faction>
+  <base>400.000000</base>
+  <bonus>200.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>4</class>
+  <population>10533072516</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <description>This is one of the many wonders discovered by the original Polaris expedition as they explored their way through space. Tre'ar Helonis, as the ringworld came to be called, stunned and amazed the scientists of that expedition, and has continued to baffle Polaris science ever since. The sheer volume of matter required to build this obviously artificial construction dwarfs all human constructions throughout history. Other than housing a large scientific community, the majority of the vast ringworld that is settled by the Polaris is devoted to agriculture. This feeds nearly the entire Polaris people, although over 99% of the ringworld still remains uninhabited.</description>
+  <bar>This bar is filled with photographs of various uninhabited regions of the ring. You learn that the entire human race could be supported comfortably by the ecosystems on this ring world.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.500000">Foodstuffs</item>
+  <item price_mod="1.430000">Equipment</item>
+ </tech>
+ <tags>
+  <tag>mysterious</tag>
+  <tag>ringworld</tag>
+  <tag>agriculture</tag>
+ </tags>
+</spob>

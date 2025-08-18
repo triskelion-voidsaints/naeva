@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commodity>
+ <name>Local Alcohols</name>
+ <description>Distinct from luxury or synthetically-produced alcohols primarily by their production volumes, large-scale industrial processes, spatially-limited availability and complex, rich flavours that vary more than larger brands' items.</description>
+ <price_constant/>
+ <price>600</price>
+ <gfx_store>water.webp</gfx_store>
+</commodity>

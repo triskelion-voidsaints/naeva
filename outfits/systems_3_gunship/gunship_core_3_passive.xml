@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Passive Gunship Core">
+ <general>
+  <typename>Systems (Core)</typename>
+  <slot prop="gunship_core">utility</slot>
+  <size>small</size>
+  <mass>16</mass>
+  <price>3000</price>
+  <priority>11</priority>
+  <description>A passive core prioritizes cargo capacity and missile stores, allowing a ship to ferry a great deal of cargo but forcing it to take a passive role in combat.
+
+This is the overtiny version, which fits the smallest of ships with a multi-person crew.</description>
+  <gfx_store>core_system_basic_s2.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <cpu_max>18</cpu_max>
+  <cargo>42</cargo>
+  <energy>520</energy>
+  <energy_regen>22</energy_regen>
+  <ammo_capacity>40</ammo_capacity>
+ </specific>
+</outfit>

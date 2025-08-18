@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Merrol">
+ <pos x="-4.299817" y="1014.756803"/>
+ <GFX>
+  <space>MD 0.webp</space>
+  <exterior>Merrol.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Rebellion</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>MD</class>
+  <population>1355484550</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <shipyard/>
+   <commodity/>
+  </services>
+  <description>Merrol is the only planet in Federation space to be in open rebellion. The Federation describes this planet as a breakaway being held by 'pirates,' and has instituted a blockade for 'the duration of the current emergency.' Meanwhile, Merrol is quite self-sufficient. It's also the central shipyards for the Rebellion, where purchased, stolen and captured ships are taken to be refitted for active duty. Many of the ships sustain their heaviest damage coming through the blockade above the planet.</description>
+  <bar>The mostly young people in this bar proclaim themselves to be in Rebellion. They say that they are not rebelling against the Federation, but that they are rebelling against the Bureau of Internal Investigation and, sadly, against the tools it uses.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Industrial</item>
+  <item price_mod="1.5">Foodstuffs</item>
+  <item price_mod="1.43">Equipment</item>
+ </tech>
+ <tags>
+  <tag>federationera</tag>
+  <tag>shipbuilding</tag>
+  <tag>refugee</tag>
+ </tags>
+</spob>

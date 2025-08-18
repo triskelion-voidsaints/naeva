@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Adventure II">
+ <pos x="-2372.681322" y="-400.582561"/>
+ <marker>spobmarker_empty</marker>
+ <GFX>
+  <space>DL 270.webp</space>
+  <exterior>Tau II.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>DL</class>
+  <population>394192</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <description>In stark contrast to the aquatic bounty of Adventure Prime, Adventure II is a rock. Battered almost continually by fierce moonquakes, the popular holovid sport "Niarr!!(r) XTreem(tm) Rocket-boarding" is broadcast live from this moon to an audience estimated to be in the billions. In this sport, dare-devils strap their feet into high velocity rocket sleds, and attempt to survive the twisting circuit of canyons, billiard-table smooth plateaus and death-defying jumps to collect big cash prizes. Participants in this sport are considered by connoisseurs to be veterans after a mere three races. The prize money and title of "Niarr!!(r) Widowmaker(tm)" are often enough to convince the title-holder to retire to a life of luxury on a much, much more tectonically stable planet.</description>
+  <bar>This bar is full of cheering fans who are watching the "Niarr!! XTreem(tm) Rocket Boarding" contest currently being shown on the wall to wall video screens. From the noise you guess that not only is the local favorite doing well, but also that the fatal accidents are flowing thick and fast.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.57">Equipment</item>
+  <item price_mod="1.38">Medical Supplies</item>
+ </tech>
+ <tags>
+  <tag>tourism</tag>
+  <tag>sport</tag>
+ </tags>
+</spob>

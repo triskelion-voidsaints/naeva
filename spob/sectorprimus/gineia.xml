@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Gineia">
+ <pos x="47.720682" y="2024.400464"/>
+ <GFX>
+  <space>Y cities 0.webp</space>
+  <exterior>Gineia.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>100.000000</base>
+  <bonus>25.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>Y</class>
+  <population>124969</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <description>The atmosphere of Gineia is heavy on chlorine, and humans can only survive in the completely airtight habitation domes. Pyrogenesis maintains a heavy presence here in order to harvest the abundance of chlorine gas. If you are prepared to part with enough money, one of the pilots of the atmosphere scoops will take you on a wild ride that you will never forget through this turbulent and extremely hostile atmosphere.</description>
+  <bar>This quiet bar serves some of the finest drinks you have tasted anywhere in Federation space. "Just because we live out here doesn't mean we have to drink rubbish," says the bartender, noting your surprise. You whole-heartedly agree.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Industrial</item>
+  <item price_mod="1.5">Metals</item>
+ </tech>
+ <tags>
+  <tag>federationera</tag>
+  <tag>extraction</tag>
+  <tag>toxic</tag>
+ </tags>
+</spob>

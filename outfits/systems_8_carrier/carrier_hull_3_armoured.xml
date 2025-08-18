@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Armoured Carrier Hull">
+ <general>
+  <typename>Systems (Hull)</typename>
+  <slot prop="carrier_hull">structure</slot>
+  <size>large</size>
+  <priority>30</priority>
+  <mass>260</mass>
+  <price>8000</price>
+  <description>Armoured hulls feature thick hull plating that can stand up to an extensive beating before failing. They also have damage control and repair systems that can patch up the hull in a pinch, but not with any speed compared to a shield generator. An armoured hull’s shield grid is second rate, but remains a factor.
+
+This is the large version, which is built on a ship that is a fleet unto itself.</description>
+  <gfx_store>combat_hull_m.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <armour>20300</armour>
+  <shield>8700</shield>
+  <shield_regen>102</shield_regen>
+  <armour_regen>44</armour_regen>
+ </specific>
+</outfit>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Active Titan Core">
+ <general>
+  <typename>Systems (Core)</typename>
+  <slot prop="titan_core">utility</slot>
+  <size>large</size>
+  <mass>229</mass>
+  <price>9000</price>
+  <priority>33</priority>
+  <description>An active core dedicates most of your ship’s interior to the processors that enable powerful weapons, but it leaves little space for cargo or missile stores.
+
+This is the massive version, which is built around a ship whose size is staggering and purpose unfathomable.</description>
+  <gfx_store>core_system_cpu_l2.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <cpu_max>728</cpu_max>
+  <cargo>312</cargo>
+  <energy>700</energy>
+  <energy_regen>122</energy_regen>
+ </specific>
+</outfit>

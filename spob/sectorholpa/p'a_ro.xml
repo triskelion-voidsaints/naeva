@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="P'a Ro">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>0-P.webp</space>
+  <exterior>Polaris Station.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>P'aedt</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>0-P</class>
+  <population>24514</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <description>The scientist caste maintains a research station here that primarily looks at the effects of various types of weaponry and space hazards on biological ship design. The P'aedt have invited a significant number of Ver'ash to observe and help them with their experiments, as they know more about the biological ships than anyone else.</description>
+  <bar>As you walk in you see a number of scientists, in their dark blue clothing, talking excitedly amongst themselves. Every now and again the conversation stops momentarily when one of the Ver'ash shakes her head and smilingly tells the P'aedt why his theories will not work.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.57">Equipment</item>
+  <item price_mod="1.5">Metals</item>
+  <item price_mod="1.5">Industrial</item>
+ </tech>
+ <tags>
+  <tag>medical</tag>
+  <tag>shipbuilding</tag>
+ </tags>
+</spob>

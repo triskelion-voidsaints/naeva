@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot name="core">
+ <display>Core Modifications</display>
+ <description>This slot is used for modifications to the dedicated core systems of the ship.</description>
+ <exclusive/>
+ <icon>systems.png</icon>
+</slot>

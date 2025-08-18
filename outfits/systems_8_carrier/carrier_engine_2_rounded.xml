@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Rounded Carrier Engine">
+ <general>
+  <typename>Systems (Engine)</typename>
+  <slot prop="carrier_engines">structure</slot>
+  <size>large</size>
+  <mass>86</mass>
+  <price>8000</price>
+  <priority>30</priority>
+  <description>A rounded engine has a balanced acceleration and cruising speed. The softer acceleration curve permits the storage of a small number of additional cargo pods and missiles, ensuring that this engine performs both in combat and logistical purposes.
+
+This is the large version, which is built on a ship that is a fleet unto itself.</description>
+  <gfx_store>unicorp_engine_m.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <energy_regen_malus>8</energy_regen_malus>
+  <engine_limit>1455</engine_limit>
+  <fuel>900</fuel>
+  <speed>169</speed>
+  <accel>100</accel>
+  <turn>90</turn>
+  <cargo_mod>10</cargo_mod>
+  <ammo_capacity>10</ammo_capacity>
+ </specific>
+</outfit>

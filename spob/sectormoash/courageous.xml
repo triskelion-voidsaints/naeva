@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Courageous">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>1-A.webp</space>
+  <exterior>Auroran Triple.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Moash</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>1-A</class>
+  <population>36872</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <outfits/>
+  </services>
+  <description>This station was built to protect the pastoral jewel of a planet below. The fleets here know that if Stlap were to fall to any of their rivals, the main source of income for the Moash House would be gone. They also know that the Vella battle-fleets are aware of this, and that more than once they have probed this system to see how strong its defenses are. Consequently, only the most desperate and deadly defenders are posted here.</description>
+  <bar>While most Houses do not allow the consumption of alcohol on active bases, the House of Moash seems to have little problem with it. The warriors stationed here obviously agree wholeheartedly with this policy.</bar>
+ </general>
+ <tech>
+  <item>Maps</item>
+ </tech>
+ <tags>
+  <tag>station</tag>
+  <tag>military</tag>
+ </tags>
+</spob>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Nil'ar Peset">
+ <pos x="1181.383309" y="802.449040"/>
+ <GFX>
+  <space>MH 0.webp</space>
+  <exterior>Nil'ar Peset.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Nil'kemorya</faction>
+  <base>150.000000</base>
+  <bonus>75.000000</bonus>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>MH</class>
+  <population>394980397</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+   <outfits/>
+   <commodity/>
+   <shipyard/>
+  </services>
+  <description>The Nil'kemorya maintain three worlds for training purposes, and this is the first of them. This is where prospective young warriors are taken at the age of four, and stay until the age of twelve. In that time they are trained in the various martial disciplines, from unarmed personal combat to capital ship gunnery tactics. It is a grueling and testing time for the young potential warriors, and many drop out to join other castes. Nil'ar Peset itself is green-canopied, with forests literally covering its surface.</description>
+ </general>
+ <tech>
+  <item price_mod="0.57">Equipment</item>
+  <item price_mod="1.5">Metals</item>
+ </tech>
+ <tags>
+  <tag>military</tag>
+  <tag>forestry</tag>
+ </tags>
+</spob>

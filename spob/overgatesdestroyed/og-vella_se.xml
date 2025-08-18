@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="OG-Vella SE">
+ <pos x="1815.477254" y="-2363.889817"/>
+ <display>Destroyed Overgate#0</display>
+ <marker>spobmarker_triangle</marker>
+ <GFX>
+  <space>10-Z 150.webp</space>
+  <exterior>Overgate.webp</exterior>
+ </GFX>
+ <general>
+  <class>10-Z</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <uninhabited/>
+  </services>
+ </general>
+ <tags>
+  <tag>manifestera</tag>
+  <tag>overgate</tag>
+  <tag>destroyed</tag>
+ </tags>
+</spob>

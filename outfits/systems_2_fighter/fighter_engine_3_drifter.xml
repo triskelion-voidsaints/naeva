@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Drifter Fighter Engine">
+ <general>
+  <typename>Systems (Engine)</typename>
+  <slot prop="fighter_engines">structure</slot>
+  <size>small</size>
+  <mass>4</mass>
+  <price>2000</price>
+  <description>A drifter engine accelerates slowly, but has a high cruising speed. This engine excels in a situation where your enemies can be planned and accounted for, so your guns cover your retreat. The gentle acceleration curve allows your ship to hold a good deal of cargo pods and missiles, slanting it towards a logistical role.
+
+This is the tiny version, which is designed for those ships commonly crewed by a single pilot.</description>
+  <gfx_store>engine7.webp</gfx_store>
+  <priority>7</priority>
+ </general>
+ <specific type="modification">
+  <energy_regen_malus>2</energy_regen_malus>
+  <engine_limit>83</engine_limit>
+  <fuel>300</fuel>
+  <speed>550</speed>
+  <accel>200</accel>
+  <turn>360</turn>
+  <cargo_mod>20</cargo_mod>
+  <ammo_capacity>20</ammo_capacity>
+ </specific>
+</outfit>

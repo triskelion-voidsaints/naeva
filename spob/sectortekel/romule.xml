@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Romule">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>Y cities 0.webp</space>
+  <exterior>Romule.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Tekel</faction>
+  <base>150.000000</base>
+  <bonus>75.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>Y</class>
+  <population>4697927426</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <commodity/>
+   <bar/>
+  </services>
+  <description>Romule is the Tekel seat of learning and science. All of those young men and women from noble families who show little aptitude for becoming warriors are sent here. All of the scientists, merchants and administrators of the Tekel House come out of this institution. However, this planet is viewed with some distaste and more than a little suspicion by many Tekel warriors.</description>
+  <bar>The students and staff that live here are being mocked by a couple of arrogant young warriors. The students and staff accept this bullying sullenly, which only seems to delight the warriors that much more.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.63">Medical Supplies</item>
+  <item price_mod="1.5">Foodstuffs</item>
+  <item price_mod="1.5">Industrial</item>
+ </tech>
+ <tags>
+  <tag>research</tag>
+  <tag>medical</tag>
+ </tags>
+</spob>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Armoured Titan Hull">
+ <general>
+  <typename>Systems (Hull)</typename>
+  <slot prop="titan_hull">structure</slot>
+  <size>large</size>
+  <priority>34</priority>
+  <mass>344</mass>
+  <price>9000</price>
+  <description>Armoured hulls feature thick hull plating that can stand up to an extensive beating before failing. They also have damage control and repair systems that can patch up the hull in a pinch, but not with any speed compared to a shield generator. An armoured hull’s shield grid is second rate, but remains a factor.
+
+This is the massive version, which is built around a ship whose size is staggering and purpose unfathomable.</description>
+  <gfx_store>combat_hull_l.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <armour>25900</armour>
+  <shield>11100</shield>
+  <shield_regen>130</shield_regen>
+  <armour_regen>56</armour_regen>
+ </specific>
+</outfit>

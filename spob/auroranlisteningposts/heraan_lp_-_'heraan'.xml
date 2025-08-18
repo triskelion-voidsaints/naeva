@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Heraan LP - 'Heraan'">
+ <pos x="0.000000" y="0.000000"/>
+ <marker>spobmarker_rhombus</marker>
+ <GFX>
+  <space>5-A.webp</space>
+  <exterior>Auroran LP.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Heraan</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>5-A</class>
+  <population>50</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+  </services>
+  <description>This listening post is named for the Heraan House in remembrance of the deaths of the many thousands of warriors who died ensuring the escape of the House leaders through this system during the Great Moash Invasion two centuries ago. Because of their sacrifice, the leadership of the Heraan Family survived and was able to travel through Federation space to lead a counterstrike against the Moash homeworld. The result of this attack caused the Moash warriors to be recalled, allowing the Heraan House to resettle its own space.</description>
+ </general>
+ <tags>
+  <tag>federationera</tag>
+  <tag>station</tag>
+  <tag>military</tag>
+  <tag>spying</tag>
+ </tags>
+</spob>

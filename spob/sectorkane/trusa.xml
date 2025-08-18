@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Trusa">
+ <pos x="-3007.945554" y="35.912071"/>
+ <GFX>
+  <space>L 90.webp</space>
+  <exterior>Trusa.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <base>150.000000</base>
+  <bonus>75.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>L</class>
+  <population>83461</population>
+  <hide>2.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <description>Trusa has been mined nearly continuously for the last 900 years for its many and varied mineral deposits, but has now reached the end of its productive years. What remains behind now is only a shadow of the thriving mining communities that existed here even two decades ago. Groups of tourists travel here to view the still-existing examples of early Manifest mining technology that remain perfectly preserved in the near vacuum of Trusa's atmosphere.</description>
+  <bar>This bar is the final tourist stop on a long tour of the planets sights. The walls are devoted to pictures of Trusa's mining past, and the bartender even wears the uniform of miners worn when the Manifest was in existence.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.57">Equipment</item>
+  <item price_mod="1.5">Foodstuffs</item>
+ </tech>
+ <tags>
+  <tag>manifestera</tag>
+  <tag>tourism</tag>
+ </tags>
+</spob>

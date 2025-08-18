@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Alt">
+ <marker>spobmarker_empty</marker>
+ <pos x="3038.615289" y="3.962711"/>
+ <GFX>
+  <space>Q 90.webp</space>
+  <exterior>Alt.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Pirate</faction>
+  <base>0.000000</base>
+  <bonus>0.000000</bonus>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>Q</class>
+  <population>14</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <uninhabited/>
+  </services>
+  <description>Due to interference from the high concentrations of helium and xenon, as well as the highly mountainous terrain, Alt is used by many pirates as a way of losing Federation pursuit before heading out of Federation controlled space for the relative safety of the lawless region of space to the Galactic North.</description>
+ </general>
+ <tags>
+  <tag>federationera</tag>
+  <tag>toxic</tag>
+  <tag>pirate</tag>
+ </tags>
+</spob>

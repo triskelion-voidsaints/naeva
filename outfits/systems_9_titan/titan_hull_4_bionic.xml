@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Bionic Titan Hull">
+ <general>
+  <typename>Systems (Hull)</typename>
+  <slot prop="titan_hull">structure</slot>
+  <size>large</size>
+  <priority>33</priority>
+  <mass>344</mass>
+  <price>9000</price>
+  <description>Like a standard hull, bionic hulls are perfectly balanced between shield capacity and armour strength. Their competitive edge comes with regards to regeneration, which is 30% greater in total than their competitors and is also perfectly balanced between shield recharge and hull repair.
+
+This is the massive version, which is built around a ship whose size is staggering and purpose unfathomable.</description>
+  <gfx_store>organic_hull_x.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <armour>18500</armour>
+  <shield>18500</shield>
+  <shield_regen>121</shield_regen>
+  <armour_regen>121</armour_regen>
+ </specific>
+</outfit>

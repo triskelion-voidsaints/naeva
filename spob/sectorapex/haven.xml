@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Haven">
+ <pos x="3366.375590" y="390.433241"/>
+ <GFX>
+  <space>DO cities 90.webp</space>
+  <exterior>Haven.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>DO</class>
+  <population>3746854</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <description>Haven's surface is totally covered by water. The closest point that the crust comes to the surface of the ocean is two kilometers, and so the people of Haven have developed a civilization that has nothing to do with dry land. They live most of their lives in modular submarine habitats that can link together to form larger cities, and harvest the plankton and krill that abound in the warm waters. They also have extremely potent weapons on their subs; they dislike outsiders intensely.</description>
+  <bar>All conversation ceases as you enter this bar and every eye turns to you. The bartender serves you sullenly and you realize that as an outsider you are not wanted here.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Foodstuffs</item>
+  <item price_mod="1">Local Alcohols</item>
+ </tech>
+ <tags>
+  <tag>manifestera</tag>
+  <tag>aquaculture</tag>
+ </tags>
+</spob>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Aurora Prime">
+ <pos x="-232.190116" y="1171.270140"/>
+ <GFX>
+  <space>MW cities 0.webp</space>
+  <exterior>Aurora.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Aurora Empire</faction>
+  <base>400.000000</base>
+  <bonus>200.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>MW</class>
+  <population>40939907370</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <description>This planet houses the Auroran Council, which consists of three councilors from all the Five Families -- Moash, Vella, Tekel, Dani and Heraan. An additional three representatives come from the First Family, which is currently the Moash House. The Auroran Emperor is the leader of the First Family, and he sits at the head of the council and maintains order and has the only veto. The Auroran Council decides on all matters that affect the Empire as a whole, but is not allowed to interfere in the affairs of the Five Houses. However, the First Family, being one of the five, has been known to use the resources available to it as the First House to further its own ends.</description>
+  <bar>White and Gold adorned Moash House warriors dominate this bar as they lord it over the many young warriors wearing the Red of the Empire. Obviously the First Family, being the Moash House, support their own warriors over the warriors who come from all the other Houses to serve the regulation two years under the Central Government.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.57">Equipment</item>
+  <item price_mod="1.5">Foodstuffs</item>
+  <item price_mod="1.33">Luxury Goods</item>
+ </tech>
+ <tags>
+  <tag>homeworld</tag>
+  <tag>government</tag>
+ </tags>
+</spob>

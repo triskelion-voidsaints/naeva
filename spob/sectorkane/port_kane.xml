@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Port Kane">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="-510.742925" y="-489.364668"/>
+ <GFX>
+  <space>3.webp</space>
+  <exterior>Manifest Station.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <base>500.000000</base>
+  <bonus>100.000000</bonus>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>3</class>
+  <population>248612</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <blackmarket/>
+  </services>
+  <description>This station was named for the legendary woman behind the design of the Hypergates, Omata Kane. Port Kane was once an important hub serving Manifest establishment of the southern Auroran colonies. Vast warehouses and loading gantries served a logistical armada yet now stand underused. Ancient battle damage speaks to it's role as a command centre in the Polaris front of the Alien War. Port Kane now occupies the vital intersection between the Auroran Empire, the Polaris and the Federation. What little trade and diplomacy is conducted between these three governments occurs here. The system is neutral ground policed by the Federation. It is something of a backwater, but it's cosmopolitan enough to have good port services, full of decent outfitters. It's also the gateway to many a "specialist" transaction, if you know where to look.</description>
+  <bar>The lurid neon sign that proclaims that this bar is called 'The Hypergate' stands over a mammoth doorway shaped vaguely like an orchid which is also surrounded by neon. Inside you see sights which can not be mentioned to anyone below the age of consent.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.630000">Medical Supplies</item>
+  <item price_mod="1.330000">Luxury Goods</item>
+ </tech>
+ <tags>
+  <tag>manifestera</tag>
+  <tag>criminal</tag>
+  <tag>logistics</tag>
+  <tag>trade</tag>
+  <tag>government</tag>
+ </tags>
+</spob>

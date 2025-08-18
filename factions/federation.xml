@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faction name="Federation">
+ <ai>independent</ai>
+ <static />
+ <logo>federation</logo>
+ <known />
+ <player>3</player>
+ <description>The Federation is the latest in a string of successor governments to the Manifest, the greatest human civilization. They are a democratic successor to the Overwatch, which sought to protect the systems surrounding Forge from expansionist Auroran warlords and the revengeful Polaris. The Federation inherits that mandate, but allows greater self-governance for member worlds and appointment of global representatives to the Federation Council.</description>
+ <colour r="0.51" g="0.69" b="1" />
+ <spawn>testers</spawn>
+ <standing>static</standing>
+ <allies>
+ </allies>
+ <enemies>
+ <enemy>Aurora Empire</enemy>
+ <enemy>Rebellion</enemy>
+ <enemy>Free Traders</enemy>
+ <enemy>Pirate</enemy>
+ </enemies>
+ <lane_length_per_presence>400</lane_length_per_presence>
+ <lane_base_cost>50</lane_base_cost>
+</faction>

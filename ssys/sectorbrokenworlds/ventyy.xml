@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Ventyy">
+ <general>
+  <radius>6000.000000</radius>
+  <spacedust>400</spacedust>
+  <interference>0.000000</interference>
+ </general>
+ <pos x="557.339200" y="1141.372000"/>
+ <spobs>
+  <spob>Ventus</spob>
+ </spobs>
+ <jumps>
+  <jump target="Valdyn">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Varys">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+ </jumps>
+ <tags>
+  <tag>Broken Worlds</tag>
+ </tags>
+</ssys>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="GLi-Tech-nia">
+ <pos x="-2982.114620" y="21.398641"/>
+ <GFX>
+  <space>Q cities 270.webp</space>
+  <exterior>GLi-Tech-Nia.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>200.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>Q</class>
+  <population>357213</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <description>As the salesman says: "If you want weapons, you have come to the right place!!" Home of the GLi-Tech corporation (formerly known as GLiMMER until the discovery of the Glimmer system by the Federation), this planet has only one export, weapons. GLi-Tech is one of the few commercial weapons manufacturer of note, and the oldest by far, as it was created in 50 NC (approximately eleven hundred years ago). So if you want weapons of any kind, from portable flame throwers to the enormously successful radar missile system they invented, you can get it all here. However, it does not come cheap; if you want it, you have to pay for it.</description>
+  <bar>This bar is full of salesmen, most of whom are discussing business over lunch with some of their clients. Every wall has hundreds of pictures of the weapons systems created by the GLi-Tech corporation in its nearly 1200 years of operation.</bar>
+ </general>
+ <tech>
+  <item>Thunderheads</item>
+  <item price_mod="0.5">Metals</item>
+  <item price_mod="1.5">Industrial</item>
+ </tech>
+ <tags>
+  <tag>manifestera</tag>
+  <tag>corporate</tag>
+  <tag>weapons</tag>
+  <tag>toxic</tag>
+ </tags>
+</spob>

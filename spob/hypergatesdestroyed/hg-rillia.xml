@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="HG-Rillia">
+ <marker>spobmarker_triangle</marker>
+ <pos x="-1262.574311" y="-136.254206"/>
+ <GFX>
+  <space>9-Z.webp</space>
+  <exterior>Hypergate Deactivated.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Derelict</faction>
+  <base>0.000000</base>
+  <bonus>0.000000</bonus>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>9-Z</class>
+  <population>0</population>
+  <hide>0.500000</hide>
+  <services>
+   <land/>
+   <nomissionspawn/>
+   <uninhabited/>
+  </services>
+  <description>This hypergate was destroyed more than half a millennia ago at the conclusion of the Alien War. A shipment of engineered wardogs on a Leviathan-class freighter bound for Allia was the shipment on record passing through the ring when it was destroyed. A lingering red mist coalesced among the debris for many years as the people of Porto Rillia languished alone. Thus the planetary government’s reactionary obsession with spaceport development was to make up for the lost time.</description>
+ </general>
+ <tags>
+  <tag>hypergate</tag>
+  <tag>destroyed</tag>
+  <tag>nonews</tag>
+  <tag>nonpc</tag>
+  <tag>manifestera</tag>
+ </tags>
+</spob>

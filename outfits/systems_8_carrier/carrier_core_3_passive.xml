@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Passive Carrier Core">
+ <general>
+  <typename>Systems (Core)</typename>
+  <slot prop="carrier_core">utility</slot>
+  <size>large</size>
+  <mass>173</mass>
+  <price>8000</price>
+  <priority>31</priority>
+  <description>A passive core prioritizes cargo capacity and missile stores, allowing a ship to ferry a great deal of cargo but forcing it to take a passive role in combat.
+
+This is the large version, which is built on a ship that is a fleet unto itself.</description>
+  <gfx_store>core_system_basic_l1.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <cpu_max>180</cpu_max>
+  <cargo>420</cargo>
+  <energy>1170</energy>
+  <energy_regen>61</energy_regen>
+  <ammo_capacity>40</ammo_capacity>
+ </specific>
+</outfit>

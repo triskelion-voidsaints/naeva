@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faction name="Family Moash">
+ <ai>independent</ai>
+ <static />
+ <logo>moash</logo>
+ <known />
+ <player>3</player>
+ <description>House Moash</description>
+ <colour r="0.694" g="0.612" b="0.392" />
+ <spawn>testers</spawn>
+ <standing>static</standing>
+ <allies>
+ </allies>
+ <enemies>
+  <enemy>Federation</enemy>
+ </enemies>
+ <lane_length_per_presence>400</lane_length_per_presence>
+ <lane_base_cost>50</lane_base_cost>
+</faction>

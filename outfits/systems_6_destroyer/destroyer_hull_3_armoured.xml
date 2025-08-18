@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Armoured Destroyer Hull">
+ <general>
+  <typename>Systems (Hull)</typename>
+  <slot prop="destroyer_hull">structure</slot>
+  <size>medium</size>
+  <priority>22</priority>
+  <mass>96</mass>
+  <price>6000</price>
+  <description>Armoured hulls feature thick hull plating that can stand up to an extensive beating before failing. They also have damage control and repair systems that can patch up the hull in a pinch, but not with any speed compared to a shield generator. An armoured hull’s shield grid is second rate, but remains a factor.
+
+This is the medium version, which is designed to fit the standard size of capital ship.</description>
+  <gfx_store>combat_hull_x.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <armour>11200</armour>
+  <shield>4800</shield>
+  <shield_regen>56</shield_regen>
+  <armour_regen>24</armour_regen>
+ </specific>
+</outfit>

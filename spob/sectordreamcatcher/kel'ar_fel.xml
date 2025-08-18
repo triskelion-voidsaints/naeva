@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Kel'ar Fel">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>MO 0.webp</space>
+  <exterior>Kel'ar Fel.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Kel'ariy</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>MO</class>
+  <population>367</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <description>What land Kel'ar Fel has is mostly mountainous, but the vast majority of its surface is covered by water. Some 367 members of the Kel'ariy, the leadership caste, make their homes here. From here they see to the administration of all Polaris space from here to the border with the Wraith, and the farthest northern reaches of Polaris exploration.</description>
+  <bar>This small bar has a couple of members of the leadership caste having their lunch. They all nod in greeting as you walk past their seats and the bar staff get you everything you want with a smile.</bar>
+ </general>
+ <tech>
+  <item price_mod="1.33">Luxury Goods</item>
+  <item price_mod="0.5">Data Crystals</item>
+ </tech>
+ <tags>
+  <tag>government</tag>
+ </tags>
+</spob>

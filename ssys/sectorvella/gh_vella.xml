@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="GH_Vella">
+ <general>
+  <background>therewillbestars</background>
+  <radius>6000.000000</radius>
+  <spacedust>400</spacedust>
+  <interference>0.000000</interference>
+ </general>
+ <pos x="-844.245027" y="-72.048725"/>
+ <spobs>
+  <spob>GH_Vella Reciever</spob>
+  <spob>OG-Vella E</spob>
+  <spob>OG-Vella NE</spob>
+  <spob>OG-Vella SE</spob>
+ </spobs>
+ <jumps>
+  <jump target="Hevel">
+   <pos x="-3070.449552" y="-3897.554989"/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Jocci">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Queq">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Vella">
+   <pos x="-2332.539730" y="3982.725114"/>
+   <hide>1.000000</hide>
+  </jump>
+ </jumps>
+ <tags>
+  <tag>Vella</tag>
+ </tags>
+</ssys>

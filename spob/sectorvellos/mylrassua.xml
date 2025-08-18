@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Mylrassua">
+ <pos x="1975.163919" y="2012.314337"/>
+ <GFX>
+  <space>MP cities 45 grayscale.png</space>
+  <exterior>Wyll.webp</exterior>
+ </GFX>
+ <general>
+  <class>R</class>
+  <population>1e+09</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+  </services>
+  <description>This world is surrounded by a bubble of null-time. A staggering number of missiles with frozen contrails hang in the sky. They narrowly escaped destruction, but at what cost?</description>
+ </general>
+ <tags>
+  <tag>abandoned</tag>
+  <tag>timestop</tag>
+ </tags>
+</spob>

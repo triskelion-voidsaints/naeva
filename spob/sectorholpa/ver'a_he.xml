@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Ver'a He">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="-22.096282" y="1502.547149"/>
+ <GFX>
+  <space>0-P.webp</space>
+  <exterior>Polaris Station.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Ver'ash</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>0-P</class>
+  <population>54535</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <shipyard/>
+  </services>
+  <description>Ver'a He is the space-bound campus of the college of Ver'ash. This is where the young healer/engineering caste students come to be taught some of the different applications of their knowledge in a space-based environment. It is also the location of the advanced learning center for Ver'ash students who have passed the age of twelve. From here they journey throughout Polaris space under a tutor, learning the practical side of Ver'ash work, until the age of sixteen whereupon they become full members of the Ver'ash.</description>
+  <bar>This small bar has a couple of older Ver'ash talking quietly one-on-one with young Ver'ash aspirants about some procedure you have no understanding of. Despite this you are made to feel welcome.</bar>
+ </general>
+ <tags>
+  <tag>station</tag>
+  <tag>training</tag>
+ </tags>
+ <tech>
+  <item>Maps</item>
+ </tech>
+</spob>

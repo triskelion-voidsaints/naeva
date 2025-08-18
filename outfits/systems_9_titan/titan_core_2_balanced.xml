@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Balanced Titan Core">
+ <general>
+  <typename>Systems (Core)</typename>
+  <slot prop="titan_core">utility</slot>
+  <size>large</size>
+  <mass>229</mass>
+  <price>9000</price>
+  <priority>34</priority>
+  <description>A balanced core is split evenly between cargo capacity and CPU, allowing a starship the flexibility to approach a variety of situations.
+
+This is the massive version, which is built around a ship whose size is staggering and purpose unfathomable.</description>
+  <gfx_store>core_system_shield_l2.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <cpu_max>520</cpu_max>
+  <cargo>520</cargo>
+  <energy>1000</energy>
+  <energy_regen>94</energy_regen>
+  <ammo_capacity>20</ammo_capacity>
+ </specific>
+</outfit>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Mu'ar Haro">
+ <pos x="1026.197388" y="-1057.996290"/>
+ <GFX>
+  <space>R cities 0.webp</space>
+  <exterior>Mu'ar Haro.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Mu'hari</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>R</class>
+  <population>2604177040</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <description>Nearly two centuries into the development of the caste system, it was realized that there were a significant number of young Polarans who did not fit easily into any one of the castes; their talents had more of a general nature than a specific one. So, the "casteless" caste was created, and this is their homeworld. The casteless all wear black to signify their shame at being incapable of entering another caste, and think of themselves as "servants of all." Strangely, the other castes view these "Mu'hari" with a certain amount of awe, and even more strangely, the position of leader of the Polaris people has been held by more people who came from the casteless caste than from any other.
+  Mu'ar Haro has naturally occurring biological agents, rich rare earth veins and dangerous, and aggressive, natural predators. Hence jacks-of-all-trades flourish here.
+  </description>
+  <bar>This bar is filled with people wearing the black of the Mu'Hari. As you walk in, they all give way and you find that your every need is met almost before you can voice it. It seems as if everyone is going out of their way to help you.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Industrial</item>
+  <item price_mod="1.5">Foodstuffs</item>
+ </tech>
+ <tags>
+  <tag>mysterious</tag>
+  <tag>homeworld</tag>
+  <tag>mining</tag>
+  <tag>industrial</tag>
+  <tag>hunting</tag>
+  <tag>toxic</tag>
+ </tags>
+</spob>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Spacedock VII">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="-2561.366098" y="60.614145"/>
+ <GFX>
+  <space>1-F.webp</space>
+  <exterior>Federation Battle.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>500.000000</base>
+  <bonus>75.000000</bonus>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>1-F</class>
+  <population>12000</population>
+  <hide>0.500000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <outfits/>
+  </services>
+  <description>One of the most recently constructed and technologically advanced of the Spacedocks, Spacedock VII was built to stand against the existential threat of the mysterious and deadly Polaris.  The Navy’s finest are at the beck and call of this station, ready to withstand any Polaris raiding party, ensuring the security of the Federation for the foreseeable future.</description>
+  <bar>Landing berths are few and far between on this Spacedock, as heightened military traffic takes up much of what is available.  Hushed whispers about the almost mythical Polaris can be heard, and spacers seem to look over their shoulders quite often.  Rumors spread of hooded visitors with uncanny combat abilities, but the massive fleets that often pass through this system and dock here seem to make the idea that the Polaris could be sneaking about quite unlikely.  Still, it is best to remain on alert, just in case.</bar>
+ </general>
+ <tech>
+  <item>Maps</item>
+ </tech>
+ <tags>
+  <tag>federationera</tag>
+  <tag>station</tag>
+  <tag>military</tag>
+ </tags>
+</spob>

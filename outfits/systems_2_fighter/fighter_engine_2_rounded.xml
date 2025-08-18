@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Rounded Fighter Engine">
+ <general>
+  <typename>Systems (Engine)</typename>
+  <slot prop="fighter_engines">structure</slot>
+  <size>small</size>
+  <mass>4</mass>
+  <price>2000</price>
+  <description>A rounded engine has a balanced acceleration and cruising speed. The softer acceleration curve permits the storage of a small number of additional cargo pods and missiles, ensuring that this engine performs both in combat and logistical purposes.
+
+This is the tiny version, which is designed for those ships commonly crewed by a single pilot.</description>
+  <gfx_store>nexus_engine_s.webp</gfx_store>
+  <priority>6</priority>
+ </general>
+ <specific type="modification">
+  <energy_regen_malus>2</energy_regen_malus>
+  <engine_limit>83</engine_limit>
+  <fuel>300</fuel>
+  <speed>525</speed>
+  <accel>300</accel>
+  <turn>360</turn>
+  <cargo_mod>10</cargo_mod>
+  <ammo_capacity>10</ammo_capacity>
+ </specific>
+</outfit>

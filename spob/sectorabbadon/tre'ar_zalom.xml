@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Tre'ar Zalom">
+ <pos x="-1005.736131" y="-2995.809751"/>
+ <GFX>
+  <space>DO cities 225.webp</space>
+  <exterior>Tre'ar Zalom.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Tre'pira</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>DO</class>
+  <population>1112054454</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <description>Tre'ar Zalom is a relatively small world covered by a great archipelago that has been cultivated by the worker caste, known as the "Tre'pira", as a center of aquaculture. The many seafoods produced on this planet are served and enjoyed by many throughout Polaris-controlled space, and are highly sought by all. Rumors of the delicacies produced on Tre'ar Zalom have become near-myths outside Polaris borders, and many a young merchant has attempted to sneak into Polaris space, in order to reach this fabled planet.</description>
+  <bar>You are somewhat excited at the thought of eating in this place and you are not disappointed. From the first bite to the last, the food served in this bar is simply beyond description. The food produced on this planet deserves to be venerated, for there is none better in the galaxy.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Foodstuffs</item>
+  <item price_mod="1.5">Industrial</item>
+ </tech>
+ <tags>
+  <tag>agriculture</tag>
+  <tag>aquaculture</tag>
+  <tag>tourism</tag>
+ </tags>
+</spob>

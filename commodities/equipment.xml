@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commodity>
+ <name>Equipment</name>
+ <description>Calibrated neutron detectors, 3D printers, gigafarad capacitors, water pumps, screwdrivers - if you can imagine it, you can likely find it. Whether assembly is required usually depends on the size and fragility of the item.</description>
+ <price_constant/>
+ <price>875</price>
+ <gfx_store>equipment.webp</gfx_store>
+</commodity>

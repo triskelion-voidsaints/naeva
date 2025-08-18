@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Hesslock &amp; Wolfner">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="-547.519896" y="-3641.941718"/>
+ <GFX>
+  <space>1-C.webp</space>
+  <exterior>Civilian Station.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Wild Geese</faction>
+  <base>0.000000</base>
+  <bonus>100.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>1-C</class>
+  <population>45061</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <shipyard/>
+  </services>
+  <description>Elite mercenaries need top quality equipment, and here at the Hesslock and Wolfner foundry we push standard ships over the high bar needed to keep major powers at bay.</description>
+ </general>
+ <tags>
+  <tag>federationera</tag>
+  <tag>station</tag>
+  <tag>shipbuilding</tag>
+  <tag>mercenary</tag>
+ </tags>
+ <tech>
+  <item>Maps</item>
+ </tech>
+</spob>

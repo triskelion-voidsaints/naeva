@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Shielded Carrier Hull">
+ <general>
+  <typename>Systems (Hull)</typename>
+  <slot prop="carrier_hull">structure</slot>
+  <size>large</size>
+  <priority>31</priority>
+  <mass>260</mass>
+  <price>8000</price>
+  <description>Shielded hulls rely on a dedicated array of shield capacitors to provide best in class shield capacity, backed up by a dedicated array of shield rechargers. While the ship’s structure is still sturdy, its hull does not mount armour and should not be relied upon to deflect fire.
+
+This is the large version, which is built on a ship that is a fleet unto itself.</description>
+  <gfx_store>base_hull_l.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <armour>8700</armour>
+  <shield>20300</shield>
+  <shield_regen>146</shield_regen>
+ </specific>
+</outfit>

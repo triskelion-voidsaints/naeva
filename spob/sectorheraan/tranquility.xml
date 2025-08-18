@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Tranquility">
+ <pos x="-780.158789" y="241.477720"/>
+ <GFX>
+  <space>Q cities 0.webp</space>
+  <exterior>Tranquility.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Heraan</faction>
+  <base>150.000000</base>
+  <bonus>75.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>Q</class>
+  <population>1155989586</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <description>Tranquility is looked upon by Heraan warriors with a great deal of respect, for the lightly populated world contains perhaps the most technically advanced hospitals in the Empire. Countless warriors have been brought back from death through ministrations of the well-trained nurses and physicians that live and work here. It has been calculated that nearly twenty percent of all Heraan warriors have been to this planet to receive medical treatment at one time or another in their lives. So important is this planet that the warriors of the Heraan House have built a battle-station in orbit to protect it.</description>
+  <bar>This hospital lounge is filled with tired looking Heraan medical professionals of all types relaxing for a few minutes before returning to the unending pressures of their work trying to save the many injured warriors of their house.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.63">Medical Supplies</item>
+  <item price_mod="1.5">Industrial</item>
+  <item price_mod="1.43">Equipment</item>
+ </tech>
+ <tags>
+  <tag>medical</tag>
+ </tags>
+</spob>

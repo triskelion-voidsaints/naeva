@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Estearll">
+ <general>
+  <radius>4500.000000</radius>
+  <spacedust>400</spacedust>
+  <interference>0.000000</interference>
+ </general>
+ <pos x="-886.111883" y="365.776620"/>
+ <spobs>
+  <spob>Goliath</spob>
+  <spob>HG-Estearll</spob>
+ </spobs>
+ <jumps>
+  <jump target="Blleia">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Illiask">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Llearn">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+ </jumps>
+ <tags>
+  <tag>Vell-os</tag>
+ </tags>
+</ssys>

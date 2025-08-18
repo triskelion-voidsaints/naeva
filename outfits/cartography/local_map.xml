@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Local Map">
+ <general>
+  <mass>0</mass>
+  <price>5000</price>
+  <description>This map contains information about the local system.</description>
+  <gfx_store>map_local.webp</gfx_store>
+  <priority>1000</priority>
+ </general>
+ <specific type="localmap">
+  <range>2</range>
+  <jump_detect>1.25</jump_detect>
+  <spob_detect>2.0</spob_detect>
+ </specific>
+</outfit>

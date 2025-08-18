@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Daor">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>Z cities 0.webp</space>
+  <exterior>Daor.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Aurora Empire</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>L</class>
+  <population>1252741012</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <description>This Auroran outpost is further from the center of the Empire than any other, and is amongst the worst in terms of living conditions. On this planet the Auroran Central Government maintains a fairly small tar-mining outpost, and sends many of the Empire's worst criminals here in punishment. The conditions on Daor are vicious, with temperatures well below freezing at their warmest and virtually no atmosphere to speak of. Nobody has ever escaped from here alive.</description>
+  <bar>As you walk into the bar you see a number of slightly sullen-looking warriors who all look like they are waiting for an excuse to challenge you.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.500000">Metals</item>
+  <item price_mod="1.500000">Foodstuffs</item>
+ </tech>
+ <tags>
+  <tag>prison</tag>
+  <tag>mining</tag>
+ </tags>
+</spob>

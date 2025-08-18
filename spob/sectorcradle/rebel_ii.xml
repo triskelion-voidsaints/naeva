@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Rebel II">
+ <pos x="1567.747662" y="1768.359922"/>
+ <GFX>
+  <space>1-C.webp</space>
+  <exterior>Civilian Station.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Rebellion</faction>
+  <base>750.000000</base>
+  <bonus>0.000000</bonus>
+  <range>9</range>
+ </presence>
+ <general>
+  <class>1-C</class>
+  <population>55544</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <description>This station is the forward operations base for the Rebellion. It is here that all Rebel ships and agents are given their final mission briefs before entering Federation space. It is one of the busiest ports in Known Space, which makes the secrecy of its location somewhat of a counter-intelligence coup against the Bureau of Internal Investigation. This probably is a result of the handiwork of General Cade 'Sundown' Smart, who was the former head of the Federation military, and also Frandall (code-name), who was the former Head of Federation Intelligence before the Bureau took over that role. These two, as founding members of the Rebellion, have spared no effort in looking after the military and intelligence sides of the Rebel operation.</description>
+  <bar>You enter a happily noisy establishment where returning rebels toast their own efforts and wish luck to a number of outgoing operatives. You are given your own space, and a drink is placed in front of you with a welcoming smile.</bar>
+ </general>
+ <tech>
+  <item price_mod="1.5">Metals</item>
+  <item price_mod="1.43">Equipment</item>
+  <item price_mod="1.38">Medical Supplies</item>
+ </tech>
+ <tags>
+  <tag>military</tag>
+  <tag>terrorist</tag>
+  <tag>spying</tag>
+ </tags>
+</spob>

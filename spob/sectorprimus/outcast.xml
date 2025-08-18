@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Outcast">
+ <pos x="-487.991730" y="-288.316730"/>
+ <GFX>
+  <space>DA 0.webp</space>
+  <exterior>Outcast.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>200.000000</base>
+  <bonus>50.000000</bonus>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>DA</class>
+  <population>100498</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+   <commodity/>
+  </services>
+  <description>Outcast is one of many Federation prison worlds. No stockade fences are present and there are few guards, as the entire planet is a tectonic nightmare. Tours of duty are brief here, and guard personnel are rotated regularly. The prisoners are all hardened criminals or terrorists, and many sophisticated escapes have been attempted. All relied on outside help via a waiting ship, but none have ever made it through the blockade.</description>
+ </general>
+ <tech>
+  <item price_mod="0.500000">Metals</item>
+  <item price_mod="1.500000">Foodstuffs</item>
+ </tech>
+ <tags>
+  <tag>prison</tag>
+  <tag>military</tag>
+ </tags>
+</spob>

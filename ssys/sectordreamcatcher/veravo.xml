@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Ver'avo">
+ <general>
+  <radius>4500.000000</radius>
+  <spacedust>400</spacedust>
+  <interference>0.000000</interference>
+ </general>
+ <pos x="608.620991" y="222.321421"/>
+ <spobs>
+  <spob>Ver'ar Pised</spob>
+ </spobs>
+ <jumps>
+  <jump target="Bis'valalo">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Z'precti">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Za'iuso">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+ </jumps>
+ <tags>
+  <tag>Dreamcatcher</tag>
+ </tags>
+</ssys>

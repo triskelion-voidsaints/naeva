@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Misfire">
+ <pos x="-2127.571447" y="2229.231503"/>
+ <GFX>
+  <space>MD cities 315.webp</space>
+  <exterior>Misfire.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>MD</class>
+  <population>1741980289</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <description>The University of Misfire is infamous for taking an opposing position to most Federation doctrine (most of which is produced by Kane University on Vulcan). It houses many academics who don't fit the mold of traditional scientists because they believe in actually doing some research. This does not endear them to the Federation council, or to the Krim-Hwa, who have made many unsuccessful attempts to have the University closed. Popular public sentiment (plus some extremely cutting and pointed arguments from Professor F. Cook of the Liberal Philosophy department) have prevented the government from being able to remove this annoyance.</description>
+  <bar>You walk in to this bar to see an extremely fit-looking, middle-aged man making a series of caustic comments to a television crew regarding the policies of the Federation regarding the University of Misfire.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.63">Medical Supplies</item>
+  <item price_mod="1.43">Equipment</item>
+ </tech>
+ <tags>
+  <tag>research</tag>
+  <tag>medical</tag>
+ </tags>
+</spob>

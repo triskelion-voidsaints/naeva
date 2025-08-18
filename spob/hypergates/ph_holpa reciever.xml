@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="HG-Holpa">
+ <display>#oO’mabitun: Holpa#0</display>
+ <feature>#oHypergate#0</feature>
+ <lua>hypergate_gh_holpa.lua</lua>
+ <marker>spobmarker_triangle</marker>
+ <pos x="1938.096056" y="-1001.657840"/>
+ <GFX>
+  <space>9.webp</space>
+  <exterior>Hypergate.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Tre'pira</faction>
+  <base>50.000000</base>
+  <bonus>0.000000</bonus>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>9</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <uninhabited/>
+  </services>
+  <description>This Hypergate links this Gate Hub to the Holpa sector's Hypergates as needed.</description>
+ </general>
+ <tags>
+  <tag>hypergate</tag>
+  <tag>manifestera</tag>
+  <tag>active</tag>
+ </tags>
+</spob>

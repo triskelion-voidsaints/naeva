@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="The Tower">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>Z cities 0.webp</space>
+  <exterior>Arabus.webp</exterior>
+ </GFX>
+ <general>
+  <class>Z</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+  </services>
+  <description>(null)</description>
+ </general>
+ <tags>
+  <tag>abandoned</tag>
+ </tags>
+</spob>

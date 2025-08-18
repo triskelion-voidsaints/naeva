@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot name="engines">
+ <display>Engine Modifications</display>
+ <description>This slot is used for modifications to the engines. Engines propel the ship, which is kind of important.</description>
+ <exclusive/>
+ <icon>engines.png</icon>
+</slot>

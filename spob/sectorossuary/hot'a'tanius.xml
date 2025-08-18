@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Hot'A'Tanius">
+ <pos x="3058.222454" y="17.832201"/>
+ <GFX>
+  <space>JQ 90.webp</space>
+  <exterior>Federation Station.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Wraith</faction>
+  <base>400.000000</base>
+  <bonus>200.000000</bonus>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>JQ</class>
+  <population>100000000</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+ <tags>
+  <tag>homeworld</tag>
+  <tag>gasgiant</tag>
+  <tag>aliens</tag>
+ </tags>
+</spob>

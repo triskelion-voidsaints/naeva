@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Arabus">
+ <pos x="-631.259912" y="-406.574180"/>
+ <GFX>
+  <space>DZ cities 0.webp</space>
+  <exterior>Arabus.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Aurora Empire</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>DZ</class>
+  <population>30422868</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <outfits/>
+   <commodity/>
+  </services>
+  <description>Arabus is a largely barren world that is almost devoid of life, and is surrounded by a thin, cold atmosphere. This is another planet that falls under the jurisdiction of the Auroran central government, which maintains a supply depot here to support the Cunjo battlestation. This depot would not be necessary if the Five Families were prepared to work with the central seat of the Auroran Empire. However, because they are not, and because of the immense distance from here to the center of Auroran space, this supply dump is needed. It is also here that young warriors go to prove that they have actually come up against the Polaris and are worthy of the respected purple battle tattoo that signifies such an event.</description>
+  <bar>This bar is filled with a number of freighter captains whose job it is to keep this depot supplied with everything it needs. The few warriors here treat them with respect because they know that if these captains decide not to return here, they will have difficulty surviving for too long with the amount of supplies they have.</bar>
+ </general>
+ <tech>
+  <item price_mod="1.5">Foodstuffs</item>
+  <item price_mod="1.43">Equipment</item>
+ </tech>
+ <tags>
+  <tag>empty</tag>
+  <tag>military</tag>
+  <tag>logistics</tag>
+ </tags>
+</spob>

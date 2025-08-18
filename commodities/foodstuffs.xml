@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commodity>
+ <name>Foodstuffs</name>
+ <description>Everything and anything meant for human consumption. From cans of mass-grown beans to somehow still fresh lettuce, the ubiquitous synthmeat, emergency rations... There's even frozen pizza.</description>
+ <price_constant/>
+ <price>300</price>
+ <gfx_store>foodstuffs.webp</gfx_store>
+</commodity>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Ver'a Ca">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="2360.484097" y="2504.425622"/>
+ <GFX>
+  <space>0-P.webp</space>
+  <exterior>Polaris Station.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Ver'ash</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>0-P</class>
+  <population>28385</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <description>This station is used as an emergency medical facility for those warriors who are badly injured during Wraith attacks in the Nil'nesa system. They also have constructed shipyards to receive those ships that are too heavily damaged to land on the planet below. Many young potential Ver'ash are sent here to observe and work on real battlefield casualties.</description>
+  <bar>The Ver'ash who are drinking here all look tired yet happy. A couple of them tell you that despite the pressures and hard work that comes with being a member of their caste, they all know that what they are doing is directly helping the survival of their nation. "What greater service could we perform?" asks one patron.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.630000">Medical Supplies</item>
+  <item price_mod="1.430000">Equipment</item>
+ </tech>
+ <tags>
+  <tag>medical</tag>
+  <tag>station</tag>
+  <tag>shipbuilding</tag>
+ </tags>
+</spob>

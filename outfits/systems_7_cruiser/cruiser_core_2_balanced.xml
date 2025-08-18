@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Balanced Cruiser Core">
+ <general>
+  <typename>Systems (Core)</typename>
+  <slot prop="cruiser_core">utility</slot>
+  <size>large</size>
+  <mass>118</mass>
+  <price>7000</price>
+  <priority>26</priority>
+  <description>A balanced core is split evenly between cargo capacity and CPU, allowing a starship the flexibility to approach a variety of situations.
+
+This is the overmedium version, which is designed to accommodate a ship of the line.</description>
+  <gfx_store>core_system_shield_m2.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <cpu_max>150</cpu_max>
+  <cargo>150</cargo>
+  <energy>800</energy>
+  <energy_regen>73</energy_regen>
+  <ammo_capacity>20</ammo_capacity>
+ </specific>
+</outfit>

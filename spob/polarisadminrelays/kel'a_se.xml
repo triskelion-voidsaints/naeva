@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Kel'a Se">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>11-P.webp</space>
+  <exterior>Polaris Admin Relay.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Polaris</faction>
+  <base>50.000000</base>
+  <bonus>25.000000</bonus>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>11-P</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <uninhabited/>
+  </services>
+ </general>
+ <tags>
+  <tag>station</tag>
+  <tag>government</tag>
+ </tags>
+</spob>

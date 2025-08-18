@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Hargen">
+ <pos x="-1009.896977" y="-977.254143"/>
+ <GFX>
+  <space>A 225.webp</space>
+  <exterior>Hargen.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>73538275</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <description>Hargen is a young planet in geological terms. Its crust is still molten in many places, and volcanoes and earthquakes bring many valuable minerals to the molten surface of this world, via magma currents, and the mining here has been profitable for the small concerns that operate on this rugged world. Ironically, Hargen teems with vegetative life, however, and the atmosphere is quite breathable. Many of the plants here have remarkable properties (due to the strains of living in such a place), and there are many farmers who sell rare crops to buyers across the galaxy. Medical companies in particular order many kilotons of produce per year.</description>
+  <bar>In this bar you take pains to avoid its patented cocktail 'Seismic Activity(tm).' It is so strong, that if you don't swallow immediately it will strip layers of enamel off your teeth, and only the most hardened of drinkers can keep it down.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.63">Medical Supplies</item>
+  <item price_mod="1.43">Equipment</item>
+  <item price_mod="0.5">Metals</item>
+ </tech>
+ <tags>
+  <tag>federationera</tag>
+  <tag>agriculture</tag>
+  <tag>medical</tag>
+  <tag>mining</tag>
+ </tags>
+</spob>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Teron">
+ <pos x="4538.295128" y="44.580502"/>
+ <GFX>
+  <space>MW cities 90.webp</space>
+  <exterior>Teron.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Dani</faction>
+  <base>150.000000</base>
+  <bonus>75.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>MW</class>
+  <population>5577601720</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <description>Teron is a relatively lightly populated world, with only a mere five billion people making their home here. The surface itself is covered by the huge mounds of supplies left here to support the operations of the warriors in the Dani Himear system. There is also a fairly small depot, run by a few old, grizzled warriors, which organizes all the supply needs of the planet and all the warriors in surrounding space.</description>
+  <bar>When you walk into this bar you see a small crowd of workers all listening attentively to an old warrior with literally thousands of battle tattoos as he recounts some story about an incident he was involved in decades ago.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.500000">Foodstuffs</item>
+  <item price_mod="1.500000">Industrial</item>
+ </tech>
+ <tags>
+  <tag>military</tag>
+  <tag>logistics</tag>
+ </tags>
+</spob>

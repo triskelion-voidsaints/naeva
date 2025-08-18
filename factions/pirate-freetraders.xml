@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faction name="Free Traders">
+ <ai>independent</ai>
+ <static />
+ <known />
+ <player>3</player>
+ <logo>freetrader</logo>
+ <description>Free Traders</description>
+ <colour r="1" g="0.314" b="0.098" />
+ <spawn>testers</spawn>
+ <standing>static</standing>
+ <allies>
+ </allies>
+ <enemies>
+ </enemies>
+</faction>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Tre'ar Vano">
+ <pos x="-1515.023788" y="-834.547002"/>
+ <GFX>
+  <space>JQ 0.webp</space>
+  <exterior>Polaris Skyminer.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Tre'pira</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>JQ</class>
+  <population>11779</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <description>This gas giant has only recently had a sky station built in its atmosphere. With new discoveries by the P'aedt and the Ver'ash in biological ship component growth, the Tre'pira went looking for an abundance of naturally existing chemicals to fill in the needed gap in supply until they found a way of synthesizing the necessary compounds. To their surprise they found what they were looking for in the upper atmosphere of Tre'ar Vano inside their own home system.</description>
+  <bar>This large bar was obviously built to cater for a much larger number of people than actually live here. You realize that the Tre'pira believe that this small operation will be expanded greatly in the near future and so they have planned accordingly.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Industrial</item>
+  <item price_mod="1.33">Luxury Goods</item>
+ </tech>
+ <tags>
+  <tag>station</tag>
+  <tag>extraction</tag>
+ </tags>
+</spob>

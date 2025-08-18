@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<decorator>
+ <image>brokenworlds.webp</image>
+ <x>275.539200</x>
+ <y>1535.772000</y>
+ <detection_radius>100</detection_radius>
+</decorator>

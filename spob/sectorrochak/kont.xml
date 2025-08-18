@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Kont">
+ <pos x="3370.285969" y="-2951.229248"/>
+ <GFX>
+  <space>4-L 45.webp</space>
+  <exterior>Kont.webp</exterior>
+ </GFX>
+ <general>
+  <class>4-L</class>
+  <population>15753</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <nomissionspawn/>
+   <uninhabited/>
+  </services>
+  <description>This ringed world was discovered by the Aurorans nearly two centuries ago. Upon learning of its existence, they decided to investigate it to see if any useful new technology could be gained from it. However, the first group of scientists sent to investigate never returned. Another team of scientists were sent, and they too disappeared. After this, it was decided that these losses were pointless and no longer justified. No more teams were sent, and so the puzzle of Kont and its builders remains a mystery.</description>
+ </general>
+ <tags>
+  <tag>mysterious</tag>
+  <tag>mining</tag>
+  <tag>research</tag>
+ </tags>
+</spob>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Firebrand">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>MW cities 0.webp</space>
+  <exterior>Firebrand.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Vella</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>MW</class>
+  <population>7589208415</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <description>This planet supports two major routes into Vella space from the East and South by maintaining several enormous supply dumps on its surface. These supplies are used by warriors in the Inkira and the Belt systems to supplement their own supplies during times of need. The population of this world grows enormous amounts of food and manufactures the many different items necessary to any war effort, so that they are available when needed.</description>
+  <bar>This room is filled with many members of the poor Auroran worker class who respectfully give way to the larger, more dangerous and fiercely tattooed members of the warrior class.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Foodstuffs</item>
+  <item price_mod="1.43">Equipment</item>
+ </tech>
+ <tags>
+  <tag>industrial</tag>
+  <tag>hydroponics</tag>
+  <tag>military</tag>
+  <tag>logistics</tag>
+ </tags>
+</spob>

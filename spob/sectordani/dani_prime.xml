@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Dani Prime">
+ <pos x="2097.066825" y="42.797282"/>
+ <GFX>
+  <space>H cities 90.webp</space>
+  <exterior>Dani.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Dani</faction>
+  <base>400.000000</base>
+  <bonus>200.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>H</class>
+  <population>50643240386</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <description>It is from here that the heads of the Dani Family exert their rule over the surrounding space. Dani is heavily populated, carrying slightly more than 50 billion people. It also has a fairly large garrison of warriors, because if anybody were to defeat the warriors stationed in the Dani Himear system, they would then be only two jumps away from the Dani leadership. These warriors, who all carry a great deal of experience, are under the direct command of the Mundokiir, who is the leader of the Dani warriors. They are one of the few units in Auroran space that have been given a name to identify themselves, and they are called 'Fenta-kiir', meaning 'They who fall to protect the heart'.</description>
+  <bar>This somewhat upper-class bar is filled with warriors who have risen to positions of authority within the ranks of the Dani House. Somewhat surprisingly, despite the plush surroundings, the behavior and crude jokes are no better.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.500000">Metals</item>
+  <item price_mod="1.500000">Foodstuffs</item>
+  <item price_mod="1">Local Alcohols</item>
+  <item price_mod="1">Data Crystals</item>
+ </tech>
+ <tags>
+  <tag>homeworld</tag>
+  <tag>government</tag>
+  <tag>mining</tag>
+ </tags>
+</spob>

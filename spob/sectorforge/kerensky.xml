@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Kerensky">
+ <pos x="1141.907137" y="-364.766794"/>
+ <GFX>
+  <space>A 135.webp</space>
+  <exterior>Kerensky.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>25323863</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <description>A navy as large and as active as the Federation's needs supplies, and lots of them. Kerensky is but one of the hundreds of supply depots scattered throughout Federation space. Spare parts, raw materials, support craft, food, ground vehicles and troops in suspended animation are all held here. Federation troops are rotated through here and many other depots every few years, to save on supplies and to maintain a huge reserve force in case of need. The depot itself is housed in a huge, tremor-proof building to protect its contents from the many tectonic disturbances experienced on this planet.</description>
+  <bar>The bartender of this bar looks at you mournfully as you walk into this completely empty bar. When you ask why nobody is drinking here he says that the only time he makes any money is when troops come here to be put into suspension, otherwise nothing much happens.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.57">Equipment</item>
+  <item price_mod="1.5">Metals</item>
+ </tech>
+ <tags>
+  <tag>military</tag>
+  <tag>logistics</tag>
+ </tags>
+</spob>

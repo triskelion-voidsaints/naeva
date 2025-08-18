@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Eureka">
+ <pos x="2159.886922" y="1381.754971"/>
+ <GFX>
+  <space>DZ cities 90.webp</space>
+  <exterior>Skymining Independent.webp</exterior>
+ </GFX>
+ <general>
+  <class>6-C</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+  </services>
+  <description>(null)</description>
+ </general>
+</spob>

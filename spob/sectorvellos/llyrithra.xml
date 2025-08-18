@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Llyrithra">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>Z 0.webp</space>
+  <exterior>Llyrithra.webp</exterior>
+ </GFX>
+ <general>
+  <class>Z</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <nomissionspawn/>
+   <uninhabited/>
+  </services>
+  <description>This world, while technically part of the Auroran Empire, is left empty out of respect for the now long gone Vell-os. When the military leaders of the Vell-os destroyed the Overgate system nearly seven centuries ago, Manifest forces razed their worlds into lifelessness in retaliation and those Vell-os who did not flee were killed.</description>
+ </general>
+ <tags>
+  <tag>ruined</tag>
+  <tag>genocide</tag>
+ </tags>
+</spob>

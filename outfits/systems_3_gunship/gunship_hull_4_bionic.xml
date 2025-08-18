@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Bionic Gunship Hull">
+ <general>
+  <typename>Systems (Hull)</typename>
+  <slot prop="gunship_hull">structure</slot>
+  <size>small</size>
+  <priority>9</priority>
+  <mass>24</mass>
+  <price>3000</price>
+  <description>Like a standard hull, bionic hulls are perfectly balanced between shield capacity and armour strength. Their competitive edge comes with regards to regeneration, which is 30% greater in total than their competitors and is also perfectly balanced between shield recharge and hull repair.
+
+This is the overtiny version, which fits the smallest of ships with a multi-person crew.</description>
+  <gfx_store>organic_hull_s.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <armour>2000</armour>
+  <shield>2000</shield>
+  <shield_regen>65</shield_regen>
+  <armour_regen>65</armour_regen>
+ </specific>
+</outfit>

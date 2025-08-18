@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Ares">
+ <pos x="-1052.099853" y="-1988.290400"/>
+ <GFX>
+  <space>Mars 225.webp</space>
+  <exterior>Mars.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>K</class>
+  <population>8305416</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <bar/>
+   <refuel/>
+   <commodity/>
+  </services>
+  <description>Ares was the first attempt by mankind to terraform a planet. Scientists sent by the Overwatch (the predecessor to the Federation) tried to make Ares more habitable. They failed. In the past 400 years there have been countless attempts to rectify the damage caused by the toxin-producing algae introduced by those original scientists, but even now Ares is only mildly habitable, and breathmasks are still required in most areas as most of the planet is still covered by this organism.</description>
+  <bar>The walls of this bar are covered by pictures of Ares in the various stages of ecological transformation, along with the explanations for why it was done and the effects it had.</bar>
+ </general>
+ <tech>
+  <item>Maps</item>
+  <item price_mod="0.5">Industrial</item>
+  <item price_mod="1.5">Foodstuffs</item>
+ </tech>
+ <tags>
+  <tag>overwatchera</tag>
+  <tag>terraformed</tag>
+  <tag>toxic</tag>
+  <tag>research</tag>
+  <tag>industrial</tag>
+ </tags>
+</spob>

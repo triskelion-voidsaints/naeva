@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="K-012a">
+ <pos x="1136.802807" y="-572.116445"/>
+ <GFX>
+  <space>D 135.webp</space>
+  <exterior>K012a.webp</exterior>
+ </GFX>
+ <general>
+  <class>D</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+  </services>
+  <description>This rocky world is completely devoid of life, even microbial. Despite this, you cannot shake the feeling that something lives here, or once did. The hills and valleys of this world are clearly unnatural, and you hear a faint ringing around you as you walk across its surface. It would be prudent not to stay too long here.</description>
+ </general>
+ <tags>
+  <tag>mysterious</tag>
+ </tags>
+</spob>

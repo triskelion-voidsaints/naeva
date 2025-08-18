@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Hrunyir's Exchange">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>1-C.webp</space>
+  <exterior>Civilian Station.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Pirate</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>9</range>
+ </presence>
+ <general>
+  <class>2-C</class>
+  <population>23530</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+   <blackmarket/>
+  </services>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+ <tech>
+  <item>Foodstuffs</item>
+  <item>Metals</item>
+  <item>Industrial</item>
+  <item>Equipment</item>
+  <item>Medical Supplies</item>
+  <item>Luxury Goods</item>
+ </tech>
+ <tags>
+  <tag>pirate</tag>
+  <tag>criminal</tag>
+  <tag>shipbuilding</tag>
+  <tag>trade</tag>
+ </tags>
+</spob>

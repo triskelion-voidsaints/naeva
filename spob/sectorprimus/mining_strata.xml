@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Mining Strata">
+ <pos x="2068.535304" y="2202.276811"/>
+ <GFX>
+  <space>1-C.webp</space>
+  <exterior>Civilian Station.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <base>150.000000</base>
+  <bonus>75.000000</bonus>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>1-C</class>
+  <population>4651</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <description>This station was originally built by small-time prospectors as a base to harvest the asteroid fields in Metana and Initros. It became a major center for asteroid mining after heavy investment by the nearby Aerolith Manufactory. Hundreds of mining craft are based out of its docking bays, and on-site refineries are willing to buy up the resources to melt them down into products for export. The station has little to no onboard food production, so it must rely on imports from other systems to sustain its population.</description>
+  <bar>A celebration is underway in the "Observatory Bar and Grill"; one of the miners has had a particularly good haul today. As is tradition, he buys a round for everyone sitting at the bar. Most travellers find this tradition strange, but they aren't exactly going to complain about a free drink.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.500000">Metals</item>
+  <item price_mod="1.500000">Foodstuffs</item>
+  <item price_mod="1.380000">Medical Supplies</item>
+ </tech>
+ <tags>
+  <tag>station</tag>
+  <tag>mining</tag>
+ </tags>
+</spob>

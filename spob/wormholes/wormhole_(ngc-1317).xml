@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Wormhole (NGC-1317)">
+ <lua>wormhole_ngc1317.lua</lua>
+ <marker>spobmarker_wormhole</marker>
+ <display>#rIrradiated Wormhole#0</display>
+ <feature>#rIrradiated Wormhole#0</feature>
+ <pos x="6945.998893" y="-7973.133665"/>
+ <GFX>
+  <space>12-Z.png</space>
+  <exterior>Unknown.webp</exterior>
+ </GFX>
+ <general>
+  <class>12-Z</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+</spob>

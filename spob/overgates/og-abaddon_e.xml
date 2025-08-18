@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="OG-Abaddon E">
+ <marker>spobmarker_triangle</marker>
+ <lua>active_overgate_abaddon_e.lua</lua>
+ <display>#bO’mabitun He: Eastern#0</display>
+ <feature>#bOvergate#0</feature>
+ <pos x="2995.563518" y="-292.558412"/>
+ <GFX>
+  <space>10-9 90.webp</space>
+  <exterior>Overgate.webp</exterior>
+ </GFX>
+ <general>
+  <class>10-9</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <uninhabited/>
+  </services>
+ </general>
+ <tags>
+  <tag>manifestera</tag>
+  <tag>overgate</tag>
+  <tag>active</tag>
+ </tags>
+</spob>

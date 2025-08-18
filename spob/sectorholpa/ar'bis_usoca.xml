@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Ar'Bis Usoca">
+ <pos x="13.043925" y="-1266.499046"/>
+ <GFX>
+  <space>O 0.webp</space>
+  <exterior>Ar'Bis Usoca.webp</exterior>
+ </GFX>
+ <general>
+  <class>O</class>
+  <population>1</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <nomissionspawn/>
+   <uninhabited/>
+  </services>
+  <description>A world named for Bis Usoca, the leader who defied the Manifest. This world is a stunningly beautiful world, and yet remains completely uninhabited as a symbol of the lonely existence she chose for the Polaris. Every time a new leader is chosen by the Polaris Ruling Council, that person must spend one month alone on this planet to remind them of the seriousness of their position. No other Polaris ever land on this world.</description>
+ </general>
+ <tags>
+  <tag>memorial</tag>
+  <tag>religion</tag>
+ </tags>
+</spob>

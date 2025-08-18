@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Nil'a Ni">
+ <pos x="2441.287743" y="2614.547389"/>
+ <marker>spobmarker_rhombus</marker>
+ <GFX>
+  <space>1-P.webp</space>
+  <exterior>Polaris Defence Station.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Nil'kemorya</faction>
+  <base>300.000000</base>
+  <bonus>0.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>1-P</class>
+  <population>12835</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+   <outfits/>
+  </services>
+  <description>This station is manned by the Nil'kemorya to fend off incursions by Wraith herds into Polaris space. They receive constant action as the tribes frequently take hostile action after wandering into Polaris territory. This station has the distinction of having the most deaths per year of any warrior caste station, mainly due to its distance from any Ver'ash facility and the unforgiving nature of the Wraith.</description>
+ </general>
+ <tech>
+  <item>Maps</item>
+ </tech>
+ <tags>
+  <tag>overwatchera</tag>
+  <tag>station</tag>
+  <tag>military</tag>
+ </tags>
+</spob>

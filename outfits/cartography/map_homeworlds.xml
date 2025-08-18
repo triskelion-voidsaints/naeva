@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Homeworlds Map">
+ <general>
+  <rarity>0</rarity>
+  <mass>0</mass>
+  <price>25000</price>
+  <description>This map lists the locations of the homeworlds of the Empire, Federation and Polaris.</description>
+  <gfx_store>map_homeworlds.webp</gfx_store>
+ </general>
+ <specific type="map">
+  <sys name="Forge">
+   <spob>Vulcan</spob>
+  </sys>
+  <sys name="Aurora">
+   <spob>Aurora Prime</spob>
+  </sys>
+  <sys name="Kel'ariy">
+   <spob>Kel'ar Iy</spob>
+  </sys>
+ </specific>
+</outfit>

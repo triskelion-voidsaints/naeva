@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Ver'ar Plas">
+ <pos x="2001.842873" y="3027.051767"/>
+ <GFX>
+  <space>E 45.webp</space>
+  <exterior>Ver'ar Plas.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Ver'ash</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>E</class>
+  <population>15571929</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <description>The Ver'ash on this planet work in tandem with the warriors from the Nil'nesa system to heal injured warriors and help repair their damaged ships. They receive a steady stream of work as the Nil'kemorya continually fend off incursions by Wraith herds into Polaris-controlled space.</description>
+  <bar>You see a number of Ver'ash in their dark green uniforms talking with a number of gray-cloaked members of the warrior caste. The difference between the two groups is subtle yet obvious. The Ver'ash are happy, if tired, and the Nil'kemorya all seem to be preternaturally relaxed and alert.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.630000">Medical Supplies</item>
+  <item price_mod="1.430000">Equipment</item>
+ </tech>
+ <tags>
+  <tag>medical</tag>
+ </tags>
+</spob>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Snowmelt">
+ <pos x="3055.902775" y="-1968.674979"/>
+ <GFX>
+  <space>P cities 135.webp</space>
+  <exterior>Snowmelt.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>P</class>
+  <population>12669267175</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <description>Snowmelt is the second-largest gathering of humanity in the Federation behind Vulcan itself (including the Kane Band). The planet itself is extremely cold. Most of the population is concentrated in a thousand mile wide strip along the equator where temperatures stay within 35 degrees of zero. Outside of this, the temperatures decrease rapidly to the poles, where the average temperature is in the region of -200 degrees Celsius. Snowmelt seems to lack any major natural resources. However, due to the ease of building habitable quarters by hollowing out the ice, the population exceeds ten billion.</description>
+  <bar>This bar is filled with young people who seem to be disaffected with life on Snowmelt. They come here to tell each other their dreams and plans for escaping their dreary lives.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.67">Luxury Goods</item>
+  <item price_mod="1.5">Foodstuffs</item>
+ </tech>
+ <tags>
+  <tag>federationera</tag>
+  <tag>urban</tag>
+  <tag>poor</tag>
+ </tags>
+</spob>

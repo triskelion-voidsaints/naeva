@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Vyndycalus">
+ <pos x="-2011.472261" y="2022.171582"/>
+ <GFX>
+  <space>N 315.webp</space>
+  <exterior>Tranquility.webp</exterior>
+ </GFX>
+ <general>
+  <class>N</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <bar/>
+   <nomissionspawn/>
+   <uninhabited/>
+  </services>
+  <description>This world is a graveyard.  Massive ruins cover the surface, and the geologically active nature of this planet has created several new continents and is currently demolishing another.  This world remains abuzz with activity due to the swarm of insect-like robots which are constantly salvaging and rebuilding wreckage into new and strange things.  Visitors would be well advised to keep their ship's shields up, otherwise it would be cannibalized for parts.</description>
+  <bar>This is a restructured colosseum with a number of strange venues.  You spend your visit evading a disgusting purple blob, which seem to be trying to both serve you a drink and digest your clothing at the same time.</bar>
+ </general>
+ <tags>
+  <tag>ruined</tag>
+ </tags>
+</spob>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="HG-Estearll">
+ <marker>spobmarker_triangle</marker>
+ <pos x="-1640.562482" y="1212.589661"/>
+ <GFX>
+  <space>9-Z.webp</space>
+  <exterior>Hypergate Deactivated.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Derelict</faction>
+  <base>0.000000</base>
+  <bonus>0.000000</bonus>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>9-Z</class>
+  <population>0</population>
+  <hide>0.500000</hide>
+  <services>
+   <land/>
+   <nomissionspawn/>
+   <uninhabited/>
+  </services>
+  <description>While the human population on Goliath never felt the sting of arms, they certainly must have felt isolated. This hypergate was destroyed in the opening years of the Alien War to prevent Manifest movement into Vell-os territory. Hyperdrives were, at the time, rare and equipped only on military ships-of-the-line. Therefore, the destruction of the gate was a cold tactical manuever that served to hinder Manifest auxiliaries.</description>
+ </general>
+ <tags>
+  <tag>hypergate</tag>
+  <tag>destroyed</tag>
+  <tag>nonews</tag>
+  <tag>nonpc</tag>
+  <tag>manifestera</tag>
+ </tags>
+</spob>

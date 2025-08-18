@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot name="turret">
+ <display>Turret</display>
+ <description>This slot is used by guns and turrets.</description>
+ <icon>turret.png</icon>
+</slot>

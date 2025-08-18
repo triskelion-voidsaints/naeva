@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Drifter Gunship Engine">
+ <general>
+  <typename>Systems (Engine)</typename>
+  <slot prop="gunship_engines">structure</slot>
+  <size>small</size>
+  <mass>8</mass>
+  <price>3000</price>
+  <description>A drifter engine accelerates slowly, but has a high cruising speed. This engine excels in a situation where your enemies can be planned and accounted for, so your guns cover your retreat. The gentle acceleration curve allows your ship to hold a good deal of cargo pods and missiles, slanting it towards a logistical role.
+
+This is the overtiny version, which fits the smallest of ships with a multi-person crew.</description>
+  <gfx_store>engine7.webp</gfx_store>
+  <priority>11</priority>
+ </general>
+ <specific type="modification">
+  <energy_regen_malus>3</energy_regen_malus>
+  <engine_limit>140</engine_limit>
+  <fuel>400</fuel>
+  <speed>458</speed>
+  <accel>167</accel>
+  <turn>325</turn>
+  <cargo_mod>20</cargo_mod>
+  <ammo_capacity>20</ammo_capacity>
+ </specific>
+</outfit>

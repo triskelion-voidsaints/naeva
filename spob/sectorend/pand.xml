@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Pand">
+ <pos x="2049.133870" y="2940.173284"/>
+ <GFX>
+  <space>N cities 45.webp</space>
+  <exterior>Pand.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Vella</faction>
+  <base>400.000000</base>
+  <bonus>75.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>N</class>
+  <population>20991510768</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <description>Pand is a system that has been populated by members of the enormous poor and weak Auroran underclass that makes up nearly ninety percent of the entire population of the Empire. Pand is looked after by the Vella Family, and that is to whom most of its young warriors swear fealty after achieving their warrior-hood. Unlike similarly settled worlds, the population on Pand is not overwhelmingly large, due mostly to the careful management of the Vella House. It has a mere twenty billion inhabitants, and while that is still too large for the planet to support cleanly, it falls well short of the fifty billions living on similar planets elsewhere.</description>
+  <bar>This bar is filled with what looks to be the poorer working class relatives of a young Vella-House warrior who is telling stories about his training and initiation. Many of his stories draw gasps of amazement and awe from his listeners.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.500000">Industrial</item>
+  <item price_mod="1.330000">Luxury Goods</item>
+ </tech>
+ <tags>
+  <tag>immigration</tag>
+  <tag>poor</tag>
+  <tag>urban</tag>
+ </tags>
+</spob>

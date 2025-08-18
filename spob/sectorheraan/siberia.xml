@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Siberia">
+ <pos x="0.000000" y="0.000000"/>
+ <GFX>
+  <space>P cities 0.webp</space>
+  <exterior>Siberia.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Family Heraan</faction>
+  <base>150.000000</base>
+  <bonus>75.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>P</class>
+  <population>71558773241</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <description>Unfortunately, in a nation as immensely overpopulated as the Empire, crime is a major problem. And because the Moash House, as the First Family, remembers being forced to give up Heraan space two centuries ago, they have chosen to give responsibility for the holding of criminals to the Heraan House. This world, which was a pristine ice-world even six decades ago, is now an overpopulated and incredibly polluted prison-world. Siberia houses some 56 billion criminals sentenced under Auroran Law, and some fifteen billion guards and administrators to look after them.</description>
+  <bar>The Heraan warriors who are posted here all seem to be discussing how to best rotate their manpower to allow the greatest number of them to actually be posted to a more honorable posting. You sense that many have a deep abiding anger at having to guard the criminals here.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.500000">Metals</item>
+  <item price_mod="1.500000">Foodstuffs</item>
+ </tech>
+ <tags>
+  <tag>federationera</tag>
+  <tag>prison</tag>
+ </tags>
+</spob>

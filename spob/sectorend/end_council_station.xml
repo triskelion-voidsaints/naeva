@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="End Council Station">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="-4046.911000" y="2.567837"/>
+ <GFX>
+  <space>1-A big.webp</space>
+  <exterior>Auroran Triple.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Aurora Empire</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>1-A</class>
+  <population>36910</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <description>The End Council Station is where representatives of the Five Houses meet to discuss the advancement of the End colonies, a project to sustain the Auroran underclass by collaboratively colonizing planets in the End sector. Despite the initial lofty aims of the Auroran Emperor, the Families spend most of their time here jockeying for supplies and attempting to sabotage their competitors.</description>
+  <bar>This bar has clearly been divided into five distinct segments. The Dechtakars are circulating among the different sections to attempt to ease the tension here, but you still feel as though an all-out brawl might erupt at any moment. You decide to drink on your ship instead.</bar>
+ </general>
+ <tech>
+  <item>Data Crystals</item>
+ </tech>
+ <tags>
+  <tag>station</tag>
+  <tag>government</tag>
+ </tags>
+</spob>

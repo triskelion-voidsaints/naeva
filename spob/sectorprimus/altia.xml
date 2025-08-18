@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Altia">
+ <pos x="2199.222221" y="-1357.889076"/>
+ <GFX>
+  <space>D cities 135.webp</space>
+  <exterior>Altia.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Pirate</faction>
+  <base>200.000000</base>
+  <bonus>50.000000</bonus>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>D</class>
+  <population>6320161</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <blackmarket/>
+  </services>
+  <description>Thriving on an illegal trade of many goods, Altia is a quick one-stop shop for the more shady side of Federation life. Most things can be bought (or stolen) here, and the populace is rarely constant. If a pirate has stolen a shipment of goods from you, then chances are it will end up here. A more insidious warren of backroom deals (or stabbings) cannot be found anywhere in Federation controlled space. The streets are inhabited with a curious mix of beggars, thieves, pirates, corrupt policemen and 'legitimate' businessmen, who for the most part survive with only the minimum of bloodshed required. Nobody wants a war.</description>
+  <bar>This bar seems to be the place to go if you want to pick up goods of a somewhat shady origin. Drugs, illegal weapons contracts and similar types of deals are made all the time in this place.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.63">Medical Supplies</item>
+  <item price_mod="1.43">Equipment</item>
+ </tech>
+ <tags>
+  <tag>federationera</tag>
+  <tag>criminal</tag>
+  <tag>trade</tag>
+ </tags>
+</spob>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Diva">
+ <pos x="1997.206500" y="26.748301"/>
+ <GFX>
+  <space>K cities 90.webp</space>
+  <exterior>Diva.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>50.000000</base>
+  <bonus>25.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>K</class>
+  <population>90748427</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <description>Diva is right on the edge of civilized space. It borders on both the Auroran Empire and the navigational hazards of the wastes of the Alien War. Despite this, it is a useful stopover on the way to the Manchester system. Diva's many beautiful mineral outcroppings make it one of the wonders of the Federation, and the tourist season supplements what was once a flourishing trade with the Vell-os. Only the occasional Auroran raid stops people from flocking to Diva to take up more permanent residence. During those times the citizens of Diva shut themselves off from the rest of space and refuse most visitors.</description>
+  <bar>The 'Cliff-face' has an internal climbing wall. It is always amusing to watch drunken patrons fall heavily back to earth as they attempt to scale the edifice for 'big cash prizes(tm).</bar>
+ </general>
+ <tech>
+  <item price_mod="0.5">Industrial</item>
+  <item price_mod="1.43">Equipment</item>
+ </tech>
+ <tags>
+  <tag>manifestera</tag>
+  <tag>tourism</tag>
+  <tag>rural</tag>
+  <tag>industrial</tag>
+ </tags>
+</spob>

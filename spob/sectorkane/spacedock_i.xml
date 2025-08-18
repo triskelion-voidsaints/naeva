@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Spacedock I">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="50.714779" y="36.282586"/>
+ <GFX>
+  <space>1-F.webp</space>
+  <exterior>Federation Battle.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>500.000000</base>
+  <bonus>75.000000</bonus>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>1-F</class>
+  <population>12251</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <outfits/>
+   <commodity/>
+   <shipyard/>
+  </services>
+  <description>The Federation battlestation Spacedock I is the main border trading post between the Federation and the galactic south. Auroran traders don't often come here without an escort, though, and tensions are obvious throughout the station as Auroran warriors and Federation soldiers brush shoulders in the corridors of this military outpost. Under the command of Capt. Hab Scale, SD I has repelled many incursion attempts. It will continue to do so "while a single man remains alive to man the guns," he says.</description>
+  <bar>The Federation soldiers who frequent this club continually cast suspicious glances at the few Auroran traders with their ferociously tattooed Auroran warrior escorts who return their stares with contempt. The tension in the air is palpable.</bar>
+ </general>
+ <tech>
+  <item price_mod="0.67">Luxury Goods</item>
+  <item price_mod="1.5">Foodstuffs</item>
+ </tech>
+ <tags>
+  <tag>federationera</tag>
+  <tag>trade</tag>
+  <tag>station</tag>
+  <tag>military</tag>
+ </tags>
+</spob>

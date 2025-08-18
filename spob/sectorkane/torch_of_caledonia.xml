@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Torch of Caledonia">
+ <pos x="44.580502" y="-2978.096431"/>
+ <GFX>
+  <space>7.webp</space>
+  <exterior>Deimos Colony Ship.webp</exterior>
+ </GFX>
+ <general>
+  <class>7</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+</spob>

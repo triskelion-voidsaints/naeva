@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Sentinel">
+ <pos x="1303.756788" y="-3059.899726"/>
+ <GFX>
+  <space>Europa cities 135.webp</space>
+  <exterior>Luna.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Federation</faction>
+  <base>200.000000</base>
+  <bonus>100.000000</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>D</class>
+  <population>15809</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+   <commodity/>
+  </services>
+  <description>Sentinel is virtually uninhabited, with only a token military presence with a more ceremonial role than anything else. Originally, the military garrison was placed here to be an early warning post in the years immediately preceding the creation of the Overwatch. The base served during the Third Dark Age to allow the inhabitants of Vulcan a little time to prepare for battle. However, over the last few centuries, the military presence on Sentinel has been downgraded and is now viewed as a final posting for decorated veterans from the Auroran border trying to fill out their time in relative comfort before retiring.</description>
+ </general>
+ <tags>
+  <tag>military</tag>
+  <tag>empty</tag>
+ </tags>
+</spob>

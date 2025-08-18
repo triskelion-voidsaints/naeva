@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Ver'a Se">
+ <marker>spobmarker_rhombus</marker>
+ <pos x="1481.645261" y="32.845824"/>
+ <GFX>
+  <space>0-P 2.webp</space>
+  <exterior>Polaris Station 2.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Ver'ash</faction>
+  <base>100.000000</base>
+  <bonus>50.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>0-P</class>
+  <population>24823</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <outfits/>
+  </services>
+  <description>Ver'a Se is the most prestigious research facility run by the Ver'ash anywhere in Polaris space. Over half of all advances in medicine, ship 'growth', ship repair and design in the two centuries since the station was built have come from here. Only the best and the brightest of the Ver'ash are invited to work here. Other than Ver'ash members, the station also houses a handful of P'aedt, the scientist caste, and one or two Mu'hari, the 'casteless' caste.</description>
+  <bar>The engineers and scientists who are in this bar give you a quick glance when you walk in and then continue their discussion about some new technique of growing some ship parts to give them more strength. Only the two black-cloaked Mu'Hari pay any attention to you whatsoever.</bar>
+ </general>
+ <tags>
+  <tag>station</tag>
+  <tag>research</tag>
+ </tags>
+ <tech>
+  <item>Maps</item>
+ </tech>
+</spob>
