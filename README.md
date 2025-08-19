@@ -6,10 +6,11 @@
 ## Installing
 1) Install Naev from Steam.
 1) Opt-in to the Naev nightly via navigating to the Properties window for Naev in your Steam library, then choosing 'Nightly' from the Betas tab.
-1) Download the plugin and add it to:
+1) Find your plugins folder:
 	- Linux `~/.local/share/naev/plugins`
 	- Mac OS X `~/Library/Application Support/org.naev.Naev/plugins`
 	- Windows `%APPDATA%\naev\plugins`
+1) Open a command prompt in the specified folder and enter the command `git clone https://github.com/triskelion-voidsaints/naeva`
 # Design
 ## Trade loops
 Naeva's map has been reworked to focus on trade loops to encourage more varied travel and profit opportunities resulting from exploration. This trading system follows a few simple rules to reduce non-engaging behaviour:
