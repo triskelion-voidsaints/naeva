@@ -39,7 +39,8 @@ local SPOB_CLASSES = {
 	["6-P"] = _("Polaris Skymining (6-P type)"),
 -- Frontier colony ships
 	["7"] = _("Deimos Colony Ship (7 type)"),
-	["7-Z"] = _("Irradiated Deimos (7-Z type)"),
+	["7-Y"] = _("Irradiated Deimos (7-Y type)"),
+	["7-Z"] = _("Ransacked Deimos (7-Z type)"),
 -- Orbital facilities
 	["8-F"] = _("Carousel Station (8-F type)"),
 	["8-P"] = _("Polaris Skystation (8-P type)"),
