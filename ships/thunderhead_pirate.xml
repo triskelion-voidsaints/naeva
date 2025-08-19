@@ -2,7 +2,7 @@
 <ship name="Pir. Thunderhead [S]">
  <points>1</points>
  <base_type>thunderhead</base_type>
- <gfx sx="8" sy="9" format="webp">thunderhead_Pirate</gfx>
+ <gfx sx="8" sy="9" format="webp">thunderhead_pirate</gfx>
  <sound>engine</sound>
  <class>Fighter</class>
  <price>200000</price>
