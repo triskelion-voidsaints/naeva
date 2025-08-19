@@ -41,7 +41,7 @@ function create()
    player.outfitAdd( "GUI - Legacy" )
 
    -- Initialize fleet capacity
-   player.fleetCapacitySet( 100 )
+   player.fleetCapacitySet( 7 )
 
    music.choose("intro")
    intro.run("intro")
