@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ship name="Pir. Bat [S]">
+ <points>1</points>
+ <base_type>Bat</base_type>
+ <gfx sx="8" sy="9" format="webp">bat_pirate</gfx>
+ <sound>engine</sound>
+ <class>Destroyer</class>
+ <price>2000000</price>
+ <time_mod>1</time_mod>
+ <faction>Free Traders</faction>
+ <fabricator>Unknown</fabricator>
+ <description>A destroyer not of this universe.</description>
+ <rarity>1</rarity>
+ <characteristics>
+  <crew>36</crew>
+  <mass>59</mass>
+  <fuel_consumption>100</fuel_consumption>
+ </characteristics>
+ <health>
+  <armour>1</armour>
+ </health>
+ <slots>
+  <utility size="medium" prop="destroyer_core">Balanced Destroyer Core</utility>
+  <structure size="medium" prop="destroyer_engines">Rounded Destroyer Engine</structure>
+  <structure size="medium" prop="destroyer_hull">Standard Destroyer Hull</structure>
+ </slots>
+ <stats>
+  <armour>1</armour>
+ </stats>
+</ship>
