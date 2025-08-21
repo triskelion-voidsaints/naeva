@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ship name="Civ. Vole [S]">
+ <points>1</points>
+ <base_type>vole</base_type>
+ <gfx sx="8" sy="9" format="webp">vole</gfx>
+ <sound>engine</sound>
+ <class>Fighter</class>
+ <price>200000</price>
+ <time_mod>1</time_mod>
+ <faction>Independent</faction>
+ <fabricator>Sigma Shipyards</fabricator>
+ <description>These in-system shuttles are printed by the thousands.</description>
+ <rarity>1</rarity>
+ <characteristics>
+  <crew>4</crew>
+  <mass>10</mass>
+  <fuel_consumption>100</fuel_consumption>
+ </characteristics>
+ <health>
+  <armour>1</armour>
+ </health>
+ <slots>
+  <utility size="small" prop="fighter_core">Passive Fighter Core</utility>
+  <structure size="small" prop="fighter_engines">Rounded Fighter Engine</structure>
+  <structure size="small" prop="fighter_hull">Armoured Fighter Hull</structure>
+ </slots>
+ <stats>
+  <armour>1</armour>
+ </stats>
+</ship>
