@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ship name="Civ. Viper [B]">
+ <points>1</points>
+ <base_type>viper</base_type>
+ <gfx sx="8" sy="9" format="webp">viper_blue</gfx>
+ <sound>engine</sound>
+ <class>Fighter</class>
+ <price>200000</price>
+ <time_mod>1</time_mod>
+ <faction>Independent</faction>
+ <fabricator>Comara Racing</fabricator>
+ <description>A racing sled that takes well to extra weight.</description>
+ <rarity>1</rarity>
+ <characteristics>
+  <crew>1</crew>
+  <mass>10</mass>
+  <fuel_consumption>100</fuel_consumption>
+ </characteristics>
+ <health>
+  <armour>1</armour>
+ </health>
+ <slots>
+  <utility size="small" prop="fighter_core">Balanced Fighter Core</utility>
+  <structure size="small" prop="fighter_engines">Kangaroo Fighter Engine</structure>
+  <structure size="small" prop="fighter_hull">Standard Fighter Hull</structure>
+ </slots>
+ <stats>
+  <armour>1</armour>
+ </stats>
+</ship>

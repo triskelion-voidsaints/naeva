@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tech name="Vipers">
  <item>Civ. Viper [S]</item>
+ <item>Civ. Viper [B]</item>
+ <item>Civ. Viper [R]</item>
+ <item>Civ. Viper [G]</item>
  <item>Fed. Anaconda [S]</item>
  <item>Civ. Dagger [S]</item>
  <item>Fed. Mamba [S]</item>
