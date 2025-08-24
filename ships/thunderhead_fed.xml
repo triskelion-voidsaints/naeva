@@ -7,7 +7,7 @@
  <class>Fighter</class>
  <price>200000</price>
  <time_mod>1</time_mod>
- <faction>Federation</faction>
+ <faction>Militia</faction>
  <fabricator>Xenial</fabricator>
  <description>A much maligned assault fighter.</description>
  <rarity>1</rarity>

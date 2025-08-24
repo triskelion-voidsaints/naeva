@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faction name="Militia">
+ <ai>independent</ai>
+ <static />
+ <logo>federation</logo>
+ <known />
+ <player>3</player>
+ <description>Fed Militia</description>
+ <colour r="0.678" g="0.796" b="1" />
+ <spawn>testers</spawn>
+ <standing>static</standing>
+ <allies>
+ </allies>
+ <enemies>
+ <enemy>Free Traders</enemy>
+ <enemy>Pirate</enemy>
+ </enemies>
+ <lane_length_per_presence>400</lane_length_per_presence>
+ <lane_base_cost>50</lane_base_cost>
+</faction>
