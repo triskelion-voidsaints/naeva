@@ -75,6 +75,7 @@ local SPOB_CLASSES = {
 	["H"] = _("Desert (H class)"),
 -- Gas giants
 	["I"] = _("Ringed Gas Giant (I class)"),
+	["IF"] = _("Ringed Habitable Planet (IF class)"),
 	["J"] = _("Blue Gas Giant (J class)"),
 	["JK"] = _("Orange Gas Giant (JK class)"),
 	["JP"] = _("Ice Gas Giant (JP class)"),
