@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tech name="Vipers">
- <item>Civ. Viper [S]</item>
- <item>Civ. Viper [B]</item>
- <item>Civ. Viper [R]</item>
- <item>Civ. Viper [G]</item>
- <item>Fed. Anaconda [S]</item>
- <item>Civ. Dagger [S]</item>
- <item>Fed. Mamba [S]</item>
- <item>Fed. Python [S]</item>
- <item>Ins. Python [S]</item>
- <item>Pir. Python [S]</item>
- <item>W.G. Python [S]</item>
+ <item>Rac. Viper [Y]</item>
+ <item>Rac. Viper [B]</item>
+ <item>Rac. Viper [R]</item>
+ <item>Rac. Viper [G]</item>
+ <item>Civ. Adder [S]</item>
+ <item>Civ. Copperhead [S]</item>
+ <item>Civ. Rattlesnake [S]</item>
+ <item>Fed. Diamondback [S]</item>
+ <item>Fed. Bushmaster [S]</item>
+ <item>Fed. Pitviper [S]</item>
+ <item>Ins. Pitviper [S]</item>
+ <item>Pir. Pitviper [S]</item>
+ <item>W.G. Pitviper [S]</item>
 </tech>

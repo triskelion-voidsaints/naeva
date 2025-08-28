@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ship name="Fed. Python [S]">
+<ship name="Fed. Pitviper [S]">
  <points>1</points>
  <base_type>viper</base_type>
- <gfx sx="8" sy="9" format="webp">python</gfx>
+ <gfx sx="8" sy="9" format="webp">pitviper</gfx>
  <sound>engine</sound>
  <class>Fighter</class>
  <price>200000</price>
