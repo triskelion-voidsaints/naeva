@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tech name="Vipers">
- <item>Rac. Viper [Y]</item>
- <item>Rac. Viper [B]</item>
- <item>Rac. Viper [R]</item>
- <item>Rac. Viper [G]</item>
+ <item>Race Viper [Y]</item>
+ <item>Race Viper [B]</item>
+ <item>Race Viper [R]</item>
+ <item>Race Viper [G]</item>
  <item>Civ. Adder [S]</item>
  <item>Civ. Copperhead [S]</item>
  <item>Civ. Rattlesnake [S]</item>
@@ -13,4 +13,5 @@
  <item>Ins. Pitviper [S]</item>
  <item>Pir. Pitviper [S]</item>
  <item>W.G. Pitviper [S]</item>
+ <item>Pir. Lancehead [S]</item>
 </tech>
