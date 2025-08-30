@@ -2,7 +2,7 @@
 <spob name="Trusa">
  <pos x="-3007.945554" y="35.912071"/>
  <GFX>
-  <space>L 90.webp</space>
+  <space>L 270.webp</space>
   <exterior>Trusa.webp</exterior>
  </GFX>
  <presence>
